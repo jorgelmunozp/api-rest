@@ -10,4 +10,6 @@ In the project api, you can get information about countries of the world
 
 Open [https://jorgelmunozp.github.io/api-rest/countries.json](https://jorgelmunozp.github.io/api-rest/countries.json) to view it in your browser
 
-### Hárgomo
+## Authors
+
+[<img src="https://avatars.githubusercontent.com/u/109540980?v=4" width=115><br><sub>Hárgomo</sub>](https://github.com/hargomo)
