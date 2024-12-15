@@ -1,6 +1,223 @@
 [
   {
     "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan",
+      "nativeName": {
+        "prs": {
+          "official": "جمهوری اسلامی افغانستان",
+          "common": "افغانستان"
+        },
+        "pus": {
+          "official": "د افغانستان اسلامي جمهوریت",
+          "common": "افغانستان"
+        },
+        "tuk": {
+          "official": "Owganystan Yslam Respublikasy",
+          "common": "Owganystan"
+        }
+      }
+    },
+    "tld": [
+      ".af"
+    ],
+    "cca2": "AF",
+    "ccn3": "004",
+    "cca3": "AFG",
+    "cioc": "AFG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AFN": {
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "capital": [
+      "Kabul"
+    ],
+    "altSpellings": [
+      "AF",
+      "Afġānistān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية أففانستان الإسلامية",
+        "common": "أفغانستان"
+      },
+      "bre": {
+        "official": "Republik Islamek Afghanistan",
+        "common": "Afghanistan"
+      },
+      "ces": {
+        "official": "Afghánská islámská republika",
+        "common": "Afghánistán"
+      },
+      "cym": {
+        "official": "Gweriniaeth Islamaidd Affganistan",
+        "common": "Affganistan"
+      },
+      "deu": {
+        "official": "Islamische Republik Afghanistan",
+        "common": "Afghanistan"
+      },
+      "est": {
+        "official": "Afganistani Islamivabariik",
+        "common": "Afganistan"
+      },
+      "fin": {
+        "official": "Afganistanin islamilainen tasavalta",
+        "common": "Afganistan"
+      },
+      "fra": {
+        "official": "République islamique d'Afghanistan",
+        "common": "Afghanistan"
+      },
+      "hrv": {
+        "official": "Islamska Republika Afganistan",
+        "common": "Afganistan"
+      },
+      "hun": {
+        "official": "Afganisztáni Iszlám Köztársaság",
+        "common": "Afganisztán"
+      },
+      "ita": {
+        "official": "Repubblica islamica dell'Afghanistan",
+        "common": "Afghanistan"
+      },
+      "jpn": {
+        "official": "アフガニスタン·イスラム共和国",
+        "common": "アフガニスタン"
+      },
+      "kor": {
+        "official": "아프가니스탄 이슬람 공화국",
+        "common": "아프가니스탄"
+      },
+      "nld": {
+        "official": "Islamitische Republiek Afghanistan",
+        "common": "Afghanistan"
+      },
+      "per": {
+        "official": "جمهوری اسلامی افغانستان",
+        "common": "افغانستان"
+      },
+      "pol": {
+        "official": "Islamska Republika Afganistanu",
+        "common": "Afganistan"
+      },
+      "por": {
+        "official": "República Islâmica do Afeganistão",
+        "common": "Afeganistão"
+      },
+      "rus": {
+        "official": "Исламская Республика Афганистан",
+        "common": "Афганистан"
+      },
+      "slk": {
+        "official": "Afgánsky islamský štát",
+        "common": "Afganistan"
+      },
+      "spa": {
+        "official": "República Islámica de Afganistán",
+        "common": "Afganistán"
+      },
+      "srp": {
+        "official": "Исламска Република Авганистан",
+        "common": "Авганистан"
+      },
+      "swe": {
+        "official": "Islamiska republiken Afghanistan",
+        "common": "Afghanistan"
+      },
+      "tur": {
+        "official": "Afganistan İslam Cumhuriyeti",
+        "common": "Afganistan"
+      },
+      "urd": {
+        "official": "اسلامی جمہوریہ افغانستان",
+        "common": "افغانستان"
+      },
+      "zho": {
+        "official": "阿富汗伊斯兰共和国",
+        "common": "阿富汗"
+      }
+    },
+    "latlng": [
+      33.0,
+      65.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "area": 652230.0,
+    "demonyms": {
+      "eng": {
+        "f": "Afghan",
+        "m": "Afghan"
+      },
+      "fra": {
+        "f": "Afghane",
+        "m": "Afghan"
+      }
+    },
+    "flag": "🇦🇫",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/303427"
+    },
+    "population": 40218234,
+    "fifa": "AFG",
+    "car": {
+      "signs": [
+        "AFG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+      "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+      "alt": "The flag of the Islamic Emirate of Afghanistan has a white field with Arabic inscriptions — the Shahada — in black across its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/af.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/af.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        34.52,
+        69.18
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Albania",
       "official": "Republic of Albania",
   "nativeName": {
@@ -207,6 +424,223 @@
         41.32,
         19.82
       ]
+    }
+  },
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+          "common": "الجزائر"
+        }
+      }
+    },
+    "tld": [
+      ".dz",
+      "الجزائر."
+    ],
+    "cca2": "DZ",
+    "ccn3": "012",
+    "cca3": "DZA",
+    "cioc": "ALG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "13"
+      ]
+    },
+    "capital": [
+      "Algiers"
+    ],
+    "altSpellings": [
+      "DZ",
+      "Dzayer",
+      "Algérie"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+        "common": "الجزائر"
+      },
+      "bre": {
+        "official": "Republik Aljerian Demokratel ha Poblel",
+        "common": "Aljeria"
+      },
+      "ces": {
+        "official": "Alžírská demokratická a lidová republika",
+        "common": "Alžírsko"
+      },
+      "cym": {
+        "official": "Gweriniaeth Ddemocrataidd Pobl Algeria",
+        "common": "Algeria"
+      },
+      "deu": {
+        "official": "Demokratische Volksrepublik Algerien",
+        "common": "Algerien"
+      },
+      "est": {
+        "official": "Alžeeria Demokraatlik Rahvavabariik",
+        "common": "Alžeeria"
+      },
+      "fin": {
+        "official": "Algerian demokraattinen kansantasavalta",
+        "common": "Algeria"
+      },
+      "fra": {
+        "official": "République démocratique et populaire d'Algérie",
+        "common": "Algérie"
+      },
+      "hrv": {
+        "official": "Narodna Demokratska Republika Alžir",
+        "common": "Alžir"
+      },
+      "hun": {
+        "official": "Algériai Népi Demokratikus Köztársaság",
+        "common": "Algéria"
+      },
+      "ita": {
+        "official": "Repubblica popolare democratica di Algeria",
+        "common": "Algeria"
+      },
+      "jpn": {
+        "official": "アルジェリア人民民主共和国",
+        "common": "アルジェリア"
+      },
+      "kor": {
+        "official": "알제리 인민 민주 공화국",
+        "common": "알제리"
+      },
+      "nld": {
+        "official": "Democratische Volksrepubliek Algerije",
+        "common": "Algerije"
+      },
+      "per": {
+        "official": "جمهوری دموکراتیک خلق الجزایر",
+        "common": "الجزایر"
+      },
+      "pol": {
+        "official": "Algierska Republika Ludowo-Demokratyczna",
+        "common": "Algieria"
+      },
+      "por": {
+        "official": "República Argelina Democrática e Popular",
+        "common": "Argélia"
+      },
+      "rus": {
+        "official": "Народно-Демократическая Республика Алжир",
+        "common": "Алжир"
+      },
+      "slk": {
+        "official": "Alžírska demokratická ľudová republika",
+        "common": "Alžírsko"
+      },
+      "spa": {
+        "official": "República Argelina Democrática y Popular",
+        "common": "Argelia"
+      },
+      "srp": {
+        "official": "Народна Демократска Република Алжир",
+        "common": "Алжир"
+      },
+      "swe": {
+        "official": "Demokratiska folkrepubliken Algeriet",
+        "common": "Algeriet"
+      },
+      "tur": {
+        "official": "Cezayir Demokratik Halk Cumhuriyeti",
+        "common": "Cezayir"
+      },
+      "urd": {
+        "official": "عوامی جمہوری جمہوریہ الجزائر",
+        "common": "الجزائر"
+      },
+      "zho": {
+        "official": "阿尔及利亚人民民主共和国",
+        "common": "阿尔及利亚"
+      }
+    },
+    "latlng": [
+      28.0,
+      3.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "area": 2381741.0,
+    "demonyms": {
+      "eng": {
+        "f": "Algerian",
+        "m": "Algerian"
+      },
+      "fra": {
+        "f": "Algérienne",
+        "m": "Algérien"
+      }
+    },
+    "flag": "🇩🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
+    },
+    "population": 44700000,
+    "gini": {
+      "2011": 27.6
+    },
+    "fifa": "ALG",
+    "car": {
+      "signs": [
+        "DZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dz.png",
+      "svg": "https://flagcdn.com/dz.svg",
+      "alt": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        36.75,
+        3.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -1058,6 +1492,217 @@
         25.08,
         -77.35
       ]
+    }
+  },
+  {
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh",
+      "nativeName": {
+        "ben": {
+          "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+          "common": "বাংলাদেশ"
+        }
+      }
+    },
+    "tld": [
+      ".bd"
+    ],
+    "cca2": "BD",
+    "ccn3": "050",
+    "cca3": "BGD",
+    "cioc": "BAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BDT": {
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "80"
+      ]
+    },
+    "capital": [
+      "Dhaka"
+    ],
+    "altSpellings": [
+      "BD",
+      "People's Republic of Bangladesh",
+      "Gônôprôjatôntri Bangladesh"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "ben": "Bengali"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بنغلاديش الشعبية",
+        "common": "بنغلاديش"
+      },
+      "bre": {
+        "official": "Republik pobl Bangladesh",
+        "common": "Bangladesh"
+      },
+      "ces": {
+        "official": "Bangladéšská lidová republika",
+        "common": "Bangladéš"
+      },
+      "cym": {
+        "official": "Gweriniaeth Pobl Bangladesh",
+        "common": "Bangladesh"
+      },
+      "deu": {
+        "official": "Volksrepublik Bangladesch",
+        "common": "Bangladesch"
+      },
+      "est": {
+        "official": "Bangladeshi Rahvavabariik",
+        "common": "Bangladesh"
+      },
+      "fin": {
+        "official": "Bangladeshin kansantasavalta",
+        "common": "Bangladesh"
+      },
+      "fra": {
+        "official": "La République populaire du Bangladesh",
+        "common": "Bangladesh"
+      },
+      "hrv": {
+        "official": "Narodna Republika Bangladeš",
+        "common": "Bangladeš"
+      },
+      "hun": {
+        "official": "Banglades",
+        "common": "Banglades"
+      },
+      "ita": {
+        "official": "Repubblica popolare del Bangladesh",
+        "common": "Bangladesh"
+      },
+      "jpn": {
+        "official": "バングラデシュ人民共和国",
+        "common": "バングラデシュ"
+      },
+      "kor": {
+        "official": "방글라데시 인민 공화국",
+        "common": "방글라데시"
+      },
+      "nld": {
+        "official": "Volksrepubliek Bangladesh",
+        "common": "Bangladesh"
+      },
+      "per": {
+        "official": "جمهوری خلق بنگلادش",
+        "common": "بنگلادش"
+      },
+      "pol": {
+        "official": "Ludowa Republika Bangladeszu",
+        "common": "Bangladesz"
+      },
+      "por": {
+        "official": "República Popular do Bangladesh",
+        "common": "Bangladesh"
+      },
+      "rus": {
+        "official": "Народная Республика Бангладеш",
+        "common": "Бангладеш"
+      },
+      "slk": {
+        "official": "Bangladéšska ľudová republika",
+        "common": "Bangladéš"
+      },
+      "spa": {
+        "official": "República Popular de Bangladesh",
+        "common": "Bangladesh"
+      },
+      "srp": {
+        "official": "Народна Република Бангладеш",
+        "common": "Бангладеш"
+      },
+      "swe": {
+        "official": "Folkrepubliken Bangladesh",
+        "common": "Bangladesh"
+      },
+      "tur": {
+        "official": "Bangladeş Halk Cumhuriyeti",
+        "common": "Bangladeş"
+      },
+      "urd": {
+        "official": "عوامی جمہوریہ بنگلہ دیش",
+        "common": "بنگلہ دیش"
+      },
+      "zho": {
+        "official": "孟加拉人民共和国",
+        "common": "孟加拉国"
+      }
+    },
+    "latlng": [
+      24.0,
+      90.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "area": 147570.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bangladeshi",
+        "m": "Bangladeshi"
+      },
+      "fra": {
+        "f": "Bangladaise",
+        "m": "Bangladais"
+      }
+    },
+    "flag": "🇧🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
+    },
+    "population": 164689383,
+    "gini": {
+      "2016": 32.4
+    },
+    "fifa": "BAN",
+    "car": {
+      "signs": [
+        "BD"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bd.png",
+      "svg": "https://flagcdn.com/bd.svg",
+      "alt": "The flag of Bangladesh has a dark green field bearing a large red circle that is offset slightly towards the hoist side of center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bd.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        23.72,
+        90.4
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -2136,6 +2781,1083 @@
     "postalCode": {
       "format": "#####-###",
       "regex": "^(\\d{8})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi",
+      "nativeName": {
+        "fra": {
+          "official": "République du Burundi",
+          "common": "Burundi"
+        },
+        "run": {
+          "official": "Republika y'Uburundi ",
+          "common": "Uburundi"
+        }
+      }
+    },
+    "tld": [
+      ".bi"
+    ],
+    "cca2": "BI",
+    "ccn3": "108",
+    "cca3": "BDI",
+    "cioc": "BDI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BIF": {
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "57"
+      ]
+    },
+    "capital": [
+      "Gitega"
+    ],
+    "altSpellings": [
+      "BI",
+      "Republic of Burundi",
+      "Republika y'Uburundi",
+      "République du Burundi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بوروندي",
+        "common": "بوروندي"
+      },
+      "bre": {
+        "official": "Republik Burundi",
+        "common": "Burundi"
+      },
+      "ces": {
+        "official": "Burundská republika",
+        "common": "Burundi"
+      },
+      "cym": {
+        "official": "Gweriniaeth Bwrwndi",
+        "common": "Bwrwndi"
+      },
+      "deu": {
+        "official": "Republik Burundi",
+        "common": "Burundi"
+      },
+      "est": {
+        "official": "Burundi Vabariik",
+        "common": "Burundi"
+      },
+      "fin": {
+        "official": "Burundin tasavalta",
+        "common": "Burundi"
+      },
+      "fra": {
+        "official": "République du Burundi",
+        "common": "Burundi"
+      },
+      "hrv": {
+        "official": "Burundi",
+        "common": "Burundi"
+      },
+      "hun": {
+        "official": "Burundi",
+        "common": "Burundi"
+      },
+      "ita": {
+        "official": "Repubblica del Burundi",
+        "common": "Burundi"
+      },
+      "jpn": {
+        "official": "ブルンジ共和国",
+        "common": "ブルンジ"
+      },
+      "kor": {
+        "official": "부룬디",
+        "common": "부룬디"
+      },
+      "nld": {
+        "official": "Republiek Burundi",
+        "common": "Burundi"
+      },
+      "per": {
+        "official": "جمهوری بوروندی",
+        "common": "بوروندی"
+      },
+      "pol": {
+        "official": "Republika Burundi",
+        "common": "Burundi"
+      },
+      "por": {
+        "official": "República do Burundi",
+        "common": "Burundi"
+      },
+      "rus": {
+        "official": "Республика Бурунди",
+        "common": "Бурунди"
+      },
+      "slk": {
+        "official": "Burundská republika",
+        "common": "Burundi"
+      },
+      "spa": {
+        "official": "República de Burundi",
+        "common": "Burundi"
+      },
+      "srp": {
+        "official": "Република Бурунди",
+        "common": "Бурунди"
+      },
+      "swe": {
+        "official": "Republiken Burundi",
+        "common": "Burundi"
+      },
+      "tur": {
+        "official": "Burundi Cumhuriyeti",
+        "common": "Burundi"
+      },
+      "urd": {
+        "official": "جمہوریہ برونڈی",
+        "common": "برونڈی"
+      },
+      "zho": {
+        "official": "布隆迪共和国",
+        "common": "布隆迪"
+      }
+    },
+    "latlng": [
+      -3.5,
+      30.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "area": 27834.0,
+    "demonyms": {
+      "eng": {
+        "f": "Burundian",
+        "m": "Burundian"
+      },
+      "fra": {
+        "f": "Burundaise",
+        "m": "Burundais"
+      }
+    },
+    "flag": "🇧🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
+    },
+    "population": 11890781,
+    "gini": {
+      "2013": 38.6
+    },
+    "fifa": "BDI",
+    "car": {
+      "signs": [
+        "RU"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bi.png",
+      "svg": "https://flagcdn.com/bi.svg",
+      "alt": "The flag of Burundi is divided by a white diagonal cross into four alternating triangular areas of red at the top and bottom, and green on the hoist and fly sides. A white circle, with three green-edged red six-pointed stars arranged to form a triangle, is superimposed at the center of the cross."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bi.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bi.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -3.43,
+        29.93
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde",
+      "nativeName": {
+        "por": {
+          "official": "República de Cabo Verde",
+          "common": "Cabo Verde"
+        }
+      }
+    },
+    "tld": [
+      ".cv"
+    ],
+    "cca2": "CV",
+    "ccn3": "132",
+    "cca3": "CPV",
+    "cioc": "CPV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CVE": {
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "38"
+      ]
+    },
+    "capital": [
+      "Praia"
+    ],
+    "altSpellings": [
+      "CV",
+      "Republic of Cabo Verde",
+      "República de Cabo Verde"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية كابو فيردي",
+        "common": "كابو فيردي"
+      },
+      "bre": {
+        "official": "Republik Kab Glas",
+        "common": "Kab Glas"
+      },
+      "ces": {
+        "official": "Kapverdská republika",
+        "common": "Kapverdy"
+      },
+      "cym": {
+        "official": "Gweriniaeth Cabo Verde",
+        "common": "Penrhyn Verde"
+      },
+      "deu": {
+        "official": "Republik Cabo Verde",
+        "common": "Kap Verde"
+      },
+      "est": {
+        "official": "Cabo Verde Vabariik",
+        "common": "Roheneemesaared"
+      },
+      "fin": {
+        "official": "Kap Verden tasavalta",
+        "common": "Kap Verde"
+      },
+      "fra": {
+        "official": "République du Cap-Vert",
+        "common": "Îles du Cap-Vert"
+      },
+      "hrv": {
+        "official": "Republika Cabo Verde",
+        "common": "Zelenortska Republika"
+      },
+      "hun": {
+        "official": "Zöld-foki Köztársaság",
+        "common": "Zöld-foki Köztársaság"
+      },
+      "ita": {
+        "official": "Repubblica di Capo Verde",
+        "common": "Capo Verde"
+      },
+      "jpn": {
+        "official": "カーボベルデ共和国",
+        "common": "カーボベルデ"
+      },
+      "kor": {
+        "official": "카보베르데 공화국",
+        "common": "카보베르데"
+      },
+      "nld": {
+        "official": "Republiek van Cabo Verde",
+        "common": "Kaapverdië"
+      },
+      "per": {
+        "official": "جمهوری کبو ورد",
+        "common": "دماغهٔ سبز"
+      },
+      "pol": {
+        "official": "Republika Zielonego Przylądka",
+        "common": "Republika Zielonego Przylądka"
+      },
+      "por": {
+        "official": "República de Cabo Verde",
+        "common": "Cabo Verde"
+      },
+      "rus": {
+        "official": "Республика Кабо -Верде",
+        "common": "Кабо-Верде"
+      },
+      "slk": {
+        "official": "Kapverdská republika",
+        "common": "Kapverdy"
+      },
+      "spa": {
+        "official": "República de Cabo Verde",
+        "common": "Cabo Verde"
+      },
+      "srp": {
+        "official": "Зеленортска Република",
+        "common": "Зеленортска Острва"
+      },
+      "swe": {
+        "official": "Republiken Kap Verde",
+        "common": "Kap Verde"
+      },
+      "tur": {
+        "official": "Yeşil Burun Cumhuriyeti",
+        "common": "Yeşil Burun"
+      },
+      "urd": {
+        "official": "جمہوریہ کیپ ورڈی",
+        "common": "کیپ ورڈی"
+      },
+      "zho": {
+        "official": "佛得角共和国",
+        "common": "佛得角"
+      }
+    },
+    "latlng": [
+      16.5388,
+      -23.0418
+    ],
+    "landlocked": false,
+    "area": 4033.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cape Verdian",
+        "m": "Cape Verdian"
+      },
+      "fra": {
+        "f": "Cap-verdienne",
+        "m": "Cap-verdien"
+      }
+    },
+    "flag": "🇨🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535774"
+    },
+    "population": 555988,
+    "gini": {
+      "2015": 42.4
+    },
+    "fifa": "CPV",
+    "car": {
+      "signs": [
+        "CV"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cv.png",
+      "svg": "https://flagcdn.com/cv.svg",
+      "alt": "The flag of Cape Verde is composed of five horizontal bands of blue, white, red, white and blue in the ratio of 6:1:1:1:3. A ring of ten five-pointed yellow stars is centered at three-eighth of the height from the bottom edge and three-eighth of the width from the hoist end of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.92,
+        -23.52
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "nativeName": {
+        "spa": {
+          "official": "República de Colombia",
+          "common": "Colombia"
+        }
+      }
+    },
+    "tld": [
+      ".co"
+    ],
+    "cca2": "CO",
+    "ccn3": "170",
+    "cca3": "COL",
+    "cioc": "COL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "7"
+      ]
+    },
+    "capital": [
+      "Bogotá"
+    ],
+    "altSpellings": [
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية كولومبيا",
+        "common": "كولومبيا"
+      },
+      "bre": {
+        "official": "Republik Kolombia",
+        "common": "Kolombia"
+      },
+      "ces": {
+        "official": "Kolumbijská republika",
+        "common": "Kolumbie"
+      },
+      "cym": {
+        "official": "Gweriniaeth Colombia",
+        "common": "Colombia"
+      },
+      "deu": {
+        "official": "Republik Kolumbien",
+        "common": "Kolumbien"
+      },
+      "est": {
+        "official": "Colombia Vabariik",
+        "common": "Colombia"
+      },
+      "fin": {
+        "official": "Kolumbian tasavalta",
+        "common": "Kolumbia"
+      },
+      "fra": {
+        "official": "République de Colombie",
+        "common": "Colombie"
+      },
+      "hrv": {
+        "official": "Republika Kolumbija",
+        "common": "Kolumbija"
+      },
+      "hun": {
+        "official": "Kolumbiai Köztársaság",
+        "common": "Kolumbia"
+      },
+      "ita": {
+        "official": "Repubblica di Colombia",
+        "common": "Colombia"
+      },
+      "jpn": {
+        "official": "コロンビア共和国",
+        "common": "コロンビア"
+      },
+      "kor": {
+        "official": "콜롬비아 공화국",
+        "common": "콜롬비아"
+      },
+      "nld": {
+        "official": "Republiek Colombia",
+        "common": "Colombia"
+      },
+      "per": {
+        "official": "جمهوری کلمبیا",
+        "common": "کلمبیا"
+      },
+      "pol": {
+        "official": "Republika Kolumbii",
+        "common": "Kolumbia"
+      },
+      "por": {
+        "official": "República da Colômbia",
+        "common": "Colômbia"
+      },
+      "rus": {
+        "official": "Республика Колумбия",
+        "common": "Колумбия"
+      },
+      "slk": {
+        "official": "Kolumbijská republika",
+        "common": "Kolumbia"
+      },
+      "spa": {
+        "official": "República de Colombia",
+        "common": "Colombia"
+      },
+      "srp": {
+        "official": "Република Колумбија",
+        "common": "Колумбија"
+      },
+      "swe": {
+        "official": "Republiken Colombia",
+        "common": "Colombia"
+      },
+      "tur": {
+        "official": "Kolombiya Cumhuriyeti",
+        "common": "Kolombiya"
+      },
+      "urd": {
+        "official": "جمہوریہ کولمبیا",
+        "common": "کولمبیا"
+      },
+      "zho": {
+        "official": "哥伦比亚共和国",
+        "common": "哥伦比亚"
+      }
+    },
+    "latlng": [
+      4.0,
+      -72.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "area": 1141748.0,
+    "demonyms": {
+      "eng": {
+        "f": "Colombian",
+        "m": "Colombian"
+      },
+      "fra": {
+        "f": "Colombienne",
+        "m": "Colombien"
+      }
+    },
+    "flag": "🇨🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+    },
+    "population": 50882884,
+    "gini": {
+      "2019": 51.3
+    },
+    "fifa": "COL",
+    "car": {
+      "signs": [
+        "CO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/co.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.71,
+        -74.07
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China",
+      "nativeName": {
+        "zho": {
+          "official": "中华人民共和国",
+          "common": "中国"
+        }
+      }
+    },
+    "tld": [
+      ".cn",
+      ".中国",
+      ".中國",
+      ".公司",
+      ".网络"
+    ],
+    "cca2": "CN",
+    "ccn3": "156",
+    "cca3": "CHN",
+    "cioc": "CHN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CNY": {
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "6"
+      ]
+    },
+    "capital": [
+      "Beijing"
+    ],
+    "altSpellings": [
+      "CN",
+      "Zhōngguó",
+      "Zhongguo",
+      "Zhonghua",
+      "People's Republic of China",
+      "中华人民共和国",
+      "Zhōnghuá Rénmín Gònghéguó"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "zho": "Chinese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الصين الشعبية",
+        "common": "الصين"
+      },
+      "bre": {
+        "official": "Republik Pobl Sina",
+        "common": "Sina"
+      },
+      "ces": {
+        "official": "Čínská lidová republika",
+        "common": "Čína"
+      },
+      "cym": {
+        "official": "Gweriniaeth Pobl Tsieina",
+        "common": "Tsieina"
+      },
+      "deu": {
+        "official": "Volksrepublik China",
+        "common": "China"
+      },
+      "est": {
+        "official": "Hiina Rahvavabariik",
+        "common": "Hiina"
+      },
+      "fin": {
+        "official": "Kiinan kansantasavalta",
+        "common": "Kiina"
+      },
+      "fra": {
+        "official": "République populaire de Chine",
+        "common": "Chine"
+      },
+      "hrv": {
+        "official": "Narodna Republika Kina",
+        "common": "Kina"
+      },
+      "hun": {
+        "official": "Kínai Népköztársaság",
+        "common": "Kína"
+      },
+      "ita": {
+        "official": "Repubblica popolare cinese",
+        "common": "Cina"
+      },
+      "jpn": {
+        "official": "中華人民共和国",
+        "common": "中国"
+      },
+      "kor": {
+        "official": "중화인민공화국",
+        "common": "중국"
+      },
+      "nld": {
+        "official": "Volksrepubliek China",
+        "common": "China"
+      },
+      "per": {
+        "official": "جمهوری خلق چین",
+        "common": "چین"
+      },
+      "pol": {
+        "official": "Chińska Republika Ludowa",
+        "common": "Chiny"
+      },
+      "por": {
+        "official": "República Popular da China",
+        "common": "China"
+      },
+      "rus": {
+        "official": "Народная Республика Китай",
+        "common": "Китай"
+      },
+      "slk": {
+        "official": "Čínska ľudová republika",
+        "common": "Čína"
+      },
+      "spa": {
+        "official": "República Popular de China",
+        "common": "China"
+      },
+      "srp": {
+        "official": "Народна Република Кина",
+        "common": "Кина"
+      },
+      "swe": {
+        "official": "Folkrepubliken Kina",
+        "common": "Kina"
+      },
+      "tur": {
+        "official": "Çin Halk Cumhuriyeti",
+        "common": "Çin"
+      },
+      "urd": {
+        "official": "عوامی جمہوریہ چین",
+        "common": "چین"
+      }
+    },
+    "latlng": [
+      35.0,
+      105.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "area": 9706961.0,
+    "demonyms": {
+      "eng": {
+        "f": "Chinese",
+        "m": "Chinese"
+      },
+      "fra": {
+        "f": "Chinoise",
+        "m": "Chinois"
+      }
+    },
+    "flag": "🇨🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+    },
+    "population": 1402112000,
+    "gini": {
+      "2016": 38.5
+    },
+    "fifa": "CHN",
+    "car": {
+      "signs": [
+        "RC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cn.png",
+      "svg": "https://flagcdn.com/cn.svg",
+      "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        39.92,
+        116.38
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية جيبوتي",
+          "common": "جيبوتي‎"
+        },
+        "fra": {
+          "official": "République de Djibouti",
+          "common": "Djibouti"
+        }
+      }
+    },
+    "tld": [
+      ".dj"
+    ],
+    "cca2": "DJ",
+    "ccn3": "262",
+    "cca3": "DJI",
+    "cioc": "DJI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DJF": {
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "53"
+      ]
+    },
+    "capital": [
+      "Djibouti"
+    ],
+    "altSpellings": [
+      "DJ",
+      "Jabuuti",
+      "Gabuuti",
+      "Republic of Djibouti",
+      "République de Djibouti",
+      "Gabuutih Ummuuno",
+      "Jamhuuriyadda Jabuuti"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية جيبوتي",
+        "common": "جيبوتي"
+      },
+      "bre": {
+        "official": "Republik Djibouti",
+        "common": "Djibouti"
+      },
+      "ces": {
+        "official": "Džibutská republika",
+        "common": "Džibutsko"
+      },
+      "cym": {
+        "official": "Gweriniaeth Jibwti",
+        "common": "Jibwti"
+      },
+      "deu": {
+        "official": "Republik Dschibuti",
+        "common": "Dschibuti"
+      },
+      "est": {
+        "official": "Djibouti Vabariik",
+        "common": "Djibouti"
+      },
+      "fin": {
+        "official": "Dijiboutin tasavalta",
+        "common": "Dijibouti"
+      },
+      "fra": {
+        "official": "République de Djibouti",
+        "common": "Djibouti"
+      },
+      "hrv": {
+        "official": "Republika Džibuti",
+        "common": "Džibuti"
+      },
+      "hun": {
+        "official": "Dzsibuti Köztársaság",
+        "common": "Dzsibuti"
+      },
+      "ita": {
+        "official": "Repubblica di Gibuti",
+        "common": "Gibuti"
+      },
+      "jpn": {
+        "official": "ジブチ共和国",
+        "common": "ジブチ"
+      },
+      "kor": {
+        "official": "지부티 공화국",
+        "common": "지부티"
+      },
+      "nld": {
+        "official": "Republiek Djibouti",
+        "common": "Djibouti"
+      },
+      "per": {
+        "official": "جمهوری جیبوتی",
+        "common": "جیبوتی"
+      },
+      "pol": {
+        "official": "Republika Dżibuti",
+        "common": "Dżibuti"
+      },
+      "por": {
+        "official": "República do Djibouti",
+        "common": "Djibouti"
+      },
+      "rus": {
+        "official": "Республика Джибути",
+        "common": "Джибути"
+      },
+      "slk": {
+        "official": "ǅibutská republika",
+        "common": "ǅibutsko"
+      },
+      "spa": {
+        "official": "República de Djibouti",
+        "common": "Djibouti"
+      },
+      "srp": {
+        "official": "Република Џибути",
+        "common": "Џибути"
+      },
+      "swe": {
+        "official": "Republiken Djibouti",
+        "common": "Djibouti"
+      },
+      "tur": {
+        "official": "Cibuti Cumhuriyeti",
+        "common": "Cibuti"
+      },
+      "urd": {
+        "official": "جمہوریہ جبوتی",
+        "common": "جبوتی"
+      },
+      "zho": {
+        "official": "吉布提共和国",
+        "common": "吉布提"
+      }
+    },
+    "latlng": [
+      11.5,
+      43.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "area": 23200.0,
+    "demonyms": {
+      "eng": {
+        "f": "Djibouti",
+        "m": "Djibouti"
+      },
+      "fra": {
+        "f": "Djiboutienne",
+        "m": "Djiboutien"
+      }
+    },
+    "flag": "🇩🇯",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192801"
+    },
+    "population": 988002,
+    "gini": {
+      "2017": 41.6
+    },
+    "fifa": "DJI",
+    "car": {
+      "signs": [
+        "DJI"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dj.png",
+      "svg": "https://flagcdn.com/dj.svg",
+      "alt": "The flag of Djibouti is composed of two equal horizontal bands of light blue and light green, with a white isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a red five-pointed star at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dj.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        11.58,
+        43.15
+      ]
     }
   },
   {
@@ -3840,213 +5562,6 @@
   },
   {
     "name": {
-      "common": "Cape Verde",
-      "official": "Republic of Cabo Verde",
-      "nativeName": {
-        "por": {
-          "official": "República de Cabo Verde",
-          "common": "Cabo Verde"
-        }
-      }
-    },
-    "tld": [
-      ".cv"
-    ],
-    "cca2": "CV",
-    "ccn3": "132",
-    "cca3": "CPV",
-    "cioc": "CPV",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CVE": {
-        "name": "Cape Verdean escudo",
-        "symbol": "Esc"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "38"
-      ]
-    },
-    "capital": [
-      "Praia"
-    ],
-    "altSpellings": [
-      "CV",
-      "Republic of Cabo Verde",
-      "República de Cabo Verde"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "por": "Portuguese"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية كابو فيردي",
-        "common": "كابو فيردي"
-      },
-      "bre": {
-        "official": "Republik Kab Glas",
-        "common": "Kab Glas"
-      },
-      "ces": {
-        "official": "Kapverdská republika",
-        "common": "Kapverdy"
-      },
-      "cym": {
-        "official": "Gweriniaeth Cabo Verde",
-        "common": "Penrhyn Verde"
-      },
-      "deu": {
-        "official": "Republik Cabo Verde",
-        "common": "Kap Verde"
-      },
-      "est": {
-        "official": "Cabo Verde Vabariik",
-        "common": "Roheneemesaared"
-      },
-      "fin": {
-        "official": "Kap Verden tasavalta",
-        "common": "Kap Verde"
-      },
-      "fra": {
-        "official": "République du Cap-Vert",
-        "common": "Îles du Cap-Vert"
-      },
-      "hrv": {
-        "official": "Republika Cabo Verde",
-        "common": "Zelenortska Republika"
-      },
-      "hun": {
-        "official": "Zöld-foki Köztársaság",
-        "common": "Zöld-foki Köztársaság"
-      },
-      "ita": {
-        "official": "Repubblica di Capo Verde",
-        "common": "Capo Verde"
-      },
-      "jpn": {
-        "official": "カーボベルデ共和国",
-        "common": "カーボベルデ"
-      },
-      "kor": {
-        "official": "카보베르데 공화국",
-        "common": "카보베르데"
-      },
-      "nld": {
-        "official": "Republiek van Cabo Verde",
-        "common": "Kaapverdië"
-      },
-      "per": {
-        "official": "جمهوری کبو ورد",
-        "common": "دماغهٔ سبز"
-      },
-      "pol": {
-        "official": "Republika Zielonego Przylądka",
-        "common": "Republika Zielonego Przylądka"
-      },
-      "por": {
-        "official": "República de Cabo Verde",
-        "common": "Cabo Verde"
-      },
-      "rus": {
-        "official": "Республика Кабо -Верде",
-        "common": "Кабо-Верде"
-      },
-      "slk": {
-        "official": "Kapverdská republika",
-        "common": "Kapverdy"
-      },
-      "spa": {
-        "official": "República de Cabo Verde",
-        "common": "Cabo Verde"
-      },
-      "srp": {
-        "official": "Зеленортска Република",
-        "common": "Зеленортска Острва"
-      },
-      "swe": {
-        "official": "Republiken Kap Verde",
-        "common": "Kap Verde"
-      },
-      "tur": {
-        "official": "Yeşil Burun Cumhuriyeti",
-        "common": "Yeşil Burun"
-      },
-      "urd": {
-        "official": "جمہوریہ کیپ ورڈی",
-        "common": "کیپ ورڈی"
-      },
-      "zho": {
-        "official": "佛得角共和国",
-        "common": "佛得角"
-      }
-    },
-    "latlng": [
-      16.5388,
-      -23.0418
-    ],
-    "landlocked": false,
-    "area": 4033.0,
-    "demonyms": {
-      "eng": {
-        "f": "Cape Verdian",
-        "m": "Cape Verdian"
-      },
-      "fra": {
-        "f": "Cap-verdienne",
-        "m": "Cap-verdien"
-      }
-    },
-    "flag": "🇨🇻",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/535774"
-    },
-    "population": 555988,
-    "gini": {
-      "2015": 42.4
-    },
-    "fifa": "CPV",
-    "car": {
-      "signs": [
-        "CV"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cv.png",
-      "svg": "https://flagcdn.com/cv.svg",
-      "alt": "The flag of Cape Verde is composed of five horizontal bands of blue, white, red, white and blue in the ratio of 6:1:1:1:3. A ring of ten five-pointed yellow stars is centered at three-eighth of the height from the bottom edge and three-eighth of the width from the hoist end of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cv.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cv.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        14.92,
-        -23.52
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
       "common": "Laos",
       "official": "Lao People's Democratic Republic",
       "nativeName": {
@@ -4258,220 +5773,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Burundi",
-      "official": "Republic of Burundi",
-      "nativeName": {
-        "fra": {
-          "official": "République du Burundi",
-          "common": "Burundi"
-        },
-        "run": {
-          "official": "Republika y'Uburundi ",
-          "common": "Uburundi"
-        }
-      }
-    },
-    "tld": [
-      ".bi"
-    ],
-    "cca2": "BI",
-    "ccn3": "108",
-    "cca3": "BDI",
-    "cioc": "BDI",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "BIF": {
-        "name": "Burundian franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "57"
-      ]
-    },
-    "capital": [
-      "Gitega"
-    ],
-    "altSpellings": [
-      "BI",
-      "Republic of Burundi",
-      "Republika y'Uburundi",
-      "République du Burundi"
-    ],
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "languages": {
-      "fra": "French",
-      "run": "Kirundi"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بوروندي",
-        "common": "بوروندي"
-      },
-      "bre": {
-        "official": "Republik Burundi",
-        "common": "Burundi"
-      },
-      "ces": {
-        "official": "Burundská republika",
-        "common": "Burundi"
-      },
-      "cym": {
-        "official": "Gweriniaeth Bwrwndi",
-        "common": "Bwrwndi"
-      },
-      "deu": {
-        "official": "Republik Burundi",
-        "common": "Burundi"
-      },
-      "est": {
-        "official": "Burundi Vabariik",
-        "common": "Burundi"
-      },
-      "fin": {
-        "official": "Burundin tasavalta",
-        "common": "Burundi"
-      },
-      "fra": {
-        "official": "République du Burundi",
-        "common": "Burundi"
-      },
-      "hrv": {
-        "official": "Burundi",
-        "common": "Burundi"
-      },
-      "hun": {
-        "official": "Burundi",
-        "common": "Burundi"
-      },
-      "ita": {
-        "official": "Repubblica del Burundi",
-        "common": "Burundi"
-      },
-      "jpn": {
-        "official": "ブルンジ共和国",
-        "common": "ブルンジ"
-      },
-      "kor": {
-        "official": "부룬디",
-        "common": "부룬디"
-      },
-      "nld": {
-        "official": "Republiek Burundi",
-        "common": "Burundi"
-      },
-      "per": {
-        "official": "جمهوری بوروندی",
-        "common": "بوروندی"
-      },
-      "pol": {
-        "official": "Republika Burundi",
-        "common": "Burundi"
-      },
-      "por": {
-        "official": "República do Burundi",
-        "common": "Burundi"
-      },
-      "rus": {
-        "official": "Республика Бурунди",
-        "common": "Бурунди"
-      },
-      "slk": {
-        "official": "Burundská republika",
-        "common": "Burundi"
-      },
-      "spa": {
-        "official": "República de Burundi",
-        "common": "Burundi"
-      },
-      "srp": {
-        "official": "Република Бурунди",
-        "common": "Бурунди"
-      },
-      "swe": {
-        "official": "Republiken Burundi",
-        "common": "Burundi"
-      },
-      "tur": {
-        "official": "Burundi Cumhuriyeti",
-        "common": "Burundi"
-      },
-      "urd": {
-        "official": "جمہوریہ برونڈی",
-        "common": "برونڈی"
-      },
-      "zho": {
-        "official": "布隆迪共和国",
-        "common": "布隆迪"
-      }
-    },
-    "latlng": [
-      -3.5,
-      30.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "COD",
-      "RWA",
-      "TZA"
-    ],
-    "area": 27834.0,
-    "demonyms": {
-      "eng": {
-        "f": "Burundian",
-        "m": "Burundian"
-      },
-      "fra": {
-        "f": "Burundaise",
-        "m": "Burundais"
-      }
-    },
-    "flag": "🇧🇮",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
-    },
-    "population": 11890781,
-    "gini": {
-      "2013": 38.6
-    },
-    "fifa": "BDI",
-    "car": {
-      "signs": [
-        "RU"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/bi.png",
-      "svg": "https://flagcdn.com/bi.svg",
-      "alt": "The flag of Burundi is divided by a white diagonal cross into four alternating triangular areas of red at the top and bottom, and green on the hoist and fly sides. A white circle, with three green-edged red six-pointed stars arranged to form a triangle, is superimposed at the center of the cross."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/bi.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/bi.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -3.43,
-        29.93
-      ]
     }
   },
   {
@@ -5553,442 +6854,6 @@
   },
   {
     "name": {
-      "common": "China",
-      "official": "People's Republic of China",
-      "nativeName": {
-        "zho": {
-          "official": "中华人民共和国",
-          "common": "中国"
-        }
-      }
-    },
-    "tld": [
-      ".cn",
-      ".中国",
-      ".中國",
-      ".公司",
-      ".网络"
-    ],
-    "cca2": "CN",
-    "ccn3": "156",
-    "cca3": "CHN",
-    "cioc": "CHN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CNY": {
-        "name": "Chinese yuan",
-        "symbol": "¥"
-      }
-    },
-    "idd": {
-      "root": "+8",
-      "suffixes": [
-        "6"
-      ]
-    },
-    "capital": [
-      "Beijing"
-    ],
-    "altSpellings": [
-      "CN",
-      "Zhōngguó",
-      "Zhongguo",
-      "Zhonghua",
-      "People's Republic of China",
-      "中华人民共和国",
-      "Zhōnghuá Rénmín Gònghéguó"
-    ],
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "languages": {
-      "zho": "Chinese"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية الصين الشعبية",
-        "common": "الصين"
-      },
-      "bre": {
-        "official": "Republik Pobl Sina",
-        "common": "Sina"
-      },
-      "ces": {
-        "official": "Čínská lidová republika",
-        "common": "Čína"
-      },
-      "cym": {
-        "official": "Gweriniaeth Pobl Tsieina",
-        "common": "Tsieina"
-      },
-      "deu": {
-        "official": "Volksrepublik China",
-        "common": "China"
-      },
-      "est": {
-        "official": "Hiina Rahvavabariik",
-        "common": "Hiina"
-      },
-      "fin": {
-        "official": "Kiinan kansantasavalta",
-        "common": "Kiina"
-      },
-      "fra": {
-        "official": "République populaire de Chine",
-        "common": "Chine"
-      },
-      "hrv": {
-        "official": "Narodna Republika Kina",
-        "common": "Kina"
-      },
-      "hun": {
-        "official": "Kínai Népköztársaság",
-        "common": "Kína"
-      },
-      "ita": {
-        "official": "Repubblica popolare cinese",
-        "common": "Cina"
-      },
-      "jpn": {
-        "official": "中華人民共和国",
-        "common": "中国"
-      },
-      "kor": {
-        "official": "중화인민공화국",
-        "common": "중국"
-      },
-      "nld": {
-        "official": "Volksrepubliek China",
-        "common": "China"
-      },
-      "per": {
-        "official": "جمهوری خلق چین",
-        "common": "چین"
-      },
-      "pol": {
-        "official": "Chińska Republika Ludowa",
-        "common": "Chiny"
-      },
-      "por": {
-        "official": "República Popular da China",
-        "common": "China"
-      },
-      "rus": {
-        "official": "Народная Республика Китай",
-        "common": "Китай"
-      },
-      "slk": {
-        "official": "Čínska ľudová republika",
-        "common": "Čína"
-      },
-      "spa": {
-        "official": "República Popular de China",
-        "common": "China"
-      },
-      "srp": {
-        "official": "Народна Република Кина",
-        "common": "Кина"
-      },
-      "swe": {
-        "official": "Folkrepubliken Kina",
-        "common": "Kina"
-      },
-      "tur": {
-        "official": "Çin Halk Cumhuriyeti",
-        "common": "Çin"
-      },
-      "urd": {
-        "official": "عوامی جمہوریہ چین",
-        "common": "چین"
-      }
-    },
-    "latlng": [
-      35.0,
-      105.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "AFG",
-      "BTN",
-      "MMR",
-      "HKG",
-      "IND",
-      "KAZ",
-      "NPL",
-      "PRK",
-      "KGZ",
-      "LAO",
-      "MAC",
-      "MNG",
-      "PAK",
-      "RUS",
-      "TJK",
-      "VNM"
-    ],
-    "area": 9706961.0,
-    "demonyms": {
-      "eng": {
-        "f": "Chinese",
-        "m": "Chinese"
-      },
-      "fra": {
-        "f": "Chinoise",
-        "m": "Chinois"
-      }
-    },
-    "flag": "🇨🇳",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
-    },
-    "population": 1402112000,
-    "gini": {
-      "2016": 38.5
-    },
-    "fifa": "CHN",
-    "car": {
-      "signs": [
-        "RC"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cn.png",
-      "svg": "https://flagcdn.com/cn.svg",
-      "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        39.92,
-        116.38
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Yemen",
-      "official": "Republic of Yemen",
-      "nativeName": {
-        "ara": {
-          "official": "الجمهورية اليمنية",
-          "common": "اليَمَن"
-        }
-      }
-    },
-    "tld": [
-      ".ye"
-    ],
-    "cca2": "YE",
-    "ccn3": "887",
-    "cca3": "YEM",
-    "cioc": "YEM",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "YER": {
-        "name": "Yemeni rial",
-        "symbol": "﷼"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "67"
-      ]
-    },
-    "capital": [
-      "Sana'a"
-    ],
-    "altSpellings": [
-      "YE",
-      "Yemeni Republic",
-      "al-Jumhūriyyah al-Yamaniyyah"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "الجمهورية اليمنية",
-        "common": "اليمن"
-      },
-      "bre": {
-        "official": "Republik Yemen",
-        "common": "Yemen"
-      },
-      "ces": {
-        "official": "Jemenská republika",
-        "common": "Jemen"
-      },
-      "cym": {
-        "official": "Republic of Yemen",
-        "common": "Yemen"
-      },
-      "deu": {
-        "official": "Republik Jemen",
-        "common": "Jemen"
-      },
-      "est": {
-        "official": "Jeemeni Vabariik",
-        "common": "Jeemen"
-      },
-      "fin": {
-        "official": "Jemenin tasavalta",
-        "common": "Jemen"
-      },
-      "fra": {
-        "official": "République du Yémen",
-        "common": "Yémen"
-      },
-      "hrv": {
-        "official": "Republika Jemen",
-        "common": "Jemen"
-      },
-      "hun": {
-        "official": "Jemeni Köztársaság",
-        "common": "Jemen"
-      },
-      "ita": {
-        "official": "Repubblica dello Yemen",
-        "common": "Yemen"
-      },
-      "jpn": {
-        "official": "イエメン共和国",
-        "common": "イエメン"
-      },
-      "kor": {
-        "official": "예멘 공화국",
-        "common": "예멘"
-      },
-      "nld": {
-        "official": "Republiek Jemen",
-        "common": "Jemen"
-      },
-      "per": {
-        "official": "جمهوری یمن",
-        "common": "یمن"
-      },
-      "pol": {
-        "official": "Republika Jemeńska",
-        "common": "Jemen"
-      },
-      "por": {
-        "official": "República do Iêmen",
-        "common": "Iémen"
-      },
-      "rus": {
-        "official": "Йеменская Республика",
-        "common": "Йемен"
-      },
-      "slk": {
-        "official": "Jemenská republika",
-        "common": "Jemen"
-      },
-      "spa": {
-        "official": "República de Yemen",
-        "common": "Yemen"
-      },
-      "srp": {
-        "official": "Република Јемен",
-        "common": "Јемен"
-      },
-      "swe": {
-        "official": "Republiken Jemen",
-        "common": "Jemen"
-      },
-      "tur": {
-        "official": "Yemen Cumhuriyeti",
-        "common": "Yemen"
-      },
-      "urd": {
-        "official": "جمہوریہ یمن",
-        "common": "یمن"
-      },
-      "zho": {
-        "official": "也门共和国",
-        "common": "也门"
-      }
-    },
-    "latlng": [
-      15.0,
-      48.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "OMN",
-      "SAU"
-    ],
-    "area": 527968.0,
-    "demonyms": {
-      "eng": {
-        "f": "Yemeni",
-        "m": "Yemeni"
-      },
-      "fra": {
-        "f": "Yéménite",
-        "m": "Yéménite"
-      }
-    },
-    "flag": "🇾🇪",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/305092"
-    },
-    "population": 29825968,
-    "gini": {
-      "2014": 36.7
-    },
-    "fifa": "YEM",
-    "car": {
-      "signs": [
-        "YAR"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ye.png",
-      "svg": "https://flagcdn.com/ye.svg",
-      "alt": "The flag of Yemen is composed of three equal horizontal bands of red, white and black."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ye.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ye.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        15.37,
-        44.19
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Egypt",
       "official": "Arab Republic of Egypt",
       "nativeName": {
@@ -6198,217 +7063,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Bangladesh",
-      "official": "People's Republic of Bangladesh",
-      "nativeName": {
-        "ben": {
-          "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
-          "common": "বাংলাদেশ"
-        }
-      }
-    },
-    "tld": [
-      ".bd"
-    ],
-    "cca2": "BD",
-    "ccn3": "050",
-    "cca3": "BGD",
-    "cioc": "BAN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "BDT": {
-        "name": "Bangladeshi taka",
-        "symbol": "৳"
-      }
-    },
-    "idd": {
-      "root": "+8",
-      "suffixes": [
-        "80"
-      ]
-    },
-    "capital": [
-      "Dhaka"
-    ],
-    "altSpellings": [
-      "BD",
-      "People's Republic of Bangladesh",
-      "Gônôprôjatôntri Bangladesh"
-    ],
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "languages": {
-      "ben": "Bengali"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بنغلاديش الشعبية",
-        "common": "بنغلاديش"
-      },
-      "bre": {
-        "official": "Republik pobl Bangladesh",
-        "common": "Bangladesh"
-      },
-      "ces": {
-        "official": "Bangladéšská lidová republika",
-        "common": "Bangladéš"
-      },
-      "cym": {
-        "official": "Gweriniaeth Pobl Bangladesh",
-        "common": "Bangladesh"
-      },
-      "deu": {
-        "official": "Volksrepublik Bangladesch",
-        "common": "Bangladesch"
-      },
-      "est": {
-        "official": "Bangladeshi Rahvavabariik",
-        "common": "Bangladesh"
-      },
-      "fin": {
-        "official": "Bangladeshin kansantasavalta",
-        "common": "Bangladesh"
-      },
-      "fra": {
-        "official": "La République populaire du Bangladesh",
-        "common": "Bangladesh"
-      },
-      "hrv": {
-        "official": "Narodna Republika Bangladeš",
-        "common": "Bangladeš"
-      },
-      "hun": {
-        "official": "Banglades",
-        "common": "Banglades"
-      },
-      "ita": {
-        "official": "Repubblica popolare del Bangladesh",
-        "common": "Bangladesh"
-      },
-      "jpn": {
-        "official": "バングラデシュ人民共和国",
-        "common": "バングラデシュ"
-      },
-      "kor": {
-        "official": "방글라데시 인민 공화국",
-        "common": "방글라데시"
-      },
-      "nld": {
-        "official": "Volksrepubliek Bangladesh",
-        "common": "Bangladesh"
-      },
-      "per": {
-        "official": "جمهوری خلق بنگلادش",
-        "common": "بنگلادش"
-      },
-      "pol": {
-        "official": "Ludowa Republika Bangladeszu",
-        "common": "Bangladesz"
-      },
-      "por": {
-        "official": "República Popular do Bangladesh",
-        "common": "Bangladesh"
-      },
-      "rus": {
-        "official": "Народная Республика Бангладеш",
-        "common": "Бангладеш"
-      },
-      "slk": {
-        "official": "Bangladéšska ľudová republika",
-        "common": "Bangladéš"
-      },
-      "spa": {
-        "official": "República Popular de Bangladesh",
-        "common": "Bangladesh"
-      },
-      "srp": {
-        "official": "Народна Република Бангладеш",
-        "common": "Бангладеш"
-      },
-      "swe": {
-        "official": "Folkrepubliken Bangladesh",
-        "common": "Bangladesh"
-      },
-      "tur": {
-        "official": "Bangladeş Halk Cumhuriyeti",
-        "common": "Bangladeş"
-      },
-      "urd": {
-        "official": "عوامی جمہوریہ بنگلہ دیش",
-        "common": "بنگلہ دیش"
-      },
-      "zho": {
-        "official": "孟加拉人民共和国",
-        "common": "孟加拉国"
-      }
-    },
-    "latlng": [
-      24.0,
-      90.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "MMR",
-      "IND"
-    ],
-    "area": 147570.0,
-    "demonyms": {
-      "eng": {
-        "f": "Bangladeshi",
-        "m": "Bangladeshi"
-      },
-      "fra": {
-        "f": "Bangladaise",
-        "m": "Bangladais"
-      }
-    },
-    "flag": "🇧🇩",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
-    },
-    "population": 164689383,
-    "gini": {
-      "2016": 32.4
-    },
-    "fifa": "BAN",
-    "car": {
-      "signs": [
-        "BD"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+06:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/bd.png",
-      "svg": "https://flagcdn.com/bd.svg",
-      "alt": "The flag of Bangladesh has a dark green field bearing a large red circle that is offset slightly towards the hoist side of center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/bd.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/bd.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        23.72,
-        90.4
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -6633,440 +7287,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Afghanistan",
-      "official": "Islamic Republic of Afghanistan",
-      "nativeName": {
-        "prs": {
-          "official": "جمهوری اسلامی افغانستان",
-          "common": "افغانستان"
-        },
-        "pus": {
-          "official": "د افغانستان اسلامي جمهوریت",
-          "common": "افغانستان"
-        },
-        "tuk": {
-          "official": "Owganystan Yslam Respublikasy",
-          "common": "Owganystan"
-        }
-      }
-    },
-    "tld": [
-      ".af"
-    ],
-    "cca2": "AF",
-    "ccn3": "004",
-    "cca3": "AFG",
-    "cioc": "AFG",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "AFN": {
-        "name": "Afghan afghani",
-        "symbol": "؋"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "3"
-      ]
-    },
-    "capital": [
-      "Kabul"
-    ],
-    "altSpellings": [
-      "AF",
-      "Afġānistān"
-    ],
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "languages": {
-      "prs": "Dari",
-      "pus": "Pashto",
-      "tuk": "Turkmen"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية أففانستان الإسلامية",
-        "common": "أفغانستان"
-      },
-      "bre": {
-        "official": "Republik Islamek Afghanistan",
-        "common": "Afghanistan"
-      },
-      "ces": {
-        "official": "Afghánská islámská republika",
-        "common": "Afghánistán"
-      },
-      "cym": {
-        "official": "Gweriniaeth Islamaidd Affganistan",
-        "common": "Affganistan"
-      },
-      "deu": {
-        "official": "Islamische Republik Afghanistan",
-        "common": "Afghanistan"
-      },
-      "est": {
-        "official": "Afganistani Islamivabariik",
-        "common": "Afganistan"
-      },
-      "fin": {
-        "official": "Afganistanin islamilainen tasavalta",
-        "common": "Afganistan"
-      },
-      "fra": {
-        "official": "République islamique d'Afghanistan",
-        "common": "Afghanistan"
-      },
-      "hrv": {
-        "official": "Islamska Republika Afganistan",
-        "common": "Afganistan"
-      },
-      "hun": {
-        "official": "Afganisztáni Iszlám Köztársaság",
-        "common": "Afganisztán"
-      },
-      "ita": {
-        "official": "Repubblica islamica dell'Afghanistan",
-        "common": "Afghanistan"
-      },
-      "jpn": {
-        "official": "アフガニスタン·イスラム共和国",
-        "common": "アフガニスタン"
-      },
-      "kor": {
-        "official": "아프가니스탄 이슬람 공화국",
-        "common": "아프가니스탄"
-      },
-      "nld": {
-        "official": "Islamitische Republiek Afghanistan",
-        "common": "Afghanistan"
-      },
-      "per": {
-        "official": "جمهوری اسلامی افغانستان",
-        "common": "افغانستان"
-      },
-      "pol": {
-        "official": "Islamska Republika Afganistanu",
-        "common": "Afganistan"
-      },
-      "por": {
-        "official": "República Islâmica do Afeganistão",
-        "common": "Afeganistão"
-      },
-      "rus": {
-        "official": "Исламская Республика Афганистан",
-        "common": "Афганистан"
-      },
-      "slk": {
-        "official": "Afgánsky islamský štát",
-        "common": "Afganistan"
-      },
-      "spa": {
-        "official": "República Islámica de Afganistán",
-        "common": "Afganistán"
-      },
-      "srp": {
-        "official": "Исламска Република Авганистан",
-        "common": "Авганистан"
-      },
-      "swe": {
-        "official": "Islamiska republiken Afghanistan",
-        "common": "Afghanistan"
-      },
-      "tur": {
-        "official": "Afganistan İslam Cumhuriyeti",
-        "common": "Afganistan"
-      },
-      "urd": {
-        "official": "اسلامی جمہوریہ افغانستان",
-        "common": "افغانستان"
-      },
-      "zho": {
-        "official": "阿富汗伊斯兰共和国",
-        "common": "阿富汗"
-      }
-    },
-    "latlng": [
-      33.0,
-      65.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "IRN",
-      "PAK",
-      "TKM",
-      "UZB",
-      "TJK",
-      "CHN"
-    ],
-    "area": 652230.0,
-    "demonyms": {
-      "eng": {
-        "f": "Afghan",
-        "m": "Afghan"
-      },
-      "fra": {
-        "f": "Afghane",
-        "m": "Afghan"
-      }
-    },
-    "flag": "🇦🇫",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/303427"
-    },
-    "population": 40218234,
-    "fifa": "AFG",
-    "car": {
-      "signs": [
-        "AFG"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+04:30"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
-      "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
-      "alt": "The flag of the Islamic Emirate of Afghanistan has a white field with Arabic inscriptions — the Shahada — in black across its center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/af.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/af.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        34.52,
-        69.18
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "United Kingdom",
-      "official": "United Kingdom of Great Britain and Northern Ireland",
-      "nativeName": {
-        "eng": {
-          "official": "United Kingdom of Great Britain and Northern Ireland",
-          "common": "United Kingdom"
-        }
-      }
-    },
-    "tld": [
-      ".uk"
-    ],
-    "cca2": "GB",
-    "ccn3": "826",
-    "cca3": "GBR",
-    "cioc": "GBR",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "GBP": {
-        "name": "British pound",
-        "symbol": "£"
-      }
-    },
-    "idd": {
-      "root": "+4",
-      "suffixes": [
-        "4"
-      ]
-    },
-    "capital": [
-      "London"
-    ],
-    "altSpellings": [
-      "GB",
-      "UK",
-      "Great Britain"
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية",
-        "common": "المملكة المتحدة"
-      },
-      "bre": {
-        "official": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
-        "common": "Rouantelezh-Unanet"
-      },
-      "ces": {
-        "official": "Spojené království Velké Británie a Severního Irska",
-        "common": "Spojené království"
-      },
-      "cym": {
-        "official": "United Kingdom of Great Britain and Northern Ireland",
-        "common": "United Kingdom"
-      },
-      "deu": {
-        "official": "Vereinigtes Königreich Großbritannien und Nordirland",
-        "common": "Vereinigtes Königreich"
-      },
-      "est": {
-        "official": "Suurbritannia ja Põhja-Iiri Ühendkuningriik",
-        "common": "Suurbritannia"
-      },
-      "fin": {
-        "official": "Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta",
-        "common": "Yhdistynyt kuningaskunta"
-      },
-      "fra": {
-        "official": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
-        "common": "Royaume-Uni"
-      },
-      "hrv": {
-        "official": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
-        "common": "Ujedinjeno Kraljevstvo"
-      },
-      "hun": {
-        "official": "Nagy-Britannia és Észak-Írország Egyesült Királysága",
-        "common": "Egyesült Királyság"
-      },
-      "ita": {
-        "official": "Regno Unito di Gran Bretagna e Irlanda del Nord",
-        "common": "Regno Unito"
-      },
-      "jpn": {
-        "official": "グレート·ブリテンおよび北アイルランド連合王国",
-        "common": "イギリス"
-      },
-      "kor": {
-        "official": "그레이트브리튼 북아일랜드 연합 왕국",
-        "common": "영국"
-      },
-      "nld": {
-        "official": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
-        "common": "Verenigd Koninkrijk"
-      },
-      "per": {
-        "official": "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی",
-        "common": "انگلیس"
-      },
-      "pol": {
-        "official": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
-        "common": "Zjednoczone Królestwo"
-      },
-      "por": {
-        "official": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
-        "common": "Reino Unido"
-      },
-      "rus": {
-        "official": "Соединенное Королевство Великобритании и Северной Ирландии",
-        "common": "Великобритания"
-      },
-      "slk": {
-        "official": "Spojené kráľovstvo Veľkej Británie a SevernéhoÌrska",
-        "common": "Veľká Británia (Spojené kráľovstvo)"
-      },
-      "spa": {
-        "official": "Reino Unido de Gran Bretaña e Irlanda del Norte",
-        "common": "Reino Unido"
-      },
-      "srp": {
-        "official": "Уједињено Краљевство Велике Британије и Северне Ирске",
-        "common": "Уједињено Краљевство"
-      },
-      "swe": {
-        "official": "Förenade konungariket Storbritannien och Nordirland",
-        "common": "Storbritannien"
-      },
-      "tur": {
-        "official": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
-        "common": "Birleşik Krallık"
-      },
-      "urd": {
-        "official": "مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ",
-        "common": "مملکتِ متحدہ"
-      },
-      "zho": {
-        "official": "大不列颠及北爱尔兰联合王国",
-        "common": "英国"
-      }
-    },
-    "latlng": [
-      54.0,
-      -2.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "IRL"
-    ],
-    "area": 242900.0,
-    "demonyms": {
-      "eng": {
-        "f": "British",
-        "m": "British"
-      },
-      "fra": {
-        "f": "Britannique",
-        "m": "Britannique"
-      }
-    },
-    "flag": "🇬🇧",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
-    },
-    "population": 67215293,
-    "gini": {
-      "2017": 35.1
-    },
-    "car": {
-      "signs": [
-        "GB"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-08:00",
-      "UTC-05:00",
-      "UTC-04:00",
-      "UTC-03:00",
-      "UTC-02:00",
-      "UTC",
-      "UTC+01:00",
-      "UTC+02:00",
-      "UTC+06:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/gb.png",
-      "svg": "https://flagcdn.com/gb.svg",
-      "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/gb.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/gb.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        51.5,
-        -0.08
-      ]
-    },
-    "postalCode": {
-      "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-      "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
     }
   },
   {
@@ -7721,223 +7941,6 @@
   },
   {
     "name": {
-      "common": "Djibouti",
-      "official": "Republic of Djibouti",
-      "nativeName": {
-        "ara": {
-          "official": "جمهورية جيبوتي",
-          "common": "جيبوتي‎"
-        },
-        "fra": {
-          "official": "République de Djibouti",
-          "common": "Djibouti"
-        }
-      }
-    },
-    "tld": [
-      ".dj"
-    ],
-    "cca2": "DJ",
-    "ccn3": "262",
-    "cca3": "DJI",
-    "cioc": "DJI",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "DJF": {
-        "name": "Djiboutian franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "53"
-      ]
-    },
-    "capital": [
-      "Djibouti"
-    ],
-    "altSpellings": [
-      "DJ",
-      "Jabuuti",
-      "Gabuuti",
-      "Republic of Djibouti",
-      "République de Djibouti",
-      "Gabuutih Ummuuno",
-      "Jamhuuriyadda Jabuuti"
-    ],
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "languages": {
-      "ara": "Arabic",
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية جيبوتي",
-        "common": "جيبوتي"
-      },
-      "bre": {
-        "official": "Republik Djibouti",
-        "common": "Djibouti"
-      },
-      "ces": {
-        "official": "Džibutská republika",
-        "common": "Džibutsko"
-      },
-      "cym": {
-        "official": "Gweriniaeth Jibwti",
-        "common": "Jibwti"
-      },
-      "deu": {
-        "official": "Republik Dschibuti",
-        "common": "Dschibuti"
-      },
-      "est": {
-        "official": "Djibouti Vabariik",
-        "common": "Djibouti"
-      },
-      "fin": {
-        "official": "Dijiboutin tasavalta",
-        "common": "Dijibouti"
-      },
-      "fra": {
-        "official": "République de Djibouti",
-        "common": "Djibouti"
-      },
-      "hrv": {
-        "official": "Republika Džibuti",
-        "common": "Džibuti"
-      },
-      "hun": {
-        "official": "Dzsibuti Köztársaság",
-        "common": "Dzsibuti"
-      },
-      "ita": {
-        "official": "Repubblica di Gibuti",
-        "common": "Gibuti"
-      },
-      "jpn": {
-        "official": "ジブチ共和国",
-        "common": "ジブチ"
-      },
-      "kor": {
-        "official": "지부티 공화국",
-        "common": "지부티"
-      },
-      "nld": {
-        "official": "Republiek Djibouti",
-        "common": "Djibouti"
-      },
-      "per": {
-        "official": "جمهوری جیبوتی",
-        "common": "جیبوتی"
-      },
-      "pol": {
-        "official": "Republika Dżibuti",
-        "common": "Dżibuti"
-      },
-      "por": {
-        "official": "República do Djibouti",
-        "common": "Djibouti"
-      },
-      "rus": {
-        "official": "Республика Джибути",
-        "common": "Джибути"
-      },
-      "slk": {
-        "official": "ǅibutská republika",
-        "common": "ǅibutsko"
-      },
-      "spa": {
-        "official": "República de Djibouti",
-        "common": "Djibouti"
-      },
-      "srp": {
-        "official": "Република Џибути",
-        "common": "Џибути"
-      },
-      "swe": {
-        "official": "Republiken Djibouti",
-        "common": "Djibouti"
-      },
-      "tur": {
-        "official": "Cibuti Cumhuriyeti",
-        "common": "Cibuti"
-      },
-      "urd": {
-        "official": "جمہوریہ جبوتی",
-        "common": "جبوتی"
-      },
-      "zho": {
-        "official": "吉布提共和国",
-        "common": "吉布提"
-      }
-    },
-    "latlng": [
-      11.5,
-      43.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "ERI",
-      "ETH",
-      "SOM"
-    ],
-    "area": 23200.0,
-    "demonyms": {
-      "eng": {
-        "f": "Djibouti",
-        "m": "Djibouti"
-      },
-      "fra": {
-        "f": "Djiboutienne",
-        "m": "Djiboutien"
-      }
-    },
-    "flag": "🇩🇯",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192801"
-    },
-    "population": 988002,
-    "gini": {
-      "2017": 41.6
-    },
-    "fifa": "DJI",
-    "car": {
-      "signs": [
-        "DJI"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/dj.png",
-      "svg": "https://flagcdn.com/dj.svg",
-      "alt": "The flag of Djibouti is composed of two equal horizontal bands of light blue and light green, with a white isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a red five-pointed star at its center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/dj.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/dj.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        11.58,
-        43.15
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "North Korea",
       "official": "Democratic People's Republic of Korea",
       "nativeName": {
@@ -8360,216 +8363,6 @@
       "latlng": [
         -20.15,
         57.48
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Colombia",
-      "official": "Republic of Colombia",
-      "nativeName": {
-        "spa": {
-          "official": "República de Colombia",
-          "common": "Colombia"
-        }
-      }
-    },
-    "tld": [
-      ".co"
-    ],
-    "cca2": "CO",
-    "ccn3": "170",
-    "cca3": "COL",
-    "cioc": "COL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "COP": {
-        "name": "Colombian peso",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "7"
-      ]
-    },
-    "capital": [
-      "Bogotá"
-    ],
-    "altSpellings": [
-      "CO",
-      "Republic of Colombia",
-      "República de Colombia"
-    ],
-    "region": "Americas",
-    "subregion": "South America",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية كولومبيا",
-        "common": "كولومبيا"
-      },
-      "bre": {
-        "official": "Republik Kolombia",
-        "common": "Kolombia"
-      },
-      "ces": {
-        "official": "Kolumbijská republika",
-        "common": "Kolumbie"
-      },
-      "cym": {
-        "official": "Gweriniaeth Colombia",
-        "common": "Colombia"
-      },
-      "deu": {
-        "official": "Republik Kolumbien",
-        "common": "Kolumbien"
-      },
-      "est": {
-        "official": "Colombia Vabariik",
-        "common": "Colombia"
-      },
-      "fin": {
-        "official": "Kolumbian tasavalta",
-        "common": "Kolumbia"
-      },
-      "fra": {
-        "official": "République de Colombie",
-        "common": "Colombie"
-      },
-      "hrv": {
-        "official": "Republika Kolumbija",
-        "common": "Kolumbija"
-      },
-      "hun": {
-        "official": "Kolumbiai Köztársaság",
-        "common": "Kolumbia"
-      },
-      "ita": {
-        "official": "Repubblica di Colombia",
-        "common": "Colombia"
-      },
-      "jpn": {
-        "official": "コロンビア共和国",
-        "common": "コロンビア"
-      },
-      "kor": {
-        "official": "콜롬비아 공화국",
-        "common": "콜롬비아"
-      },
-      "nld": {
-        "official": "Republiek Colombia",
-        "common": "Colombia"
-      },
-      "per": {
-        "official": "جمهوری کلمبیا",
-        "common": "کلمبیا"
-      },
-      "pol": {
-        "official": "Republika Kolumbii",
-        "common": "Kolumbia"
-      },
-      "por": {
-        "official": "República da Colômbia",
-        "common": "Colômbia"
-      },
-      "rus": {
-        "official": "Республика Колумбия",
-        "common": "Колумбия"
-      },
-      "slk": {
-        "official": "Kolumbijská republika",
-        "common": "Kolumbia"
-      },
-      "spa": {
-        "official": "República de Colombia",
-        "common": "Colombia"
-      },
-      "srp": {
-        "official": "Република Колумбија",
-        "common": "Колумбија"
-      },
-      "swe": {
-        "official": "Republiken Colombia",
-        "common": "Colombia"
-      },
-      "tur": {
-        "official": "Kolombiya Cumhuriyeti",
-        "common": "Kolombiya"
-      },
-      "urd": {
-        "official": "جمہوریہ کولمبیا",
-        "common": "کولمبیا"
-      },
-      "zho": {
-        "official": "哥伦比亚共和国",
-        "common": "哥伦比亚"
-      }
-    },
-    "latlng": [
-      4.0,
-      -72.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BRA",
-      "ECU",
-      "PAN",
-      "PER",
-      "VEN"
-    ],
-    "area": 1141748.0,
-    "demonyms": {
-      "eng": {
-        "f": "Colombian",
-        "m": "Colombian"
-      },
-      "fra": {
-        "f": "Colombienne",
-        "m": "Colombien"
-      }
-    },
-    "flag": "🇨🇴",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
-    },
-    "population": 50882884,
-    "gini": {
-      "2019": 51.3
-    },
-    "fifa": "COL",
-    "car": {
-      "signs": [
-        "CO"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "continents": [
-      "South America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/co.png",
-      "svg": "https://flagcdn.com/co.svg",
-      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/co.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        4.71,
-        -74.07
       ]
     }
   },
@@ -9213,223 +9006,6 @@
       "latlng": [
         34.02,
         -6.82
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Algeria",
-      "official": "People's Democratic Republic of Algeria",
-      "nativeName": {
-        "ara": {
-          "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
-          "common": "الجزائر"
-        }
-      }
-    },
-    "tld": [
-      ".dz",
-      "الجزائر."
-    ],
-    "cca2": "DZ",
-    "ccn3": "012",
-    "cca3": "DZA",
-    "cioc": "ALG",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "DZD": {
-        "name": "Algerian dinar",
-        "symbol": "د.ج"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "13"
-      ]
-    },
-    "capital": [
-      "Algiers"
-    ],
-    "altSpellings": [
-      "DZ",
-      "Dzayer",
-      "Algérie"
-    ],
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
-        "common": "الجزائر"
-      },
-      "bre": {
-        "official": "Republik Aljerian Demokratel ha Poblel",
-        "common": "Aljeria"
-      },
-      "ces": {
-        "official": "Alžírská demokratická a lidová republika",
-        "common": "Alžírsko"
-      },
-      "cym": {
-        "official": "Gweriniaeth Ddemocrataidd Pobl Algeria",
-        "common": "Algeria"
-      },
-      "deu": {
-        "official": "Demokratische Volksrepublik Algerien",
-        "common": "Algerien"
-      },
-      "est": {
-        "official": "Alžeeria Demokraatlik Rahvavabariik",
-        "common": "Alžeeria"
-      },
-      "fin": {
-        "official": "Algerian demokraattinen kansantasavalta",
-        "common": "Algeria"
-      },
-      "fra": {
-        "official": "République démocratique et populaire d'Algérie",
-        "common": "Algérie"
-      },
-      "hrv": {
-        "official": "Narodna Demokratska Republika Alžir",
-        "common": "Alžir"
-      },
-      "hun": {
-        "official": "Algériai Népi Demokratikus Köztársaság",
-        "common": "Algéria"
-      },
-      "ita": {
-        "official": "Repubblica popolare democratica di Algeria",
-        "common": "Algeria"
-      },
-      "jpn": {
-        "official": "アルジェリア人民民主共和国",
-        "common": "アルジェリア"
-      },
-      "kor": {
-        "official": "알제리 인민 민주 공화국",
-        "common": "알제리"
-      },
-      "nld": {
-        "official": "Democratische Volksrepubliek Algerije",
-        "common": "Algerije"
-      },
-      "per": {
-        "official": "جمهوری دموکراتیک خلق الجزایر",
-        "common": "الجزایر"
-      },
-      "pol": {
-        "official": "Algierska Republika Ludowo-Demokratyczna",
-        "common": "Algieria"
-      },
-      "por": {
-        "official": "República Argelina Democrática e Popular",
-        "common": "Argélia"
-      },
-      "rus": {
-        "official": "Народно-Демократическая Республика Алжир",
-        "common": "Алжир"
-      },
-      "slk": {
-        "official": "Alžírska demokratická ľudová republika",
-        "common": "Alžírsko"
-      },
-      "spa": {
-        "official": "República Argelina Democrática y Popular",
-        "common": "Argelia"
-      },
-      "srp": {
-        "official": "Народна Демократска Република Алжир",
-        "common": "Алжир"
-      },
-      "swe": {
-        "official": "Demokratiska folkrepubliken Algeriet",
-        "common": "Algeriet"
-      },
-      "tur": {
-        "official": "Cezayir Demokratik Halk Cumhuriyeti",
-        "common": "Cezayir"
-      },
-      "urd": {
-        "official": "عوامی جمہوری جمہوریہ الجزائر",
-        "common": "الجزائر"
-      },
-      "zho": {
-        "official": "阿尔及利亚人民民主共和国",
-        "common": "阿尔及利亚"
-      }
-    },
-    "latlng": [
-      28.0,
-      3.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "TUN",
-      "LBY",
-      "NER",
-      "ESH",
-      "MRT",
-      "MLI",
-      "MAR"
-    ],
-    "area": 2381741.0,
-    "demonyms": {
-      "eng": {
-        "f": "Algerian",
-        "m": "Algerian"
-      },
-      "fra": {
-        "f": "Algérienne",
-        "m": "Algérien"
-      }
-    },
-    "flag": "🇩🇿",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
-    },
-    "population": 44700000,
-    "gini": {
-      "2011": 27.6
-    },
-    "fifa": "ALG",
-    "car": {
-      "signs": [
-        "DZ"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/dz.png",
-      "svg": "https://flagcdn.com/dz.svg",
-      "alt": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/dz.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        36.75,
-        3.05
       ]
     },
     "postalCode": {
@@ -16575,221 +16151,6 @@
         -13.97,
         33.78
       ]
-    }
-  },
-  {
-    "name": {
-      "common": "Saudi Arabia",
-      "official": "Kingdom of Saudi Arabia",
-      "nativeName": {
-        "ara": {
-          "official": "المملكة العربية السعودية",
-          "common": "العربية السعودية"
-        }
-      }
-    },
-    "tld": [
-      ".sa",
-      ".السعودية"
-    ],
-    "cca2": "SA",
-    "ccn3": "682",
-    "cca3": "SAU",
-    "cioc": "KSA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "SAR": {
-        "name": "Saudi riyal",
-        "symbol": "ر.س"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "66"
-      ]
-    },
-    "capital": [
-      "Riyadh"
-    ],
-    "altSpellings": [
-      "Saudi",
-      "SA",
-      "Kingdom of Saudi Arabia",
-      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "المملكة العربية السعودية",
-        "common": "السعودية"
-      },
-      "bre": {
-        "official": "Rouantelezh Arabia Saoudat",
-        "common": "Arabia Saoudat"
-      },
-      "ces": {
-        "official": "Saúdskoarabské království",
-        "common": "Saúdská Arábie"
-      },
-      "cym": {
-        "official": "Kingdom of Saudi Arabia",
-        "common": "Saudi Arabia"
-      },
-      "deu": {
-        "official": "Königreich Saudi-Arabien",
-        "common": "Saudi-Arabien"
-      },
-      "est": {
-        "official": "Saudi Araabia Kuningriik",
-        "common": "Saudi Araabia"
-      },
-      "fin": {
-        "official": "Saudi-Arabian kuningaskunta",
-        "common": "Saudi-Arabia"
-      },
-      "fra": {
-        "official": "Royaume d'Arabie Saoudite",
-        "common": "Arabie Saoudite"
-      },
-      "hrv": {
-        "official": "Kraljevina Saudijska Arabija",
-        "common": "Saudijska Arabija"
-      },
-      "hun": {
-        "official": "Szaúd-Arábia",
-        "common": "Szaúd-Arábia"
-      },
-      "ita": {
-        "official": "Arabia Saudita",
-        "common": "Arabia Saudita"
-      },
-      "jpn": {
-        "official": "サウジアラビア王国",
-        "common": "サウジアラビア"
-      },
-      "kor": {
-        "official": "사우디아라비아 왕국",
-        "common": "사우디아라비아"
-      },
-      "nld": {
-        "official": "Koninkrijk van Saoedi-Arabië",
-        "common": "Saoedi-Arabië"
-      },
-      "per": {
-        "official": "پادشاهی عربی سَعودی",
-        "common": "عربستان سعودی"
-      },
-      "pol": {
-        "official": "Królestwo Arabii Saudyjskiej",
-        "common": "Arabia Saudyjska"
-      },
-      "por": {
-        "official": "Reino da Arábia Saudita",
-        "common": "Arábia Saudita"
-      },
-      "rus": {
-        "official": "Королевство Саудовская Аравия",
-        "common": "Саудовская Аравия"
-      },
-      "slk": {
-        "official": "Saudskoarabské kráľovstvo",
-        "common": "Saudská Arábia"
-      },
-      "spa": {
-        "official": "Reino de Arabia Saudita",
-        "common": "Arabia Saudí"
-      },
-      "srp": {
-        "official": "Краљевина Саудијска Арабија",
-        "common": "Саудијска Арабија"
-      },
-      "swe": {
-        "official": "Kungadömet Saudiarabien",
-        "common": "Saudiarabien"
-      },
-      "tur": {
-        "official": "Suudi Arabistan Krallığı",
-        "common": "Suudi Arabistan"
-      },
-      "urd": {
-        "official": "مملکتِ سعودی عرب",
-        "common": "سعودی عرب"
-      },
-      "zho": {
-        "official": "沙特阿拉伯王国",
-        "common": "沙特阿拉伯"
-      }
-    },
-    "latlng": [
-      25.0,
-      45.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "IRQ",
-      "JOR",
-      "KWT",
-      "OMN",
-      "QAT",
-      "ARE",
-      "YEM"
-    ],
-    "area": 2149690.0,
-    "demonyms": {
-      "eng": {
-        "f": "Saudi Arabian",
-        "m": "Saudi Arabian"
-      },
-      "fra": {
-        "f": "Saoudienne",
-        "m": "Saoudien"
-      }
-    },
-    "flag": "🇸🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/307584"
-    },
-    "population": 34813867,
-    "fifa": "KSA",
-    "car": {
-      "signs": [
-        "SA"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/sa.png",
-      "svg": "https://flagcdn.com/sa.svg",
-      "alt": "The flag of Saudi Arabia has a green field, at the center of which is an Arabic inscription — the Shahada — in white above a white horizontal sabre with its tip pointed to the hoist side of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/sa.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/sa.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        24.65,
-        46.7
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -35700,6 +35061,221 @@
   },
   {
     "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia",
+      "nativeName": {
+        "ara": {
+          "official": "المملكة العربية السعودية",
+          "common": "العربية السعودية"
+        }
+      }
+    },
+    "tld": [
+      ".sa",
+      ".السعودية"
+    ],
+    "cca2": "SA",
+    "ccn3": "682",
+    "cca3": "SAU",
+    "cioc": "KSA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SAR": {
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "66"
+      ]
+    },
+    "capital": [
+      "Riyadh"
+    ],
+    "altSpellings": [
+      "Saudi",
+      "SA",
+      "Kingdom of Saudi Arabia",
+      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "المملكة العربية السعودية",
+        "common": "السعودية"
+      },
+      "bre": {
+        "official": "Rouantelezh Arabia Saoudat",
+        "common": "Arabia Saoudat"
+      },
+      "ces": {
+        "official": "Saúdskoarabské království",
+        "common": "Saúdská Arábie"
+      },
+      "cym": {
+        "official": "Kingdom of Saudi Arabia",
+        "common": "Saudi Arabia"
+      },
+      "deu": {
+        "official": "Königreich Saudi-Arabien",
+        "common": "Saudi-Arabien"
+      },
+      "est": {
+        "official": "Saudi Araabia Kuningriik",
+        "common": "Saudi Araabia"
+      },
+      "fin": {
+        "official": "Saudi-Arabian kuningaskunta",
+        "common": "Saudi-Arabia"
+      },
+      "fra": {
+        "official": "Royaume d'Arabie Saoudite",
+        "common": "Arabie Saoudite"
+      },
+      "hrv": {
+        "official": "Kraljevina Saudijska Arabija",
+        "common": "Saudijska Arabija"
+      },
+      "hun": {
+        "official": "Szaúd-Arábia",
+        "common": "Szaúd-Arábia"
+      },
+      "ita": {
+        "official": "Arabia Saudita",
+        "common": "Arabia Saudita"
+      },
+      "jpn": {
+        "official": "サウジアラビア王国",
+        "common": "サウジアラビア"
+      },
+      "kor": {
+        "official": "사우디아라비아 왕국",
+        "common": "사우디아라비아"
+      },
+      "nld": {
+        "official": "Koninkrijk van Saoedi-Arabië",
+        "common": "Saoedi-Arabië"
+      },
+      "per": {
+        "official": "پادشاهی عربی سَعودی",
+        "common": "عربستان سعودی"
+      },
+      "pol": {
+        "official": "Królestwo Arabii Saudyjskiej",
+        "common": "Arabia Saudyjska"
+      },
+      "por": {
+        "official": "Reino da Arábia Saudita",
+        "common": "Arábia Saudita"
+      },
+      "rus": {
+        "official": "Королевство Саудовская Аравия",
+        "common": "Саудовская Аравия"
+      },
+      "slk": {
+        "official": "Saudskoarabské kráľovstvo",
+        "common": "Saudská Arábia"
+      },
+      "spa": {
+        "official": "Reino de Arabia Saudita",
+        "common": "Arabia Saudí"
+      },
+      "srp": {
+        "official": "Краљевина Саудијска Арабија",
+        "common": "Саудијска Арабија"
+      },
+      "swe": {
+        "official": "Kungadömet Saudiarabien",
+        "common": "Saudiarabien"
+      },
+      "tur": {
+        "official": "Suudi Arabistan Krallığı",
+        "common": "Suudi Arabistan"
+      },
+      "urd": {
+        "official": "مملکتِ سعودی عرب",
+        "common": "سعودی عرب"
+      },
+      "zho": {
+        "official": "沙特阿拉伯王国",
+        "common": "沙特阿拉伯"
+      }
+    },
+    "latlng": [
+      25.0,
+      45.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "area": 2149690.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saudi Arabian",
+        "m": "Saudi Arabian"
+      },
+      "fra": {
+        "f": "Saoudienne",
+        "m": "Saoudien"
+      }
+    },
+    "flag": "🇸🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307584"
+    },
+    "population": 34813867,
+    "fifa": "KSA",
+    "car": {
+      "signs": [
+        "SA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sa.png",
+      "svg": "https://flagcdn.com/sa.svg",
+      "alt": "The flag of Saudi Arabia has a green field, at the center of which is an Arabic inscription — the Shahada — in white above a white horizontal sabre with its tip pointed to the hoist side of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sa.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        24.65,
+        46.7
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
       "common": "Senegal",
       "official": "Republic of Senegal",
       "nativeName": {
@@ -40042,6 +39618,223 @@
   },
   {
     "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "United Kingdom of Great Britain and Northern Ireland",
+          "common": "United Kingdom"
+        }
+      }
+    },
+    "tld": [
+      ".uk"
+    ],
+    "cca2": "GB",
+    "ccn3": "826",
+    "cca3": "GBR",
+    "cioc": "GBR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "London"
+    ],
+    "altSpellings": [
+      "GB",
+      "UK",
+      "Great Britain"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية",
+        "common": "المملكة المتحدة"
+      },
+      "bre": {
+        "official": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
+        "common": "Rouantelezh-Unanet"
+      },
+      "ces": {
+        "official": "Spojené království Velké Británie a Severního Irska",
+        "common": "Spojené království"
+      },
+      "cym": {
+        "official": "United Kingdom of Great Britain and Northern Ireland",
+        "common": "United Kingdom"
+      },
+      "deu": {
+        "official": "Vereinigtes Königreich Großbritannien und Nordirland",
+        "common": "Vereinigtes Königreich"
+      },
+      "est": {
+        "official": "Suurbritannia ja Põhja-Iiri Ühendkuningriik",
+        "common": "Suurbritannia"
+      },
+      "fin": {
+        "official": "Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta",
+        "common": "Yhdistynyt kuningaskunta"
+      },
+      "fra": {
+        "official": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+        "common": "Royaume-Uni"
+      },
+      "hrv": {
+        "official": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+        "common": "Ujedinjeno Kraljevstvo"
+      },
+      "hun": {
+        "official": "Nagy-Britannia és Észak-Írország Egyesült Királysága",
+        "common": "Egyesült Királyság"
+      },
+      "ita": {
+        "official": "Regno Unito di Gran Bretagna e Irlanda del Nord",
+        "common": "Regno Unito"
+      },
+      "jpn": {
+        "official": "グレート·ブリテンおよび北アイルランド連合王国",
+        "common": "イギリス"
+      },
+      "kor": {
+        "official": "그레이트브리튼 북아일랜드 연합 왕국",
+        "common": "영국"
+      },
+      "nld": {
+        "official": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
+        "common": "Verenigd Koninkrijk"
+      },
+      "per": {
+        "official": "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی",
+        "common": "انگلیس"
+      },
+      "pol": {
+        "official": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+        "common": "Zjednoczone Królestwo"
+      },
+      "por": {
+        "official": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+        "common": "Reino Unido"
+      },
+      "rus": {
+        "official": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "common": "Великобритания"
+      },
+      "slk": {
+        "official": "Spojené kráľovstvo Veľkej Británie a SevernéhoÌrska",
+        "common": "Veľká Británia (Spojené kráľovstvo)"
+      },
+      "spa": {
+        "official": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+        "common": "Reino Unido"
+      },
+      "srp": {
+        "official": "Уједињено Краљевство Велике Британије и Северне Ирске",
+        "common": "Уједињено Краљевство"
+      },
+      "swe": {
+        "official": "Förenade konungariket Storbritannien och Nordirland",
+        "common": "Storbritannien"
+      },
+      "tur": {
+        "official": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
+        "common": "Birleşik Krallık"
+      },
+      "urd": {
+        "official": "مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ",
+        "common": "مملکتِ متحدہ"
+      },
+      "zho": {
+        "official": "大不列颠及北爱尔兰联合王国",
+        "common": "英国"
+      }
+    },
+    "latlng": [
+      54.0,
+      -2.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRL"
+    ],
+    "area": 242900.0,
+    "demonyms": {
+      "eng": {
+        "f": "British",
+        "m": "British"
+      },
+      "fra": {
+        "f": "Britannique",
+        "m": "Britannique"
+      }
+    },
+    "flag": "🇬🇧",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+    },
+    "population": 67215293,
+    "gini": {
+      "2017": 35.1
+    },
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gb.png",
+      "svg": "https://flagcdn.com/gb.svg",
+      "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gb.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gb.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        51.5,
+        -0.08
+      ]
+    },
+    "postalCode": {
+      "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+      "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+    }
+  },
+  {
+    "name": {
       "common": "United States",
       "official": "United States of America",
       "nativeName": {
@@ -41224,6 +41017,213 @@
     "postalCode": {
       "format": "####",
       "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية اليمنية",
+          "common": "اليَمَن"
+        }
+      }
+    },
+    "tld": [
+      ".ye"
+    ],
+    "cca2": "YE",
+    "ccn3": "887",
+    "cca3": "YEM",
+    "cioc": "YEM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "YER": {
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "67"
+      ]
+    },
+    "capital": [
+      "Sana'a"
+    ],
+    "altSpellings": [
+      "YE",
+      "Yemeni Republic",
+      "al-Jumhūriyyah al-Yamaniyyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية اليمنية",
+        "common": "اليمن"
+      },
+      "bre": {
+        "official": "Republik Yemen",
+        "common": "Yemen"
+      },
+      "ces": {
+        "official": "Jemenská republika",
+        "common": "Jemen"
+      },
+      "cym": {
+        "official": "Republic of Yemen",
+        "common": "Yemen"
+      },
+      "deu": {
+        "official": "Republik Jemen",
+        "common": "Jemen"
+      },
+      "est": {
+        "official": "Jeemeni Vabariik",
+        "common": "Jeemen"
+      },
+      "fin": {
+        "official": "Jemenin tasavalta",
+        "common": "Jemen"
+      },
+      "fra": {
+        "official": "République du Yémen",
+        "common": "Yémen"
+      },
+      "hrv": {
+        "official": "Republika Jemen",
+        "common": "Jemen"
+      },
+      "hun": {
+        "official": "Jemeni Köztársaság",
+        "common": "Jemen"
+      },
+      "ita": {
+        "official": "Repubblica dello Yemen",
+        "common": "Yemen"
+      },
+      "jpn": {
+        "official": "イエメン共和国",
+        "common": "イエメン"
+      },
+      "kor": {
+        "official": "예멘 공화국",
+        "common": "예멘"
+      },
+      "nld": {
+        "official": "Republiek Jemen",
+        "common": "Jemen"
+      },
+      "per": {
+        "official": "جمهوری یمن",
+        "common": "یمن"
+      },
+      "pol": {
+        "official": "Republika Jemeńska",
+        "common": "Jemen"
+      },
+      "por": {
+        "official": "República do Iêmen",
+        "common": "Iémen"
+      },
+      "rus": {
+        "official": "Йеменская Республика",
+        "common": "Йемен"
+      },
+      "slk": {
+        "official": "Jemenská republika",
+        "common": "Jemen"
+      },
+      "spa": {
+        "official": "República de Yemen",
+        "common": "Yemen"
+      },
+      "srp": {
+        "official": "Република Јемен",
+        "common": "Јемен"
+      },
+      "swe": {
+        "official": "Republiken Jemen",
+        "common": "Jemen"
+      },
+      "tur": {
+        "official": "Yemen Cumhuriyeti",
+        "common": "Yemen"
+      },
+      "urd": {
+        "official": "جمہوریہ یمن",
+        "common": "یمن"
+      },
+      "zho": {
+        "official": "也门共和国",
+        "common": "也门"
+      }
+    },
+    "latlng": [
+      15.0,
+      48.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 527968.0,
+    "demonyms": {
+      "eng": {
+        "f": "Yemeni",
+        "m": "Yemeni"
+      },
+      "fra": {
+        "f": "Yéménite",
+        "m": "Yéménite"
+      }
+    },
+    "flag": "🇾🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305092"
+    },
+    "population": 29825968,
+    "gini": {
+      "2014": 36.7
+    },
+    "fifa": "YEM",
+    "car": {
+      "signs": [
+        "YAR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ye.png",
+      "svg": "https://flagcdn.com/ye.svg",
+      "alt": "The flag of Yemen is composed of three equal horizontal bands of red, white and black."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ye.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ye.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        15.37,
+        44.19
+      ]
     }
   },
   {
