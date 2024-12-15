@@ -7927,6 +7927,217 @@
   },
   {
     "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "nativeName": {
+        "spa": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        }
+      }
+    },
+    "tld": [
+      ".sv"
+    ],
+    "cca2": "SV",
+    "ccn3": "222",
+    "cca3": "SLV",
+    "cioc": "ESA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "03"
+      ]
+    },
+    "capital": [
+      "San Salvador"
+    ],
+    "altSpellings": [
+      "SV",
+      "Republic of El Salvador",
+      "República de El Salvador"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية السلفادور",
+        "common": "السلفادور"
+      },
+      "bre": {
+        "official": "Republik El Salvador",
+        "common": "El Salvador"
+      },
+      "ces": {
+        "official": "Salvadorská republika",
+        "common": "Salvador"
+      },
+      "cym": {
+        "official": "Gweriniaeth El Salfador",
+        "common": "El Salfador"
+      },
+      "deu": {
+        "official": "Republik El Salvador",
+        "common": "El Salvador"
+      },
+      "est": {
+        "official": "El Salvadori Vabariik",
+        "common": "El Salvador"
+      },
+      "fin": {
+        "official": "El Salvadorin tasavalta",
+        "common": "El Salvador"
+      },
+      "fra": {
+        "official": "République du Salvador",
+        "common": "Salvador"
+      },
+      "hrv": {
+        "official": "Republika El Salvador",
+        "common": "Salvador"
+      },
+      "hun": {
+        "official": "Salvadori Köztársaság",
+        "common": "Salvador"
+      },
+      "ita": {
+        "official": "Repubblica di El Salvador",
+        "common": "El Salvador"
+      },
+      "jpn": {
+        "official": "エルサルバドル共和国",
+        "common": "エルサルバドル"
+      },
+      "kor": {
+        "official": "엘살바도르 공화국",
+        "common": "엘살바도르"
+      },
+      "nld": {
+        "official": "Republiek El Salvador",
+        "common": "El Salvador"
+      },
+      "per": {
+        "official": "جمهوری السالوادور",
+        "common": "السالوادور"
+      },
+      "pol": {
+        "official": "Republika Salwadoru",
+        "common": "Salwador"
+      },
+      "por": {
+        "official": "República de El Salvador",
+        "common": "El Salvador"
+      },
+      "rus": {
+        "official": "Республика Эль-Сальвадор",
+        "common": "Сальвадор"
+      },
+      "slk": {
+        "official": "Salvádorská republika",
+        "common": "Salvádor"
+      },
+      "spa": {
+        "official": "República de El Salvador",
+        "common": "El Salvador"
+      },
+      "srp": {
+        "official": "Република Ел Салвадор",
+        "common": "Салвадор"
+      },
+      "swe": {
+        "official": "Republiken El Salvador",
+        "common": "El Salvador"
+      },
+      "tur": {
+        "official": "El Salvador Cumhuriyeti",
+        "common": "El Salvador"
+      },
+      "urd": {
+        "official": "جمہوریہ ایل سیلواڈور",
+        "common": "ایل سیلواڈور"
+      },
+      "zho": {
+        "official": "萨尔瓦多共和国",
+        "common": "萨尔瓦多"
+      }
+    },
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "area": 21041.0,
+    "demonyms": {
+      "eng": {
+        "f": "Salvadoran",
+        "m": "Salvadoran"
+      },
+      "fra": {
+        "f": "Salvadorienne",
+        "m": "Salvadorien"
+      }
+    },
+    "flag": "🇸🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+    },
+    "population": 6486201,
+    "gini": {
+      "2019": 38.8
+    },
+    "fifa": "SLV",
+    "car": {
+      "signs": [
+        "ES"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sv.png",
+      "svg": "https://flagcdn.com/sv.svg",
+      "alt": "The flag of El Salvador is composed of three equal horizontal bands of cobalt blue, white and cobalt blue, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.7,
+        -89.2
+      ]
+    },
+    "postalCode": {
+      "format": "CP ####",
+      "regex": "^(?:CP)*(\\d{4})$"
+    }
+  },
+  {
+    "name": {
       "common": "Eswatini",
       "official": "Kingdom of Eswatini",
       "nativeName": {
@@ -9230,6 +9441,224 @@
     "postalCode": {
       "format": "####",
       "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany",
+      "nativeName": {
+        "deu": {
+          "official": "Bundesrepublik Deutschland",
+          "common": "Deutschland"
+        }
+      }
+    },
+    "tld": [
+      ".de"
+    ],
+    "cca2": "DE",
+    "ccn3": "276",
+    "cca3": "DEU",
+    "cioc": "GER",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "9"
+      ]
+    },
+    "capital": [
+      "Berlin"
+    ],
+    "altSpellings": [
+      "DE",
+      "Federal Republic of Germany",
+      "Bundesrepublik Deutschland"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": {
+      "deu": "German"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية ألمانيا الاتحادية",
+        "common": "ألمانيا"
+      },
+      "bre": {
+        "official": "Republik Kevreadel Alamagn",
+        "common": "Alamagn"
+      },
+      "ces": {
+        "official": "Spolková republika Německo",
+        "common": "Německo"
+      },
+      "cym": {
+        "official": "Federal Republic of Germany",
+        "common": "Germany"
+      },
+      "deu": {
+        "official": "Bundesrepublik Deutschland",
+        "common": "Deutschland"
+      },
+      "est": {
+        "official": "Saksamaa Liitvabariik",
+        "common": "Saksamaa"
+      },
+      "fin": {
+        "official": "Saksan liittotasavalta",
+        "common": "Saksa"
+      },
+      "fra": {
+        "official": "République fédérale d'Allemagne",
+        "common": "Allemagne"
+      },
+      "hrv": {
+        "official": "Njemačka Federativna Republika",
+        "common": "Njemačka"
+      },
+      "hun": {
+        "official": "Német Szövetségi Köztársaság",
+        "common": "Németország"
+      },
+      "ita": {
+        "official": "Repubblica federale di Germania",
+        "common": "Germania"
+      },
+      "jpn": {
+        "official": "ドイツ連邦共和国",
+        "common": "ドイツ"
+      },
+      "kor": {
+        "official": "독일 연방 공화국",
+        "common": "독일"
+      },
+      "nld": {
+        "official": "Bondsrepubliek Duitsland",
+        "common": "Duitsland"
+      },
+      "per": {
+        "official": "جمهوری فدرال آلمان",
+        "common": "آلمان"
+      },
+      "pol": {
+        "official": "Republika Federalna Niemiec",
+        "common": "Niemcy"
+      },
+      "por": {
+        "official": "República Federal da Alemanha",
+        "common": "Alemanha"
+      },
+      "rus": {
+        "official": "Федеративная Республика Германия",
+        "common": "Германия"
+      },
+      "slk": {
+        "official": "Nemecká spolková republika",
+        "common": "Nemecko"
+      },
+      "spa": {
+        "official": "República Federal de Alemania",
+        "common": "Alemania"
+      },
+      "srp": {
+        "official": "Савезна Република Немачка",
+        "common": "Немачка"
+      },
+      "swe": {
+        "official": "Förbundsrepubliken Tyskland",
+        "common": "Tyskland"
+      },
+      "tur": {
+        "official": "Almanya Federal Cumhuriyeti",
+        "common": "Almanya"
+      },
+      "urd": {
+        "official": "وفاقی جمہوریہ جرمنی",
+        "common": "جرمنی"
+      },
+      "zho": {
+        "official": "德意志联邦共和国",
+        "common": "德国"
+      }
+    },
+    "latlng": [
+      51.0,
+      9.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "area": 357114.0,
+    "demonyms": {
+      "eng": {
+        "f": "German",
+        "m": "German"
+      },
+      "fra": {
+        "f": "Allemande",
+        "m": "Allemand"
+      }
+    },
+    "flag": "🇩🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
+    },
+    "population": 83240525,
+    "gini": {
+      "2016": 31.9
+    },
+    "fifa": "GER",
+    "car": {
+      "signs": [
+        "DY"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/de.png",
+      "svg": "https://flagcdn.com/de.svg",
+      "alt": "The flag of Germany is composed of three equal horizontal bands of black, red and gold."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/de.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/de.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        52.52,
+        13.4
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -15665,217 +16094,6 @@
   },
   {
     "name": {
-      "common": "El Salvador",
-      "official": "Republic of El Salvador",
-      "nativeName": {
-        "spa": {
-          "official": "República de El Salvador",
-          "common": "El Salvador"
-        }
-      }
-    },
-    "tld": [
-      ".sv"
-    ],
-    "cca2": "SV",
-    "ccn3": "222",
-    "cca3": "SLV",
-    "cioc": "ESA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "03"
-      ]
-    },
-    "capital": [
-      "San Salvador"
-    ],
-    "altSpellings": [
-      "SV",
-      "Republic of El Salvador",
-      "República de El Salvador"
-    ],
-    "region": "Americas",
-    "subregion": "Central America",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية السلفادور",
-        "common": "السلفادور"
-      },
-      "bre": {
-        "official": "Republik El Salvador",
-        "common": "El Salvador"
-      },
-      "ces": {
-        "official": "Salvadorská republika",
-        "common": "Salvador"
-      },
-      "cym": {
-        "official": "Gweriniaeth El Salfador",
-        "common": "El Salfador"
-      },
-      "deu": {
-        "official": "Republik El Salvador",
-        "common": "El Salvador"
-      },
-      "est": {
-        "official": "El Salvadori Vabariik",
-        "common": "El Salvador"
-      },
-      "fin": {
-        "official": "El Salvadorin tasavalta",
-        "common": "El Salvador"
-      },
-      "fra": {
-        "official": "République du Salvador",
-        "common": "Salvador"
-      },
-      "hrv": {
-        "official": "Republika El Salvador",
-        "common": "Salvador"
-      },
-      "hun": {
-        "official": "Salvadori Köztársaság",
-        "common": "Salvador"
-      },
-      "ita": {
-        "official": "Repubblica di El Salvador",
-        "common": "El Salvador"
-      },
-      "jpn": {
-        "official": "エルサルバドル共和国",
-        "common": "エルサルバドル"
-      },
-      "kor": {
-        "official": "엘살바도르 공화국",
-        "common": "엘살바도르"
-      },
-      "nld": {
-        "official": "Republiek El Salvador",
-        "common": "El Salvador"
-      },
-      "per": {
-        "official": "جمهوری السالوادور",
-        "common": "السالوادور"
-      },
-      "pol": {
-        "official": "Republika Salwadoru",
-        "common": "Salwador"
-      },
-      "por": {
-        "official": "República de El Salvador",
-        "common": "El Salvador"
-      },
-      "rus": {
-        "official": "Республика Эль-Сальвадор",
-        "common": "Сальвадор"
-      },
-      "slk": {
-        "official": "Salvádorská republika",
-        "common": "Salvádor"
-      },
-      "spa": {
-        "official": "República de El Salvador",
-        "common": "El Salvador"
-      },
-      "srp": {
-        "official": "Република Ел Салвадор",
-        "common": "Салвадор"
-      },
-      "swe": {
-        "official": "Republiken El Salvador",
-        "common": "El Salvador"
-      },
-      "tur": {
-        "official": "El Salvador Cumhuriyeti",
-        "common": "El Salvador"
-      },
-      "urd": {
-        "official": "جمہوریہ ایل سیلواڈور",
-        "common": "ایل سیلواڈور"
-      },
-      "zho": {
-        "official": "萨尔瓦多共和国",
-        "common": "萨尔瓦多"
-      }
-    },
-    "latlng": [
-      13.83333333,
-      -88.91666666
-    ],
-    "landlocked": false,
-    "borders": [
-      "GTM",
-      "HND"
-    ],
-    "area": 21041.0,
-    "demonyms": {
-      "eng": {
-        "f": "Salvadoran",
-        "m": "Salvadoran"
-      },
-      "fra": {
-        "f": "Salvadorienne",
-        "m": "Salvadorien"
-      }
-    },
-    "flag": "🇸🇻",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
-    },
-    "population": 6486201,
-    "gini": {
-      "2019": 38.8
-    },
-    "fifa": "SLV",
-    "car": {
-      "signs": [
-        "ES"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-06:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/sv.png",
-      "svg": "https://flagcdn.com/sv.svg",
-      "alt": "The flag of El Salvador is composed of three equal horizontal bands of cobalt blue, white and cobalt blue, with the national coat of arms centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/sv.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        13.7,
-        -89.2
-      ]
-    },
-    "postalCode": {
-      "format": "CP ####",
-      "regex": "^(?:CP)*(\\d{4})$"
-    }
-  },
-  {
-    "name": {
       "common": "Namibia",
       "official": "Republic of Namibia",
       "nativeName": {
@@ -16125,224 +16343,6 @@
         -22.57,
         17.08
       ]
-    }
-  },
-  {
-    "name": {
-      "common": "Germany",
-      "official": "Federal Republic of Germany",
-      "nativeName": {
-        "deu": {
-          "official": "Bundesrepublik Deutschland",
-          "common": "Deutschland"
-        }
-      }
-    },
-    "tld": [
-      ".de"
-    ],
-    "cca2": "DE",
-    "ccn3": "276",
-    "cca3": "DEU",
-    "cioc": "GER",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "EUR": {
-        "name": "Euro",
-        "symbol": "€"
-      }
-    },
-    "idd": {
-      "root": "+4",
-      "suffixes": [
-        "9"
-      ]
-    },
-    "capital": [
-      "Berlin"
-    ],
-    "altSpellings": [
-      "DE",
-      "Federal Republic of Germany",
-      "Bundesrepublik Deutschland"
-    ],
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "languages": {
-      "deu": "German"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية ألمانيا الاتحادية",
-        "common": "ألمانيا"
-      },
-      "bre": {
-        "official": "Republik Kevreadel Alamagn",
-        "common": "Alamagn"
-      },
-      "ces": {
-        "official": "Spolková republika Německo",
-        "common": "Německo"
-      },
-      "cym": {
-        "official": "Federal Republic of Germany",
-        "common": "Germany"
-      },
-      "deu": {
-        "official": "Bundesrepublik Deutschland",
-        "common": "Deutschland"
-      },
-      "est": {
-        "official": "Saksamaa Liitvabariik",
-        "common": "Saksamaa"
-      },
-      "fin": {
-        "official": "Saksan liittotasavalta",
-        "common": "Saksa"
-      },
-      "fra": {
-        "official": "République fédérale d'Allemagne",
-        "common": "Allemagne"
-      },
-      "hrv": {
-        "official": "Njemačka Federativna Republika",
-        "common": "Njemačka"
-      },
-      "hun": {
-        "official": "Német Szövetségi Köztársaság",
-        "common": "Németország"
-      },
-      "ita": {
-        "official": "Repubblica federale di Germania",
-        "common": "Germania"
-      },
-      "jpn": {
-        "official": "ドイツ連邦共和国",
-        "common": "ドイツ"
-      },
-      "kor": {
-        "official": "독일 연방 공화국",
-        "common": "독일"
-      },
-      "nld": {
-        "official": "Bondsrepubliek Duitsland",
-        "common": "Duitsland"
-      },
-      "per": {
-        "official": "جمهوری فدرال آلمان",
-        "common": "آلمان"
-      },
-      "pol": {
-        "official": "Republika Federalna Niemiec",
-        "common": "Niemcy"
-      },
-      "por": {
-        "official": "República Federal da Alemanha",
-        "common": "Alemanha"
-      },
-      "rus": {
-        "official": "Федеративная Республика Германия",
-        "common": "Германия"
-      },
-      "slk": {
-        "official": "Nemecká spolková republika",
-        "common": "Nemecko"
-      },
-      "spa": {
-        "official": "República Federal de Alemania",
-        "common": "Alemania"
-      },
-      "srp": {
-        "official": "Савезна Република Немачка",
-        "common": "Немачка"
-      },
-      "swe": {
-        "official": "Förbundsrepubliken Tyskland",
-        "common": "Tyskland"
-      },
-      "tur": {
-        "official": "Almanya Federal Cumhuriyeti",
-        "common": "Almanya"
-      },
-      "urd": {
-        "official": "وفاقی جمہوریہ جرمنی",
-        "common": "جرمنی"
-      },
-      "zho": {
-        "official": "德意志联邦共和国",
-        "common": "德国"
-      }
-    },
-    "latlng": [
-      51.0,
-      9.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "AUT",
-      "BEL",
-      "CZE",
-      "DNK",
-      "FRA",
-      "LUX",
-      "NLD",
-      "POL",
-      "CHE"
-    ],
-    "area": 357114.0,
-    "demonyms": {
-      "eng": {
-        "f": "German",
-        "m": "German"
-      },
-      "fra": {
-        "f": "Allemande",
-        "m": "Allemand"
-      }
-    },
-    "flag": "🇩🇪",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
-    },
-    "population": 83240525,
-    "gini": {
-      "2016": 31.9
-    },
-    "fifa": "GER",
-    "car": {
-      "signs": [
-        "DY"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/de.png",
-      "svg": "https://flagcdn.com/de.svg",
-      "alt": "The flag of Germany is composed of three equal horizontal bands of black, red and gold."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/de.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/de.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        52.52,
-        13.4
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -21902,429 +21902,6 @@
     "postalCode": {
       "format": "### ##",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Vanuatu",
-      "official": "Republic of Vanuatu",
-      "nativeName": {
-        "bis": {
-          "official": "Ripablik blong Vanuatu",
-          "common": "Vanuatu"
-        },
-        "eng": {
-          "official": "Republic of Vanuatu",
-          "common": "Vanuatu"
-        },
-        "fra": {
-          "official": "République de Vanuatu",
-          "common": "Vanuatu"
-        }
-      }
-    },
-    "tld": [
-      ".vu"
-    ],
-    "cca2": "VU",
-    "ccn3": "548",
-    "cca3": "VUT",
-    "cioc": "VAN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "VUV": {
-        "name": "Vanuatu vatu",
-        "symbol": "Vt"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "78"
-      ]
-    },
-    "capital": [
-      "Port Vila"
-    ],
-    "altSpellings": [
-      "VU",
-      "Republic of Vanuatu",
-      "Ripablik blong Vanuatu",
-      "République de Vanuatu"
-    ],
-    "region": "Oceania",
-    "subregion": "Melanesia",
-    "languages": {
-      "bis": "Bislama",
-      "eng": "English",
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية فانواتو",
-        "common": "فانواتو"
-      },
-      "bre": {
-        "official": "Republik Vanuatu",
-        "common": "Vanuatu"
-      },
-      "ces": {
-        "official": "Republika Vanuatu",
-        "common": "Vanuatu"
-      },
-      "cym": {
-        "official": "Republic of Vanuatu",
-        "common": "Vanuatu"
-      },
-      "deu": {
-        "official": "Vanuatu",
-        "common": "Vanuatu"
-      },
-      "est": {
-        "official": "Vanuatu Vabariik",
-        "common": "Vanuatu"
-      },
-      "fin": {
-        "official": "Vanuatun tasavalta",
-        "common": "Vanuatu"
-      },
-      "fra": {
-        "official": "République de Vanuatu",
-        "common": "Vanuatu"
-      },
-      "hrv": {
-        "official": "Republika Vanuatu",
-        "common": "Vanuatu"
-      },
-      "hun": {
-        "official": "Vanuatui Köztársaság",
-        "common": "Vanuatu"
-      },
-      "ita": {
-        "official": "Repubblica di Vanuatu",
-        "common": "Vanuatu"
-      },
-      "jpn": {
-        "official": "バヌアツ共和国",
-        "common": "バヌアツ"
-      },
-      "kor": {
-        "official": "바누아투 공화국",
-        "common": "바누아투"
-      },
-      "nld": {
-        "official": "Republiek Vanuatu",
-        "common": "Vanuatu"
-      },
-      "per": {
-        "official": "جمهوری وانواتو",
-        "common": "وانواتو"
-      },
-      "pol": {
-        "official": "Republika Vanuatu",
-        "common": "Vanuatu"
-      },
-      "por": {
-        "official": "República de Vanuatu",
-        "common": "Vanuatu"
-      },
-      "rus": {
-        "official": "Республика Вануату",
-        "common": "Вануату"
-      },
-      "slk": {
-        "official": "Vanuatská republika",
-        "common": "Vanuatu"
-      },
-      "spa": {
-        "official": "República de Vanuatu",
-        "common": "Vanuatu"
-      },
-      "srp": {
-        "official": "Република Вануату",
-        "common": "Вануату"
-      },
-      "swe": {
-        "official": "Republiken Vanuatu",
-        "common": "Vanuatu"
-      },
-      "tur": {
-        "official": "Vanuatu Cumhuriyeti",
-        "common": "Vanuatu"
-      },
-      "urd": {
-        "official": "جمہوریہ وانواتو",
-        "common": "وانواتو"
-      },
-      "zho": {
-        "official": "瓦努阿图共和国",
-        "common": "瓦努阿图"
-      }
-    },
-    "latlng": [
-      -16.0,
-      167.0
-    ],
-    "landlocked": false,
-    "area": 12189.0,
-    "demonyms": {
-      "eng": {
-        "f": "Ni-Vanuatu",
-        "m": "Ni-Vanuatu"
-      },
-      "fra": {
-        "f": "Vanuatuane",
-        "m": "Vanuatuan"
-      }
-    },
-    "flag": "🇻🇺",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
-    },
-    "population": 307150,
-    "gini": {
-      "2010": 37.6
-    },
-    "fifa": "VAN",
-    "car": {
-      "signs": [
-        "VU"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+11:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/vu.png",
-      "svg": "https://flagcdn.com/vu.svg",
-      "alt": "The flag of Vanuatu is composed of two equal horizontal bands of red and green, with a black isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and is enclosed on its sides by the arms of a thin black-edged yellow horizontally oriented Y-shaped band which extends along the boundary of the red and green bands to the fly end of the field. A yellow boar's tusk encircling two yellow crossed namele leaves is centered in the triangle."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/vu.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/vu.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -17.73,
-        168.32
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Togo",
-      "official": "Togolese Republic",
-      "nativeName": {
-        "fra": {
-          "official": "République togolaise",
-          "common": "Togo"
-        }
-      }
-    },
-    "tld": [
-      ".tg"
-    ],
-    "cca2": "TG",
-    "ccn3": "768",
-    "cca3": "TGO",
-    "cioc": "TOG",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XOF": {
-        "name": "West African CFA franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "28"
-      ]
-    },
-    "capital": [
-      "Lomé"
-    ],
-    "altSpellings": [
-      "TG",
-      "Togolese",
-      "Togolese Republic",
-      "République Togolaise"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية توغو",
-        "common": "توغو"
-      },
-      "bre": {
-        "official": "Republik Togoat",
-        "common": "Togo"
-      },
-      "ces": {
-        "official": "Republika Togo",
-        "common": "Togo"
-      },
-      "cym": {
-        "official": "Togolese Republic",
-        "common": "Togo"
-      },
-      "deu": {
-        "official": "Republik Togo",
-        "common": "Togo"
-      },
-      "est": {
-        "official": "Togo Vabariik",
-        "common": "Togo"
-      },
-      "fin": {
-        "official": "Togon tasavalta",
-        "common": "Togo"
-      },
-      "fra": {
-        "official": "République togolaise",
-        "common": "Togo"
-      },
-      "hrv": {
-        "official": "Togolese Republika",
-        "common": "Togo"
-      },
-      "hun": {
-        "official": "Togói Köztársaság",
-        "common": "Togo"
-      },
-      "ita": {
-        "official": "Repubblica del Togo",
-        "common": "Togo"
-      },
-      "jpn": {
-        "official": "トーゴ共和国",
-        "common": "トーゴ"
-      },
-      "kor": {
-        "official": "토고 공화국",
-        "common": "토고"
-      },
-      "nld": {
-        "official": "Republiek Togo",
-        "common": "Togo"
-      },
-      "per": {
-        "official": "جمهوری توگو",
-        "common": "توگو"
-      },
-      "pol": {
-        "official": "Republika Togijska",
-        "common": "Togo"
-      },
-      "por": {
-        "official": "República do Togo",
-        "common": "Togo"
-      },
-      "rus": {
-        "official": "Того Республика",
-        "common": "Того"
-      },
-      "slk": {
-        "official": "Togská republika",
-        "common": "Togo"
-      },
-      "spa": {
-        "official": "República de Togo",
-        "common": "Togo"
-      },
-      "srp": {
-        "official": "Тоголешка Република",
-        "common": "Того"
-      },
-      "swe": {
-        "official": "Republiken Togo",
-        "common": "Togo"
-      },
-      "tur": {
-        "official": "Togo Cumhuriyeti",
-        "common": "Togo"
-      },
-      "urd": {
-        "official": "جمہوریہ ٹوگو",
-        "common": "ٹوگو"
-      },
-      "zho": {
-        "official": "多哥共和国",
-        "common": "多哥"
-      }
-    },
-    "latlng": [
-      8.0,
-      1.16666666
-    ],
-    "landlocked": false,
-    "borders": [
-      "BEN",
-      "BFA",
-      "GHA"
-    ],
-    "area": 56785.0,
-    "demonyms": {
-      "eng": {
-        "f": "Togolese",
-        "m": "Togolese"
-      },
-      "fra": {
-        "f": "Togolaise",
-        "m": "Togolais"
-      }
-    },
-    "flag": "🇹🇬",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192782"
-    },
-    "population": 8278737,
-    "gini": {
-      "2015": 43.1
-    },
-    "fifa": "TOG",
-    "car": {
-      "signs": [
-        "TG"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/tg.png",
-      "svg": "https://flagcdn.com/tg.svg",
-      "alt": "The flag of Togo is composed of five equal horizontal bands of green alternating with yellow. A red square bearing a five-pointed white star is superimposed in the canton."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/tg.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/tg.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        6.14,
-        1.21
-      ]
     }
   },
   {
@@ -38559,6 +38136,215 @@
   },
   {
     "name": {
+      "common": "Togo",
+      "official": "Togolese Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République togolaise",
+          "common": "Togo"
+        }
+      }
+    },
+    "tld": [
+      ".tg"
+    ],
+    "cca2": "TG",
+    "ccn3": "768",
+    "cca3": "TGO",
+    "cioc": "TOG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "28"
+      ]
+    },
+    "capital": [
+      "Lomé"
+    ],
+    "altSpellings": [
+      "TG",
+      "Togolese",
+      "Togolese Republic",
+      "République Togolaise"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية توغو",
+        "common": "توغو"
+      },
+      "bre": {
+        "official": "Republik Togoat",
+        "common": "Togo"
+      },
+      "ces": {
+        "official": "Republika Togo",
+        "common": "Togo"
+      },
+      "cym": {
+        "official": "Togolese Republic",
+        "common": "Togo"
+      },
+      "deu": {
+        "official": "Republik Togo",
+        "common": "Togo"
+      },
+      "est": {
+        "official": "Togo Vabariik",
+        "common": "Togo"
+      },
+      "fin": {
+        "official": "Togon tasavalta",
+        "common": "Togo"
+      },
+      "fra": {
+        "official": "République togolaise",
+        "common": "Togo"
+      },
+      "hrv": {
+        "official": "Togolese Republika",
+        "common": "Togo"
+      },
+      "hun": {
+        "official": "Togói Köztársaság",
+        "common": "Togo"
+      },
+      "ita": {
+        "official": "Repubblica del Togo",
+        "common": "Togo"
+      },
+      "jpn": {
+        "official": "トーゴ共和国",
+        "common": "トーゴ"
+      },
+      "kor": {
+        "official": "토고 공화국",
+        "common": "토고"
+      },
+      "nld": {
+        "official": "Republiek Togo",
+        "common": "Togo"
+      },
+      "per": {
+        "official": "جمهوری توگو",
+        "common": "توگو"
+      },
+      "pol": {
+        "official": "Republika Togijska",
+        "common": "Togo"
+      },
+      "por": {
+        "official": "República do Togo",
+        "common": "Togo"
+      },
+      "rus": {
+        "official": "Того Республика",
+        "common": "Того"
+      },
+      "slk": {
+        "official": "Togská republika",
+        "common": "Togo"
+      },
+      "spa": {
+        "official": "República de Togo",
+        "common": "Togo"
+      },
+      "srp": {
+        "official": "Тоголешка Република",
+        "common": "Того"
+      },
+      "swe": {
+        "official": "Republiken Togo",
+        "common": "Togo"
+      },
+      "tur": {
+        "official": "Togo Cumhuriyeti",
+        "common": "Togo"
+      },
+      "urd": {
+        "official": "جمہوریہ ٹوگو",
+        "common": "ٹوگو"
+      },
+      "zho": {
+        "official": "多哥共和国",
+        "common": "多哥"
+      }
+    },
+    "latlng": [
+      8.0,
+      1.16666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "area": 56785.0,
+    "demonyms": {
+      "eng": {
+        "f": "Togolese",
+        "m": "Togolese"
+      },
+      "fra": {
+        "f": "Togolaise",
+        "m": "Togolais"
+      }
+    },
+    "flag": "🇹🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192782"
+    },
+    "population": 8278737,
+    "gini": {
+      "2015": 43.1
+    },
+    "fifa": "TOG",
+    "car": {
+      "signs": [
+        "TG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tg.png",
+      "svg": "https://flagcdn.com/tg.svg",
+      "alt": "The flag of Togo is composed of five equal horizontal bands of green alternating with yellow. A red square bearing a five-pointed white star is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.14,
+        1.21
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Tonga",
       "official": "Kingdom of Tonga",
       "nativeName": {
@@ -41020,6 +40806,220 @@
     "postalCode": {
       "format": "######",
       "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu",
+      "nativeName": {
+        "bis": {
+          "official": "Ripablik blong Vanuatu",
+          "common": "Vanuatu"
+        },
+        "eng": {
+          "official": "Republic of Vanuatu",
+          "common": "Vanuatu"
+        },
+        "fra": {
+          "official": "République de Vanuatu",
+          "common": "Vanuatu"
+        }
+      }
+    },
+    "tld": [
+      ".vu"
+    ],
+    "cca2": "VU",
+    "ccn3": "548",
+    "cca3": "VUT",
+    "cioc": "VAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "VUV": {
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "78"
+      ]
+    },
+    "capital": [
+      "Port Vila"
+    ],
+    "altSpellings": [
+      "VU",
+      "Republic of Vanuatu",
+      "Ripablik blong Vanuatu",
+      "République de Vanuatu"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية فانواتو",
+        "common": "فانواتو"
+      },
+      "bre": {
+        "official": "Republik Vanuatu",
+        "common": "Vanuatu"
+      },
+      "ces": {
+        "official": "Republika Vanuatu",
+        "common": "Vanuatu"
+      },
+      "cym": {
+        "official": "Republic of Vanuatu",
+        "common": "Vanuatu"
+      },
+      "deu": {
+        "official": "Vanuatu",
+        "common": "Vanuatu"
+      },
+      "est": {
+        "official": "Vanuatu Vabariik",
+        "common": "Vanuatu"
+      },
+      "fin": {
+        "official": "Vanuatun tasavalta",
+        "common": "Vanuatu"
+      },
+      "fra": {
+        "official": "République de Vanuatu",
+        "common": "Vanuatu"
+      },
+      "hrv": {
+        "official": "Republika Vanuatu",
+        "common": "Vanuatu"
+      },
+      "hun": {
+        "official": "Vanuatui Köztársaság",
+        "common": "Vanuatu"
+      },
+      "ita": {
+        "official": "Repubblica di Vanuatu",
+        "common": "Vanuatu"
+      },
+      "jpn": {
+        "official": "バヌアツ共和国",
+        "common": "バヌアツ"
+      },
+      "kor": {
+        "official": "바누아투 공화국",
+        "common": "바누아투"
+      },
+      "nld": {
+        "official": "Republiek Vanuatu",
+        "common": "Vanuatu"
+      },
+      "per": {
+        "official": "جمهوری وانواتو",
+        "common": "وانواتو"
+      },
+      "pol": {
+        "official": "Republika Vanuatu",
+        "common": "Vanuatu"
+      },
+      "por": {
+        "official": "República de Vanuatu",
+        "common": "Vanuatu"
+      },
+      "rus": {
+        "official": "Республика Вануату",
+        "common": "Вануату"
+      },
+      "slk": {
+        "official": "Vanuatská republika",
+        "common": "Vanuatu"
+      },
+      "spa": {
+        "official": "República de Vanuatu",
+        "common": "Vanuatu"
+      },
+      "srp": {
+        "official": "Република Вануату",
+        "common": "Вануату"
+      },
+      "swe": {
+        "official": "Republiken Vanuatu",
+        "common": "Vanuatu"
+      },
+      "tur": {
+        "official": "Vanuatu Cumhuriyeti",
+        "common": "Vanuatu"
+      },
+      "urd": {
+        "official": "جمہوریہ وانواتو",
+        "common": "وانواتو"
+      },
+      "zho": {
+        "official": "瓦努阿图共和国",
+        "common": "瓦努阿图"
+      }
+    },
+    "latlng": [
+      -16.0,
+      167.0
+    ],
+    "landlocked": false,
+    "area": 12189.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ni-Vanuatu",
+        "m": "Ni-Vanuatu"
+      },
+      "fra": {
+        "f": "Vanuatuane",
+        "m": "Vanuatuan"
+      }
+    },
+    "flag": "🇻🇺",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
+    },
+    "population": 307150,
+    "gini": {
+      "2010": 37.6
+    },
+    "fifa": "VAN",
+    "car": {
+      "signs": [
+        "VU"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vu.png",
+      "svg": "https://flagcdn.com/vu.svg",
+      "alt": "The flag of Vanuatu is composed of two equal horizontal bands of red and green, with a black isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and is enclosed on its sides by the arms of a thin black-edged yellow horizontally oriented Y-shaped band which extends along the boundary of the red and green bands to the fly end of the field. A yellow boar's tusk encircling two yellow crossed namele leaves is centered in the triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vu.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vu.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -17.73,
+        168.32
+      ]
     }
   },
   {
