@@ -5989,427 +5989,6 @@
   },
   {
     "name": {
-      "common": "Solomon Islands",
-      "official": "Solomon Islands",
-      "nativeName": {
-        "eng": {
-          "official": "Solomon Islands",
-          "common": "Solomon Islands"
-        }
-      }
-    },
-    "tld": [
-      ".sb"
-    ],
-    "cca2": "SB",
-    "ccn3": "090",
-    "cca3": "SLB",
-    "cioc": "SOL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "SBD": {
-        "name": "Solomon Islands dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "77"
-      ]
-    },
-    "capital": [
-      "Honiara"
-    ],
-    "altSpellings": [
-      "SB"
-    ],
-    "region": "Oceania",
-    "subregion": "Melanesia",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "جزر سليمان",
-        "common": "جزر سليمان"
-      },
-      "bre": {
-        "official": "Inizi Salomon",
-        "common": "Inizi Salomon"
-      },
-      "ces": {
-        "official": "Šalamounovy ostrovy",
-        "common": "Šalamounovy ostrovy"
-      },
-      "cym": {
-        "official": "Solomon Islands",
-        "common": "Solomon Islands"
-      },
-      "deu": {
-        "official": "Salomonen",
-        "common": "Salomonen"
-      },
-      "est": {
-        "official": "Saalomoni Saared",
-        "common": "Saalomoni Saared"
-      },
-      "fin": {
-        "official": "Salomonsaaret",
-        "common": "Salomonsaaret"
-      },
-      "fra": {
-        "official": "Îles Salomon",
-        "common": "Îles Salomon"
-      },
-      "hrv": {
-        "official": "Solomonski Otoci",
-        "common": "Solomonski Otoci"
-      },
-      "hun": {
-        "official": "Salamon-szigetek",
-        "common": "Salamon-szigetek"
-      },
-      "ita": {
-        "official": "Isole Salomone",
-        "common": "Isole Salomone"
-      },
-      "jpn": {
-        "official": "ソロモン諸島",
-        "common": "ソロモン諸島"
-      },
-      "kor": {
-        "official": "솔로몬 제도",
-        "common": "솔로몬 제도"
-      },
-      "nld": {
-        "official": "Solomon eilanden",
-        "common": "Salomonseilanden"
-      },
-      "per": {
-        "official": "جزایر سلیمان",
-        "common": "جزایر سلیمان"
-      },
-      "pol": {
-        "official": "Wyspy Salomona",
-        "common": "Wyspy Salomona"
-      },
-      "por": {
-        "official": "Ilhas Salomão",
-        "common": "Ilhas Salomão"
-      },
-      "rus": {
-        "official": "Соломоновы острова",
-        "common": "Соломоновы Острова"
-      },
-      "slk": {
-        "official": "Salomonove ostrovy",
-        "common": "Salomonove ostrovy"
-      },
-      "spa": {
-        "official": "islas Salomón",
-        "common": "Islas Salomón"
-      },
-      "srp": {
-        "official": "Соломонска Острва",
-        "common": "Соломонска Острва"
-      },
-      "swe": {
-        "official": "Salomonöarna",
-        "common": "Salomonöarna"
-      },
-      "tur": {
-        "official": "Solomon Adaları",
-        "common": "Solomon Adaları"
-      },
-      "urd": {
-        "official": "جزائر سلیمان",
-        "common": "جزائر سلیمان"
-      },
-      "zho": {
-        "official": "所罗门群岛",
-        "common": "所罗门群岛"
-      }
-    },
-    "latlng": [
-      -8.0,
-      159.0
-    ],
-    "landlocked": false,
-    "area": 28896.0,
-    "demonyms": {
-      "eng": {
-        "f": "Solomon Islander",
-        "m": "Solomon Islander"
-      },
-      "fra": {
-        "f": "Salomonienne",
-        "m": "Salomonien"
-      }
-    },
-    "flag": "🇸🇧",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
-    },
-    "population": 686878,
-    "gini": {
-      "2012": 37.1
-    },
-    "fifa": "SOL",
-    "car": {
-      "signs": [
-        "SOL"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+11:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/sb.png",
-      "svg": "https://flagcdn.com/sb.svg",
-      "alt": "The flag of Solomon Islands features a thin yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. Five white five-pointed stars arranged in an X shape are situated on the hoist side of the upper blue triangle."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/sb.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/sb.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -9.43,
-        159.95
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Uzbekistan",
-      "official": "Republic of Uzbekistan",
-      "nativeName": {
-        "rus": {
-          "official": "Республика Узбекистан",
-          "common": "Узбекистан"
-        },
-        "uzb": {
-          "official": "O'zbekiston Respublikasi",
-          "common": "O‘zbekiston"
-        }
-      }
-    },
-    "tld": [
-      ".uz"
-    ],
-    "cca2": "UZ",
-    "ccn3": "860",
-    "cca3": "UZB",
-    "cioc": "UZB",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "UZS": {
-        "name": "Uzbekistani soʻm",
-        "symbol": "so'm"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "98"
-      ]
-    },
-    "capital": [
-      "Tashkent"
-    ],
-    "altSpellings": [
-      "UZ",
-      "Republic of Uzbekistan",
-      "O‘zbekiston Respublikasi",
-      "Ўзбекистон Республикаси"
-    ],
-    "region": "Asia",
-    "subregion": "Central Asia",
-    "languages": {
-      "rus": "Russian",
-      "uzb": "Uzbek"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية أوزباكستان",
-        "common": "أوزباكستان"
-      },
-      "bre": {
-        "official": "Republik Ouzbekistan",
-        "common": "Ouzbekistan"
-      },
-      "ces": {
-        "official": "Republika Uzbekistán",
-        "common": "Uzbekistán"
-      },
-      "cym": {
-        "official": "Republic of Uzbekistan",
-        "common": "Uzbekistan"
-      },
-      "deu": {
-        "official": "Republik Usbekistan",
-        "common": "Usbekistan"
-      },
-      "est": {
-        "official": "Usbekistani Vabariik",
-        "common": "Usbekistan"
-      },
-      "fin": {
-        "official": "Uzbekistanin tasavalta",
-        "common": "Uzbekistan"
-      },
-      "fra": {
-        "official": "République d'Ouzbékistan",
-        "common": "Ouzbékistan"
-      },
-      "hrv": {
-        "official": "Republika Uzbekistan",
-        "common": "Uzbekistan"
-      },
-      "hun": {
-        "official": "Üzbég Köztársaság",
-        "common": "Üzbegisztán"
-      },
-      "ita": {
-        "official": "Repubblica di Uzbekistan",
-        "common": "Uzbekistan"
-      },
-      "jpn": {
-        "official": "ウズベキスタン共和国",
-        "common": "ウズベキスタン"
-      },
-      "kor": {
-        "official": "우즈베키스탄 공화국",
-        "common": "우즈베키스탄"
-      },
-      "nld": {
-        "official": "Republiek Oezbekistan",
-        "common": "Oezbekistan"
-      },
-      "per": {
-        "official": "جمهوری ازبکستان",
-        "common": "ازبکستان"
-      },
-      "pol": {
-        "official": "Republika Uzbekistanu",
-        "common": "Uzbekistan"
-      },
-      "por": {
-        "official": "República do Usbequistão",
-        "common": "Uzbequistão"
-      },
-      "rus": {
-        "official": "Республика Узбекистан",
-        "common": "Узбекистан"
-      },
-      "slk": {
-        "official": "Uzbecká republika",
-        "common": "Uzbekistan"
-      },
-      "spa": {
-        "official": "República de Uzbekistán",
-        "common": "Uzbekistán"
-      },
-      "srp": {
-        "official": "Република Узбекистан",
-        "common": "Узбекистан"
-      },
-      "swe": {
-        "official": "Republiken Uzbekistan",
-        "common": "Uzbekistan"
-      },
-      "tur": {
-        "official": "Özbekistan Cumhuriyeti",
-        "common": "Özbekistan"
-      },
-      "urd": {
-        "official": "جمہوریہ ازبکستان",
-        "common": "ازبکستان"
-      },
-      "zho": {
-        "official": "乌兹别克斯坦共和国",
-        "common": "乌兹别克斯坦"
-      }
-    },
-    "latlng": [
-      41.0,
-      64.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "AFG",
-      "KAZ",
-      "KGZ",
-      "TJK",
-      "TKM"
-    ],
-    "area": 447400.0,
-    "demonyms": {
-      "eng": {
-        "f": "Uzbekistani",
-        "m": "Uzbekistani"
-      },
-      "fra": {
-        "f": "Ouzbèke",
-        "m": "Ouzbèke"
-      }
-    },
-    "flag": "🇺🇿",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
-    },
-    "population": 34232050,
-    "gini": {
-      "2003": 35.3
-    },
-    "fifa": "UZB",
-    "car": {
-      "signs": [
-        "UZ"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+05:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/uz.png",
-      "svg": "https://flagcdn.com/uz.svg",
-      "alt": "The flag of Uzbekistan is composed of three equal horizontal bands of turquoise, white with red top and bottom edges, and green. On the hoist side of the turquoise band is a fly-side facing white crescent and twelve five-pointed white stars arranged just outside the crescent opening in three rows comprising three, four and five stars."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/uz.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        41.32,
-        69.25
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
       "common": "Egypt",
       "official": "Arab Republic of Egypt",
       "nativeName": {
@@ -37839,6 +37418,207 @@
   },
   {
     "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Solomon Islands",
+          "common": "Solomon Islands"
+        }
+      }
+    },
+    "tld": [
+      ".sb"
+    ],
+    "cca2": "SB",
+    "ccn3": "090",
+    "cca3": "SLB",
+    "cioc": "SOL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SBD": {
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "77"
+      ]
+    },
+    "capital": [
+      "Honiara"
+    ],
+    "altSpellings": [
+      "SB"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جزر سليمان",
+        "common": "جزر سليمان"
+      },
+      "bre": {
+        "official": "Inizi Salomon",
+        "common": "Inizi Salomon"
+      },
+      "ces": {
+        "official": "Šalamounovy ostrovy",
+        "common": "Šalamounovy ostrovy"
+      },
+      "cym": {
+        "official": "Solomon Islands",
+        "common": "Solomon Islands"
+      },
+      "deu": {
+        "official": "Salomonen",
+        "common": "Salomonen"
+      },
+      "est": {
+        "official": "Saalomoni Saared",
+        "common": "Saalomoni Saared"
+      },
+      "fin": {
+        "official": "Salomonsaaret",
+        "common": "Salomonsaaret"
+      },
+      "fra": {
+        "official": "Îles Salomon",
+        "common": "Îles Salomon"
+      },
+      "hrv": {
+        "official": "Solomonski Otoci",
+        "common": "Solomonski Otoci"
+      },
+      "hun": {
+        "official": "Salamon-szigetek",
+        "common": "Salamon-szigetek"
+      },
+      "ita": {
+        "official": "Isole Salomone",
+        "common": "Isole Salomone"
+      },
+      "jpn": {
+        "official": "ソロモン諸島",
+        "common": "ソロモン諸島"
+      },
+      "kor": {
+        "official": "솔로몬 제도",
+        "common": "솔로몬 제도"
+      },
+      "nld": {
+        "official": "Solomon eilanden",
+        "common": "Salomonseilanden"
+      },
+      "per": {
+        "official": "جزایر سلیمان",
+        "common": "جزایر سلیمان"
+      },
+      "pol": {
+        "official": "Wyspy Salomona",
+        "common": "Wyspy Salomona"
+      },
+      "por": {
+        "official": "Ilhas Salomão",
+        "common": "Ilhas Salomão"
+      },
+      "rus": {
+        "official": "Соломоновы острова",
+        "common": "Соломоновы Острова"
+      },
+      "slk": {
+        "official": "Salomonove ostrovy",
+        "common": "Salomonove ostrovy"
+      },
+      "spa": {
+        "official": "islas Salomón",
+        "common": "Islas Salomón"
+      },
+      "srp": {
+        "official": "Соломонска Острва",
+        "common": "Соломонска Острва"
+      },
+      "swe": {
+        "official": "Salomonöarna",
+        "common": "Salomonöarna"
+      },
+      "tur": {
+        "official": "Solomon Adaları",
+        "common": "Solomon Adaları"
+      },
+      "urd": {
+        "official": "جزائر سلیمان",
+        "common": "جزائر سلیمان"
+      },
+      "zho": {
+        "official": "所罗门群岛",
+        "common": "所罗门群岛"
+      }
+    },
+    "latlng": [
+      -8.0,
+      159.0
+    ],
+    "landlocked": false,
+    "area": 28896.0,
+    "demonyms": {
+      "eng": {
+        "f": "Solomon Islander",
+        "m": "Solomon Islander"
+      },
+      "fra": {
+        "f": "Salomonienne",
+        "m": "Salomonien"
+      }
+    },
+    "flag": "🇸🇧",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
+    },
+    "population": 686878,
+    "gini": {
+      "2012": 37.1
+    },
+    "fifa": "SOL",
+    "car": {
+      "signs": [
+        "SOL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sb.png",
+      "svg": "https://flagcdn.com/sb.svg",
+      "alt": "The flag of Solomon Islands features a thin yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. Five white five-pointed stars arranged in an X shape are situated on the hoist side of the upper blue triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sb.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sb.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -9.43,
+        159.95
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "South Africa",
       "official": "Republic of South Africa",
       "nativeName": {
@@ -41011,6 +40791,226 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan",
+      "nativeName": {
+        "rus": {
+          "official": "Республика Узбекистан",
+          "common": "Узбекистан"
+        },
+        "uzb": {
+          "official": "O'zbekiston Respublikasi",
+          "common": "O‘zbekiston"
+        }
+      }
+    },
+    "tld": [
+      ".uz"
+    ],
+    "cca2": "UZ",
+    "ccn3": "860",
+    "cca3": "UZB",
+    "cioc": "UZB",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "UZS": {
+        "name": "Uzbekistani soʻm",
+        "symbol": "so'm"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "98"
+      ]
+    },
+    "capital": [
+      "Tashkent"
+    ],
+    "altSpellings": [
+      "UZ",
+      "Republic of Uzbekistan",
+      "O‘zbekiston Respublikasi",
+      "Ўзбекистон Республикаси"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+      "rus": "Russian",
+      "uzb": "Uzbek"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية أوزباكستان",
+        "common": "أوزباكستان"
+      },
+      "bre": {
+        "official": "Republik Ouzbekistan",
+        "common": "Ouzbekistan"
+      },
+      "ces": {
+        "official": "Republika Uzbekistán",
+        "common": "Uzbekistán"
+      },
+      "cym": {
+        "official": "Republic of Uzbekistan",
+        "common": "Uzbekistan"
+      },
+      "deu": {
+        "official": "Republik Usbekistan",
+        "common": "Usbekistan"
+      },
+      "est": {
+        "official": "Usbekistani Vabariik",
+        "common": "Usbekistan"
+      },
+      "fin": {
+        "official": "Uzbekistanin tasavalta",
+        "common": "Uzbekistan"
+      },
+      "fra": {
+        "official": "République d'Ouzbékistan",
+        "common": "Ouzbékistan"
+      },
+      "hrv": {
+        "official": "Republika Uzbekistan",
+        "common": "Uzbekistan"
+      },
+      "hun": {
+        "official": "Üzbég Köztársaság",
+        "common": "Üzbegisztán"
+      },
+      "ita": {
+        "official": "Repubblica di Uzbekistan",
+        "common": "Uzbekistan"
+      },
+      "jpn": {
+        "official": "ウズベキスタン共和国",
+        "common": "ウズベキスタン"
+      },
+      "kor": {
+        "official": "우즈베키스탄 공화국",
+        "common": "우즈베키스탄"
+      },
+      "nld": {
+        "official": "Republiek Oezbekistan",
+        "common": "Oezbekistan"
+      },
+      "per": {
+        "official": "جمهوری ازبکستان",
+        "common": "ازبکستان"
+      },
+      "pol": {
+        "official": "Republika Uzbekistanu",
+        "common": "Uzbekistan"
+      },
+      "por": {
+        "official": "República do Usbequistão",
+        "common": "Uzbequistão"
+      },
+      "rus": {
+        "official": "Республика Узбекистан",
+        "common": "Узбекистан"
+      },
+      "slk": {
+        "official": "Uzbecká republika",
+        "common": "Uzbekistan"
+      },
+      "spa": {
+        "official": "República de Uzbekistán",
+        "common": "Uzbekistán"
+      },
+      "srp": {
+        "official": "Република Узбекистан",
+        "common": "Узбекистан"
+      },
+      "swe": {
+        "official": "Republiken Uzbekistan",
+        "common": "Uzbekistan"
+      },
+      "tur": {
+        "official": "Özbekistan Cumhuriyeti",
+        "common": "Özbekistan"
+      },
+      "urd": {
+        "official": "جمہوریہ ازبکستان",
+        "common": "ازبکستان"
+      },
+      "zho": {
+        "official": "乌兹别克斯坦共和国",
+        "common": "乌兹别克斯坦"
+      }
+    },
+    "latlng": [
+      41.0,
+      64.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "area": 447400.0,
+    "demonyms": {
+      "eng": {
+        "f": "Uzbekistani",
+        "m": "Uzbekistani"
+      },
+      "fra": {
+        "f": "Ouzbèke",
+        "m": "Ouzbèke"
+      }
+    },
+    "flag": "🇺🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
+    },
+    "population": 34232050,
+    "gini": {
+      "2003": 35.3
+    },
+    "fifa": "UZB",
+    "car": {
+      "signs": [
+        "UZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/uz.png",
+      "svg": "https://flagcdn.com/uz.svg",
+      "alt": "The flag of Uzbekistan is composed of three equal horizontal bands of turquoise, white with red top and bottom edges, and green. On the hoist side of the turquoise band is a fly-side facing white crescent and twelve five-pointed white stars arranged just outside the crescent opening in three rows comprising three, four and five stars."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/uz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        41.32,
+        69.25
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
     }
   },
   {
