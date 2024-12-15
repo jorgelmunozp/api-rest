@@ -645,6 +645,215 @@
   },
   {
     "name": {
+      "common": "Angola",
+      "official": "Republic of Angola",
+      "nativeName": {
+        "por": {
+          "official": "República de Angola",
+          "common": "Angola"
+        }
+      }
+    },
+    "tld": [
+      ".ao"
+    ],
+    "cca2": "AO",
+    "ccn3": "024",
+    "cca3": "AGO",
+    "cioc": "ANG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AOA": {
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "44"
+      ]
+    },
+    "capital": [
+      "Luanda"
+    ],
+    "altSpellings": [
+      "AO",
+      "República de Angola",
+      "ʁɛpublika de an'ɡɔla"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "ara": {
+        "official": "أنغولا",
+        "common": "جمهورية أنغولا"
+      },
+      "bre": {
+        "official": "Republik Angola",
+        "common": "Angola"
+      },
+      "ces": {
+        "official": "Angolská republika",
+        "common": "Angola"
+      },
+      "cym": {
+        "official": "Gweriniaeth Angola",
+        "common": "Angola"
+      },
+      "deu": {
+        "official": "Republik Angola",
+        "common": "Angola"
+      },
+      "est": {
+        "official": "Angola Vabariik",
+        "common": "Angola"
+      },
+      "fin": {
+        "official": "Angolan tasavalta",
+        "common": "Angola"
+      },
+      "fra": {
+        "official": "République d'Angola",
+        "common": "Angola"
+      },
+      "hrv": {
+        "official": "Republika Angola",
+        "common": "Angola"
+      },
+      "hun": {
+        "official": "Angola",
+        "common": "Angola"
+      },
+      "ita": {
+        "official": "Repubblica dell'Angola",
+        "common": "Angola"
+      },
+      "jpn": {
+        "official": "アンゴラ共和国",
+        "common": "アンゴラ"
+      },
+      "kor": {
+        "official": "앙골라 공화국",
+        "common": "앙골라"
+      },
+      "nld": {
+        "official": "Republiek Angola",
+        "common": "Angola"
+      },
+      "per": {
+        "official": "جمهوری آنگولا",
+        "common": "آنگولا"
+      },
+      "pol": {
+        "official": "Republika Angoli",
+        "common": "Angola"
+      },
+      "por": {
+        "official": "República de Angola",
+        "common": "Angola"
+      },
+      "rus": {
+        "official": "Республика Ангола",
+        "common": "Ангола"
+      },
+      "slk": {
+        "official": "Angolská republika",
+        "common": "Angola"
+      },
+      "spa": {
+        "official": "República de Angola",
+        "common": "Angola"
+      },
+      "srp": {
+        "official": "Република Ангола",
+        "common": "Ангола"
+      },
+      "swe": {
+        "official": "Republiken Angola",
+        "common": "Angola"
+      },
+      "tur": {
+        "official": "Angola Cumhuriyeti",
+        "common": "Angola"
+      },
+      "urd": {
+        "official": "جمہوریہ انگولہ",
+        "common": "انگولہ"
+      },
+      "zho": {
+        "official": "安哥拉共和国",
+        "common": "安哥拉"
+      }
+    },
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "area": 1246700.0,
+    "demonyms": {
+      "eng": {
+        "f": "Angolan",
+        "m": "Angolan"
+      },
+      "fra": {
+        "f": "Angolaise",
+        "m": "Angolais"
+      }
+    },
+    "flag": "🇦🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195267"
+    },
+    "population": 32866268,
+    "gini": {
+      "2018": 51.3
+    },
+    "fifa": "ANG",
+    "car": {
+      "signs": [
+        "ANG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ao.png",
+      "svg": "https://flagcdn.com/ao.svg",
+      "alt": "The flag of Angola features two equal horizontal bands of red and black, with a yellow emblem at its centre. This emblem consists of a five-pointed star within the hoist-side facing half of a cogwheel that is crossed on its lower end by a machete."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ao.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ao.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -8.83,
+        13.22
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Argentina",
       "official": "Argentine Republic",
       "nativeName": {
@@ -2562,6 +2771,220 @@
   },
   {
     "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Botswana",
+          "common": "Botswana"
+        },
+        "tsn": {
+          "official": "Lefatshe la Botswana",
+          "common": "Botswana"
+        }
+      }
+    },
+    "tld": [
+      ".bw"
+    ],
+    "cca2": "BW",
+    "ccn3": "072",
+    "cca3": "BWA",
+    "cioc": "BOT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BWP": {
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "67"
+      ]
+    },
+    "capital": [
+      "Gaborone"
+    ],
+    "altSpellings": [
+      "BW",
+      "Republic of Botswana",
+      "Lefatshe la Botswana"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بوتسوانا",
+        "common": "بوتسوانا"
+      },
+      "bre": {
+        "official": "Republik Botswana",
+        "common": "Botswana"
+      },
+      "ces": {
+        "official": "Botswanská republika",
+        "common": "Botswana"
+      },
+      "cym": {
+        "official": "Republic of Botswana",
+        "common": "Botswana"
+      },
+      "deu": {
+        "official": "Republik Botsuana",
+        "common": "Botswana"
+      },
+      "est": {
+        "official": "Botswana Vabariik",
+        "common": "Botswana"
+      },
+      "fin": {
+        "official": "Botswanan tasavalta",
+        "common": "Botswana"
+      },
+      "fra": {
+        "official": "République du Botswana",
+        "common": "Botswana"
+      },
+      "hrv": {
+        "official": "Republika Bocvana",
+        "common": "Bocvana"
+      },
+      "hun": {
+        "official": "Botswanai Köztársaság",
+        "common": "Botswana"
+      },
+      "ita": {
+        "official": "Repubblica del Botswana",
+        "common": "Botswana"
+      },
+      "jpn": {
+        "official": "ボツワナ共和国",
+        "common": "ボツワナ"
+      },
+      "kor": {
+        "official": "보츠와나 공화국",
+        "common": "보츠와나"
+      },
+      "nld": {
+        "official": "Republiek Botswana",
+        "common": "Botswana"
+      },
+      "per": {
+        "official": "جمهوری بوتسوانا",
+        "common": "بوتسوانا"
+      },
+      "pol": {
+        "official": "Republika Botswany",
+        "common": "Botswana"
+      },
+      "por": {
+        "official": "República do Botswana",
+        "common": "Botswana"
+      },
+      "rus": {
+        "official": "Республика Ботсвана",
+        "common": "Ботсвана"
+      },
+      "slk": {
+        "official": "Botswanská republika",
+        "common": "Botswana"
+      },
+      "spa": {
+        "official": "República de Botswana",
+        "common": "Botswana"
+      },
+      "srp": {
+        "official": "Република Боцвана",
+        "common": "Боцвана"
+      },
+      "swe": {
+        "official": "Republiken Botswana",
+        "common": "Botswana"
+      },
+      "tur": {
+        "official": "Botsvana Cumhuriyeti",
+        "common": "Botsvana"
+      },
+      "urd": {
+        "official": "جمہوریہ بوٹسوانا",
+        "common": "بوٹسوانا"
+      },
+      "zho": {
+        "official": "博茨瓦纳共和国",
+        "common": "博茨瓦纳"
+      }
+    },
+    "latlng": [
+      -22.0,
+      24.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 582000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Motswana",
+        "m": "Motswana"
+      },
+      "fra": {
+        "f": "Botswanaise",
+        "m": "Botswanais"
+      }
+    },
+    "flag": "🇧🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
+    },
+    "population": 2351625,
+    "gini": {
+      "2015": 53.3
+    },
+    "fifa": "BOT",
+    "car": {
+      "signs": [
+        "BW"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bw.png",
+      "svg": "https://flagcdn.com/bw.svg",
+      "alt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -24.63,
+        25.9
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Brazil",
       "official": "Federative Republic of Brazil",
       "nativeName": {
@@ -2781,6 +3204,218 @@
     "postalCode": {
       "format": "#####-###",
       "regex": "^(\\d{8})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace",
+      "nativeName": {
+        "msa": {
+          "official": "Nation of Brunei, Abode Damai",
+          "common": "Negara Brunei Darussalam"
+        }
+      }
+    },
+    "tld": [
+      ".bn"
+    ],
+    "cca2": "BN",
+    "ccn3": "096",
+    "cca3": "BRN",
+    "cioc": "BRU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BND": {
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      "SGD": {
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "73"
+      ]
+    },
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "altSpellings": [
+      "BN",
+      "Brunei Darussalam",
+      "Nation of Brunei",
+      "the Abode of Peace"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "msa": "Malay"
+    },
+    "translations": {
+      "ara": {
+        "official": "بروناي دار السلام",
+        "common": "بروناي"
+      },
+      "bre": {
+        "official": "Stad Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "ces": {
+        "official": "Sultanát Brunej",
+        "common": "Brunej"
+      },
+      "cym": {
+        "official": "Teyrnas Brwnei",
+        "common": "Brunei"
+      },
+      "deu": {
+        "official": "Sultanat Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "est": {
+        "official": "Brunei Darussalami Riik",
+        "common": "Brunei"
+      },
+      "fin": {
+        "official": "Brunei Darussalamin valtio",
+        "common": "Brunei"
+      },
+      "fra": {
+        "official": "État de Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "hrv": {
+        "official": "Nacija od Bruneja, Kuću Mira",
+        "common": "Brunej"
+      },
+      "hun": {
+        "official": "Brunei Szultanátus",
+        "common": "Brunei"
+      },
+      "ita": {
+        "official": "Nazione di Brunei, Dimora della Pace",
+        "common": "Brunei"
+      },
+      "jpn": {
+        "official": "ブルネイ、平和の精舎の国家",
+        "common": "ブルネイ・ダルサラーム"
+      },
+      "kor": {
+        "official": "브루나이 다루살람국",
+        "common": "브루나이"
+      },
+      "nld": {
+        "official": "Natie van Brunei, de verblijfplaats van de Vrede",
+        "common": "Brunei"
+      },
+      "per": {
+        "official": "برونئی سرای صلح",
+        "common": "برونئی"
+      },
+      "pol": {
+        "official": "Państwo Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "por": {
+        "official": "Nação do Brunei, Morada da Paz",
+        "common": "Brunei"
+      },
+      "rus": {
+        "official": "Нация Бруней, обитель мира",
+        "common": "Бруней"
+      },
+      "slk": {
+        "official": "Brunejský sultanât",
+        "common": "Brunej"
+      },
+      "spa": {
+        "official": "Nación de Brunei, Morada de la Paz",
+        "common": "Brunei"
+      },
+      "srp": {
+        "official": "Султанат Брунеј, боравиште мира",
+        "common": "Брунеј"
+      },
+      "swe": {
+        "official": "Brunei Darussalam",
+        "common": "Brunei"
+      },
+      "tur": {
+        "official": "Brunei Barış Ülkesi Devleti",
+        "common": "Brunei"
+      },
+      "urd": {
+        "official": "ریاستِ برونائی دارالسلام",
+        "common": "برونائی"
+      },
+      "zho": {
+        "official": "文莱和平之国",
+        "common": "文莱"
+      }
+    },
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "MYS"
+    ],
+    "area": 5765.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bruneian",
+        "m": "Bruneian"
+      },
+      "fra": {
+        "f": "Brunéienne",
+        "m": "Brunéien"
+      }
+    },
+    "flag": "🇧🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
+    },
+    "population": 437483,
+    "fifa": "BRU",
+    "car": {
+      "signs": [
+        "BRU"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bn.png",
+      "svg": "https://flagcdn.com/bn.svg",
+      "alt": "The flag of Brunei has a yellow field with two adjoining diagonal bands of white and black that extend from the upper hoist side of the field to the lower fly side. The red emblem of Brunei is centered on the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.88,
+        114.93
+      ]
+    },
+    "postalCode": {
+      "format": "@@####",
+      "regex": "^([A-Z]{2}\\d{4})$"
     }
   },
   {
@@ -3213,6 +3848,436 @@
   },
   {
     "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia",
+      "nativeName": {
+        "khm": {
+          "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+          "common": "Kâmpŭchéa"
+        }
+      }
+    },
+    "tld": [
+      ".kh"
+    ],
+    "cca2": "KH",
+    "ccn3": "116",
+    "cca3": "KHM",
+    "cioc": "CAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KHR": {
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "55"
+      ]
+    },
+    "capital": [
+      "Phnom Penh"
+    ],
+    "altSpellings": [
+      "KH",
+      "Kingdom of Cambodia"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "khm": "Khmer"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة كمبوديا",
+        "common": "كمبوديا"
+      },
+      "bre": {
+        "official": "Rouantelezh Kambodja",
+        "common": "Kambodja"
+      },
+      "ces": {
+        "official": "Kambodžské království",
+        "common": "Kambodža"
+      },
+      "cym": {
+        "official": "Teyrnas Cambodia",
+        "common": "Cambodia"
+      },
+      "deu": {
+        "official": "Königreich Kambodscha",
+        "common": "Kambodscha"
+      },
+      "est": {
+        "official": "Kambodža Kuningriik",
+        "common": "Kambodža"
+      },
+      "fin": {
+        "official": "Kambodžan kuningaskunta",
+        "common": "Kambodža"
+      },
+      "fra": {
+        "official": "Royaume du Cambodge",
+        "common": "Cambodge"
+      },
+      "hrv": {
+        "official": "Kraljevina Kambodža",
+        "common": "Kambodža"
+      },
+      "hun": {
+        "official": "Kambodzsai Királyság",
+        "common": "Kambodzsa"
+      },
+      "ita": {
+        "official": "Regno di Cambogia",
+        "common": "Cambogia"
+      },
+      "jpn": {
+        "official": "カンボジア王国",
+        "common": "カンボジア"
+      },
+      "kor": {
+        "official": "캄보디아 왕국",
+        "common": "캄보디아"
+      },
+      "nld": {
+        "official": "Koninkrijk Cambodja",
+        "common": "Cambodja"
+      },
+      "per": {
+        "official": "پادشاهی کامبوج",
+        "common": "کامبوج"
+      },
+      "pol": {
+        "official": "Królestwo Kambodży",
+        "common": "Kambodża"
+      },
+      "por": {
+        "official": "Reino do Camboja",
+        "common": "Camboja"
+      },
+      "rus": {
+        "official": "Королевство Камбоджа",
+        "common": "Камбоджа"
+      },
+      "slk": {
+        "official": "Kamboǆské kráľovstvo",
+        "common": "Kamboǆa"
+      },
+      "spa": {
+        "official": "Reino de Camboya",
+        "common": "Camboya"
+      },
+      "srp": {
+        "official": "Краљевина Камбоџа",
+        "common": "Камбоџа"
+      },
+      "swe": {
+        "official": "Konungariket Kambodja",
+        "common": "Kambodja"
+      },
+      "tur": {
+        "official": "Kamboçya Krallığı",
+        "common": "Kamboçya"
+      },
+      "urd": {
+        "official": "مملکتِ کمبوڈیا",
+        "common": "کمبوڈیا"
+      },
+      "zho": {
+        "official": "柬埔寨王国",
+        "common": "柬埔寨"
+      }
+    },
+    "latlng": [
+      13.0,
+      105.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "area": 181035.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cambodian",
+        "m": "Cambodian"
+      },
+      "fra": {
+        "f": "Cambodgienne",
+        "m": "Cambodgien"
+      }
+    },
+    "flag": "🇰🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
+    },
+    "population": 16718971,
+    "fifa": "CAM",
+    "car": {
+      "signs": [
+        "K"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kh.png",
+      "svg": "https://flagcdn.com/kh.svg",
+      "alt": "The flag of Cambodia features three horizontal bands of blue, red and blue, with a white depiction of the temple complex, Angkor Wat centered in the red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        11.55,
+        104.92
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada",
+      "nativeName": {
+        "eng": {
+          "official": "Canada",
+          "common": "Canada"
+        },
+        "fra": {
+          "official": "Canada",
+          "common": "Canada"
+        }
+      }
+    },
+    "tld": [
+      ".ca"
+    ],
+    "cca2": "CA",
+    "ccn3": "124",
+    "cca3": "CAN",
+    "cioc": "CAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CAD": {
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        ""
+      ]
+    },
+    "capital": [
+      "Ottawa"
+    ],
+    "altSpellings": [
+      "CA"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "كندا",
+        "common": "كندا"
+      },
+      "bre": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "ces": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "cym": {
+        "official": "Canada",
+        "common": "Canada"
+      },
+      "deu": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "est": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "fin": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "fra": {
+        "official": "Canada",
+        "common": "Canada"
+      },
+      "hrv": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "hun": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "ita": {
+        "official": "Canada",
+        "common": "Canada"
+      },
+      "jpn": {
+        "official": "カナダ",
+        "common": "カナダ"
+      },
+      "kor": {
+        "official": "캐나다",
+        "common": "캐나다"
+      },
+      "nld": {
+        "official": "Canada",
+        "common": "Canada"
+      },
+      "per": {
+        "official": "کانادا",
+        "common": "کانادا"
+      },
+      "pol": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "por": {
+        "official": "Canadá",
+        "common": "Canadá"
+      },
+      "rus": {
+        "official": "Канада",
+        "common": "Канада"
+      },
+      "slk": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "spa": {
+        "official": "Canadá",
+        "common": "Canadá"
+      },
+      "srp": {
+        "official": "Канада",
+        "common": "Канада"
+      },
+      "swe": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "tur": {
+        "official": "Kanada",
+        "common": "Kanada"
+      },
+      "urd": {
+        "official": "کینیڈا",
+        "common": "کینیڈا"
+      },
+      "zho": {
+        "official": "加拿大",
+        "common": "加拿大"
+      }
+    },
+    "latlng": [
+      60.0,
+      -95.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "USA"
+    ],
+    "area": 9984670.0,
+    "demonyms": {
+      "eng": {
+        "f": "Canadian",
+        "m": "Canadian"
+      },
+      "fra": {
+        "f": "Canadienne",
+        "m": "Canadien"
+      }
+    },
+    "flag": "🇨🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+    },
+    "population": 38005238,
+    "gini": {
+      "2017": 33.3
+    },
+    "fifa": "CAN",
+    "car": {
+      "signs": [
+        "CDN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ca.png",
+      "svg": "https://flagcdn.com/ca.svg",
+      "alt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        45.42,
+        -75.7
+      ]
+    },
+    "postalCode": {
+      "format": "@#@ #@#",
+      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
+    }
+  },
+  {
+    "name": {
       "common": "Cape Verde",
       "official": "Republic of Cabo Verde",
       "nativeName": {
@@ -3625,6 +4690,224 @@
       "latlng": [
         4.71,
         -74.07
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية تشاد",
+          "common": "تشاد‎"
+        },
+        "fra": {
+          "official": "République du Tchad",
+          "common": "Tchad"
+        }
+      }
+    },
+    "tld": [
+      ".td"
+    ],
+    "cca2": "TD",
+    "ccn3": "148",
+    "cca3": "TCD",
+    "cioc": "CHA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "35"
+      ]
+    },
+    "capital": [
+      "N'Djamena"
+    ],
+    "altSpellings": [
+      "TD",
+      "Tchad",
+      "Republic of Chad",
+      "République du Tchad"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية تشاد",
+        "common": "تشاد"
+      },
+      "bre": {
+        "official": "Republik Tchad",
+        "common": "Tchad"
+      },
+      "ces": {
+        "official": "Čadská republika",
+        "common": "Čad"
+      },
+      "cym": {
+        "official": "Gweriniaeth Tsiad",
+        "common": "Tsiad"
+      },
+      "deu": {
+        "official": "Republik Tschad",
+        "common": "Tschad"
+      },
+      "est": {
+        "official": "Tšaadi Vabariik",
+        "common": "Tšaad"
+      },
+      "fin": {
+        "official": "Tšadin tasavalta",
+        "common": "Tšad"
+      },
+      "fra": {
+        "official": "République du Tchad",
+        "common": "Tchad"
+      },
+      "hrv": {
+        "official": "Čadu",
+        "common": "Čad"
+      },
+      "hun": {
+        "official": "Csád Köztársaság",
+        "common": "Csád"
+      },
+      "ita": {
+        "official": "Repubblica del Ciad",
+        "common": "Ciad"
+      },
+      "jpn": {
+        "official": "チャド共和国",
+        "common": "チャド"
+      },
+      "kor": {
+        "official": "차드 공화국",
+        "common": "차드"
+      },
+      "nld": {
+        "official": "Republiek Tsjaad",
+        "common": "Tsjaad"
+      },
+      "per": {
+        "official": "جمهوری چاد",
+        "common": "چاد"
+      },
+      "pol": {
+        "official": "Republika Czadu",
+        "common": "Czad"
+      },
+      "por": {
+        "official": "República do Chade",
+        "common": "Chade"
+      },
+      "rus": {
+        "official": "Республика Чад",
+        "common": "Чад"
+      },
+      "slk": {
+        "official": "Čadská republika",
+        "common": "Čad"
+      },
+      "spa": {
+        "official": "República de Chad",
+        "common": "Chad"
+      },
+      "srp": {
+        "official": "Република Чад",
+        "common": "Чад"
+      },
+      "swe": {
+        "official": "Republiken Tchad",
+        "common": "Tchad"
+      },
+      "tur": {
+        "official": "Çad Cumhuriyeti",
+        "common": "Çad"
+      },
+      "urd": {
+        "official": "جمہوریہ چاڈ",
+        "common": "چاڈ"
+      },
+      "zho": {
+        "official": "乍得共和国",
+        "common": "乍得"
+      }
+    },
+    "latlng": [
+      15.0,
+      19.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "area": 1284000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Chadian",
+        "m": "Chadian"
+      },
+      "fra": {
+        "f": "Tchadienne",
+        "m": "Tchadien"
+      }
+    },
+    "flag": "🇹🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
+    },
+    "population": 16425859,
+    "gini": {
+      "2011": 43.3
+    },
+    "fifa": "CHA",
+    "car": {
+      "signs": [
+        "TCH",
+        "TD"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/td.png",
+      "svg": "https://flagcdn.com/td.svg",
+      "alt": "The flag of Chad is composed of three equal vertical bands of blue, gold and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/td.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.1,
+        15.03
       ]
     }
   },
@@ -4278,6 +5561,221 @@
     "postalCode": {
       "format": "CP #####",
       "regex": "^(?:CP)*(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus",
+      "nativeName": {
+        "ell": {
+          "official": "Δημοκρατία της Κύπρος",
+          "common": "Κύπρος"
+        },
+        "tur": {
+          "official": "Kıbrıs Cumhuriyeti",
+          "common": "Kıbrıs"
+        }
+      }
+    },
+    "tld": [
+      ".cy"
+    ],
+    "cca2": "CY",
+    "ccn3": "196",
+    "cca3": "CYP",
+    "cioc": "CYP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "57"
+      ]
+    },
+    "capital": [
+      "Nicosia"
+    ],
+    "altSpellings": [
+      "CY",
+      "Kýpros",
+      "Kıbrıs",
+      "Republic of Cyprus",
+      "Κυπριακή Δημοκρατία",
+      "Kıbrıs Cumhuriyeti"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية قبرص",
+        "common": "قبرص"
+      },
+      "bre": {
+        "official": "Republik Kiprenez",
+        "common": "Kiprenez"
+      },
+      "ces": {
+        "official": "Kyperská republika",
+        "common": "Kypr"
+      },
+      "cym": {
+        "official": "Gweriniaeth Cyprus",
+        "common": "Cyprus"
+      },
+      "deu": {
+        "official": "Republik Zypern",
+        "common": "Zypern"
+      },
+      "est": {
+        "official": "Küprose Vabariik",
+        "common": "Küpros"
+      },
+      "fin": {
+        "official": "Kyproksen tasavalta",
+        "common": "Kypros"
+      },
+      "fra": {
+        "official": "République de Chypre",
+        "common": "Chypre"
+      },
+      "hrv": {
+        "official": "Republika Cipar",
+        "common": "Cipar"
+      },
+      "hun": {
+        "official": "Ciprusi Köztársaság",
+        "common": "Ciprus"
+      },
+      "ita": {
+        "official": "Repubblica di Cipro",
+        "common": "Cipro"
+      },
+      "jpn": {
+        "official": "キプロス共和国",
+        "common": "キプロス"
+      },
+      "kor": {
+        "official": "키프로스 공화국",
+        "common": "키프로스"
+      },
+      "nld": {
+        "official": "Republiek Cyprus",
+        "common": "Cyprus"
+      },
+      "per": {
+        "official": "جمهوری قبرس",
+        "common": "قِبرِس"
+      },
+      "pol": {
+        "official": "Republika Cypryjska",
+        "common": "Cypr"
+      },
+      "por": {
+        "official": "República de Chipre",
+        "common": "Chipre"
+      },
+      "rus": {
+        "official": "Республика Кипр",
+        "common": "Кипр"
+      },
+      "slk": {
+        "official": "Cyperská republika",
+        "common": "Cyprus"
+      },
+      "spa": {
+        "official": "República de Chipre",
+        "common": "Chipre"
+      },
+      "srp": {
+        "official": "Кипарска Република",
+        "common": "Кипар"
+      },
+      "swe": {
+        "official": "Republiken Cypern",
+        "common": "Cypern"
+      },
+      "tur": {
+        "official": "Kıbrıs Cumhuriyeti",
+        "common": "Kıbrıs"
+      },
+      "urd": {
+        "official": "جمہوریہ قبرص",
+        "common": "قبرص"
+      },
+      "zho": {
+        "official": "塞浦路斯共和国",
+        "common": "塞浦路斯"
+      }
+    },
+    "latlng": [
+      35.0,
+      33.0
+    ],
+    "landlocked": false,
+    "area": 9251.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cypriot",
+        "m": "Cypriot"
+      },
+      "fra": {
+        "f": "Chypriote",
+        "m": "Chypriote"
+      }
+    },
+    "flag": "🇨🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
+    },
+    "population": 1207361,
+    "gini": {
+      "2018": 32.7
+    },
+    "fifa": "CYP",
+    "car": {
+      "signs": [
+        "CY"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cy.png",
+      "svg": "https://flagcdn.com/cy.svg",
+      "alt": "The flag of Cyprus has a white field, at the center of which is a copper-colored silhouette of the Island of Cyprus above two green olive branches crossed at the stem."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        35.17,
+        33.37
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -6010,6 +7508,218 @@
   },
   {
     "name": {
+      "common": "Georgia",
+      "official": "Georgia",
+      "nativeName": {
+        "kat": {
+          "official": "საქართველო",
+          "common": "საქართველო"
+        }
+      }
+    },
+    "tld": [
+      ".ge"
+    ],
+    "cca2": "GE",
+    "ccn3": "268",
+    "cca3": "GEO",
+    "cioc": "GEO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GEL": {
+        "name": "lari",
+        "symbol": "₾"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "95"
+      ]
+    },
+    "capital": [
+      "Tbilisi"
+    ],
+    "altSpellings": [
+      "GE",
+      "Sakartvelo"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "kat": "Georgian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جورجيا",
+        "common": "جورجيا"
+      },
+      "bre": {
+        "official": "Republik Jorjia",
+        "common": "Jorjia"
+      },
+      "ces": {
+        "official": "Gruzie",
+        "common": "Gruzie"
+      },
+      "cym": {
+        "official": "Georgia",
+        "common": "Georgia"
+      },
+      "deu": {
+        "official": "Georgien",
+        "common": "Georgien"
+      },
+      "est": {
+        "official": "Gruusia",
+        "common": "Gruusia"
+      },
+      "fin": {
+        "official": "Georgia",
+        "common": "Georgia"
+      },
+      "fra": {
+        "official": "République de Géorgie",
+        "common": "Géorgie"
+      },
+      "hrv": {
+        "official": "Gruzija",
+        "common": "Gruzija"
+      },
+      "hun": {
+        "official": "Grúzia",
+        "common": "Grúzia"
+      },
+      "ita": {
+        "official": "Georgia",
+        "common": "Georgia"
+      },
+      "jpn": {
+        "official": "グルジア",
+        "common": "グルジア"
+      },
+      "kor": {
+        "official": "조지아",
+        "common": "조지아"
+      },
+      "nld": {
+        "official": "Georgia",
+        "common": "Georgië"
+      },
+      "per": {
+        "official": "گرجستان",
+        "common": "گرجستان"
+      },
+      "pol": {
+        "official": "Gruzja",
+        "common": "Gruzja"
+      },
+      "por": {
+        "official": "Georgia",
+        "common": "Geórgia"
+      },
+      "rus": {
+        "official": "Грузия",
+        "common": "Грузия"
+      },
+      "slk": {
+        "official": "Gruzínsko",
+        "common": "Gruzínsko"
+      },
+      "spa": {
+        "official": "Georgia",
+        "common": "Georgia"
+      },
+      "srp": {
+        "official": "Грузија",
+        "common": "Грузија"
+      },
+      "swe": {
+        "official": "Georgien",
+        "common": "Georgien"
+      },
+      "tur": {
+        "official": "Gürcistan",
+        "common": "Gürcistan"
+      },
+      "urd": {
+        "official": "جارجیا",
+        "common": "جارجیا"
+      },
+      "zho": {
+        "official": "格鲁吉亚",
+        "common": "格鲁吉亚"
+      }
+    },
+    "latlng": [
+      42.0,
+      43.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "area": 69700.0,
+    "demonyms": {
+      "eng": {
+        "f": "Georgian",
+        "m": "Georgian"
+      },
+      "fra": {
+        "f": "Géorgienne",
+        "m": "Géorgien"
+      }
+    },
+    "flag": "🇬🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/28699"
+    },
+    "population": 3714000,
+    "gini": {
+      "2019": 35.9
+    },
+    "fifa": "GEO",
+    "car": {
+      "signs": [
+        "GE"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ge.png",
+      "svg": "https://flagcdn.com/ge.svg",
+      "alt": "The flag of Georgia has a white field with a large centered red cross that extends to the edges and divides the field into four quarters. A small red Bolnur-Katskhuri cross is centered in each quarter."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ge.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ge.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        41.68,
+        44.83
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
       "common": "Greece",
       "official": "Hellenic Republic",
       "nativeName": {
@@ -6848,6 +8558,233 @@
     "postalCode": {
       "format": "####",
       "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "India",
+      "official": "Republic of India",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of India",
+          "common": "India"
+        },
+        "hin": {
+          "official": "भारत गणराज्य",
+          "common": "भारत"
+        },
+        "tam": {
+          "official": "இந்தியக் குடியரசு",
+          "common": "இந்தியா"
+        }
+      }
+    },
+    "tld": [
+      ".in"
+    ],
+    "cca2": "IN",
+    "ccn3": "356",
+    "cca3": "IND",
+    "cioc": "IND",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "New Delhi"
+    ],
+    "altSpellings": [
+      "IN",
+      "Bhārat",
+      "Republic of India",
+      "Bharat Ganrajya",
+      "இந்தியா"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الهند",
+        "common": "الهند"
+      },
+      "bre": {
+        "official": "Republik India",
+        "common": "India"
+      },
+      "ces": {
+        "official": "Indická republika",
+        "common": "Indie"
+      },
+      "cym": {
+        "official": "Republic of India",
+        "common": "India"
+      },
+      "deu": {
+        "official": "Republik Indien",
+        "common": "Indien"
+      },
+      "est": {
+        "official": "India Vabariik",
+        "common": "India"
+      },
+      "fin": {
+        "official": "Intian tasavalta",
+        "common": "Intia"
+      },
+      "fra": {
+        "official": "République de l'Inde",
+        "common": "Inde"
+      },
+      "hrv": {
+        "official": "Republika Indija",
+        "common": "Indija"
+      },
+      "hun": {
+        "official": "Indiai Köztársaság",
+        "common": "India"
+      },
+      "ita": {
+        "official": "Repubblica dell'India",
+        "common": "India"
+      },
+      "jpn": {
+        "official": "インド共和国",
+        "common": "インド"
+      },
+      "kor": {
+        "official": "인도 공화국",
+        "common": "인도"
+      },
+      "nld": {
+        "official": "Republiek India",
+        "common": "India"
+      },
+      "per": {
+        "official": "جمهوری هندوستان",
+        "common": "هند"
+      },
+      "pol": {
+        "official": "Republika Indii",
+        "common": "Indie"
+      },
+      "por": {
+        "official": "República da Índia",
+        "common": "Índia"
+      },
+      "rus": {
+        "official": "Республика Индия",
+        "common": "Индия"
+      },
+      "slk": {
+        "official": "Indická republika",
+        "common": "India"
+      },
+      "spa": {
+        "official": "República de la India",
+        "common": "India"
+      },
+      "srp": {
+        "official": "Република Индија",
+        "common": "Индија"
+      },
+      "swe": {
+        "official": "Republiken Indien",
+        "common": "Indien"
+      },
+      "tur": {
+        "official": "Hindistan Cumhuriyeti",
+        "common": "Hindistan"
+      },
+      "urd": {
+        "official": "جمہوریہ بھارت",
+        "common": "بھارت"
+      },
+      "zho": {
+        "official": "印度共和国",
+        "common": "印度"
+      }
+    },
+    "latlng": [
+      20.0,
+      77.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "area": 3287590.0,
+    "demonyms": {
+      "eng": {
+        "f": "Indian",
+        "m": "Indian"
+      },
+      "fra": {
+        "f": "Indienne",
+        "m": "Indien"
+      }
+    },
+    "flag": "🇮🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+    },
+    "population": 1380004385,
+    "gini": {
+      "2011": 35.7
+    },
+    "fifa": "IND",
+    "car": {
+      "signs": [
+        "IND"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/in.png",
+      "svg": "https://flagcdn.com/in.svg",
+      "alt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/in.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        28.6,
+        77.2
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
     }
   },
   {
@@ -8131,6 +10068,214 @@
         32.88,
         13.17
       ]
+    }
+  },
+  {
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein",
+      "nativeName": {
+        "deu": {
+          "official": "Fürstentum Liechtenstein",
+          "common": "Liechtenstein"
+        }
+      }
+    },
+    "tld": [
+      ".li"
+    ],
+    "cca2": "LI",
+    "ccn3": "438",
+    "cca3": "LIE",
+    "cioc": "LIE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CHF": {
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "23"
+      ]
+    },
+    "capital": [
+      "Vaduz"
+    ],
+    "altSpellings": [
+      "LI",
+      "Principality of Liechtenstein",
+      "Fürstentum Liechtenstein"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": {
+      "deu": "German"
+    },
+    "translations": {
+      "ara": {
+        "official": "إمارة ليختنشتاين",
+        "common": "ليختنشتاين"
+      },
+      "bre": {
+        "official": "Priñselezh Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "ces": {
+        "official": "Knížectví Lichtenštejnské",
+        "common": "Lichtenštejnsko"
+      },
+      "cym": {
+        "official": "Principality of Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "deu": {
+        "official": "Fürstentum Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "est": {
+        "official": "Liechtensteini Vürstiriik",
+        "common": "Liechtenstein"
+      },
+      "fin": {
+        "official": "Liechensteinin ruhtinaskunta",
+        "common": "Liechenstein"
+      },
+      "fra": {
+        "official": "Principauté du Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "hrv": {
+        "official": "Kneževina Lihtenštajn",
+        "common": "Lihtenštajn"
+      },
+      "hun": {
+        "official": "Liechtensteini Hercegség",
+        "common": "Liechtenstein"
+      },
+      "ita": {
+        "official": "Principato del Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "jpn": {
+        "official": "リヒテンシュタイン公国",
+        "common": "リヒテンシュタイン"
+      },
+      "kor": {
+        "official": "리히텐슈타인 공국",
+        "common": "리히텐슈타인"
+      },
+      "nld": {
+        "official": "Vorstendom Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "per": {
+        "official": "شاهزاده‌نشین لیختن‌اشتاین",
+        "common": "لیختن‌اشتاین"
+      },
+      "pol": {
+        "official": "Księstwo Liechtensteinu",
+        "common": "Liechtenstein"
+      },
+      "por": {
+        "official": "Principado de Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "rus": {
+        "official": "Княжество Лихтенштейн",
+        "common": "Лихтенштейн"
+      },
+      "slk": {
+        "official": "Lichtenštajnské kniežatstvo",
+        "common": "Lichtenštajnsko"
+      },
+      "spa": {
+        "official": "Principado de Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "srp": {
+        "official": "Кнежевина Лихтенштајн",
+        "common": "Лихтенштајн"
+      },
+      "swe": {
+        "official": "Furstendömet Liechtenstein",
+        "common": "Liechtenstein"
+      },
+      "tur": {
+        "official": "Lihtenştayn Prensliği",
+        "common": "Lihtenştayn"
+      },
+      "urd": {
+        "official": "امارات لیختینستائن",
+        "common": "لیختینستائن"
+      },
+      "zho": {
+        "official": "列支敦士登公国",
+        "common": "列支敦士登"
+      }
+    },
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "landlocked": true,
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "area": 160.0,
+    "demonyms": {
+      "eng": {
+        "f": "Liechtensteiner",
+        "m": "Liechtensteiner"
+      },
+      "fra": {
+        "f": "Liechtensteinoise",
+        "m": "Liechtensteinois"
+      }
+    },
+    "flag": "🇱🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
+    },
+    "population": 38137,
+    "fifa": "LIE",
+    "car": {
+      "signs": [
+        "FL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/li.png",
+      "svg": "https://flagcdn.com/li.svg",
+      "alt": "The flag of Liechtenstein is composed of two equal horizontal bands of blue and red, with a golden-yellow crown on the hoist side of the blue band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/li.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/li.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        47.13,
+        9.52
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -10290,214 +12435,6 @@
   },
   {
     "name": {
-      "common": "Liechtenstein",
-      "official": "Principality of Liechtenstein",
-      "nativeName": {
-        "deu": {
-          "official": "Fürstentum Liechtenstein",
-          "common": "Liechtenstein"
-        }
-      }
-    },
-    "tld": [
-      ".li"
-    ],
-    "cca2": "LI",
-    "ccn3": "438",
-    "cca3": "LIE",
-    "cioc": "LIE",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CHF": {
-        "name": "Swiss franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+4",
-      "suffixes": [
-        "23"
-      ]
-    },
-    "capital": [
-      "Vaduz"
-    ],
-    "altSpellings": [
-      "LI",
-      "Principality of Liechtenstein",
-      "Fürstentum Liechtenstein"
-    ],
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "languages": {
-      "deu": "German"
-    },
-    "translations": {
-      "ara": {
-        "official": "إمارة ليختنشتاين",
-        "common": "ليختنشتاين"
-      },
-      "bre": {
-        "official": "Priñselezh Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "ces": {
-        "official": "Knížectví Lichtenštejnské",
-        "common": "Lichtenštejnsko"
-      },
-      "cym": {
-        "official": "Principality of Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "deu": {
-        "official": "Fürstentum Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "est": {
-        "official": "Liechtensteini Vürstiriik",
-        "common": "Liechtenstein"
-      },
-      "fin": {
-        "official": "Liechensteinin ruhtinaskunta",
-        "common": "Liechenstein"
-      },
-      "fra": {
-        "official": "Principauté du Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "hrv": {
-        "official": "Kneževina Lihtenštajn",
-        "common": "Lihtenštajn"
-      },
-      "hun": {
-        "official": "Liechtensteini Hercegség",
-        "common": "Liechtenstein"
-      },
-      "ita": {
-        "official": "Principato del Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "jpn": {
-        "official": "リヒテンシュタイン公国",
-        "common": "リヒテンシュタイン"
-      },
-      "kor": {
-        "official": "리히텐슈타인 공국",
-        "common": "리히텐슈타인"
-      },
-      "nld": {
-        "official": "Vorstendom Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "per": {
-        "official": "شاهزاده‌نشین لیختن‌اشتاین",
-        "common": "لیختن‌اشتاین"
-      },
-      "pol": {
-        "official": "Księstwo Liechtensteinu",
-        "common": "Liechtenstein"
-      },
-      "por": {
-        "official": "Principado de Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "rus": {
-        "official": "Княжество Лихтенштейн",
-        "common": "Лихтенштейн"
-      },
-      "slk": {
-        "official": "Lichtenštajnské kniežatstvo",
-        "common": "Lichtenštajnsko"
-      },
-      "spa": {
-        "official": "Principado de Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "srp": {
-        "official": "Кнежевина Лихтенштајн",
-        "common": "Лихтенштајн"
-      },
-      "swe": {
-        "official": "Furstendömet Liechtenstein",
-        "common": "Liechtenstein"
-      },
-      "tur": {
-        "official": "Lihtenştayn Prensliği",
-        "common": "Lihtenştayn"
-      },
-      "urd": {
-        "official": "امارات لیختینستائن",
-        "common": "لیختینستائن"
-      },
-      "zho": {
-        "official": "列支敦士登公国",
-        "common": "列支敦士登"
-      }
-    },
-    "latlng": [
-      47.26666666,
-      9.53333333
-    ],
-    "landlocked": true,
-    "borders": [
-      "AUT",
-      "CHE"
-    ],
-    "area": 160.0,
-    "demonyms": {
-      "eng": {
-        "f": "Liechtensteiner",
-        "m": "Liechtensteiner"
-      },
-      "fra": {
-        "f": "Liechtensteinoise",
-        "m": "Liechtensteinois"
-      }
-    },
-    "flag": "🇱🇮",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
-    },
-    "population": 38137,
-    "fifa": "LIE",
-    "car": {
-      "signs": [
-        "FL"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/li.png",
-      "svg": "https://flagcdn.com/li.svg",
-      "alt": "The flag of Liechtenstein is composed of two equal horizontal bands of blue and red, with a golden-yellow crown on the hoist side of the blue band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/li.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/li.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        47.13,
-        9.52
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
       "common": "Nepal",
       "official": "Federal Democratic Republic of Nepal",
       "nativeName": {
@@ -10705,218 +12642,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Georgia",
-      "official": "Georgia",
-      "nativeName": {
-        "kat": {
-          "official": "საქართველო",
-          "common": "საქართველო"
-        }
-      }
-    },
-    "tld": [
-      ".ge"
-    ],
-    "cca2": "GE",
-    "ccn3": "268",
-    "cca3": "GEO",
-    "cioc": "GEO",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "GEL": {
-        "name": "lari",
-        "symbol": "₾"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "95"
-      ]
-    },
-    "capital": [
-      "Tbilisi"
-    ],
-    "altSpellings": [
-      "GE",
-      "Sakartvelo"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "kat": "Georgian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جورجيا",
-        "common": "جورجيا"
-      },
-      "bre": {
-        "official": "Republik Jorjia",
-        "common": "Jorjia"
-      },
-      "ces": {
-        "official": "Gruzie",
-        "common": "Gruzie"
-      },
-      "cym": {
-        "official": "Georgia",
-        "common": "Georgia"
-      },
-      "deu": {
-        "official": "Georgien",
-        "common": "Georgien"
-      },
-      "est": {
-        "official": "Gruusia",
-        "common": "Gruusia"
-      },
-      "fin": {
-        "official": "Georgia",
-        "common": "Georgia"
-      },
-      "fra": {
-        "official": "République de Géorgie",
-        "common": "Géorgie"
-      },
-      "hrv": {
-        "official": "Gruzija",
-        "common": "Gruzija"
-      },
-      "hun": {
-        "official": "Grúzia",
-        "common": "Grúzia"
-      },
-      "ita": {
-        "official": "Georgia",
-        "common": "Georgia"
-      },
-      "jpn": {
-        "official": "グルジア",
-        "common": "グルジア"
-      },
-      "kor": {
-        "official": "조지아",
-        "common": "조지아"
-      },
-      "nld": {
-        "official": "Georgia",
-        "common": "Georgië"
-      },
-      "per": {
-        "official": "گرجستان",
-        "common": "گرجستان"
-      },
-      "pol": {
-        "official": "Gruzja",
-        "common": "Gruzja"
-      },
-      "por": {
-        "official": "Georgia",
-        "common": "Geórgia"
-      },
-      "rus": {
-        "official": "Грузия",
-        "common": "Грузия"
-      },
-      "slk": {
-        "official": "Gruzínsko",
-        "common": "Gruzínsko"
-      },
-      "spa": {
-        "official": "Georgia",
-        "common": "Georgia"
-      },
-      "srp": {
-        "official": "Грузија",
-        "common": "Грузија"
-      },
-      "swe": {
-        "official": "Georgien",
-        "common": "Georgien"
-      },
-      "tur": {
-        "official": "Gürcistan",
-        "common": "Gürcistan"
-      },
-      "urd": {
-        "official": "جارجیا",
-        "common": "جارجیا"
-      },
-      "zho": {
-        "official": "格鲁吉亚",
-        "common": "格鲁吉亚"
-      }
-    },
-    "latlng": [
-      42.0,
-      43.5
-    ],
-    "landlocked": false,
-    "borders": [
-      "ARM",
-      "AZE",
-      "RUS",
-      "TUR"
-    ],
-    "area": 69700.0,
-    "demonyms": {
-      "eng": {
-        "f": "Georgian",
-        "m": "Georgian"
-      },
-      "fra": {
-        "f": "Géorgienne",
-        "m": "Géorgien"
-      }
-    },
-    "flag": "🇬🇪",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/28699"
-    },
-    "population": 3714000,
-    "gini": {
-      "2019": 35.9
-    },
-    "fifa": "GEO",
-    "car": {
-      "signs": [
-        "GE"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ge.png",
-      "svg": "https://flagcdn.com/ge.svg",
-      "alt": "The flag of Georgia has a white field with a large centered red cross that extends to the edges and divides the field into four quarters. A small red Bolnur-Katskhuri cross is centered in each quarter."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ge.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ge.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        41.68,
-        44.83
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -11342,220 +13067,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Botswana",
-      "official": "Republic of Botswana",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Botswana",
-          "common": "Botswana"
-        },
-        "tsn": {
-          "official": "Lefatshe la Botswana",
-          "common": "Botswana"
-        }
-      }
-    },
-    "tld": [
-      ".bw"
-    ],
-    "cca2": "BW",
-    "ccn3": "072",
-    "cca3": "BWA",
-    "cioc": "BOT",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "BWP": {
-        "name": "Botswana pula",
-        "symbol": "P"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "67"
-      ]
-    },
-    "capital": [
-      "Gaborone"
-    ],
-    "altSpellings": [
-      "BW",
-      "Republic of Botswana",
-      "Lefatshe la Botswana"
-    ],
-    "region": "Africa",
-    "subregion": "Southern Africa",
-    "languages": {
-      "eng": "English",
-      "tsn": "Tswana"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بوتسوانا",
-        "common": "بوتسوانا"
-      },
-      "bre": {
-        "official": "Republik Botswana",
-        "common": "Botswana"
-      },
-      "ces": {
-        "official": "Botswanská republika",
-        "common": "Botswana"
-      },
-      "cym": {
-        "official": "Republic of Botswana",
-        "common": "Botswana"
-      },
-      "deu": {
-        "official": "Republik Botsuana",
-        "common": "Botswana"
-      },
-      "est": {
-        "official": "Botswana Vabariik",
-        "common": "Botswana"
-      },
-      "fin": {
-        "official": "Botswanan tasavalta",
-        "common": "Botswana"
-      },
-      "fra": {
-        "official": "République du Botswana",
-        "common": "Botswana"
-      },
-      "hrv": {
-        "official": "Republika Bocvana",
-        "common": "Bocvana"
-      },
-      "hun": {
-        "official": "Botswanai Köztársaság",
-        "common": "Botswana"
-      },
-      "ita": {
-        "official": "Repubblica del Botswana",
-        "common": "Botswana"
-      },
-      "jpn": {
-        "official": "ボツワナ共和国",
-        "common": "ボツワナ"
-      },
-      "kor": {
-        "official": "보츠와나 공화국",
-        "common": "보츠와나"
-      },
-      "nld": {
-        "official": "Republiek Botswana",
-        "common": "Botswana"
-      },
-      "per": {
-        "official": "جمهوری بوتسوانا",
-        "common": "بوتسوانا"
-      },
-      "pol": {
-        "official": "Republika Botswany",
-        "common": "Botswana"
-      },
-      "por": {
-        "official": "República do Botswana",
-        "common": "Botswana"
-      },
-      "rus": {
-        "official": "Республика Ботсвана",
-        "common": "Ботсвана"
-      },
-      "slk": {
-        "official": "Botswanská republika",
-        "common": "Botswana"
-      },
-      "spa": {
-        "official": "República de Botswana",
-        "common": "Botswana"
-      },
-      "srp": {
-        "official": "Република Боцвана",
-        "common": "Боцвана"
-      },
-      "swe": {
-        "official": "Republiken Botswana",
-        "common": "Botswana"
-      },
-      "tur": {
-        "official": "Botsvana Cumhuriyeti",
-        "common": "Botsvana"
-      },
-      "urd": {
-        "official": "جمہوریہ بوٹسوانا",
-        "common": "بوٹسوانا"
-      },
-      "zho": {
-        "official": "博茨瓦纳共和国",
-        "common": "博茨瓦纳"
-      }
-    },
-    "latlng": [
-      -22.0,
-      24.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "NAM",
-      "ZAF",
-      "ZMB",
-      "ZWE"
-    ],
-    "area": 582000.0,
-    "demonyms": {
-      "eng": {
-        "f": "Motswana",
-        "m": "Motswana"
-      },
-      "fra": {
-        "f": "Botswanaise",
-        "m": "Botswanais"
-      }
-    },
-    "flag": "🇧🇼",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
-    },
-    "population": 2351625,
-    "gini": {
-      "2015": 53.3
-    },
-    "fifa": "BOT",
-    "car": {
-      "signs": [
-        "BW"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/bw.png",
-      "svg": "https://flagcdn.com/bw.svg",
-      "alt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -24.63,
-        25.9
-      ]
     }
   },
   {
@@ -12205,233 +13716,6 @@
     "postalCode": {
       "format": "###",
       "regex": "^(\\d{3})$"
-    }
-  },
-  {
-    "name": {
-      "common": "India",
-      "official": "Republic of India",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of India",
-          "common": "India"
-        },
-        "hin": {
-          "official": "भारत गणराज्य",
-          "common": "भारत"
-        },
-        "tam": {
-          "official": "இந்தியக் குடியரசு",
-          "common": "இந்தியா"
-        }
-      }
-    },
-    "tld": [
-      ".in"
-    ],
-    "cca2": "IN",
-    "ccn3": "356",
-    "cca3": "IND",
-    "cioc": "IND",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "INR": {
-        "name": "Indian rupee",
-        "symbol": "₹"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "1"
-      ]
-    },
-    "capital": [
-      "New Delhi"
-    ],
-    "altSpellings": [
-      "IN",
-      "Bhārat",
-      "Republic of India",
-      "Bharat Ganrajya",
-      "இந்தியா"
-    ],
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "languages": {
-      "eng": "English",
-      "hin": "Hindi",
-      "tam": "Tamil"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية الهند",
-        "common": "الهند"
-      },
-      "bre": {
-        "official": "Republik India",
-        "common": "India"
-      },
-      "ces": {
-        "official": "Indická republika",
-        "common": "Indie"
-      },
-      "cym": {
-        "official": "Republic of India",
-        "common": "India"
-      },
-      "deu": {
-        "official": "Republik Indien",
-        "common": "Indien"
-      },
-      "est": {
-        "official": "India Vabariik",
-        "common": "India"
-      },
-      "fin": {
-        "official": "Intian tasavalta",
-        "common": "Intia"
-      },
-      "fra": {
-        "official": "République de l'Inde",
-        "common": "Inde"
-      },
-      "hrv": {
-        "official": "Republika Indija",
-        "common": "Indija"
-      },
-      "hun": {
-        "official": "Indiai Köztársaság",
-        "common": "India"
-      },
-      "ita": {
-        "official": "Repubblica dell'India",
-        "common": "India"
-      },
-      "jpn": {
-        "official": "インド共和国",
-        "common": "インド"
-      },
-      "kor": {
-        "official": "인도 공화국",
-        "common": "인도"
-      },
-      "nld": {
-        "official": "Republiek India",
-        "common": "India"
-      },
-      "per": {
-        "official": "جمهوری هندوستان",
-        "common": "هند"
-      },
-      "pol": {
-        "official": "Republika Indii",
-        "common": "Indie"
-      },
-      "por": {
-        "official": "República da Índia",
-        "common": "Índia"
-      },
-      "rus": {
-        "official": "Республика Индия",
-        "common": "Индия"
-      },
-      "slk": {
-        "official": "Indická republika",
-        "common": "India"
-      },
-      "spa": {
-        "official": "República de la India",
-        "common": "India"
-      },
-      "srp": {
-        "official": "Република Индија",
-        "common": "Индија"
-      },
-      "swe": {
-        "official": "Republiken Indien",
-        "common": "Indien"
-      },
-      "tur": {
-        "official": "Hindistan Cumhuriyeti",
-        "common": "Hindistan"
-      },
-      "urd": {
-        "official": "جمہوریہ بھارت",
-        "common": "بھارت"
-      },
-      "zho": {
-        "official": "印度共和国",
-        "common": "印度"
-      }
-    },
-    "latlng": [
-      20.0,
-      77.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BGD",
-      "BTN",
-      "MMR",
-      "CHN",
-      "NPL",
-      "PAK"
-    ],
-    "area": 3287590.0,
-    "demonyms": {
-      "eng": {
-        "f": "Indian",
-        "m": "Indian"
-      },
-      "fra": {
-        "f": "Indienne",
-        "m": "Indien"
-      }
-    },
-    "flag": "🇮🇳",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
-    },
-    "population": 1380004385,
-    "gini": {
-      "2011": 35.7
-    },
-    "fifa": "IND",
-    "car": {
-      "signs": [
-        "IND"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+05:30"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/in.png",
-      "svg": "https://flagcdn.com/in.svg",
-      "alt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/in.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        28.6,
-        77.2
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
     }
   },
   {
@@ -13772,218 +15056,6 @@
   },
   {
     "name": {
-      "common": "Cambodia",
-      "official": "Kingdom of Cambodia",
-      "nativeName": {
-        "khm": {
-          "official": "ព្រះរាជាណាចក្រកម្ពុជា",
-          "common": "Kâmpŭchéa"
-        }
-      }
-    },
-    "tld": [
-      ".kh"
-    ],
-    "cca2": "KH",
-    "ccn3": "116",
-    "cca3": "KHM",
-    "cioc": "CAM",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "KHR": {
-        "name": "Cambodian riel",
-        "symbol": "៛"
-      },
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+8",
-      "suffixes": [
-        "55"
-      ]
-    },
-    "capital": [
-      "Phnom Penh"
-    ],
-    "altSpellings": [
-      "KH",
-      "Kingdom of Cambodia"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "khm": "Khmer"
-    },
-    "translations": {
-      "ara": {
-        "official": "مملكة كمبوديا",
-        "common": "كمبوديا"
-      },
-      "bre": {
-        "official": "Rouantelezh Kambodja",
-        "common": "Kambodja"
-      },
-      "ces": {
-        "official": "Kambodžské království",
-        "common": "Kambodža"
-      },
-      "cym": {
-        "official": "Teyrnas Cambodia",
-        "common": "Cambodia"
-      },
-      "deu": {
-        "official": "Königreich Kambodscha",
-        "common": "Kambodscha"
-      },
-      "est": {
-        "official": "Kambodža Kuningriik",
-        "common": "Kambodža"
-      },
-      "fin": {
-        "official": "Kambodžan kuningaskunta",
-        "common": "Kambodža"
-      },
-      "fra": {
-        "official": "Royaume du Cambodge",
-        "common": "Cambodge"
-      },
-      "hrv": {
-        "official": "Kraljevina Kambodža",
-        "common": "Kambodža"
-      },
-      "hun": {
-        "official": "Kambodzsai Királyság",
-        "common": "Kambodzsa"
-      },
-      "ita": {
-        "official": "Regno di Cambogia",
-        "common": "Cambogia"
-      },
-      "jpn": {
-        "official": "カンボジア王国",
-        "common": "カンボジア"
-      },
-      "kor": {
-        "official": "캄보디아 왕국",
-        "common": "캄보디아"
-      },
-      "nld": {
-        "official": "Koninkrijk Cambodja",
-        "common": "Cambodja"
-      },
-      "per": {
-        "official": "پادشاهی کامبوج",
-        "common": "کامبوج"
-      },
-      "pol": {
-        "official": "Królestwo Kambodży",
-        "common": "Kambodża"
-      },
-      "por": {
-        "official": "Reino do Camboja",
-        "common": "Camboja"
-      },
-      "rus": {
-        "official": "Королевство Камбоджа",
-        "common": "Камбоджа"
-      },
-      "slk": {
-        "official": "Kamboǆské kráľovstvo",
-        "common": "Kamboǆa"
-      },
-      "spa": {
-        "official": "Reino de Camboya",
-        "common": "Camboya"
-      },
-      "srp": {
-        "official": "Краљевина Камбоџа",
-        "common": "Камбоџа"
-      },
-      "swe": {
-        "official": "Konungariket Kambodja",
-        "common": "Kambodja"
-      },
-      "tur": {
-        "official": "Kamboçya Krallığı",
-        "common": "Kamboçya"
-      },
-      "urd": {
-        "official": "مملکتِ کمبوڈیا",
-        "common": "کمبوڈیا"
-      },
-      "zho": {
-        "official": "柬埔寨王国",
-        "common": "柬埔寨"
-      }
-    },
-    "latlng": [
-      13.0,
-      105.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "LAO",
-      "THA",
-      "VNM"
-    ],
-    "area": 181035.0,
-    "demonyms": {
-      "eng": {
-        "f": "Cambodian",
-        "m": "Cambodian"
-      },
-      "fra": {
-        "f": "Cambodgienne",
-        "m": "Cambodgien"
-      }
-    },
-    "flag": "🇰🇭",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
-    },
-    "population": 16718971,
-    "fifa": "CAM",
-    "car": {
-      "signs": [
-        "K"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+07:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/kh.png",
-      "svg": "https://flagcdn.com/kh.svg",
-      "alt": "The flag of Cambodia features three horizontal bands of blue, red and blue, with a white depiction of the temple complex, Angkor Wat centered in the red band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        11.55,
-        104.92
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Iraq",
       "official": "Republic of Iraq",
       "nativeName": {
@@ -14209,217 +15281,6 @@
   },
   {
     "name": {
-      "common": "Sweden",
-      "official": "Kingdom of Sweden",
-      "nativeName": {
-        "swe": {
-          "official": "Konungariket Sverige",
-          "common": "Sverige"
-        }
-      }
-    },
-    "tld": [
-      ".se"
-    ],
-    "cca2": "SE",
-    "ccn3": "752",
-    "cca3": "SWE",
-    "cioc": "SWE",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "SEK": {
-        "name": "Swedish krona",
-        "symbol": "kr"
-      }
-    },
-    "idd": {
-      "root": "+4",
-      "suffixes": [
-        "6"
-      ]
-    },
-    "capital": [
-      "Stockholm"
-    ],
-    "altSpellings": [
-      "SE",
-      "Kingdom of Sweden",
-      "Konungariket Sverige"
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "languages": {
-      "swe": "Swedish"
-    },
-    "translations": {
-      "ara": {
-        "official": "مملكة السويد",
-        "common": "السويد"
-      },
-      "bre": {
-        "official": "Rouantelezh Sveden",
-        "common": "Sveden"
-      },
-      "ces": {
-        "official": "Švédské království",
-        "common": "Švédsko"
-      },
-      "cym": {
-        "official": "Kingdom of Sweden",
-        "common": "Sweden"
-      },
-      "deu": {
-        "official": "Königreich Schweden",
-        "common": "Schweden"
-      },
-      "est": {
-        "official": "Rootsi Kuningriik",
-        "common": "Rootsi"
-      },
-      "fin": {
-        "official": "Ruotsin kuningaskunta",
-        "common": "Ruotsi"
-      },
-      "fra": {
-        "official": "Royaume de Suède",
-        "common": "Suède"
-      },
-      "hrv": {
-        "official": "Kraljevina Švedska",
-        "common": "Švedska"
-      },
-      "hun": {
-        "official": "Svéd Királyság",
-        "common": "Svédország"
-      },
-      "ita": {
-        "official": "Regno di Svezia",
-        "common": "Svezia"
-      },
-      "jpn": {
-        "official": "スウェーデン王国",
-        "common": "スウェーデン"
-      },
-      "kor": {
-        "official": "스웨덴 왕국",
-        "common": "스웨덴"
-      },
-      "nld": {
-        "official": "Koninkrijk Zweden",
-        "common": "Zweden"
-      },
-      "per": {
-        "official": "پادشاهی سوئد",
-        "common": "سوئد"
-      },
-      "pol": {
-        "official": "Królestwo Szwecji",
-        "common": "Szwecja"
-      },
-      "por": {
-        "official": "Reino da Suécia",
-        "common": "Suécia"
-      },
-      "rus": {
-        "official": "Королевство Швеция",
-        "common": "Швеция"
-      },
-      "slk": {
-        "official": "Švédske kráľovstvo",
-        "common": "Švédsko"
-      },
-      "spa": {
-        "official": "Reino de Suecia",
-        "common": "Suecia"
-      },
-      "srp": {
-        "official": "Краљевина Шведска",
-        "common": "Шведска"
-      },
-      "swe": {
-        "official": "Konungariket Sverige",
-        "common": "Sverige"
-      },
-      "tur": {
-        "official": "İsveç Krallığı",
-        "common": "İsveç"
-      },
-      "urd": {
-        "official": "مملکتِ سویڈن",
-        "common": "سویڈن"
-      },
-      "zho": {
-        "official": "瑞典王国",
-        "common": "瑞典"
-      }
-    },
-    "latlng": [
-      62.0,
-      15.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "FIN",
-      "NOR"
-    ],
-    "area": 450295.0,
-    "demonyms": {
-      "eng": {
-        "f": "Swedish",
-        "m": "Swedish"
-      },
-      "fra": {
-        "f": "Suédoise",
-        "m": "Suédois"
-      }
-    },
-    "flag": "🇸🇪",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
-    },
-    "population": 10353442,
-    "gini": {
-      "2018": 30.0
-    },
-    "fifa": "SWE",
-    "car": {
-      "signs": [
-        "S"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/se.png",
-      "svg": "https://flagcdn.com/se.svg",
-      "alt": "The flag of Sweden has a blue field with a large golden-yellow cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/se.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/se.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        59.33,
-        18.05
-      ]
-    },
-    "postalCode": {
-      "format": "SE-### ##",
-      "regex": "^(?:SE)*(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Kyrgyzstan",
       "official": "Kyrgyz Republic",
       "nativeName": {
@@ -14640,244 +15501,6 @@
   },
   {
     "name": {
-      "common": "Russia",
-      "official": "Russian Federation",
-      "nativeName": {
-        "rus": {
-          "official": "Российская Федерация",
-          "common": "Россия"
-        }
-      }
-    },
-    "tld": [
-      ".ru",
-      ".su",
-      ".рф"
-    ],
-    "cca2": "RU",
-    "ccn3": "643",
-    "cca3": "RUS",
-    "cioc": "RUS",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "RUB": {
-        "name": "Russian ruble",
-        "symbol": "₽"
-      }
-    },
-    "idd": {
-      "root": "+7",
-      "suffixes": [
-        "3",
-        "4",
-        "5",
-        "8",
-        "9"
-      ]
-    },
-    "capital": [
-      "Moscow"
-    ],
-    "altSpellings": [
-      "RU",
-      "Russian Federation",
-      "Российская Федерация"
-    ],
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "languages": {
-      "rus": "Russian"
-    },
-    "translations": {
-      "ara": {
-        "official": "روسيا الاتحادية",
-        "common": "روسيا"
-      },
-      "bre": {
-        "official": "Kevread Rusia",
-        "common": "Rusia"
-      },
-      "ces": {
-        "official": "Ruská federace",
-        "common": "Rusko"
-      },
-      "cym": {
-        "official": "Russian Federation",
-        "common": "Russia"
-      },
-      "deu": {
-        "official": "Russische Föderation",
-        "common": "Russland"
-      },
-      "est": {
-        "official": "Venemaa Föderatsioon",
-        "common": "Venemaa"
-      },
-      "fin": {
-        "official": "Venäjän federaatio",
-        "common": "Venäjä"
-      },
-      "fra": {
-        "official": "Fédération de Russie",
-        "common": "Russie"
-      },
-      "hrv": {
-        "official": "Ruska Federacija",
-        "common": "Rusija"
-      },
-      "hun": {
-        "official": "Oroszországi Föderáció",
-        "common": "Oroszország"
-      },
-      "ita": {
-        "official": "Federazione russa",
-        "common": "Russia"
-      },
-      "jpn": {
-        "official": "ロシア連邦",
-        "common": "ロシア連邦"
-      },
-      "kor": {
-        "official": "러시아 연방",
-        "common": "러시아"
-      },
-      "nld": {
-        "official": "Russische Federatie",
-        "common": "Rusland"
-      },
-      "per": {
-        "official": "فدراسیون روسیه",
-        "common": "روسیه"
-      },
-      "pol": {
-        "official": "Federacja Rosyjska",
-        "common": "Rosja"
-      },
-      "por": {
-        "official": "Federação Russa",
-        "common": "Rússia"
-      },
-      "rus": {
-        "official": "Российская Федерация",
-        "common": "Россия"
-      },
-      "slk": {
-        "official": "Ruská federácia",
-        "common": "Rusko"
-      },
-      "spa": {
-        "official": "Federación de Rusia",
-        "common": "Rusia"
-      },
-      "srp": {
-        "official": "Руска Федерација",
-        "common": "Русија"
-      },
-      "swe": {
-        "official": "Ryska federationen",
-        "common": "Ryssland"
-      },
-      "tur": {
-        "official": "Rusya Federasyonu",
-        "common": "Rusya"
-      },
-      "urd": {
-        "official": "روسی وفاق",
-        "common": "روس"
-      },
-      "zho": {
-        "official": "俄罗斯联邦",
-        "common": "俄罗斯"
-      }
-    },
-    "latlng": [
-      60.0,
-      100.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "AZE",
-      "BLR",
-      "CHN",
-      "EST",
-      "FIN",
-      "GEO",
-      "KAZ",
-      "PRK",
-      "LVA",
-      "LTU",
-      "MNG",
-      "NOR",
-      "POL",
-      "UKR"
-    ],
-    "area": 17098242,
-    "demonyms": {
-      "eng": {
-        "f": "Russian",
-        "m": "Russian"
-      },
-      "fra": {
-        "f": "Russe",
-        "m": "Russe"
-      }
-    },
-    "flag": "🇷🇺",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
-    },
-    "population": 144104080,
-    "gini": {
-      "2018": 37.5
-    },
-    "fifa": "RUS",
-    "car": {
-      "signs": [
-        "RUS"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+03:00",
-      "UTC+04:00",
-      "UTC+06:00",
-      "UTC+07:00",
-      "UTC+08:00",
-      "UTC+09:00",
-      "UTC+10:00",
-      "UTC+11:00",
-      "UTC+12:00"
-    ],
-    "continents": [
-      "Europe",
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ru.png",
-      "svg": "https://flagcdn.com/ru.svg",
-      "alt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ru.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ru.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        55.75,
-        37.6
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
       "common": "Malaysia",
       "official": "Malaysia",
       "nativeName": {
@@ -15089,439 +15712,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Cyprus",
-      "official": "Republic of Cyprus",
-      "nativeName": {
-        "ell": {
-          "official": "Δημοκρατία της Κύπρος",
-          "common": "Κύπρος"
-        },
-        "tur": {
-          "official": "Kıbrıs Cumhuriyeti",
-          "common": "Kıbrıs"
-        }
-      }
-    },
-    "tld": [
-      ".cy"
-    ],
-    "cca2": "CY",
-    "ccn3": "196",
-    "cca3": "CYP",
-    "cioc": "CYP",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "EUR": {
-        "name": "Euro",
-        "symbol": "€"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "57"
-      ]
-    },
-    "capital": [
-      "Nicosia"
-    ],
-    "altSpellings": [
-      "CY",
-      "Kýpros",
-      "Kıbrıs",
-      "Republic of Cyprus",
-      "Κυπριακή Δημοκρατία",
-      "Kıbrıs Cumhuriyeti"
-    ],
-    "region": "Europe",
-    "subregion": "Southern Europe",
-    "languages": {
-      "ell": "Greek",
-      "tur": "Turkish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية قبرص",
-        "common": "قبرص"
-      },
-      "bre": {
-        "official": "Republik Kiprenez",
-        "common": "Kiprenez"
-      },
-      "ces": {
-        "official": "Kyperská republika",
-        "common": "Kypr"
-      },
-      "cym": {
-        "official": "Gweriniaeth Cyprus",
-        "common": "Cyprus"
-      },
-      "deu": {
-        "official": "Republik Zypern",
-        "common": "Zypern"
-      },
-      "est": {
-        "official": "Küprose Vabariik",
-        "common": "Küpros"
-      },
-      "fin": {
-        "official": "Kyproksen tasavalta",
-        "common": "Kypros"
-      },
-      "fra": {
-        "official": "République de Chypre",
-        "common": "Chypre"
-      },
-      "hrv": {
-        "official": "Republika Cipar",
-        "common": "Cipar"
-      },
-      "hun": {
-        "official": "Ciprusi Köztársaság",
-        "common": "Ciprus"
-      },
-      "ita": {
-        "official": "Repubblica di Cipro",
-        "common": "Cipro"
-      },
-      "jpn": {
-        "official": "キプロス共和国",
-        "common": "キプロス"
-      },
-      "kor": {
-        "official": "키프로스 공화국",
-        "common": "키프로스"
-      },
-      "nld": {
-        "official": "Republiek Cyprus",
-        "common": "Cyprus"
-      },
-      "per": {
-        "official": "جمهوری قبرس",
-        "common": "قِبرِس"
-      },
-      "pol": {
-        "official": "Republika Cypryjska",
-        "common": "Cypr"
-      },
-      "por": {
-        "official": "República de Chipre",
-        "common": "Chipre"
-      },
-      "rus": {
-        "official": "Республика Кипр",
-        "common": "Кипр"
-      },
-      "slk": {
-        "official": "Cyperská republika",
-        "common": "Cyprus"
-      },
-      "spa": {
-        "official": "República de Chipre",
-        "common": "Chipre"
-      },
-      "srp": {
-        "official": "Кипарска Република",
-        "common": "Кипар"
-      },
-      "swe": {
-        "official": "Republiken Cypern",
-        "common": "Cypern"
-      },
-      "tur": {
-        "official": "Kıbrıs Cumhuriyeti",
-        "common": "Kıbrıs"
-      },
-      "urd": {
-        "official": "جمہوریہ قبرص",
-        "common": "قبرص"
-      },
-      "zho": {
-        "official": "塞浦路斯共和国",
-        "common": "塞浦路斯"
-      }
-    },
-    "latlng": [
-      35.0,
-      33.0
-    ],
-    "landlocked": false,
-    "area": 9251.0,
-    "demonyms": {
-      "eng": {
-        "f": "Cypriot",
-        "m": "Cypriot"
-      },
-      "fra": {
-        "f": "Chypriote",
-        "m": "Chypriote"
-      }
-    },
-    "flag": "🇨🇾",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
-    },
-    "population": 1207361,
-    "gini": {
-      "2018": 32.7
-    },
-    "fifa": "CYP",
-    "car": {
-      "signs": [
-        "CY"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cy.png",
-      "svg": "https://flagcdn.com/cy.svg",
-      "alt": "The flag of Cyprus has a white field, at the center of which is a copper-colored silhouette of the Island of Cyprus above two green olive branches crossed at the stem."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cy.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cy.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        35.17,
-        33.37
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Canada",
-      "official": "Canada",
-      "nativeName": {
-        "eng": {
-          "official": "Canada",
-          "common": "Canada"
-        },
-        "fra": {
-          "official": "Canada",
-          "common": "Canada"
-        }
-      }
-    },
-    "tld": [
-      ".ca"
-    ],
-    "cca2": "CA",
-    "ccn3": "124",
-    "cca3": "CAN",
-    "cioc": "CAN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CAD": {
-        "name": "Canadian dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "suffixes": [
-        ""
-      ]
-    },
-    "capital": [
-      "Ottawa"
-    ],
-    "altSpellings": [
-      "CA"
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "languages": {
-      "eng": "English",
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "كندا",
-        "common": "كندا"
-      },
-      "bre": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "ces": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "cym": {
-        "official": "Canada",
-        "common": "Canada"
-      },
-      "deu": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "est": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "fin": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "fra": {
-        "official": "Canada",
-        "common": "Canada"
-      },
-      "hrv": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "hun": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "ita": {
-        "official": "Canada",
-        "common": "Canada"
-      },
-      "jpn": {
-        "official": "カナダ",
-        "common": "カナダ"
-      },
-      "kor": {
-        "official": "캐나다",
-        "common": "캐나다"
-      },
-      "nld": {
-        "official": "Canada",
-        "common": "Canada"
-      },
-      "per": {
-        "official": "کانادا",
-        "common": "کانادا"
-      },
-      "pol": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "por": {
-        "official": "Canadá",
-        "common": "Canadá"
-      },
-      "rus": {
-        "official": "Канада",
-        "common": "Канада"
-      },
-      "slk": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "spa": {
-        "official": "Canadá",
-        "common": "Canadá"
-      },
-      "srp": {
-        "official": "Канада",
-        "common": "Канада"
-      },
-      "swe": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "tur": {
-        "official": "Kanada",
-        "common": "Kanada"
-      },
-      "urd": {
-        "official": "کینیڈا",
-        "common": "کینیڈا"
-      },
-      "zho": {
-        "official": "加拿大",
-        "common": "加拿大"
-      }
-    },
-    "latlng": [
-      60.0,
-      -95.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "USA"
-    ],
-    "area": 9984670.0,
-    "demonyms": {
-      "eng": {
-        "f": "Canadian",
-        "m": "Canadian"
-      },
-      "fra": {
-        "f": "Canadienne",
-        "m": "Canadien"
-      }
-    },
-    "flag": "🇨🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
-    },
-    "population": 38005238,
-    "gini": {
-      "2017": 33.3
-    },
-    "fifa": "CAN",
-    "car": {
-      "signs": [
-        "CDN"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-08:00",
-      "UTC-07:00",
-      "UTC-06:00",
-      "UTC-05:00",
-      "UTC-04:00",
-      "UTC-03:30"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ca.png",
-      "svg": "https://flagcdn.com/ca.svg",
-      "alt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        45.42,
-        -75.7
-      ]
-    },
-    "postalCode": {
-      "format": "@#@ #@#",
-      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
     }
   },
   {
@@ -16381,213 +16571,6 @@
     "postalCode": {
       "format": "###",
       "regex": "^(\\d{3})$"
-    }
-  },
-  {
-    "name": {
-      "common": "San Marino",
-      "official": "Republic of San Marino",
-      "nativeName": {
-        "ita": {
-          "official": "Repubblica di San Marino",
-          "common": "San Marino"
-        }
-      }
-    },
-    "tld": [
-      ".sm"
-    ],
-    "cca2": "SM",
-    "ccn3": "674",
-    "cca3": "SMR",
-    "cioc": "SMR",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "EUR": {
-        "name": "Euro",
-        "symbol": "€"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "78"
-      ]
-    },
-    "capital": [
-      "City of San Marino"
-    ],
-    "altSpellings": [
-      "SM",
-      "Republic of San Marino",
-      "Repubblica di San Marino"
-    ],
-    "region": "Europe",
-    "subregion": "Southern Europe",
-    "languages": {
-      "ita": "Italian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية سان مارينو",
-        "common": "سان مارينو"
-      },
-      "bre": {
-        "official": "Republik San Marino",
-        "common": "San Marino"
-      },
-      "ces": {
-        "official": "Republika San Marino",
-        "common": "San Marino"
-      },
-      "cym": {
-        "official": "Republic of San Marino",
-        "common": "San Marino"
-      },
-      "deu": {
-        "official": "Republik San Marino",
-        "common": "San Marino"
-      },
-      "est": {
-        "official": "San Marino Vabariik",
-        "common": "San Marino"
-      },
-      "fin": {
-        "official": "San Marinon seesteinen tasavalta",
-        "common": "San Marino"
-      },
-      "fra": {
-        "official": "République de Saint-Marin",
-        "common": "Saint-Marin"
-      },
-      "hrv": {
-        "official": "Većina Serene Republika San Marino",
-        "common": "San Marino"
-      },
-      "hun": {
-        "official": "San Marino Köztársaság",
-        "common": "San Marino"
-      },
-      "ita": {
-        "official": "Serenissima Repubblica di San Marino",
-        "common": "San Marino"
-      },
-      "jpn": {
-        "official": "サンマリノのほとんどセリーヌ共和国",
-        "common": "サンマリノ"
-      },
-      "kor": {
-        "official": "산마리노 공화국",
-        "common": "산마리노"
-      },
-      "nld": {
-        "official": "Meest Serene Republiek San Marino",
-        "common": "San Marino"
-      },
-      "per": {
-        "official": "جمهوری سان مارینو",
-        "common": "سان مارینو"
-      },
-      "pol": {
-        "official": "Republika San Marino",
-        "common": "San Marino"
-      },
-      "por": {
-        "official": "Sereníssima República de San Marino",
-        "common": "San Marino"
-      },
-      "rus": {
-        "official": "Большинство Serene Республика Сан-Марино",
-        "common": "Сан-Марино"
-      },
-      "slk": {
-        "official": "Sanmarínska republika",
-        "common": "San Maríno"
-      },
-      "spa": {
-        "official": "Serenísima República de San Marino",
-        "common": "San Marino"
-      },
-      "srp": {
-        "official": "Најузвишенија Република Сан Марино",
-        "common": "Сан Марино"
-      },
-      "swe": {
-        "official": "Republiken San Marino",
-        "common": "San Marino"
-      },
-      "tur": {
-        "official": "San Marino Cumhuriyeti",
-        "common": "San Marino"
-      },
-      "urd": {
-        "official": "جمہوریہ سان مارینو",
-        "common": "سان مارینو"
-      },
-      "zho": {
-        "official": "圣马力诺共和国",
-        "common": "圣马力诺"
-      }
-    },
-    "latlng": [
-      43.76666666,
-      12.41666666
-    ],
-    "landlocked": true,
-    "borders": [
-      "ITA"
-    ],
-    "area": 61.0,
-    "demonyms": {
-      "eng": {
-        "f": "Sammarinese",
-        "m": "Sammarinese"
-      },
-      "fra": {
-        "f": "Saint-Marinaise",
-        "m": "Saint-Marinais"
-      }
-    },
-    "flag": "🇸🇲",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
-    },
-    "population": 33938,
-    "fifa": "SMR",
-    "car": {
-      "signs": [
-        "RSM"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/sm.png",
-      "svg": "https://flagcdn.com/sm.svg",
-      "alt": "The flag of San Marino is composed of two equal horizontal bands of white and light blue, with the national coat of arms superimposed in the center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/sm.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/sm.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        43.94,
-        12.45
-      ]
-    },
-    "postalCode": {
-      "format": "4789#",
-      "regex": "^(4789\\d)$"
     }
   },
   {
@@ -19345,207 +19328,6 @@
       "latlng": [
         3.75,
         8.78
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Saint Lucia",
-      "official": "Saint Lucia",
-      "nativeName": {
-        "eng": {
-          "official": "Saint Lucia",
-          "common": "Saint Lucia"
-        }
-      }
-    },
-    "tld": [
-      ".lc"
-    ],
-    "cca2": "LC",
-    "ccn3": "662",
-    "cca3": "LCA",
-    "cioc": "LCA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XCD": {
-        "name": "Eastern Caribbean dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "suffixes": [
-        "758"
-      ]
-    },
-    "capital": [
-      "Castries"
-    ],
-    "altSpellings": [
-      "LC"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "سانت لوسيا",
-        "common": "سانت لوسيا"
-      },
-      "bre": {
-        "official": "Santez-Lusia",
-        "common": "Santez-Lusia"
-      },
-      "ces": {
-        "official": "Svatá Lucie",
-        "common": "Svatá Lucie"
-      },
-      "cym": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "deu": {
-        "official": "St. Lucia",
-        "common": "St. Lucia"
-      },
-      "est": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "fin": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "fra": {
-        "official": "Sainte-Lucie",
-        "common": "Sainte-Lucie"
-      },
-      "hrv": {
-        "official": "Sveta Lucija",
-        "common": "Sveta Lucija"
-      },
-      "hun": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "ita": {
-        "official": "Santa Lucia",
-        "common": "Santa Lucia"
-      },
-      "jpn": {
-        "official": "セントルシア",
-        "common": "セントルシア"
-      },
-      "kor": {
-        "official": "세인트루시아",
-        "common": "세인트루시아"
-      },
-      "nld": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "per": {
-        "official": "سنت لوسیا",
-        "common": "سنت لوسیا"
-      },
-      "pol": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "por": {
-        "official": "Santa Lúcia",
-        "common": "Santa Lúcia"
-      },
-      "rus": {
-        "official": "Сент-Люсия",
-        "common": "Сент-Люсия"
-      },
-      "slk": {
-        "official": "Svätá Lucia",
-        "common": "Svätá Lucia"
-      },
-      "spa": {
-        "official": "Santa Lucía",
-        "common": "Santa Lucía"
-      },
-      "srp": {
-        "official": "Света Луција",
-        "common": "Света Луција"
-      },
-      "swe": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "tur": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "urd": {
-        "official": "سینٹ لوسیا",
-        "common": "سینٹ لوسیا"
-      },
-      "zho": {
-        "official": "圣卢西亚",
-        "common": "圣卢西亚"
-      }
-    },
-    "latlng": [
-      13.88333333,
-      -60.96666666
-    ],
-    "landlocked": false,
-    "area": 616.0,
-    "demonyms": {
-      "eng": {
-        "f": "Saint Lucian",
-        "m": "Saint Lucian"
-      },
-      "fra": {
-        "f": "Saint-Lucienne",
-        "m": "Saint-Lucien"
-      }
-    },
-    "flag": "🇱🇨",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
-    },
-    "population": 183629,
-    "gini": {
-      "2016": 51.2
-    },
-    "fifa": "LCA",
-    "car": {
-      "signs": [
-        "WL"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/lc.png",
-      "svg": "https://flagcdn.com/lc.svg",
-      "alt": "The flag of Saint Lucia has a light blue field, at the center of which are two triangles which share a common base — a small golden-yellow isosceles triangle superimposed on a large white-edged black isosceles triangle."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        14.0,
-        -61.0
       ]
     }
   },
@@ -27026,219 +26808,6 @@
   },
   {
     "name": {
-      "common": "South Korea",
-      "official": "Republic of Korea",
-      "nativeName": {
-        "kor": {
-          "official": "대한민국",
-          "common": "한국"
-        }
-      }
-    },
-    "tld": [
-      ".kr",
-      ".한국"
-    ],
-    "cca2": "KR",
-    "ccn3": "410",
-    "cca3": "KOR",
-    "cioc": "KOR",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "KRW": {
-        "name": "South Korean won",
-        "symbol": "₩"
-      }
-    },
-    "idd": {
-      "root": "+8",
-      "suffixes": [
-        "2"
-      ]
-    },
-    "capital": [
-      "Seoul"
-    ],
-    "altSpellings": [
-      "KR",
-      "Korea, Republic of",
-      "Republic of Korea",
-      "남한",
-      "남조선"
-    ],
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "languages": {
-      "kor": "Korean"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية كوريا",
-        "common": "كوريا الجنوبية"
-      },
-      "bre": {
-        "official": "Republik Korea",
-        "common": "Korea ar Su"
-      },
-      "ces": {
-        "official": "Korejská republika",
-        "common": "Jižní Korea"
-      },
-      "cym": {
-        "official": "Republic of Korea",
-        "common": "South Korea"
-      },
-      "deu": {
-        "official": "Republik Korea",
-        "common": "Südkorea"
-      },
-      "est": {
-        "official": "Korea Vabariik",
-        "common": "Lõuna-Korea"
-      },
-      "fin": {
-        "official": "Korean tasavalta",
-        "common": "Etelä-Korea"
-      },
-      "fra": {
-        "official": "République de Corée",
-        "common": "Corée du Sud"
-      },
-      "hrv": {
-        "official": "Republika Koreja",
-        "common": "Južna Koreja"
-      },
-      "hun": {
-        "official": "Koreai Köztársaság",
-        "common": "Dél-Korea"
-      },
-      "ita": {
-        "official": "Repubblica di Corea",
-        "common": "Corea del Sud"
-      },
-      "jpn": {
-        "official": "大韓民国",
-        "common": "韓国"
-      },
-      "kor": {
-        "official": "대한민국",
-        "common": "한국"
-      },
-      "nld": {
-        "official": "Republiek Korea",
-        "common": "Zuid-Korea"
-      },
-      "per": {
-        "official": "جمهوری کره",
-        "common": "کرهٔ جنوبی"
-      },
-      "pol": {
-        "official": "Republika Korei",
-        "common": "Korea Południowa"
-      },
-      "por": {
-        "official": "República da Coreia",
-        "common": "Coreia do Sul"
-      },
-      "rus": {
-        "official": "Республика Корея",
-        "common": "Южная Корея"
-      },
-      "slk": {
-        "official": "Kórejská republika",
-        "common": "Južná Kórea"
-      },
-      "spa": {
-        "official": "República de Corea",
-        "common": "Corea del Sur"
-      },
-      "srp": {
-        "official": "Република Кореја",
-        "common": "Јужна Кореја"
-      },
-      "swe": {
-        "official": "Republiken Korea",
-        "common": "Sydkorea"
-      },
-      "tur": {
-        "official": "Kore Cumhuriyeti",
-        "common": "Güney Kore"
-      },
-      "urd": {
-        "official": "جمہوریہ کوریا ",
-        "common": "جنوبی کوریا"
-      },
-      "zho": {
-        "official": "大韩民国",
-        "common": "韩国"
-      }
-    },
-    "latlng": [
-      37.0,
-      127.5
-    ],
-    "landlocked": false,
-    "borders": [
-      "PRK"
-    ],
-    "area": 100210.0,
-    "demonyms": {
-      "eng": {
-        "f": "South Korean",
-        "m": "South Korean"
-      },
-      "fra": {
-        "f": "Sud-coréenne",
-        "m": "Sud-coréen"
-      }
-    },
-    "flag": "🇰🇷",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
-    },
-    "population": 51780579,
-    "gini": {
-      "2016": 31.4
-    },
-    "fifa": "KOR",
-    "car": {
-      "signs": [
-        "ROK"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/kr.png",
-      "svg": "https://flagcdn.com/kr.svg",
-      "alt": "The flag of South Korea has a white field, at the center of which is a red and blue Taegeuk circle surrounded by four black trigrams, one in each corner."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/kr.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        37.55,
-        126.98
-      ]
-    },
-    "postalCode": {
-      "format": "SEOUL ###-###",
-      "regex": "^(?:SEOUL)*(\\d{6})$"
-    }
-  },
-  {
-    "name": {
       "common": "Jordan",
       "official": "Hashemite Kingdom of Jordan",
       "nativeName": {
@@ -27872,215 +27441,6 @@
     "postalCode": {
       "format": "LT-#####",
       "regex": "^(?:LT)*(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Angola",
-      "official": "Republic of Angola",
-      "nativeName": {
-        "por": {
-          "official": "República de Angola",
-          "common": "Angola"
-        }
-      }
-    },
-    "tld": [
-      ".ao"
-    ],
-    "cca2": "AO",
-    "ccn3": "024",
-    "cca3": "AGO",
-    "cioc": "ANG",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "AOA": {
-        "name": "Angolan kwanza",
-        "symbol": "Kz"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "44"
-      ]
-    },
-    "capital": [
-      "Luanda"
-    ],
-    "altSpellings": [
-      "AO",
-      "República de Angola",
-      "ʁɛpublika de an'ɡɔla"
-    ],
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "languages": {
-      "por": "Portuguese"
-    },
-    "translations": {
-      "ara": {
-        "official": "أنغولا",
-        "common": "جمهورية أنغولا"
-      },
-      "bre": {
-        "official": "Republik Angola",
-        "common": "Angola"
-      },
-      "ces": {
-        "official": "Angolská republika",
-        "common": "Angola"
-      },
-      "cym": {
-        "official": "Gweriniaeth Angola",
-        "common": "Angola"
-      },
-      "deu": {
-        "official": "Republik Angola",
-        "common": "Angola"
-      },
-      "est": {
-        "official": "Angola Vabariik",
-        "common": "Angola"
-      },
-      "fin": {
-        "official": "Angolan tasavalta",
-        "common": "Angola"
-      },
-      "fra": {
-        "official": "République d'Angola",
-        "common": "Angola"
-      },
-      "hrv": {
-        "official": "Republika Angola",
-        "common": "Angola"
-      },
-      "hun": {
-        "official": "Angola",
-        "common": "Angola"
-      },
-      "ita": {
-        "official": "Repubblica dell'Angola",
-        "common": "Angola"
-      },
-      "jpn": {
-        "official": "アンゴラ共和国",
-        "common": "アンゴラ"
-      },
-      "kor": {
-        "official": "앙골라 공화국",
-        "common": "앙골라"
-      },
-      "nld": {
-        "official": "Republiek Angola",
-        "common": "Angola"
-      },
-      "per": {
-        "official": "جمهوری آنگولا",
-        "common": "آنگولا"
-      },
-      "pol": {
-        "official": "Republika Angoli",
-        "common": "Angola"
-      },
-      "por": {
-        "official": "República de Angola",
-        "common": "Angola"
-      },
-      "rus": {
-        "official": "Республика Ангола",
-        "common": "Ангола"
-      },
-      "slk": {
-        "official": "Angolská republika",
-        "common": "Angola"
-      },
-      "spa": {
-        "official": "República de Angola",
-        "common": "Angola"
-      },
-      "srp": {
-        "official": "Република Ангола",
-        "common": "Ангола"
-      },
-      "swe": {
-        "official": "Republiken Angola",
-        "common": "Angola"
-      },
-      "tur": {
-        "official": "Angola Cumhuriyeti",
-        "common": "Angola"
-      },
-      "urd": {
-        "official": "جمہوریہ انگولہ",
-        "common": "انگولہ"
-      },
-      "zho": {
-        "official": "安哥拉共和国",
-        "common": "安哥拉"
-      }
-    },
-    "latlng": [
-      -12.5,
-      18.5
-    ],
-    "landlocked": false,
-    "borders": [
-      "COG",
-      "COD",
-      "ZMB",
-      "NAM"
-    ],
-    "area": 1246700.0,
-    "demonyms": {
-      "eng": {
-        "f": "Angolan",
-        "m": "Angolan"
-      },
-      "fra": {
-        "f": "Angolaise",
-        "m": "Angolais"
-      }
-    },
-    "flag": "🇦🇴",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/195267"
-    },
-    "population": 32866268,
-    "gini": {
-      "2018": 51.3
-    },
-    "fifa": "ANG",
-    "car": {
-      "signs": [
-        "ANG"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ao.png",
-      "svg": "https://flagcdn.com/ao.svg",
-      "alt": "The flag of Angola features two equal horizontal bands of red and black, with a yellow emblem at its centre. This emblem consists of a five-pointed star within the hoist-side facing half of a cogwheel that is crossed on its lower end by a machete."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ao.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ao.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -8.83,
-        13.22
-      ]
     }
   },
   {
@@ -32130,218 +31490,6 @@
   },
   {
     "name": {
-      "common": "Brunei",
-      "official": "Nation of Brunei, Abode of Peace",
-      "nativeName": {
-        "msa": {
-          "official": "Nation of Brunei, Abode Damai",
-          "common": "Negara Brunei Darussalam"
-        }
-      }
-    },
-    "tld": [
-      ".bn"
-    ],
-    "cca2": "BN",
-    "ccn3": "096",
-    "cca3": "BRN",
-    "cioc": "BRU",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "BND": {
-        "name": "Brunei dollar",
-        "symbol": "$"
-      },
-      "SGD": {
-        "name": "Singapore dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "73"
-      ]
-    },
-    "capital": [
-      "Bandar Seri Begawan"
-    ],
-    "altSpellings": [
-      "BN",
-      "Brunei Darussalam",
-      "Nation of Brunei",
-      "the Abode of Peace"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "msa": "Malay"
-    },
-    "translations": {
-      "ara": {
-        "official": "بروناي دار السلام",
-        "common": "بروناي"
-      },
-      "bre": {
-        "official": "Stad Brunei Darussalam",
-        "common": "Brunei"
-      },
-      "ces": {
-        "official": "Sultanát Brunej",
-        "common": "Brunej"
-      },
-      "cym": {
-        "official": "Teyrnas Brwnei",
-        "common": "Brunei"
-      },
-      "deu": {
-        "official": "Sultanat Brunei Darussalam",
-        "common": "Brunei"
-      },
-      "est": {
-        "official": "Brunei Darussalami Riik",
-        "common": "Brunei"
-      },
-      "fin": {
-        "official": "Brunei Darussalamin valtio",
-        "common": "Brunei"
-      },
-      "fra": {
-        "official": "État de Brunei Darussalam",
-        "common": "Brunei"
-      },
-      "hrv": {
-        "official": "Nacija od Bruneja, Kuću Mira",
-        "common": "Brunej"
-      },
-      "hun": {
-        "official": "Brunei Szultanátus",
-        "common": "Brunei"
-      },
-      "ita": {
-        "official": "Nazione di Brunei, Dimora della Pace",
-        "common": "Brunei"
-      },
-      "jpn": {
-        "official": "ブルネイ、平和の精舎の国家",
-        "common": "ブルネイ・ダルサラーム"
-      },
-      "kor": {
-        "official": "브루나이 다루살람국",
-        "common": "브루나이"
-      },
-      "nld": {
-        "official": "Natie van Brunei, de verblijfplaats van de Vrede",
-        "common": "Brunei"
-      },
-      "per": {
-        "official": "برونئی سرای صلح",
-        "common": "برونئی"
-      },
-      "pol": {
-        "official": "Państwo Brunei Darussalam",
-        "common": "Brunei"
-      },
-      "por": {
-        "official": "Nação do Brunei, Morada da Paz",
-        "common": "Brunei"
-      },
-      "rus": {
-        "official": "Нация Бруней, обитель мира",
-        "common": "Бруней"
-      },
-      "slk": {
-        "official": "Brunejský sultanât",
-        "common": "Brunej"
-      },
-      "spa": {
-        "official": "Nación de Brunei, Morada de la Paz",
-        "common": "Brunei"
-      },
-      "srp": {
-        "official": "Султанат Брунеј, боравиште мира",
-        "common": "Брунеј"
-      },
-      "swe": {
-        "official": "Brunei Darussalam",
-        "common": "Brunei"
-      },
-      "tur": {
-        "official": "Brunei Barış Ülkesi Devleti",
-        "common": "Brunei"
-      },
-      "urd": {
-        "official": "ریاستِ برونائی دارالسلام",
-        "common": "برونائی"
-      },
-      "zho": {
-        "official": "文莱和平之国",
-        "common": "文莱"
-      }
-    },
-    "latlng": [
-      4.5,
-      114.66666666
-    ],
-    "landlocked": false,
-    "borders": [
-      "MYS"
-    ],
-    "area": 5765.0,
-    "demonyms": {
-      "eng": {
-        "f": "Bruneian",
-        "m": "Bruneian"
-      },
-      "fra": {
-        "f": "Brunéienne",
-        "m": "Brunéien"
-      }
-    },
-    "flag": "🇧🇳",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
-    },
-    "population": 437483,
-    "fifa": "BRU",
-    "car": {
-      "signs": [
-        "BRU"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/bn.png",
-      "svg": "https://flagcdn.com/bn.svg",
-      "alt": "The flag of Brunei has a yellow field with two adjoining diagonal bands of white and black that extend from the upper hoist side of the field to the lower fly side. The red emblem of Brunei is centered on the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/bn.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/bn.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        4.88,
-        114.93
-      ]
-    },
-    "postalCode": {
-      "format": "@@####",
-      "regex": "^([A-Z]{2}\\d{4})$"
-    }
-  },
-  {
-    "name": {
       "common": "Comoros",
       "official": "Union of the Comoros",
       "nativeName": {
@@ -32552,224 +31700,6 @@
       "latlng": [
         -11.7,
         43.23
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Chad",
-      "official": "Republic of Chad",
-      "nativeName": {
-        "ara": {
-          "official": "جمهورية تشاد",
-          "common": "تشاد‎"
-        },
-        "fra": {
-          "official": "République du Tchad",
-          "common": "Tchad"
-        }
-      }
-    },
-    "tld": [
-      ".td"
-    ],
-    "cca2": "TD",
-    "ccn3": "148",
-    "cca3": "TCD",
-    "cioc": "CHA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XAF": {
-        "name": "Central African CFA franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "35"
-      ]
-    },
-    "capital": [
-      "N'Djamena"
-    ],
-    "altSpellings": [
-      "TD",
-      "Tchad",
-      "Republic of Chad",
-      "République du Tchad"
-    ],
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "languages": {
-      "ara": "Arabic",
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية تشاد",
-        "common": "تشاد"
-      },
-      "bre": {
-        "official": "Republik Tchad",
-        "common": "Tchad"
-      },
-      "ces": {
-        "official": "Čadská republika",
-        "common": "Čad"
-      },
-      "cym": {
-        "official": "Gweriniaeth Tsiad",
-        "common": "Tsiad"
-      },
-      "deu": {
-        "official": "Republik Tschad",
-        "common": "Tschad"
-      },
-      "est": {
-        "official": "Tšaadi Vabariik",
-        "common": "Tšaad"
-      },
-      "fin": {
-        "official": "Tšadin tasavalta",
-        "common": "Tšad"
-      },
-      "fra": {
-        "official": "République du Tchad",
-        "common": "Tchad"
-      },
-      "hrv": {
-        "official": "Čadu",
-        "common": "Čad"
-      },
-      "hun": {
-        "official": "Csád Köztársaság",
-        "common": "Csád"
-      },
-      "ita": {
-        "official": "Repubblica del Ciad",
-        "common": "Ciad"
-      },
-      "jpn": {
-        "official": "チャド共和国",
-        "common": "チャド"
-      },
-      "kor": {
-        "official": "차드 공화국",
-        "common": "차드"
-      },
-      "nld": {
-        "official": "Republiek Tsjaad",
-        "common": "Tsjaad"
-      },
-      "per": {
-        "official": "جمهوری چاد",
-        "common": "چاد"
-      },
-      "pol": {
-        "official": "Republika Czadu",
-        "common": "Czad"
-      },
-      "por": {
-        "official": "República do Chade",
-        "common": "Chade"
-      },
-      "rus": {
-        "official": "Республика Чад",
-        "common": "Чад"
-      },
-      "slk": {
-        "official": "Čadská republika",
-        "common": "Čad"
-      },
-      "spa": {
-        "official": "República de Chad",
-        "common": "Chad"
-      },
-      "srp": {
-        "official": "Република Чад",
-        "common": "Чад"
-      },
-      "swe": {
-        "official": "Republiken Tchad",
-        "common": "Tchad"
-      },
-      "tur": {
-        "official": "Çad Cumhuriyeti",
-        "common": "Çad"
-      },
-      "urd": {
-        "official": "جمہوریہ چاڈ",
-        "common": "چاڈ"
-      },
-      "zho": {
-        "official": "乍得共和国",
-        "common": "乍得"
-      }
-    },
-    "latlng": [
-      15.0,
-      19.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "CMR",
-      "CAF",
-      "LBY",
-      "NER",
-      "NGA",
-      "SDN"
-    ],
-    "area": 1284000.0,
-    "demonyms": {
-      "eng": {
-        "f": "Chadian",
-        "m": "Chadian"
-      },
-      "fra": {
-        "f": "Tchadienne",
-        "m": "Tchadien"
-      }
-    },
-    "flag": "🇹🇩",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
-    },
-    "population": 16425859,
-    "gini": {
-      "2011": 43.3
-    },
-    "fifa": "CHA",
-    "car": {
-      "signs": [
-        "TCH",
-        "TD"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/td.png",
-      "svg": "https://flagcdn.com/td.svg",
-      "alt": "The flag of Chad is composed of three equal vertical bands of blue, gold and red."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/td.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        12.1,
-        15.03
       ]
     }
   },
@@ -34039,6 +32969,244 @@
   },
   {
     "name": {
+      "common": "Russia",
+      "official": "Russian Federation",
+      "nativeName": {
+        "rus": {
+          "official": "Российская Федерация",
+          "common": "Россия"
+        }
+      }
+    },
+    "tld": [
+      ".ru",
+      ".su",
+      ".рф"
+    ],
+    "cca2": "RU",
+    "ccn3": "643",
+    "cca3": "RUS",
+    "cioc": "RUS",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "RUB": {
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    },
+    "idd": {
+      "root": "+7",
+      "suffixes": [
+        "3",
+        "4",
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    "capital": [
+      "Moscow"
+    ],
+    "altSpellings": [
+      "RU",
+      "Russian Federation",
+      "Российская Федерация"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+      "rus": "Russian"
+    },
+    "translations": {
+      "ara": {
+        "official": "روسيا الاتحادية",
+        "common": "روسيا"
+      },
+      "bre": {
+        "official": "Kevread Rusia",
+        "common": "Rusia"
+      },
+      "ces": {
+        "official": "Ruská federace",
+        "common": "Rusko"
+      },
+      "cym": {
+        "official": "Russian Federation",
+        "common": "Russia"
+      },
+      "deu": {
+        "official": "Russische Föderation",
+        "common": "Russland"
+      },
+      "est": {
+        "official": "Venemaa Föderatsioon",
+        "common": "Venemaa"
+      },
+      "fin": {
+        "official": "Venäjän federaatio",
+        "common": "Venäjä"
+      },
+      "fra": {
+        "official": "Fédération de Russie",
+        "common": "Russie"
+      },
+      "hrv": {
+        "official": "Ruska Federacija",
+        "common": "Rusija"
+      },
+      "hun": {
+        "official": "Oroszországi Föderáció",
+        "common": "Oroszország"
+      },
+      "ita": {
+        "official": "Federazione russa",
+        "common": "Russia"
+      },
+      "jpn": {
+        "official": "ロシア連邦",
+        "common": "ロシア連邦"
+      },
+      "kor": {
+        "official": "러시아 연방",
+        "common": "러시아"
+      },
+      "nld": {
+        "official": "Russische Federatie",
+        "common": "Rusland"
+      },
+      "per": {
+        "official": "فدراسیون روسیه",
+        "common": "روسیه"
+      },
+      "pol": {
+        "official": "Federacja Rosyjska",
+        "common": "Rosja"
+      },
+      "por": {
+        "official": "Federação Russa",
+        "common": "Rússia"
+      },
+      "rus": {
+        "official": "Российская Федерация",
+        "common": "Россия"
+      },
+      "slk": {
+        "official": "Ruská federácia",
+        "common": "Rusko"
+      },
+      "spa": {
+        "official": "Federación de Rusia",
+        "common": "Rusia"
+      },
+      "srp": {
+        "official": "Руска Федерација",
+        "common": "Русија"
+      },
+      "swe": {
+        "official": "Ryska federationen",
+        "common": "Ryssland"
+      },
+      "tur": {
+        "official": "Rusya Federasyonu",
+        "common": "Rusya"
+      },
+      "urd": {
+        "official": "روسی وفاق",
+        "common": "روس"
+      },
+      "zho": {
+        "official": "俄罗斯联邦",
+        "common": "俄罗斯"
+      }
+    },
+    "latlng": [
+      60.0,
+      100.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "area": 17098242,
+    "demonyms": {
+      "eng": {
+        "f": "Russian",
+        "m": "Russian"
+      },
+      "fra": {
+        "f": "Russe",
+        "m": "Russe"
+      }
+    },
+    "flag": "🇷🇺",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+    },
+    "population": 144104080,
+    "gini": {
+      "2018": 37.5
+    },
+    "fifa": "RUS",
+    "car": {
+      "signs": [
+        "RUS"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ru.png",
+      "svg": "https://flagcdn.com/ru.svg",
+      "alt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ru.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ru.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        55.75,
+        37.6
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
       "common": "Saint Kitts and Nevis",
       "official": "Federation of Saint Christopher and Nevis",
       "nativeName": {
@@ -34233,6 +33401,207 @@
       "latlng": [
         17.3,
         -62.72
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Lucia",
+          "common": "Saint Lucia"
+        }
+      }
+    },
+    "tld": [
+      ".lc"
+    ],
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "758"
+      ]
+    },
+    "capital": [
+      "Castries"
+    ],
+    "altSpellings": [
+      "LC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "سانت لوسيا",
+        "common": "سانت لوسيا"
+      },
+      "bre": {
+        "official": "Santez-Lusia",
+        "common": "Santez-Lusia"
+      },
+      "ces": {
+        "official": "Svatá Lucie",
+        "common": "Svatá Lucie"
+      },
+      "cym": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "deu": {
+        "official": "St. Lucia",
+        "common": "St. Lucia"
+      },
+      "est": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "fin": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "fra": {
+        "official": "Sainte-Lucie",
+        "common": "Sainte-Lucie"
+      },
+      "hrv": {
+        "official": "Sveta Lucija",
+        "common": "Sveta Lucija"
+      },
+      "hun": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "ita": {
+        "official": "Santa Lucia",
+        "common": "Santa Lucia"
+      },
+      "jpn": {
+        "official": "セントルシア",
+        "common": "セントルシア"
+      },
+      "kor": {
+        "official": "세인트루시아",
+        "common": "세인트루시아"
+      },
+      "nld": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "per": {
+        "official": "سنت لوسیا",
+        "common": "سنت لوسیا"
+      },
+      "pol": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "por": {
+        "official": "Santa Lúcia",
+        "common": "Santa Lúcia"
+      },
+      "rus": {
+        "official": "Сент-Люсия",
+        "common": "Сент-Люсия"
+      },
+      "slk": {
+        "official": "Svätá Lucia",
+        "common": "Svätá Lucia"
+      },
+      "spa": {
+        "official": "Santa Lucía",
+        "common": "Santa Lucía"
+      },
+      "srp": {
+        "official": "Света Луција",
+        "common": "Света Луција"
+      },
+      "swe": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "tur": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "urd": {
+        "official": "سینٹ لوسیا",
+        "common": "سینٹ لوسیا"
+      },
+      "zho": {
+        "official": "圣卢西亚",
+        "common": "圣卢西亚"
+      }
+    },
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "landlocked": false,
+    "area": 616.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Lucian",
+        "m": "Saint Lucian"
+      },
+      "fra": {
+        "f": "Saint-Lucienne",
+        "m": "Saint-Lucien"
+      }
+    },
+    "flag": "🇱🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+    },
+    "population": 183629,
+    "gini": {
+      "2016": 51.2
+    },
+    "fifa": "LCA",
+    "car": {
+      "signs": [
+        "WL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lc.png",
+      "svg": "https://flagcdn.com/lc.svg",
+      "alt": "The flag of Saint Lucia has a light blue field, at the center of which are two triangles which share a common base — a small golden-yellow isosceles triangle superimposed on a large white-edged black isosceles triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.0,
+        -61.0
       ]
     }
   },
@@ -34640,6 +34009,213 @@
         -13.82,
         -171.77
       ]
+    }
+  },
+  {
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica di San Marino",
+          "common": "San Marino"
+        }
+      }
+    },
+    "tld": [
+      ".sm"
+    ],
+    "cca2": "SM",
+    "ccn3": "674",
+    "cca3": "SMR",
+    "cioc": "SMR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "78"
+      ]
+    },
+    "capital": [
+      "City of San Marino"
+    ],
+    "altSpellings": [
+      "SM",
+      "Republic of San Marino",
+      "Repubblica di San Marino"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ita": "Italian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية سان مارينو",
+        "common": "سان مارينو"
+      },
+      "bre": {
+        "official": "Republik San Marino",
+        "common": "San Marino"
+      },
+      "ces": {
+        "official": "Republika San Marino",
+        "common": "San Marino"
+      },
+      "cym": {
+        "official": "Republic of San Marino",
+        "common": "San Marino"
+      },
+      "deu": {
+        "official": "Republik San Marino",
+        "common": "San Marino"
+      },
+      "est": {
+        "official": "San Marino Vabariik",
+        "common": "San Marino"
+      },
+      "fin": {
+        "official": "San Marinon seesteinen tasavalta",
+        "common": "San Marino"
+      },
+      "fra": {
+        "official": "République de Saint-Marin",
+        "common": "Saint-Marin"
+      },
+      "hrv": {
+        "official": "Većina Serene Republika San Marino",
+        "common": "San Marino"
+      },
+      "hun": {
+        "official": "San Marino Köztársaság",
+        "common": "San Marino"
+      },
+      "ita": {
+        "official": "Serenissima Repubblica di San Marino",
+        "common": "San Marino"
+      },
+      "jpn": {
+        "official": "サンマリノのほとんどセリーヌ共和国",
+        "common": "サンマリノ"
+      },
+      "kor": {
+        "official": "산마리노 공화국",
+        "common": "산마리노"
+      },
+      "nld": {
+        "official": "Meest Serene Republiek San Marino",
+        "common": "San Marino"
+      },
+      "per": {
+        "official": "جمهوری سان مارینو",
+        "common": "سان مارینو"
+      },
+      "pol": {
+        "official": "Republika San Marino",
+        "common": "San Marino"
+      },
+      "por": {
+        "official": "Sereníssima República de San Marino",
+        "common": "San Marino"
+      },
+      "rus": {
+        "official": "Большинство Serene Республика Сан-Марино",
+        "common": "Сан-Марино"
+      },
+      "slk": {
+        "official": "Sanmarínska republika",
+        "common": "San Maríno"
+      },
+      "spa": {
+        "official": "Serenísima República de San Marino",
+        "common": "San Marino"
+      },
+      "srp": {
+        "official": "Најузвишенија Република Сан Марино",
+        "common": "Сан Марино"
+      },
+      "swe": {
+        "official": "Republiken San Marino",
+        "common": "San Marino"
+      },
+      "tur": {
+        "official": "San Marino Cumhuriyeti",
+        "common": "San Marino"
+      },
+      "urd": {
+        "official": "جمہوریہ سان مارینو",
+        "common": "سان مارینو"
+      },
+      "zho": {
+        "official": "圣马力诺共和国",
+        "common": "圣马力诺"
+      }
+    },
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "landlocked": true,
+    "borders": [
+      "ITA"
+    ],
+    "area": 61.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sammarinese",
+        "m": "Sammarinese"
+      },
+      "fra": {
+        "f": "Saint-Marinaise",
+        "m": "Saint-Marinais"
+      }
+    },
+    "flag": "🇸🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
+    },
+    "population": 33938,
+    "fifa": "SMR",
+    "car": {
+      "signs": [
+        "RSM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sm.png",
+      "svg": "https://flagcdn.com/sm.svg",
+      "alt": "The flag of San Marino is composed of two equal horizontal bands of white and light blue, with the national coat of arms superimposed in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        43.94,
+        12.45
+      ]
+    },
+    "postalCode": {
+      "format": "4789#",
+      "regex": "^(4789\\d)$"
     }
   },
   {
@@ -37031,6 +36607,219 @@
   },
   {
     "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea",
+      "nativeName": {
+        "kor": {
+          "official": "대한민국",
+          "common": "한국"
+        }
+      }
+    },
+    "tld": [
+      ".kr",
+      ".한국"
+    ],
+    "cca2": "KR",
+    "ccn3": "410",
+    "cca3": "KOR",
+    "cioc": "KOR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KRW": {
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "2"
+      ]
+    },
+    "capital": [
+      "Seoul"
+    ],
+    "altSpellings": [
+      "KR",
+      "Korea, Republic of",
+      "Republic of Korea",
+      "남한",
+      "남조선"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "kor": "Korean"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية كوريا",
+        "common": "كوريا الجنوبية"
+      },
+      "bre": {
+        "official": "Republik Korea",
+        "common": "Korea ar Su"
+      },
+      "ces": {
+        "official": "Korejská republika",
+        "common": "Jižní Korea"
+      },
+      "cym": {
+        "official": "Republic of Korea",
+        "common": "South Korea"
+      },
+      "deu": {
+        "official": "Republik Korea",
+        "common": "Südkorea"
+      },
+      "est": {
+        "official": "Korea Vabariik",
+        "common": "Lõuna-Korea"
+      },
+      "fin": {
+        "official": "Korean tasavalta",
+        "common": "Etelä-Korea"
+      },
+      "fra": {
+        "official": "République de Corée",
+        "common": "Corée du Sud"
+      },
+      "hrv": {
+        "official": "Republika Koreja",
+        "common": "Južna Koreja"
+      },
+      "hun": {
+        "official": "Koreai Köztársaság",
+        "common": "Dél-Korea"
+      },
+      "ita": {
+        "official": "Repubblica di Corea",
+        "common": "Corea del Sud"
+      },
+      "jpn": {
+        "official": "大韓民国",
+        "common": "韓国"
+      },
+      "kor": {
+        "official": "대한민국",
+        "common": "한국"
+      },
+      "nld": {
+        "official": "Republiek Korea",
+        "common": "Zuid-Korea"
+      },
+      "per": {
+        "official": "جمهوری کره",
+        "common": "کرهٔ جنوبی"
+      },
+      "pol": {
+        "official": "Republika Korei",
+        "common": "Korea Południowa"
+      },
+      "por": {
+        "official": "República da Coreia",
+        "common": "Coreia do Sul"
+      },
+      "rus": {
+        "official": "Республика Корея",
+        "common": "Южная Корея"
+      },
+      "slk": {
+        "official": "Kórejská republika",
+        "common": "Južná Kórea"
+      },
+      "spa": {
+        "official": "República de Corea",
+        "common": "Corea del Sur"
+      },
+      "srp": {
+        "official": "Република Кореја",
+        "common": "Јужна Кореја"
+      },
+      "swe": {
+        "official": "Republiken Korea",
+        "common": "Sydkorea"
+      },
+      "tur": {
+        "official": "Kore Cumhuriyeti",
+        "common": "Güney Kore"
+      },
+      "urd": {
+        "official": "جمہوریہ کوریا ",
+        "common": "جنوبی کوریا"
+      },
+      "zho": {
+        "official": "大韩民国",
+        "common": "韩国"
+      }
+    },
+    "latlng": [
+      37.0,
+      127.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "PRK"
+    ],
+    "area": 100210.0,
+    "demonyms": {
+      "eng": {
+        "f": "South Korean",
+        "m": "South Korean"
+      },
+      "fra": {
+        "f": "Sud-coréenne",
+        "m": "Sud-coréen"
+      }
+    },
+    "flag": "🇰🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
+    },
+    "population": 51780579,
+    "gini": {
+      "2016": 31.4
+    },
+    "fifa": "KOR",
+    "car": {
+      "signs": [
+        "ROK"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kr.png",
+      "svg": "https://flagcdn.com/kr.svg",
+      "alt": "The flag of South Korea has a white field, at the center of which is a red and blue Taegeuk circle surrounded by four black trigrams, one in each corner."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        37.55,
+        126.98
+      ]
+    },
+    "postalCode": {
+      "format": "SEOUL ###-###",
+      "regex": "^(?:SEOUL)*(\\d{6})$"
+    }
+  },
+  {
+    "name": {
       "common": "South Sudan",
       "official": "Republic of South Sudan",
       "nativeName": {
@@ -37892,6 +37681,217 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden",
+      "nativeName": {
+        "swe": {
+          "official": "Konungariket Sverige",
+          "common": "Sverige"
+        }
+      }
+    },
+    "tld": [
+      ".se"
+    ],
+    "cca2": "SE",
+    "ccn3": "752",
+    "cca3": "SWE",
+    "cioc": "SWE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SEK": {
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "6"
+      ]
+    },
+    "capital": [
+      "Stockholm"
+    ],
+    "altSpellings": [
+      "SE",
+      "Kingdom of Sweden",
+      "Konungariket Sverige"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+      "swe": "Swedish"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة السويد",
+        "common": "السويد"
+      },
+      "bre": {
+        "official": "Rouantelezh Sveden",
+        "common": "Sveden"
+      },
+      "ces": {
+        "official": "Švédské království",
+        "common": "Švédsko"
+      },
+      "cym": {
+        "official": "Kingdom of Sweden",
+        "common": "Sweden"
+      },
+      "deu": {
+        "official": "Königreich Schweden",
+        "common": "Schweden"
+      },
+      "est": {
+        "official": "Rootsi Kuningriik",
+        "common": "Rootsi"
+      },
+      "fin": {
+        "official": "Ruotsin kuningaskunta",
+        "common": "Ruotsi"
+      },
+      "fra": {
+        "official": "Royaume de Suède",
+        "common": "Suède"
+      },
+      "hrv": {
+        "official": "Kraljevina Švedska",
+        "common": "Švedska"
+      },
+      "hun": {
+        "official": "Svéd Királyság",
+        "common": "Svédország"
+      },
+      "ita": {
+        "official": "Regno di Svezia",
+        "common": "Svezia"
+      },
+      "jpn": {
+        "official": "スウェーデン王国",
+        "common": "スウェーデン"
+      },
+      "kor": {
+        "official": "스웨덴 왕국",
+        "common": "스웨덴"
+      },
+      "nld": {
+        "official": "Koninkrijk Zweden",
+        "common": "Zweden"
+      },
+      "per": {
+        "official": "پادشاهی سوئد",
+        "common": "سوئد"
+      },
+      "pol": {
+        "official": "Królestwo Szwecji",
+        "common": "Szwecja"
+      },
+      "por": {
+        "official": "Reino da Suécia",
+        "common": "Suécia"
+      },
+      "rus": {
+        "official": "Королевство Швеция",
+        "common": "Швеция"
+      },
+      "slk": {
+        "official": "Švédske kráľovstvo",
+        "common": "Švédsko"
+      },
+      "spa": {
+        "official": "Reino de Suecia",
+        "common": "Suecia"
+      },
+      "srp": {
+        "official": "Краљевина Шведска",
+        "common": "Шведска"
+      },
+      "swe": {
+        "official": "Konungariket Sverige",
+        "common": "Sverige"
+      },
+      "tur": {
+        "official": "İsveç Krallığı",
+        "common": "İsveç"
+      },
+      "urd": {
+        "official": "مملکتِ سویڈن",
+        "common": "سویڈن"
+      },
+      "zho": {
+        "official": "瑞典王国",
+        "common": "瑞典"
+      }
+    },
+    "latlng": [
+      62.0,
+      15.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "area": 450295.0,
+    "demonyms": {
+      "eng": {
+        "f": "Swedish",
+        "m": "Swedish"
+      },
+      "fra": {
+        "f": "Suédoise",
+        "m": "Suédois"
+      }
+    },
+    "flag": "🇸🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
+    },
+    "population": 10353442,
+    "gini": {
+      "2018": 30.0
+    },
+    "fifa": "SWE",
+    "car": {
+      "signs": [
+        "S"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/se.png",
+      "svg": "https://flagcdn.com/se.svg",
+      "alt": "The flag of Sweden has a blue field with a large golden-yellow cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/se.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/se.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        59.33,
+        18.05
+      ]
+    },
+    "postalCode": {
+      "format": "SE-### ##",
+      "regex": "^(?:SE)*(\\d{5})$"
     }
   },
   {
