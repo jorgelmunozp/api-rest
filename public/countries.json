@@ -13326,210 +13326,6 @@
   },
   {
     "name": {
-      "common": "Qatar",
-      "official": "State of Qatar",
-      "nativeName": {
-        "ara": {
-          "official": "دولة قطر",
-          "common": "قطر"
-        }
-      }
-    },
-    "tld": [
-      ".qa",
-      "قطر."
-    ],
-    "cca2": "QA",
-    "ccn3": "634",
-    "cca3": "QAT",
-    "cioc": "QAT",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "QAR": {
-        "name": "Qatari riyal",
-        "symbol": "ر.ق"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "74"
-      ]
-    },
-    "capital": [
-      "Doha"
-    ],
-    "altSpellings": [
-      "QA",
-      "State of Qatar",
-      "Dawlat Qaṭar"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "دولة قطر",
-        "common": "قطر"
-      },
-      "bre": {
-        "official": "Stad Katar",
-        "common": "Katar"
-      },
-      "ces": {
-        "official": "Stát Katar",
-        "common": "Katar"
-      },
-      "cym": {
-        "official": "State of Qatar",
-        "common": "Qatar"
-      },
-      "deu": {
-        "official": "Staat Katar",
-        "common": "Katar"
-      },
-      "est": {
-        "official": "Katari Riik",
-        "common": "Katar"
-      },
-      "fin": {
-        "official": "Qatarin valtio",
-        "common": "Qatar"
-      },
-      "fra": {
-        "official": "État du Qatar",
-        "common": "Qatar"
-      },
-      "hrv": {
-        "official": "Država Katar",
-        "common": "Katar"
-      },
-      "hun": {
-        "official": "Katari Állam",
-        "common": "Katar"
-      },
-      "ita": {
-        "official": "Stato del Qatar",
-        "common": "Qatar"
-      },
-      "jpn": {
-        "official": "カタール国",
-        "common": "カタール"
-      },
-      "kor": {
-        "official": "카타르국",
-        "common": "카타르"
-      },
-      "nld": {
-        "official": "Staat Qatar",
-        "common": "Qatar"
-      },
-      "per": {
-        "official": "دولت قطر",
-        "common": "قطر"
-      },
-      "pol": {
-        "official": "Państwo Katar",
-        "common": "Katar"
-      },
-      "por": {
-        "official": "Estado do Qatar",
-        "common": "Catar"
-      },
-      "rus": {
-        "official": "Государство Катар",
-        "common": "Катар"
-      },
-      "slk": {
-        "official": "Katarský štát",
-        "common": "Katar"
-      },
-      "spa": {
-        "official": "Estado de Qatar",
-        "common": "Catar"
-      },
-      "srp": {
-        "official": "Држава Катар",
-        "common": "Катар"
-      },
-      "swe": {
-        "official": "Staten Qatar",
-        "common": "Qatar"
-      },
-      "tur": {
-        "official": "Katar Devleti",
-        "common": "Katar"
-      },
-      "urd": {
-        "official": "ریاستِ قطر",
-        "common": "قطر"
-      },
-      "zho": {
-        "official": "卡塔尔国",
-        "common": "卡塔尔"
-      }
-    },
-    "latlng": [
-      25.5,
-      51.25
-    ],
-    "landlocked": false,
-    "borders": [
-      "SAU"
-    ],
-    "area": 11586.0,
-    "demonyms": {
-      "eng": {
-        "f": "Qatari",
-        "m": "Qatari"
-      },
-      "fra": {
-        "f": "Qatarienne",
-        "m": "Qatarien"
-      }
-    },
-    "flag": "🇶🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
-    },
-    "population": 2881060,
-    "fifa": "QAT",
-    "car": {
-      "signs": [
-        "Q"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/qa.png",
-      "svg": "https://flagcdn.com/qa.svg",
-      "alt": "The flag of Qatar has a maroon field, on the hoist side of which is a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by nine adjoining fly-side pointing white isosceles triangles that serve as a serrated line."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/qa.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        25.28,
-        51.53
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Madagascar",
       "official": "Republic of Madagascar",
       "nativeName": {
@@ -13966,217 +13762,6 @@
     "postalCode": {
       "format": "######",
       "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Syria",
-      "official": "Syrian Arab Republic",
-      "nativeName": {
-        "ara": {
-          "official": "الجمهورية العربية السورية",
-          "common": "سوريا"
-        }
-      }
-    },
-    "tld": [
-      ".sy",
-      "سوريا."
-    ],
-    "cca2": "SY",
-    "ccn3": "760",
-    "cca3": "SYR",
-    "cioc": "SYR",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "SYP": {
-        "name": "Syrian pound",
-        "symbol": "£"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "63"
-      ]
-    },
-    "capital": [
-      "Damascus"
-    ],
-    "altSpellings": [
-      "SY",
-      "Syrian Arab Republic",
-      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "الجمهورية العربية السورية",
-        "common": "سوريا"
-      },
-      "bre": {
-        "official": "Republik Arab Siriat",
-        "common": "Siria"
-      },
-      "ces": {
-        "official": "Syrská arabská republika",
-        "common": "Sýrie"
-      },
-      "cym": {
-        "official": "Syrian Arab Republic",
-        "common": "Syria"
-      },
-      "deu": {
-        "official": "Arabische Republik Syrien",
-        "common": "Syrien"
-      },
-      "est": {
-        "official": "Süüria Araabia Vabariik",
-        "common": "Süüria"
-      },
-      "fin": {
-        "official": "Syyrian arabitasavalta",
-        "common": "Syyria"
-      },
-      "fra": {
-        "official": "République arabe syrienne",
-        "common": "Syrie"
-      },
-      "hrv": {
-        "official": "Sirijska Arapska Republika",
-        "common": "Sirija"
-      },
-      "hun": {
-        "official": "Szíriai Arab Köztársaság",
-        "common": "Szíria"
-      },
-      "ita": {
-        "official": "Repubblica araba siriana",
-        "common": "Siria"
-      },
-      "jpn": {
-        "official": "シリアアラブ共和国",
-        "common": "シリア・アラブ共和国"
-      },
-      "kor": {
-        "official": "시리아 아랍 공화국",
-        "common": "시리아"
-      },
-      "nld": {
-        "official": "Syrische Arabische Republiek",
-        "common": "Syrië"
-      },
-      "per": {
-        "official": "جمهوری عربی سوریه",
-        "common": "سوریه"
-      },
-      "pol": {
-        "official": "Syryjska Republika Arabska",
-        "common": "Syria"
-      },
-      "por": {
-        "official": "República Árabe Síria",
-        "common": "Síria"
-      },
-      "rus": {
-        "official": "Сирийская Арабская Республика",
-        "common": "Сирия"
-      },
-      "slk": {
-        "official": "Sýrska arabská republika",
-        "common": "Sýria"
-      },
-      "spa": {
-        "official": "República Árabe Siria",
-        "common": "Siria"
-      },
-      "srp": {
-        "official": "Сиријска Арапска Република",
-        "common": "Сирија"
-      },
-      "swe": {
-        "official": "Syriska arabiska republiken",
-        "common": "Syrien"
-      },
-      "tur": {
-        "official": "Suriye Arap Cumhuriyeti",
-        "common": "Suriye"
-      },
-      "urd": {
-        "official": "عرب جمہوریہ سوریہ",
-        "common": "سوریہ"
-      },
-      "zho": {
-        "official": "叙利亚阿拉伯共和国",
-        "common": "叙利亚"
-      }
-    },
-    "latlng": [
-      35.0,
-      38.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "IRQ",
-      "ISR",
-      "JOR",
-      "LBN",
-      "TUR"
-    ],
-    "area": 185180.0,
-    "demonyms": {
-      "eng": {
-        "f": "Syrian",
-        "m": "Syrian"
-      },
-      "fra": {
-        "f": "Syrienne",
-        "m": "Syrien"
-      }
-    },
-    "flag": "🇸🇾",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/184840"
-    },
-    "population": 17500657,
-    "gini": {
-      "2003": 37.5
-    },
-    "fifa": "SYR",
-    "car": {
-      "signs": [
-        "SYR"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/sy.png",
-      "svg": "https://flagcdn.com/sy.svg",
-      "alt": "The flag of Syria is composed of three equal horizontal bands of red, white and black. At the center of the white band are two small five-pointed green stars arranged in a horizontal line."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/sy.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        33.5,
-        36.3
-      ]
     }
   },
   {
@@ -15042,222 +14627,6 @@
     "postalCode": {
       "format": "CP ####",
       "regex": "^(?:CP)*(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Ukraine",
-      "official": "Ukraine",
-      "nativeName": {
-        "ukr": {
-          "official": "Україна",
-          "common": "Україна"
-        }
-      }
-    },
-    "tld": [
-      ".ua",
-      ".укр"
-    ],
-    "cca2": "UA",
-    "ccn3": "804",
-    "cca3": "UKR",
-    "cioc": "UKR",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "UAH": {
-        "name": "Ukrainian hryvnia",
-        "symbol": "₴"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "80"
-      ]
-    },
-    "capital": [
-      "Kyiv"
-    ],
-    "altSpellings": [
-      "UA",
-      "Ukrayina"
-    ],
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "languages": {
-      "ukr": "Ukrainian"
-    },
-    "translations": {
-      "ara": {
-        "official": "أوكرانيا",
-        "common": "أوكرانيا"
-      },
-      "bre": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "ces": {
-        "official": "Ukrajina",
-        "common": "Ukrajina"
-      },
-      "cym": {
-        "official": "Ukraine",
-        "common": "Ukraine"
-      },
-      "deu": {
-        "official": "Ukraine",
-        "common": "Ukraine"
-      },
-      "est": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "fin": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "fra": {
-        "official": "Ukraine",
-        "common": "Ukraine"
-      },
-      "hrv": {
-        "official": "Ukrajina",
-        "common": "Ukrajina"
-      },
-      "hun": {
-        "official": "Ukrajna",
-        "common": "Ukrajna"
-      },
-      "ita": {
-        "official": "Ucraina",
-        "common": "Ucraina"
-      },
-      "jpn": {
-        "official": "ウクライナ",
-        "common": "ウクライナ"
-      },
-      "kor": {
-        "official": "우크라이나",
-        "common": "우크라이나"
-      },
-      "nld": {
-        "official": "Oekraïne",
-        "common": "Oekraïne"
-      },
-      "per": {
-        "official": "اوکراین",
-        "common": "اوکراین"
-      },
-      "pol": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "por": {
-        "official": "Ucrânia",
-        "common": "Ucrânia"
-      },
-      "rus": {
-        "official": "Украина",
-        "common": "Украина"
-      },
-      "slk": {
-        "official": "Ukrajina",
-        "common": "Ukrajina"
-      },
-      "spa": {
-        "official": "Ucrania",
-        "common": "Ucrania"
-      },
-      "srp": {
-        "official": "Украјина",
-        "common": "Украјина"
-      },
-      "swe": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "tur": {
-        "official": "Ukrayna",
-        "common": "Ukrayna"
-      },
-      "urd": {
-        "official": "یوکرین",
-        "common": "یوکرین"
-      },
-      "zho": {
-        "official": "乌克兰",
-        "common": "乌克兰"
-      }
-    },
-    "latlng": [
-      49.0,
-      32.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BLR",
-      "HUN",
-      "MDA",
-      "POL",
-      "ROU",
-      "RUS",
-      "SVK"
-    ],
-    "area": 603500.0,
-    "demonyms": {
-      "eng": {
-        "f": "Ukrainian",
-        "m": "Ukrainian"
-      },
-      "fra": {
-        "f": "Ukrainienne",
-        "m": "Ukrainien"
-      }
-    },
-    "flag": "🇺🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
-    },
-    "population": 44134693,
-    "gini": {
-      "2019": 26.6
-    },
-    "fifa": "UKR",
-    "car": {
-      "signs": [
-        "UA"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ua.png",
-      "svg": "https://flagcdn.com/ua.svg",
-      "alt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        50.43,
-        30.52
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -37059,6 +36428,210 @@
   },
   {
     "name": {
+      "common": "Qatar",
+      "official": "State of Qatar",
+      "nativeName": {
+        "ara": {
+          "official": "دولة قطر",
+          "common": "قطر"
+        }
+      }
+    },
+    "tld": [
+      ".qa",
+      "قطر."
+    ],
+    "cca2": "QA",
+    "ccn3": "634",
+    "cca3": "QAT",
+    "cioc": "QAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "QAR": {
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "74"
+      ]
+    },
+    "capital": [
+      "Doha"
+    ],
+    "altSpellings": [
+      "QA",
+      "State of Qatar",
+      "Dawlat Qaṭar"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة قطر",
+        "common": "قطر"
+      },
+      "bre": {
+        "official": "Stad Katar",
+        "common": "Katar"
+      },
+      "ces": {
+        "official": "Stát Katar",
+        "common": "Katar"
+      },
+      "cym": {
+        "official": "State of Qatar",
+        "common": "Qatar"
+      },
+      "deu": {
+        "official": "Staat Katar",
+        "common": "Katar"
+      },
+      "est": {
+        "official": "Katari Riik",
+        "common": "Katar"
+      },
+      "fin": {
+        "official": "Qatarin valtio",
+        "common": "Qatar"
+      },
+      "fra": {
+        "official": "État du Qatar",
+        "common": "Qatar"
+      },
+      "hrv": {
+        "official": "Država Katar",
+        "common": "Katar"
+      },
+      "hun": {
+        "official": "Katari Állam",
+        "common": "Katar"
+      },
+      "ita": {
+        "official": "Stato del Qatar",
+        "common": "Qatar"
+      },
+      "jpn": {
+        "official": "カタール国",
+        "common": "カタール"
+      },
+      "kor": {
+        "official": "카타르국",
+        "common": "카타르"
+      },
+      "nld": {
+        "official": "Staat Qatar",
+        "common": "Qatar"
+      },
+      "per": {
+        "official": "دولت قطر",
+        "common": "قطر"
+      },
+      "pol": {
+        "official": "Państwo Katar",
+        "common": "Katar"
+      },
+      "por": {
+        "official": "Estado do Qatar",
+        "common": "Catar"
+      },
+      "rus": {
+        "official": "Государство Катар",
+        "common": "Катар"
+      },
+      "slk": {
+        "official": "Katarský štát",
+        "common": "Katar"
+      },
+      "spa": {
+        "official": "Estado de Qatar",
+        "common": "Catar"
+      },
+      "srp": {
+        "official": "Држава Катар",
+        "common": "Катар"
+      },
+      "swe": {
+        "official": "Staten Qatar",
+        "common": "Qatar"
+      },
+      "tur": {
+        "official": "Katar Devleti",
+        "common": "Katar"
+      },
+      "urd": {
+        "official": "ریاستِ قطر",
+        "common": "قطر"
+      },
+      "zho": {
+        "official": "卡塔尔国",
+        "common": "卡塔尔"
+      }
+    },
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "landlocked": false,
+    "borders": [
+      "SAU"
+    ],
+    "area": 11586.0,
+    "demonyms": {
+      "eng": {
+        "f": "Qatari",
+        "m": "Qatari"
+      },
+      "fra": {
+        "f": "Qatarienne",
+        "m": "Qatarien"
+      }
+    },
+    "flag": "🇶🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
+    },
+    "population": 2881060,
+    "fifa": "QAT",
+    "car": {
+      "signs": [
+        "Q"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/qa.png",
+      "svg": "https://flagcdn.com/qa.svg",
+      "alt": "The flag of Qatar has a maroon field, on the hoist side of which is a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by nine adjoining fly-side pointing white isosceles triangles that serve as a serrated line."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/qa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        25.28,
+        51.53
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Republic of the Congo",
       "official": "Republic of the Congo",
       "nativeName": {
@@ -39410,6 +38983,217 @@
   },
   {
     "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية العربية السورية",
+          "common": "سوريا"
+        }
+      }
+    },
+    "tld": [
+      ".sy",
+      "سوريا."
+    ],
+    "cca2": "SY",
+    "ccn3": "760",
+    "cca3": "SYR",
+    "cioc": "SYR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SYP": {
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "63"
+      ]
+    },
+    "capital": [
+      "Damascus"
+    ],
+    "altSpellings": [
+      "SY",
+      "Syrian Arab Republic",
+      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية العربية السورية",
+        "common": "سوريا"
+      },
+      "bre": {
+        "official": "Republik Arab Siriat",
+        "common": "Siria"
+      },
+      "ces": {
+        "official": "Syrská arabská republika",
+        "common": "Sýrie"
+      },
+      "cym": {
+        "official": "Syrian Arab Republic",
+        "common": "Syria"
+      },
+      "deu": {
+        "official": "Arabische Republik Syrien",
+        "common": "Syrien"
+      },
+      "est": {
+        "official": "Süüria Araabia Vabariik",
+        "common": "Süüria"
+      },
+      "fin": {
+        "official": "Syyrian arabitasavalta",
+        "common": "Syyria"
+      },
+      "fra": {
+        "official": "République arabe syrienne",
+        "common": "Syrie"
+      },
+      "hrv": {
+        "official": "Sirijska Arapska Republika",
+        "common": "Sirija"
+      },
+      "hun": {
+        "official": "Szíriai Arab Köztársaság",
+        "common": "Szíria"
+      },
+      "ita": {
+        "official": "Repubblica araba siriana",
+        "common": "Siria"
+      },
+      "jpn": {
+        "official": "シリアアラブ共和国",
+        "common": "シリア・アラブ共和国"
+      },
+      "kor": {
+        "official": "시리아 아랍 공화국",
+        "common": "시리아"
+      },
+      "nld": {
+        "official": "Syrische Arabische Republiek",
+        "common": "Syrië"
+      },
+      "per": {
+        "official": "جمهوری عربی سوریه",
+        "common": "سوریه"
+      },
+      "pol": {
+        "official": "Syryjska Republika Arabska",
+        "common": "Syria"
+      },
+      "por": {
+        "official": "República Árabe Síria",
+        "common": "Síria"
+      },
+      "rus": {
+        "official": "Сирийская Арабская Республика",
+        "common": "Сирия"
+      },
+      "slk": {
+        "official": "Sýrska arabská republika",
+        "common": "Sýria"
+      },
+      "spa": {
+        "official": "República Árabe Siria",
+        "common": "Siria"
+      },
+      "srp": {
+        "official": "Сиријска Арапска Република",
+        "common": "Сирија"
+      },
+      "swe": {
+        "official": "Syriska arabiska republiken",
+        "common": "Syrien"
+      },
+      "tur": {
+        "official": "Suriye Arap Cumhuriyeti",
+        "common": "Suriye"
+      },
+      "urd": {
+        "official": "عرب جمہوریہ سوریہ",
+        "common": "سوریہ"
+      },
+      "zho": {
+        "official": "叙利亚阿拉伯共和国",
+        "common": "叙利亚"
+      }
+    },
+    "latlng": [
+      35.0,
+      38.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "area": 185180.0,
+    "demonyms": {
+      "eng": {
+        "f": "Syrian",
+        "m": "Syrian"
+      },
+      "fra": {
+        "f": "Syrienne",
+        "m": "Syrien"
+      }
+    },
+    "flag": "🇸🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184840"
+    },
+    "population": 17500657,
+    "gini": {
+      "2003": 37.5
+    },
+    "fifa": "SYR",
+    "car": {
+      "signs": [
+        "SYR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sy.png",
+      "svg": "https://flagcdn.com/sy.svg",
+      "alt": "The flag of Syria is composed of three equal horizontal bands of red, white and black. At the center of the white band are two small five-pointed green stars arranged in a horizontal line."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        33.5,
+        36.3
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Tajikistan",
       "official": "Republic of Tajikistan",
       "nativeName": {
@@ -41011,6 +40795,222 @@
     "postalCode": {
       "format": "#####-####",
       "regex": "^\\d{5}(-\\d{4})?$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine",
+      "nativeName": {
+        "ukr": {
+          "official": "Україна",
+          "common": "Україна"
+        }
+      }
+    },
+    "tld": [
+      ".ua",
+      ".укр"
+    ],
+    "cca2": "UA",
+    "ccn3": "804",
+    "cca3": "UKR",
+    "cioc": "UKR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "UAH": {
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "80"
+      ]
+    },
+    "capital": [
+      "Kyiv"
+    ],
+    "altSpellings": [
+      "UA",
+      "Ukrayina"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+      "ukr": "Ukrainian"
+    },
+    "translations": {
+      "ara": {
+        "official": "أوكرانيا",
+        "common": "أوكرانيا"
+      },
+      "bre": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "ces": {
+        "official": "Ukrajina",
+        "common": "Ukrajina"
+      },
+      "cym": {
+        "official": "Ukraine",
+        "common": "Ukraine"
+      },
+      "deu": {
+        "official": "Ukraine",
+        "common": "Ukraine"
+      },
+      "est": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "fin": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "fra": {
+        "official": "Ukraine",
+        "common": "Ukraine"
+      },
+      "hrv": {
+        "official": "Ukrajina",
+        "common": "Ukrajina"
+      },
+      "hun": {
+        "official": "Ukrajna",
+        "common": "Ukrajna"
+      },
+      "ita": {
+        "official": "Ucraina",
+        "common": "Ucraina"
+      },
+      "jpn": {
+        "official": "ウクライナ",
+        "common": "ウクライナ"
+      },
+      "kor": {
+        "official": "우크라이나",
+        "common": "우크라이나"
+      },
+      "nld": {
+        "official": "Oekraïne",
+        "common": "Oekraïne"
+      },
+      "per": {
+        "official": "اوکراین",
+        "common": "اوکراین"
+      },
+      "pol": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "por": {
+        "official": "Ucrânia",
+        "common": "Ucrânia"
+      },
+      "rus": {
+        "official": "Украина",
+        "common": "Украина"
+      },
+      "slk": {
+        "official": "Ukrajina",
+        "common": "Ukrajina"
+      },
+      "spa": {
+        "official": "Ucrania",
+        "common": "Ucrania"
+      },
+      "srp": {
+        "official": "Украјина",
+        "common": "Украјина"
+      },
+      "swe": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "tur": {
+        "official": "Ukrayna",
+        "common": "Ukrayna"
+      },
+      "urd": {
+        "official": "یوکرین",
+        "common": "یوکرین"
+      },
+      "zho": {
+        "official": "乌克兰",
+        "common": "乌克兰"
+      }
+    },
+    "latlng": [
+      49.0,
+      32.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "area": 603500.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ukrainian",
+        "m": "Ukrainian"
+      },
+      "fra": {
+        "f": "Ukrainienne",
+        "m": "Ukrainien"
+      }
+    },
+    "flag": "🇺🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+    },
+    "population": 44134693,
+    "gini": {
+      "2019": 26.6
+    },
+    "fifa": "UKR",
+    "car": {
+      "signs": [
+        "UA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ua.png",
+      "svg": "https://flagcdn.com/ua.svg",
+      "alt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        50.43,
+        30.52
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
     }
   },
   {
