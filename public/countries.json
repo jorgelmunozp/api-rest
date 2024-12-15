@@ -4707,658 +4707,31 @@
       "regex": "^(\\d{5})$"
     }
   },
-  {
+    {
     "name": {
-      "common": "Grenada",
-      "official": "Grenada",
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau",
       "nativeName": {
-        "eng": {
-          "official": "Grenada",
-          "common": "Grenada"
-        }
-      }
-    },
-    "tld": [
-      ".gd"
-    ],
-    "cca2": "GD",
-    "ccn3": "308",
-    "cca3": "GRD",
-    "cioc": "GRN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XCD": {
-        "name": "Eastern Caribbean dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "suffixes": [
-        "473"
-      ]
-    },
-    "capital": [
-      "St. George's"
-    ],
-    "altSpellings": [
-      "GD"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "غرينادا",
-        "common": "غرينادا"
-      },
-      "bre": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "ces": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "cym": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "deu": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "est": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "fin": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "fra": {
-        "official": "Grenade",
-        "common": "Grenade"
-      },
-      "hrv": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "hun": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "ita": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "jpn": {
-        "official": "グレナダ",
-        "common": "グレナダ"
-      },
-      "kor": {
-        "official": "그레나다",
-        "common": "그레나다"
-      },
-      "nld": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "per": {
-        "official": "گرنادا",
-        "common": "گرنادا"
-      },
-      "pol": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "por": {
-        "official": "Grenada",
-        "common": "Granada"
-      },
-      "rus": {
-        "official": "Гренада",
-        "common": "Гренада"
-      },
-      "slk": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "spa": {
-        "official": "Granada",
-        "common": "Grenada"
-      },
-      "srp": {
-        "official": "Гренада",
-        "common": "Гренада"
-      },
-      "swe": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "tur": {
-        "official": "Grenada",
-        "common": "Grenada"
-      },
-      "urd": {
-        "official": "گریناڈا",
-        "common": "گریناڈا"
-      },
-      "zho": {
-        "official": "格林纳达",
-        "common": "格林纳达"
-      }
-    },
-    "latlng": [
-      12.11666666,
-      -61.66666666
-    ],
-    "landlocked": false,
-    "area": 344.0,
-    "demonyms": {
-      "eng": {
-        "f": "Grenadian",
-        "m": "Grenadian"
-      },
-      "fra": {
-        "f": "Grenadienne",
-        "m": "Grenadien"
-      }
-    },
-    "flag": "🇬🇩",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
-    },
-    "population": 112519,
-    "fifa": "GRN",
-    "car": {
-      "signs": [
-        "WG"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/gd.png",
-      "svg": "https://flagcdn.com/gd.svg",
-      "alt": "The flag of Grenada features a large central rectangular area surrounded by a red border, with three five-pointed yellow stars centered on the top and bottom borders. The central rectangle is divided diagonally into four alternating triangular areas of yellow at the top and bottom and green on the hoist and fly sides, and a five-pointed yellow star on a red circle is superimposed at its center. A symbolic nutmeg pod is situated on the green hoist-side triangle."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        32.38,
-        -64.68
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Hungary",
-      "official": "Hungary",
-      "nativeName": {
-        "hun": {
-          "official": "Magyarország",
-          "common": "Magyarország"
-        }
-      }
-    },
-    "tld": [
-      ".hu"
-    ],
-    "cca2": "HU",
-    "ccn3": "348",
-    "cca3": "HUN",
-    "cioc": "HUN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "HUF": {
-        "name": "Hungarian forint",
-        "symbol": "Ft"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "6"
-      ]
-    },
-    "capital": [
-      "Budapest"
-    ],
-    "altSpellings": [
-      "HU"
-    ],
-    "region": "Europe",
-    "subregion": "Central Europe",
-    "languages": {
-      "hun": "Hungarian"
-    },
-    "translations": {
-      "ara": {
-        "official": "الجمهورية المجرية",
-        "common": "المجر"
-      },
-      "bre": {
-        "official": "Hungaria",
-        "common": "Hungaria"
-      },
-      "ces": {
-        "official": "Maďarsko",
-        "common": "Maďarsko"
-      },
-      "cym": {
-        "official": "Hungary",
-        "common": "Hungary"
-      },
-      "deu": {
-        "official": "Ungarn",
-        "common": "Ungarn"
-      },
-      "est": {
-        "official": "Ungari",
-        "common": "Ungari"
-      },
-      "fin": {
-        "official": "Unkari",
-        "common": "Unkari"
-      },
-      "fra": {
-        "official": "Hongrie",
-        "common": "Hongrie"
-      },
-      "hrv": {
-        "official": "Madžarska",
-        "common": "Mađarska"
-      },
-      "hun": {
-        "official": "Magyarország",
-        "common": "Magyarország"
-      },
-      "ita": {
-        "official": "Ungheria",
-        "common": "Ungheria"
-      },
-      "jpn": {
-        "official": "ハンガリー",
-        "common": "ハンガリー"
-      },
-      "kor": {
-        "official": "헝가리",
-        "common": "헝가리"
-      },
-      "nld": {
-        "official": "Hongarije",
-        "common": "Hongarije"
-      },
-      "per": {
-        "official": "مجارستان",
-        "common": "مجارستان"
-      },
-      "pol": {
-        "official": "Węgry",
-        "common": "Węgry"
-      },
-      "por": {
-        "official": "Hungria",
-        "common": "Hungria"
-      },
-      "rus": {
-        "official": "Венгрия",
-        "common": "Венгрия"
-      },
-      "slk": {
-        "official": "Maďarsko",
-        "common": "Maďarsko"
-      },
-      "spa": {
-        "official": "Hungría",
-        "common": "Hungría"
-      },
-      "srp": {
-        "official": "Мађарска",
-        "common": "Мађарска"
-      },
-      "swe": {
-        "official": "Ungern",
-        "common": "Ungern"
-      },
-      "tur": {
-        "official": "Macaristan",
-        "common": "Macaristan"
-      },
-      "urd": {
-        "official": "مجارستان",
-        "common": "مجارستان"
-      },
-      "zho": {
-        "official": "匈牙利",
-        "common": "匈牙利"
-      }
-    },
-    "latlng": [
-      47.0,
-      20.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "AUT",
-      "HRV",
-      "ROU",
-      "SRB",
-      "SVK",
-      "SVN",
-      "UKR"
-    ],
-    "area": 93028.0,
-    "demonyms": {
-      "eng": {
-        "f": "Hungarian",
-        "m": "Hungarian"
-      },
-      "fra": {
-        "f": "Hongroise",
-        "m": "Hongrois"
-      }
-    },
-    "flag": "🇭🇺",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
-    },
-    "population": 9749763,
-    "gini": {
-      "2018": 29.6
-    },
-    "fifa": "HUN",
-    "car": {
-      "signs": [
-        "H"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/hu.png",
-      "svg": "https://flagcdn.com/hu.svg",
-      "alt": "The flag of Hungary is composed of three equal horizontal bands of red, white and green."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/hu.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/hu.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        47.5,
-        19.08
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Israel",
-      "official": "State of Israel",
-      "nativeName": {
-        "ara": {
-          "official": "دولة إسرائيل",
-          "common": "إسرائيل"
+        "por": {
+          "official": "República da Guiné-Bissau",
+          "common": "Guiné-Bissau"
         },
-        "heb": {
-          "official": "מדינת ישראל",
-          "common": "ישראל"
+        "pov": {
+          "official": "República da Guiné-Bissau",
+          "common": "Guiné-Bissau"
         }
       }
     },
     "tld": [
-      ".il"
+      ".gw"
     ],
-    "cca2": "IL",
-    "ccn3": "376",
-    "cca3": "ISR",
-    "cioc": "ISR",
+    "cca2": "GW",
+    "ccn3": "624",
+    "cca3": "GNB",
+    "cioc": "GBS",
     "independent": true,
     "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "ILS": {
-        "name": "Israeli new shekel",
-        "symbol": "₪"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "72"
-      ]
-    },
-    "capital": [
-      "Jerusalem"
-    ],
-    "altSpellings": [
-      "IL",
-      "State of Israel",
-      "Medīnat Yisrā'el"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic",
-      "heb": "Hebrew"
-    },
-    "translations": {
-      "ara": {
-        "official": "دولة إسرائيل",
-        "common": "إسرائيل"
-      },
-      "bre": {
-        "official": "Stad Israel",
-        "common": "Israel"
-      },
-      "ces": {
-        "official": "Stát Izrael",
-        "common": "Izrael"
-      },
-      "cym": {
-        "official": "State of Israel",
-        "common": "Israel"
-      },
-      "deu": {
-        "official": "Staat Israel",
-        "common": "Israel"
-      },
-      "est": {
-        "official": "Iisraeli Riik",
-        "common": "Iisrael"
-      },
-      "fin": {
-        "official": "Israelin valtio",
-        "common": "Israel"
-      },
-      "fra": {
-        "official": "État d'Israël",
-        "common": "Israël"
-      },
-      "hrv": {
-        "official": "Država Izrael",
-        "common": "Izrael"
-      },
-      "hun": {
-        "official": "Izrael",
-        "common": "Izrael"
-      },
-      "ita": {
-        "official": "Stato di Israele",
-        "common": "Israele"
-      },
-      "jpn": {
-        "official": "イスラエル国",
-        "common": "イスラエル"
-      },
-      "kor": {
-        "official": "이스라엘국",
-        "common": "이스라엘"
-      },
-      "nld": {
-        "official": "Staat Israël",
-        "common": "Israël"
-      },
-      "per": {
-        "official": "فلسطين اشغالی",
-        "common": "فلسطين اشغالی"
-      },
-      "pol": {
-        "official": "Państwo Izrael",
-        "common": "Izrael"
-      },
-      "por": {
-        "official": "Estado de Israel",
-        "common": "Israel"
-      },
-      "rus": {
-        "official": "Государство Израиль",
-        "common": "Израиль"
-      },
-      "slk": {
-        "official": "Izraelský štát",
-        "common": "Izrael"
-      },
-      "spa": {
-        "official": "Estado de Israel",
-        "common": "Israel"
-      },
-      "srp": {
-        "official": "Држава Израел",
-        "common": "Израел"
-      },
-      "swe": {
-        "official": "Staten Israel",
-        "common": "Israel"
-      },
-      "tur": {
-        "official": "İsrail Devleti",
-        "common": "İsrail"
-      },
-      "urd": {
-        "official": "ریاستِ اسرائیل",
-        "common": "اسرائیل"
-      },
-      "zho": {
-        "official": "以色列国",
-        "common": "以色列"
-      }
-    },
-    "latlng": [
-      31.47,
-      35.13
-    ],
-    "landlocked": false,
-    "borders": [
-      "EGY",
-      "JOR",
-      "LBN",
-      "PSE",
-      "SYR"
-    ],
-    "area": 20770.0,
-    "demonyms": {
-      "eng": {
-        "f": "Israeli",
-        "m": "Israeli"
-      },
-      "fra": {
-        "f": "Israélienne",
-        "m": "Israélien"
-      }
-    },
-    "flag": "🇮🇱",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
-    },
-    "population": 9216900,
-    "gini": {
-      "2016": 39.0
-    },
-    "fifa": "ISR",
-    "car": {
-      "signs": [
-        "IL"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/il.png",
-      "svg": "https://flagcdn.com/il.svg",
-      "alt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/il.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        31.77,
-        35.23
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Ivory Coast",
-      "official": "Republic of Côte d'Ivoire",
-      "nativeName": {
-        "fra": {
-          "official": "République de Côte d'Ivoire",
-          "common": "Côte d'Ivoire"
-        }
-      }
-    },
-    "tld": [
-      ".ci"
-    ],
-    "cca2": "CI",
-    "ccn3": "384",
-    "cca3": "CIV",
-    "cioc": "CIV",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
+    "unMember": false,
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -5368,162 +4741,158 @@
     "idd": {
       "root": "+2",
       "suffixes": [
-        "25"
+        "45"
       ]
     },
     "capital": [
-      "Yamoussoukro"
+      "Bissau"
     ],
     "altSpellings": [
-      "CI",
-      "Côte d'Ivoire",
-      "Ivory Coast",
-      "Republic of Côte d'Ivoire",
-      "République de Côte d'Ivoire"
+      "GW",
+      "Republic of Guinea-Bissau",
+      "República da Guiné-Bissau"
     ],
     "region": "Africa",
     "subregion": "Western Africa",
     "languages": {
-      "fra": "French"
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
     },
     "translations": {
       "ara": {
-        "official": "جمهورية ساحل العاج",
-        "common": "ساحل العاج"
+        "official": "جمهورية غينيا بيساو",
+        "common": "غينيا بيساو"
       },
       "bre": {
-        "official": "Republik Aod an Olifant",
-        "common": "Aod an Olifant"
+        "official": "Republik Ginea-Bissau",
+        "common": "Ginea-Bissau"
       },
       "ces": {
-        "official": "Republika Pobřeží slonoviny",
-        "common": "Pobřeží slonoviny"
+        "official": "Republika Guinea-Bissau",
+        "common": "Guinea-Bissau"
       },
       "cym": {
-        "official": "Republic of Côte d'Ivoire",
-        "common": "Ivory Coast"
+        "official": "Republic of Guinea-Bissau",
+        "common": "Guinea-Bissau"
       },
       "deu": {
-        "official": "Republik Côte d'Ivoire",
-        "common": "Elfenbeinküste"
+        "official": "Republik Guinea-Bissau",
+        "common": "Guinea-Bissau"
       },
       "est": {
-        "official": "Côte d’Ivoire’i Vabariik",
-        "common": "Elevandiluurannik"
+        "official": "Guinea-Bissau Vabariik",
+        "common": "Guinea-Bissau"
       },
       "fin": {
-        "official": "Norsunluurannikon tasavalta",
-        "common": "Norsunluurannikko"
+        "official": "Guinea-Bissaun tasavalta",
+        "common": "Guinea-Bissau"
       },
       "fra": {
-        "official": "République de Côte d' Ivoire",
-        "common": "Côte d'Ivoire"
+        "official": "République de Guinée-Bissau",
+        "common": "Guinée-Bissau"
       },
       "hrv": {
-        "official": "Republika Côte d'Ivoire",
-        "common": "Obala Bjelokosti"
+        "official": "Republika Gvineja Bisau",
+        "common": "Gvineja Bisau"
       },
       "hun": {
-        "official": "Elefántcsontparti Köztársaság",
-        "common": "Elefántcsontpart"
+        "official": "Bissau-Guineai Köztársaság",
+        "common": "Bissau-Guinea"
       },
       "ita": {
-        "official": "Repubblica della Costa d'Avorio",
-        "common": "Costa d'Avorio"
+        "official": "Repubblica di Guinea-Bissau",
+        "common": "Guinea-Bissau"
       },
       "jpn": {
-        "official": "コートジボワール共和国",
-        "common": "コートジボワール"
+        "official": "ギニアビサウ共和国",
+        "common": "ギニアビサウ"
       },
       "kor": {
-        "official": "코트디부아르 공화국",
-        "common": "코트디부아르"
+        "official": "기니비사우 공화국",
+        "common": "기니비사우"
       },
       "nld": {
-        "official": "Republiek Ivoorkust",
-        "common": "Ivoorkust"
+        "official": "Republiek Guinee-Bissau",
+        "common": "Guinee-Bissau"
       },
       "per": {
-        "official": "جمهوری ساحل عاج",
-        "common": "ساحل عاج"
+        "official": "جمهوری گینه بیسائو",
+        "common": "گینه بیسائو"
       },
       "pol": {
-        "official": "Republika WybrzeŻa Kości Słoniowej",
-        "common": "WybrzeŻe Kości Słoniowej"
+        "official": "Republika Gwinei Bissau",
+        "common": "Gwinea Bissau"
       },
       "por": {
-        "official": "República da Côte d'Ivoire",
-        "common": "Costa do Marfim"
+        "official": "República da Guiné-Bissau",
+        "common": "Guiné-Bissau"
       },
       "rus": {
-        "official": "Республика Кот-д'Ивуаре",
-        "common": "Кот-д’Ивуар"
+        "official": "Республика Гвинея -Бисау",
+        "common": "Гвинея-Бисау"
       },
       "slk": {
-        "official": "Republika Pobrežie Slonoviny",
-        "common": "Pobržie Slonoviny"
+        "official": "Guinejsko-bissauská republika",
+        "common": "Guinea-Bissau"
       },
       "spa": {
-        "official": "República de Côte d'Ivoire",
-        "common": "Costa de Marfil"
+        "official": "República de Guinea-Bissau",
+        "common": "Guinea-Bisáu"
       },
       "srp": {
-        "official": "Република Обала Слоноваче",
-        "common": "Обала Слоноваче"
+        "official": "Република Гвинеја Бисао",
+        "common": "Гвинеја Бисао"
       },
       "swe": {
-        "official": "Republiken Elfenbenskusten",
-        "common": "Elfenbenskusten"
+        "official": "Republiken Guinea-Bissau",
+        "common": "Guinea-Bissau"
       },
       "tur": {
-        "official": "Fildişi Sahili",
-        "common": "Fildişi Sahili"
+        "official": "Gine-Bissau Cumhuriyeti",
+        "common": "Gine-Bissau"
       },
       "urd": {
-        "official": "جمہوریہ کوت دیواغ",
-        "common": "آئیوری کوسٹ"
+        "official": "جمہوریہ گنی بساؤ",
+        "common": "گنی بساؤ"
       },
       "zho": {
-        "official": "科特迪瓦共和国",
-        "common": "科特迪瓦"
+        "official": "几内亚比绍共和国",
+        "common": "几内亚比绍"
       }
     },
     "latlng": [
-      8.0,
-      -5.0
+      12.0,
+      -15.0
     ],
     "landlocked": false,
     "borders": [
-      "BFA",
-      "GHA",
       "GIN",
-      "LBR",
-      "MLI"
+      "SEN"
     ],
-    "area": 322463.0,
+    "area": 36125.0,
     "demonyms": {
       "eng": {
-        "f": "Ivorian",
-        "m": "Ivorian"
+        "f": "Guinea-Bissauan",
+        "m": "Guinea-Bissauan"
       },
       "fra": {
-        "f": "Ivoirienne",
-        "m": "Ivoirien"
+        "f": "Bissau-Guinéenne",
+        "m": "Bissau-Guinéen"
       }
     },
-    "flag": "🇨🇮",
+    "flag": "🇬🇼",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+      "googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192776"
     },
-    "population": 26378275,
+    "population": 1967998,
     "gini": {
-      "2015": 41.5
+      "2010": 50.7
     },
-    "fifa": "CIV",
+    "fifa": "GNB",
     "car": {
       "signs": [
-        "CI"
+        "RGB"
       ],
       "side": "right"
     },
@@ -5534,232 +4903,19 @@
       "Africa"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/ci.png",
-      "svg": "https://flagcdn.com/ci.svg",
-      "alt": "The flag of Ivory Coast is composed of three equal vertical bands of orange, white and green."
+      "png": "https://flagcdn.com/w320/gw.png",
+      "svg": "https://flagcdn.com/gw.svg",
+      "alt": "The flag of Guinea-Bissau features a red vertical band on its hoist side that takes up about two-fifth the width of the field, and two equal horizontal bands of yellow and green adjoining the vertical band. A five-pointed black star is centered in the vertical band."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gw.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        6.82,
-        -5.27
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "New Zealand",
-      "official": "New Zealand",
-      "nativeName": {
-        "eng": {
-          "official": "New Zealand",
-          "common": "New Zealand"
-        },
-        "mri": {
-          "official": "Aotearoa",
-          "common": "Aotearoa"
-        },
-        "nzs": {
-          "official": "New Zealand",
-          "common": "New Zealand"
-        }
-      }
-    },
-    "tld": [
-      ".nz"
-    ],
-    "cca2": "NZ",
-    "ccn3": "554",
-    "cca3": "NZL",
-    "cioc": "NZL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "NZD": {
-        "name": "New Zealand dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "4"
-      ]
-    },
-    "capital": [
-      "Wellington"
-    ],
-    "altSpellings": [
-      "NZ",
-      "Aotearoa"
-    ],
-    "region": "Oceania",
-    "subregion": "Australia and New Zealand",
-    "languages": {
-      "eng": "English",
-      "mri": "Māori",
-      "nzs": "New Zealand Sign Language"
-    },
-    "translations": {
-      "ara": {
-        "official": "نيوزيلندا",
-        "common": "نيوزيلندا"
-      },
-      "bre": {
-        "official": "Zeland-Nevez",
-        "common": "Zeland-Nevez"
-      },
-      "ces": {
-        "official": "Nový Zéland",
-        "common": "Nový Zéland"
-      },
-      "cym": {
-        "official": "New Zealand",
-        "common": "New Zealand"
-      },
-      "deu": {
-        "official": "Neuseeland",
-        "common": "Neuseeland"
-      },
-      "est": {
-        "official": "Uus-Meremaa",
-        "common": "Uus-Meremaa"
-      },
-      "fin": {
-        "official": "Uusi-Seelanti",
-        "common": "Uusi-Seelanti"
-      },
-      "fra": {
-        "official": "Nouvelle-Zélande",
-        "common": "Nouvelle-Zélande"
-      },
-      "hrv": {
-        "official": "Novi Zeland",
-        "common": "Novi Zeland"
-      },
-      "hun": {
-        "official": "Új-Zéland",
-        "common": "Új-Zéland"
-      },
-      "ita": {
-        "official": "Nuova Zelanda",
-        "common": "Nuova Zelanda"
-      },
-      "jpn": {
-        "official": "ニュージーランド",
-        "common": "ニュージーランド"
-      },
-      "kor": {
-        "official": "뉴질랜드",
-        "common": "뉴질랜드"
-      },
-      "nld": {
-        "official": "Nieuw Zeeland",
-        "common": "Nieuw-Zeeland"
-      },
-      "per": {
-        "official": "نیوزیلند",
-        "common": "نیوزیلند"
-      },
-      "pol": {
-        "official": "Nowa Zelandia",
-        "common": "Nowa Zelandia"
-      },
-      "por": {
-        "official": "nova Zelândia",
-        "common": "Nova Zelândia"
-      },
-      "rus": {
-        "official": "Новая Зеландия",
-        "common": "Новая Зеландия"
-      },
-      "slk": {
-        "official": "Nový Zéland",
-        "common": "Nový Zéland"
-      },
-      "spa": {
-        "official": "nueva Zelanda",
-        "common": "Nueva Zelanda"
-      },
-      "srp": {
-        "official": "Нови Зеланд",
-        "common": "Нови Зеланд"
-      },
-      "swe": {
-        "official": "Nya Zeeland",
-        "common": "Nya Zeeland"
-      },
-      "tur": {
-        "official": "Yeni Zelanda",
-        "common": "Yeni Zelanda"
-      },
-      "urd": {
-        "official": "نیوزی لینڈ",
-        "common": "نیوزی لینڈ"
-      },
-      "zho": {
-        "official": "新西兰",
-        "common": "新西兰"
-      }
-    },
-    "latlng": [
-      -41.0,
-      174.0
-    ],
-    "landlocked": false,
-    "area": 270467.0,
-    "demonyms": {
-      "eng": {
-        "f": "New Zealander",
-        "m": "New Zealander"
-      },
-      "fra": {
-        "f": "Neo-Zélandaise",
-        "m": "Neo-Zélandais"
-      }
-    },
-    "flag": "🇳🇿",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
-    },
-    "population": 5084300,
-    "fifa": "NZL",
-    "car": {
-      "signs": [
-        "NZ"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-11:00",
-      "UTC-10:00",
-      "UTC+12:00",
-      "UTC+12:45",
-      "UTC+13:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/nz.png",
-      "svg": "https://flagcdn.com/nz.svg",
-      "alt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/nz.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -41.3,
-        174.78
+        11.85,
+        -15.58
       ]
     },
     "postalCode": {
@@ -5769,233 +4925,454 @@
   },
   {
     "name": {
-      "common": "Nicaragua",
-      "official": "Republic of Nicaragua",
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt",
       "nativeName": {
-        "spa": {
-          "official": "República de Nicaragua",
-          "common": "Nicaragua"
+        "ara": {
+          "official": "جمهورية مصر العربية",
+          "common": "مصر"
         }
       }
     },
     "tld": [
-      ".ni"
+      ".eg",
+      ".مصر"
     ],
-    "cca2": "NI",
-    "ccn3": "558",
-    "cca3": "NIC",
-    "cioc": "NCA",
+    "cca2": "EG",
+    "ccn3": "818",
+    "cca3": "EGY",
+    "cioc": "EGY",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "NIO": {
-        "name": "Nicaraguan córdoba",
-        "symbol": "C$"
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "£"
       }
     },
     "idd": {
-      "root": "+5",
+      "root": "+2",
       "suffixes": [
-        "05"
+        "0"
       ]
     },
     "capital": [
-      "Managua"
+      "Cairo"
     ],
     "altSpellings": [
-      "NI",
-      "Republic of Nicaragua",
-      "República de Nicaragua"
+      "EG",
+      "Arab Republic of Egypt"
     ],
-    "region": "Americas",
-    "subregion": "Central America",
+    "region": "Africa",
+    "subregion": "Northern Africa",
     "languages": {
-      "spa": "Spanish"
+      "ara": "Arabic"
     },
     "translations": {
       "ara": {
-        "official": "جمهورية نيكاراغوا",
-        "common": "نيكاراغوا"
+        "official": "جمهورية مصر العربية",
+        "common": "مصر"
       },
       "bre": {
-        "official": "Republik Nicaragua",
-        "common": "Nicaragua"
+        "official": "Republik arab Egipt",
+        "common": "Egipt"
       },
       "ces": {
-        "official": "Republika Nikaragua",
-        "common": "Nikaragua"
+        "official": "Egyptská arabská republika",
+        "common": "Egypt"
       },
       "cym": {
-        "official": "Republic of Nicaragua",
-        "common": "Nicaragua"
+        "official": "Gweriniaeth Arabaidd yr Aifft",
+        "common": "Yr Aifft"
       },
       "deu": {
-        "official": "Republik Nicaragua",
-        "common": "Nicaragua"
+        "official": "Arabische Republik Ägypten",
+        "common": "Ägypten"
       },
       "est": {
-        "official": "Nicaragua Vabariik",
-        "common": "Nicaragua"
+        "official": "Egiptuse Araabia Vabariik",
+        "common": "Egiptus"
       },
       "fin": {
-        "official": "Nicaraguan tasavalta",
-        "common": "Nicaragua"
+        "official": "Egyptin arabitasavalta",
+        "common": "Egypti"
       },
       "fra": {
-        "official": "République du Nicaragua",
-        "common": "Nicaragua"
+        "official": "République arabe d'Égypte",
+        "common": "Égypte"
       },
       "hrv": {
-        "official": "Republika Nikaragva",
-        "common": "Nikaragva"
+        "official": "Arapska Republika Egipat",
+        "common": "Egipat"
       },
       "hun": {
-        "official": "Nicaraguai Köztársaság",
-        "common": "Nicaragua"
+        "official": "Egyiptomi Arab Köztársaság",
+        "common": "Egyiptom"
       },
       "ita": {
-        "official": "Repubblica del Nicaragua",
-        "common": "Nicaragua"
+        "official": "Repubblica araba d'Egitto",
+        "common": "Egitto"
       },
       "jpn": {
-        "official": "ニカラグア共和国",
-        "common": "ニカラグア"
+        "official": "エジプト·アラブ共和国",
+        "common": "エジプト"
       },
       "kor": {
-        "official": "니카라과 공화국",
-        "common": "니카라과"
+        "official": "이집트 아랍 공화국",
+        "common": "이집트"
       },
       "nld": {
-        "official": "Republiek Nicaragua",
-        "common": "Nicaragua"
+        "official": "Arabische Republiek Egypte",
+        "common": "Egypte"
       },
       "per": {
-        "official": "جمهوری نیکاراگوئه",
-        "common": "نیکاراگوئه"
+        "official": "جمهوری عربی مصر",
+        "common": "مصر"
       },
       "pol": {
-        "official": "Republika Nikaragui",
-        "common": "Nikaragua"
+        "official": "Arabska Republika Egiptu",
+        "common": "Egipt"
       },
       "por": {
-        "official": "República da Nicarágua",
-        "common": "Nicarágua"
+        "official": "República Árabe do Egipto",
+        "common": "Egito"
       },
       "rus": {
-        "official": "Республика Никарагуа",
-        "common": "Никарагуа"
+        "official": "Арабская Республика Египет",
+        "common": "Египет"
       },
       "slk": {
-        "official": "Nikaragujská republika",
-        "common": "Nikaragua"
+        "official": "Egyptská arabská republika",
+        "common": "Egypt"
       },
       "spa": {
-        "official": "República de Nicaragua",
-        "common": "Nicaragua"
+        "official": "República Árabe de Egipto",
+        "common": "Egipto"
       },
       "srp": {
-        "official": "Република Никарагва",
-        "common": "Никарагва"
+        "official": "Арапска Република Египат",
+        "common": "Египат"
       },
       "swe": {
-        "official": "Republiken Nicaragua",
-        "common": "Nicaragua"
+        "official": "Arabrepubliken Egypten",
+        "common": "Egypten"
       },
       "tur": {
-        "official": "Nikaragua Cumhuriyeti",
-        "common": "Nikaragua"
+        "official": "Mısır Arap Cumhuriyeti",
+        "common": "Mısır"
       },
       "urd": {
-        "official": "جمہوریہ نکاراگوا",
-        "common": "نکاراگوا"
+        "official": "مصری عرب جمہوریہ",
+        "common": "مصر"
       },
       "zho": {
-        "official": "尼加拉瓜共和国",
-        "common": "尼加拉瓜"
+        "official": "阿拉伯埃及共和国",
+        "common": "埃及"
       }
     },
     "latlng": [
-      13.0,
-      -85.0
+      27.0,
+      30.0
     ],
     "landlocked": false,
     "borders": [
-      "CRI",
-      "HND"
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
     ],
-    "area": 130373.0,
+    "area": 1002450.0,
     "demonyms": {
       "eng": {
-        "f": "Nicaraguan",
-        "m": "Nicaraguan"
+        "f": "Egyptian",
+        "m": "Egyptian"
       },
       "fra": {
-        "f": "Nicaraguayenne",
-        "m": "Nicaraguayen"
+        "f": "Égyptienne",
+        "m": "Égyptien"
       }
     },
-    "flag": "🇳🇮",
+    "flag": "🇪🇬",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+      "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
     },
-    "population": 6624554,
+    "population": 102334403,
     "gini": {
-      "2014": 46.2
+      "2017": 31.5
     },
-    "fifa": "NCA",
+    "fifa": "EGY",
     "car": {
       "signs": [
-        "NIC"
+        "ET"
       ],
       "side": "right"
     },
     "timezones": [
-      "UTC-06:00"
+      "UTC+02:00"
     ],
     "continents": [
-      "North America"
+      "Africa"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/ni.png",
-      "svg": "https://flagcdn.com/ni.svg",
-      "alt": "The flag of Nicaragua is composed of three equal horizontal bands of blue, white and blue, with the national coat of arms centered in the white band."
+      "png": "https://flagcdn.com/w320/eg.png",
+      "svg": "https://flagcdn.com/eg.svg",
+      "alt": "The flag of Egypt is composed of three equal horizontal bands of red, white and black, with Egypt's national emblem — a hoist-side facing gold eagle of Saladin — centered in the white band."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/eg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/eg.svg"
     },
-    "startOfWeek": "monday",
+    "startOfWeek": "sunday",
     "capitalInfo": {
       "latlng": [
-        12.13,
-        -86.25
+        30.05,
+        31.25
       ]
     },
     "postalCode": {
-      "format": "###-###-#",
-      "regex": "^(\\d{7})$"
+      "format": "#####",
+      "regex": "^(\\d{5})$"
     }
   },
   {
     "name": {
-      "common": "Italy",
-      "official": "Italian Republic",
+      "common": "Fiji",
+      "official": "Republic of Fiji",
       "nativeName": {
-        "ita": {
-          "official": "Repubblica italiana",
-          "common": "Italia"
+        "eng": {
+          "official": "Republic of Fiji",
+          "common": "Fiji"
+        },
+        "fij": {
+          "official": "Matanitu Tugalala o Viti",
+          "common": "Viti"
+        },
+        "hif": {
+          "official": "रिपब्लिक ऑफ फीजी",
+          "common": "फिजी"
         }
       }
     },
     "tld": [
-      ".it"
+      ".fj"
     ],
-    "cca2": "IT",
-    "ccn3": "380",
-    "cca3": "ITA",
-    "cioc": "ITA",
+    "cca2": "FJ",
+    "ccn3": "242",
+    "cca3": "FJI",
+    "cioc": "FIJ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "FJD": {
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "79"
+      ]
+    },
+    "capital": [
+      "Suva"
+    ],
+    "altSpellings": [
+      "FJ",
+      "Viti",
+      "Republic of Fiji",
+      "Matanitu ko Viti",
+      "Fijī Gaṇarājya"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية جزر فيجي",
+        "common": "فيجي"
+      },
+      "bre": {
+        "official": "Republik Fidji",
+        "common": "Fidji"
+      },
+      "ces": {
+        "official": "Republika Fidžijských ostrovů",
+        "common": "Fidži"
+      },
+      "cym": {
+        "official": "Republic of Fiji",
+        "common": "Fiji"
+      },
+      "deu": {
+        "official": "Republik Fidschi",
+        "common": "Fidschi"
+      },
+      "est": {
+        "official": "Fidži Vabariik",
+        "common": "Fidži"
+      },
+      "fin": {
+        "official": "Fidžin tasavalta",
+        "common": "Fidži"
+      },
+      "fra": {
+        "official": "République des Fidji",
+        "common": "Fidji"
+      },
+      "hrv": {
+        "official": "Republika Fidži",
+        "common": "Fiđi"
+      },
+      "hun": {
+        "official": "Fidzsi-szigeteki Köztársaság",
+        "common": "Fidzsi-szigetek"
+      },
+      "ita": {
+        "official": "Repubblica di Figi",
+        "common": "Figi"
+      },
+      "jpn": {
+        "official": "フィジー共和国",
+        "common": "フィジー"
+      },
+      "kor": {
+        "official": "피지 공화국",
+        "common": "피지"
+      },
+      "nld": {
+        "official": "Republiek Fiji",
+        "common": "Fiji"
+      },
+      "per": {
+        "official": "جمهوری جزایر فیجی",
+        "common": "فیجی"
+      },
+      "pol": {
+        "official": "Republika Fidżi",
+        "common": "Fidżi"
+      },
+      "por": {
+        "official": "República de Fiji",
+        "common": "Fiji"
+      },
+      "rus": {
+        "official": "Республика Фиджи",
+        "common": "Фиджи"
+      },
+      "slk": {
+        "official": "Fiǆijská republika",
+        "common": "Fiǆi"
+      },
+      "spa": {
+        "official": "República de Fiji",
+        "common": "Fiyi"
+      },
+      "srp": {
+        "official": "Република Фиџи",
+        "common": "Фиџи"
+      },
+      "swe": {
+        "official": "Republiken Fiji",
+        "common": "Fiji"
+      },
+      "tur": {
+        "official": "Fiji Cumhuriyeti",
+        "common": "Fiji"
+      },
+      "urd": {
+        "official": "جمہوریہ فجی",
+        "common": "فجی"
+      },
+      "zho": {
+        "official": "斐济共和国",
+        "common": "斐济"
+      }
+    },
+    "latlng": [
+      17.7134,
+      178.065
+    ],
+    "landlocked": false,
+    "area": 18272.0,
+    "demonyms": {
+      "eng": {
+        "f": "Fijian",
+        "m": "Fijian"
+      },
+      "fra": {
+        "f": "Fidjienne",
+        "m": "Fidjien"
+      }
+    },
+    "flag": "🇫🇯",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
+    },
+    "population": 896444,
+    "gini": {
+      "2013": 36.7
+    },
+    "fifa": "FIJ",
+    "car": {
+      "signs": [
+        "FJI"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/fj.png",
+      "svg": "https://flagcdn.com/fj.svg",
+      "alt": "The flag of Fiji has a light blue field. It features the flag of the United Kingdom — the Union Jack — in the canton and the shield of the national coat of arms centered in the fly half."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/fj.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -18.13,
+        178.42
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland",
+      "nativeName": {
+        "fin": {
+          "official": "Suomen tasavalta",
+          "common": "Suomi"
+        },
+        "swe": {
+          "official": "Republiken Finland",
+          "common": "Finland"
+        }
+      }
+    },
+    "tld": [
+      ".fi"
+    ],
+    "cca2": "FI",
+    "ccn3": "246",
+    "cca3": "FIN",
+    "cioc": "FIN",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
@@ -6008,618 +5385,189 @@
     "idd": {
       "root": "+3",
       "suffixes": [
-        "9"
+        "58"
       ]
     },
     "capital": [
-      "Rome"
+      "Helsinki"
     ],
     "altSpellings": [
-      "IT",
-      "Italian Republic",
-      "Repubblica italiana"
+      "FI",
+      "Suomi",
+      "Republic of Finland",
+      "Suomen tasavalta",
+      "Republiken Finland"
     ],
     "region": "Europe",
-    "subregion": "Southern Europe",
+    "subregion": "Northern Europe",
     "languages": {
-      "ita": "Italian"
+      "fin": "Finnish",
+      "swe": "Swedish"
     },
     "translations": {
       "ara": {
-        "official": "الجمهورية الإيطالية",
-        "common": "إيطاليا"
+        "official": "جمهورية فنلندا",
+        "common": "فنلندا"
       },
       "bre": {
-        "official": "Republik Italia",
-        "common": "Italia"
+        "official": "Republik Finland",
+        "common": "Finland"
       },
       "ces": {
-        "official": "Italská republika",
-        "common": "Itálie"
+        "official": "Finská republika",
+        "common": "Finsko"
       },
       "cym": {
-        "official": "Italian Republic",
-        "common": "Italy"
+        "official": "Republic of Finland",
+        "common": "Finland"
       },
       "deu": {
-        "official": "Italienische Republik",
-        "common": "Italien"
+        "official": "Republik Finnland",
+        "common": "Finnland"
       },
       "est": {
-        "official": "Itaalia Vabariik",
-        "common": "Itaalia"
+        "official": "Soome Vabariik",
+        "common": "Soome"
       },
       "fin": {
-        "official": "Italian tasavalta",
-        "common": "Italia"
+        "official": "Suomen tasavalta",
+        "common": "Suomi"
       },
       "fra": {
-        "official": "République italienne",
-        "common": "Italie"
+        "official": "République de Finlande",
+        "common": "Finlande"
       },
       "hrv": {
-        "official": "talijanska Republika",
-        "common": "Italija"
+        "official": "Republika Finska",
+        "common": "Finska"
       },
       "hun": {
-        "official": "Olasz Köztársaság",
-        "common": "Olaszország"
+        "official": "Finn Köztársaság",
+        "common": "Finnország"
       },
       "ita": {
-        "official": "Repubblica italiana",
-        "common": "Italia"
+        "official": "Repubblica di Finlandia",
+        "common": "Finlandia"
       },
       "jpn": {
-        "official": "イタリア共和国",
-        "common": "イタリア"
+        "official": "フィンランド共和国",
+        "common": "フィンランド"
       },
       "kor": {
-        "official": "이탈리아 공화국",
-        "common": "이탈리아"
+        "official": "핀란드 공화국",
+        "common": "핀란드"
       },
       "nld": {
-        "official": "Italiaanse Republiek",
-        "common": "Italië"
+        "official": "Republiek Finland",
+        "common": "Finland"
       },
       "per": {
-        "official": "جمهوری ایتالیا",
-        "common": "ایتالیا"
+        "official": "جمهوری فنلاند",
+        "common": "فنلاند"
       },
       "pol": {
-        "official": "Republika Włoska",
-        "common": "Włochy"
+        "official": "Republika Finlandii",
+        "common": "Finlandia"
       },
       "por": {
-        "official": "República Italiana",
-        "common": "Itália"
+        "official": "República da Finlândia",
+        "common": "Finlândia"
       },
       "rus": {
-        "official": "итальянская Республика",
-        "common": "Италия"
+        "official": "Финляндская Республика",
+        "common": "Финляндия"
       },
       "slk": {
-        "official": "Talianska republika",
-        "common": "Taliansko"
+        "official": "Fínska republika",
+        "common": "Fínsko"
       },
       "spa": {
-        "official": "República Italiana",
-        "common": "Italia"
+        "official": "República de Finlandia",
+        "common": "Finlandia"
       },
       "srp": {
-        "official": "Италијанска Република",
-        "common": "Италија"
+        "official": "Република Финска",
+        "common": "Финска"
       },
       "swe": {
-        "official": "Republiken Italien",
-        "common": "Italien"
+        "official": "Republiken Finland",
+        "common": "Finland"
       },
       "tur": {
-        "official": "İtalyan Cumhuriyeti",
-        "common": "İtalya"
+        "official": "Finlandiya Cumhuriyeti",
+        "common": "Finlandiya"
       },
       "urd": {
-        "official": "جمہوریہ اطالیہ",
-        "common": "اطالیہ"
+        "official": "جمہوریہ فن لینڈ",
+        "common": "فن لینڈ"
       },
       "zho": {
-        "official": "意大利共和国",
-        "common": "意大利"
+        "official": "芬兰共和国",
+        "common": "芬兰"
       }
     },
     "latlng": [
-      42.83333333,
-      12.83333333
+      64.0,
+      26.0
     ],
     "landlocked": false,
     "borders": [
-      "AUT",
-      "FRA",
-      "SMR",
-      "SVN",
-      "CHE",
-      "VAT"
+      "NOR",
+      "SWE",
+      "RUS"
     ],
-    "area": 301336.0,
+    "area": 338424.0,
     "demonyms": {
       "eng": {
-        "f": "Italian",
-        "m": "Italian"
+        "f": "Finnish",
+        "m": "Finnish"
       },
       "fra": {
-        "f": "Italienne",
-        "m": "Italien"
+        "f": "Finlandaise",
+        "m": "Finlandais"
       }
     },
-    "flag": "🇮🇹",
+    "flag": "🇫🇮",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+      "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+      "openStreetMaps": "openstreetmap.org/relation/54224"
     },
-    "population": 59554023,
+    "population": 5530719,
     "gini": {
-      "2017": 35.9
+      "2018": 27.3
     },
-    "fifa": "ITA",
+    "fifa": "FIN",
     "car": {
       "signs": [
-        "I"
+        "FIN"
       ],
       "side": "right"
     },
     "timezones": [
-      "UTC+01:00"
+      "UTC+02:00"
     ],
     "continents": [
       "Europe"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/it.png",
-      "svg": "https://flagcdn.com/it.svg",
-      "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
+      "png": "https://flagcdn.com/w320/fi.png",
+      "svg": "https://flagcdn.com/fi.svg",
+      "alt": "The flag of Finland has a white field with a large blue cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/fi.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/fi.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        41.9,
-        12.48
+        60.17,
+        24.93
       ]
     },
     "postalCode": {
       "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Indonesia",
-      "official": "Republic of Indonesia",
-      "nativeName": {
-        "ind": {
-          "official": "Republik Indonesia",
-          "common": "Indonesia"
-        }
-      }
-    },
-    "tld": [
-      ".id"
-    ],
-    "cca2": "ID",
-    "ccn3": "360",
-    "cca3": "IDN",
-    "cioc": "INA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "IDR": {
-        "name": "Indonesian rupiah",
-        "symbol": "Rp"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "2"
-      ]
-    },
-    "capital": [
-      "Jakarta"
-    ],
-    "altSpellings": [
-      "ID",
-      "Republic of Indonesia",
-      "Republik Indonesia"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "ind": "Indonesian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية إندونيسيا",
-        "common": "إندونيسيا"
-      },
-      "bre": {
-        "official": "Republik Indonezia",
-        "common": "Indonezia"
-      },
-      "ces": {
-        "official": "Indonéská republika",
-        "common": "Indonésie"
-      },
-      "cym": {
-        "official": "Republic of Indonesia",
-        "common": "Indonesia"
-      },
-      "deu": {
-        "official": "Republik Indonesien",
-        "common": "Indonesien"
-      },
-      "est": {
-        "official": "Indoneesia Vabariik",
-        "common": "Indoneesia"
-      },
-      "fin": {
-        "official": "Indonesian tasavalta",
-        "common": "Indonesia"
-      },
-      "fra": {
-        "official": "République d'Indonésie",
-        "common": "Indonésie"
-      },
-      "hrv": {
-        "official": "Republika Indonezija",
-        "common": "Indonezija"
-      },
-      "hun": {
-        "official": "Indonéz Köztársaság",
-        "common": "Indonézia"
-      },
-      "ita": {
-        "official": "Repubblica di Indonesia",
-        "common": "Indonesia"
-      },
-      "jpn": {
-        "official": "インドネシア共和国",
-        "common": "インドネシア"
-      },
-      "kor": {
-        "official": "인도네시아 공화국",
-        "common": "인도네시아"
-      },
-      "nld": {
-        "official": "Republiek Indonesië",
-        "common": "Indonesië"
-      },
-      "per": {
-        "official": "جمهوری اندونزی",
-        "common": "اندونزی"
-      },
-      "pol": {
-        "official": "Republika Indonezji",
-        "common": "Indonezja"
-      },
-      "por": {
-        "official": "República da Indonésia",
-        "common": "Indonésia"
-      },
-      "rus": {
-        "official": "Республика Индонезия",
-        "common": "Индонезия"
-      },
-      "slk": {
-        "official": "Indonézska republika",
-        "common": "Indonézia"
-      },
-      "spa": {
-        "official": "República de Indonesia",
-        "common": "Indonesia"
-      },
-      "srp": {
-        "official": "Република Индонезија",
-        "common": "Индонезија"
-      },
-      "swe": {
-        "official": "Republiken Indonesien",
-        "common": "Indonesien"
-      },
-      "tur": {
-        "official": "Endonezya Cumhuriyeti",
-        "common": "Endonezya"
-      },
-      "urd": {
-        "official": "جمہوریہ انڈونیشیا",
-        "common": "انڈونیشیا"
-      },
-      "zho": {
-        "official": "印度尼西亚共和国",
-        "common": "印度尼西亚"
-      }
-    },
-    "latlng": [
-      -5.0,
-      120.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "TLS",
-      "MYS",
-      "PNG"
-    ],
-    "area": 1904569.0,
-    "demonyms": {
-      "eng": {
-        "f": "Indonesian",
-        "m": "Indonesian"
-      },
-      "fra": {
-        "f": "Indonésienne",
-        "m": "Indonésien"
-      }
-    },
-    "flag": "🇮🇩",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
-    },
-    "population": 273523621,
-    "gini": {
-      "2019": 38.2
-    },
-    "fifa": "IDN",
-    "car": {
-      "signs": [
-        "RI"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+07:00",
-      "UTC+08:00",
-      "UTC+09:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/id.png",
-      "svg": "https://flagcdn.com/id.svg",
-      "alt": "The flag of Indonesia is composed of two equal horizontal bands of red and white."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/id.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/id.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -6.17,
-        106.82
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Laos",
-      "official": "Lao People's Democratic Republic",
-      "nativeName": {
-        "lao": {
-          "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
-          "common": "ສປປລາວ"
-        }
-      }
-    },
-    "tld": [
-      ".la"
-    ],
-    "cca2": "LA",
-    "ccn3": "418",
-    "cca3": "LAO",
-    "cioc": "LAO",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "LAK": {
-        "name": "Lao kip",
-        "symbol": "₭"
-      }
-    },
-    "idd": {
-      "root": "+8",
-      "suffixes": [
-        "56"
-      ]
-    },
-    "capital": [
-      "Vientiane"
-    ],
-    "altSpellings": [
-      "LA",
-      "Lao",
-      "Lao People's Democratic Republic",
-      "Sathalanalat Paxathipatai Paxaxon Lao"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "lao": "Lao"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية لاوس الديمقراطية الشعبية",
-        "common": "لاوس"
-      },
-      "bre": {
-        "official": "Republik Demokratel ar Bobl Lao",
-        "common": "Laos"
-      },
-      "ces": {
-        "official": "Laoská lidově demokratická republika",
-        "common": "Laos"
-      },
-      "cym": {
-        "official": "Lao People's Democratic Republic",
-        "common": "Laos"
-      },
-      "deu": {
-        "official": "Demokratische Volksrepublik Laos",
-        "common": "Laos"
-      },
-      "est": {
-        "official": "Laose Demokraatlik Rahvavabariik",
-        "common": "Laos"
-      },
-      "fin": {
-        "official": "Laosin demokraattinen kansantasavalta",
-        "common": "Laos"
-      },
-      "fra": {
-        "official": "République démocratique populaire lao",
-        "common": "Laos"
-      },
-      "hrv": {
-        "official": "Narodna Demokratska Republika",
-        "common": "Laos"
-      },
-      "hun": {
-        "official": "Laoszi Népi Demokratikus Köztársaság",
-        "common": "Laosz"
-      },
-      "ita": {
-        "official": "Repubblica democratica popolare del Laos",
-        "common": "Laos"
-      },
-      "jpn": {
-        "official": "ラオス人民民主共和国",
-        "common": "ラオス人民民主共和国"
-      },
-      "kor": {
-        "official": "라오 인민 민주 공화국",
-        "common": "라오스"
-      },
-      "nld": {
-        "official": "Lao Democratische Volksrepubliek",
-        "common": "Laos"
-      },
-      "per": {
-        "official": "جمهوری دموکراتیک خلق لائوس",
-        "common": "لائوس"
-      },
-      "pol": {
-        "official": "Laotańska Republika Ludowo-Demokratyczna",
-        "common": "Laos"
-      },
-      "por": {
-        "official": "Laos, República Democrática",
-        "common": "Laos"
-      },
-      "rus": {
-        "official": "Лаосская Народно-Демократическая Республика",
-        "common": "Лаос"
-      },
-      "slk": {
-        "official": "Laoská ľudovodemokratická republika",
-        "common": "Laos"
-      },
-      "spa": {
-        "official": "República Democrática Popular Lao",
-        "common": "Laos"
-      },
-      "srp": {
-        "official": "Лаошка Народна Демократска Република",
-        "common": "Лаос"
-      },
-      "swe": {
-        "official": "Demokratiska folkrepubliken Laos",
-        "common": "Laos"
-      },
-      "tur": {
-        "official": "Laos Demokratik Halk Cumhuriyeti",
-        "common": "Laos"
-      },
-      "urd": {
-        "official": "عوامی جمہوری جمہوریہ لاؤ",
-        "common": "لاؤس"
-      },
-      "zho": {
-        "official": "老挝人民民主共和国",
-        "common": "老挝"
-      }
-    },
-    "latlng": [
-      18.0,
-      105.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "MMR",
-      "KHM",
-      "CHN",
-      "THA",
-      "VNM"
-    ],
-    "area": 236800.0,
-    "demonyms": {
-      "eng": {
-        "f": "Laotian",
-        "m": "Laotian"
-      },
-      "fra": {
-        "f": "Laotienne",
-        "m": "Laotien"
-      }
-    },
-    "flag": "🇱🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
-    },
-    "population": 7275556,
-    "gini": {
-      "2018": 38.8
-    },
-    "fifa": "LAO",
-    "car": {
-      "signs": [
-        "LAO"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+07:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/la.png",
-      "svg": "https://flagcdn.com/la.svg",
-      "alt": "The flag of Laos is composed of three horizontal bands of red, blue and red. The blue band is twice the height of the red bands and bears a white circle at its center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/la.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        17.97,
-        102.6
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
+      "regex": "^(?:FI)*(\\d{5})$"
     }
   },
   {
@@ -6854,429 +5802,6 @@
   },
   {
     "name": {
-      "common": "Libya",
-      "official": "State of Libya",
-      "nativeName": {
-        "ara": {
-          "official": "الدولة ليبيا",
-          "common": "‏ليبيا"
-        }
-      }
-    },
-    "tld": [
-      ".ly"
-    ],
-    "cca2": "LY",
-    "ccn3": "434",
-    "cca3": "LBY",
-    "cioc": "LBA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "LYD": {
-        "name": "Libyan dinar",
-        "symbol": "ل.د"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "18"
-      ]
-    },
-    "capital": [
-      "Tripoli"
-    ],
-    "altSpellings": [
-      "LY",
-      "State of Libya",
-      "Dawlat Libya"
-    ],
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "دولة ليبيا",
-        "common": "‏ليبيا"
-      },
-      "bre": {
-        "official": "Stad Libia",
-        "common": "Libia"
-      },
-      "ces": {
-        "official": "Stát Libye",
-        "common": "Libye"
-      },
-      "cym": {
-        "official": "State of Libya",
-        "common": "Libya"
-      },
-      "deu": {
-        "official": "Staat Libyen",
-        "common": "Libyen"
-      },
-      "est": {
-        "official": "Liibüa",
-        "common": "Liibüa"
-      },
-      "fin": {
-        "official": "Libyan valtio",
-        "common": "Libya"
-      },
-      "fra": {
-        "official": "Grande République arabe libyenne populaire et socialiste",
-        "common": "Libye"
-      },
-      "hrv": {
-        "official": "Država Libiji",
-        "common": "Libija"
-      },
-      "hun": {
-        "official": "Líbia Állam",
-        "common": "Líbia"
-      },
-      "ita": {
-        "official": "Stato della Libia",
-        "common": "Libia"
-      },
-      "jpn": {
-        "official": "リビアの国家",
-        "common": "リビア"
-      },
-      "kor": {
-        "official": "리비아",
-        "common": "리비아"
-      },
-      "nld": {
-        "official": "Staat van Libië",
-        "common": "Libië"
-      },
-      "per": {
-        "official": "دولت لیبی",
-        "common": "لیبی"
-      },
-      "pol": {
-        "official": "Państwo Libia",
-        "common": "Libia"
-      },
-      "por": {
-        "official": "Estado da Líbia",
-        "common": "Líbia"
-      },
-      "rus": {
-        "official": "Государство Ливии",
-        "common": "Ливия"
-      },
-      "slk": {
-        "official": "Líbya",
-        "common": "Líbya"
-      },
-      "spa": {
-        "official": "Estado de Libia",
-        "common": "Libia"
-      },
-      "srp": {
-        "official": "Држава Либија",
-        "common": "Либија"
-      },
-      "swe": {
-        "official": "Staten Libyen",
-        "common": "Libyen"
-      },
-      "tur": {
-        "official": "Libya Devleti",
-        "common": "Libya"
-      },
-      "urd": {
-        "official": "ریاستِ لیبیا",
-        "common": "لیبیا"
-      },
-      "zho": {
-        "official": "利比亚国",
-        "common": "利比亚"
-      }
-    },
-    "latlng": [
-      25.0,
-      17.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "DZA",
-      "TCD",
-      "EGY",
-      "NER",
-      "SDN",
-      "TUN"
-    ],
-    "area": 1759540.0,
-    "demonyms": {
-      "eng": {
-        "f": "Libyan",
-        "m": "Libyan"
-      },
-      "fra": {
-        "f": "Libyenne",
-        "m": "Libyen"
-      }
-    },
-    "flag": "🇱🇾",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
-      "openStreetMaps": "openstreetmap.org/relation/192758"
-    },
-    "population": 6871287,
-    "fifa": "LBY",
-    "car": {
-      "signs": [
-        "LAR"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ly.png",
-      "svg": "https://flagcdn.com/ly.svg",
-      "alt": "The flag of Libya is composed of three horizontal bands of red, black and green, with the black band twice the height of the other two bands. At the center of the black band is a fly-side facing white crescent and a five-pointed white star placed just outside the crescent opening."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ly.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ly.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        32.88,
-        13.17
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Mexico",
-      "official": "United Mexican States",
-      "nativeName": {
-        "spa": {
-          "official": "Estados Unidos Mexicanos",
-          "common": "México"
-        }
-      }
-    },
-    "tld": [
-      ".mx"
-    ],
-    "cca2": "MX",
-    "ccn3": "484",
-    "cca3": "MEX",
-    "cioc": "MEX",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MXN": {
-        "name": "Mexican peso",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "2"
-      ]
-    },
-    "capital": [
-      "Mexico City"
-    ],
-    "altSpellings": [
-      "MX",
-      "Mexicanos",
-      "United Mexican States",
-      "Estados Unidos Mexicanos"
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "الولايات المتحدة المكسيكية",
-        "common": "المسكيك"
-      },
-      "bre": {
-        "official": "Stadoù-Unanet Mec'hiko",
-        "common": "Mec'hiko"
-      },
-      "ces": {
-        "official": "Spojené státy mexické",
-        "common": "Mexiko"
-      },
-      "cym": {
-        "official": "United Mexican States",
-        "common": "Mexico"
-      },
-      "deu": {
-        "official": "Vereinigte Mexikanische Staaten",
-        "common": "Mexiko"
-      },
-      "est": {
-        "official": "Mehhiko Ühendriigid",
-        "common": "Mehhiko"
-      },
-      "fin": {
-        "official": "Meksikon yhdysvallat",
-        "common": "Meksiko"
-      },
-      "fra": {
-        "official": "États-Unis du Mexique",
-        "common": "Mexique"
-      },
-      "hrv": {
-        "official": "Sjedinjene Meksičke Države",
-        "common": "Meksiko"
-      },
-      "hun": {
-        "official": "Mexikói Egyesült Államok",
-        "common": "Mexikó"
-      },
-      "ita": {
-        "official": "Stati Uniti del Messico",
-        "common": "Messico"
-      },
-      "jpn": {
-        "official": "メキシコ合衆国",
-        "common": "メキシコ"
-      },
-      "kor": {
-        "official": "멕시코 합중국",
-        "common": "멕시코"
-      },
-      "nld": {
-        "official": "Verenigde Mexicaanse Staten",
-        "common": "Mexico"
-      },
-      "per": {
-        "official": "ایالات متحد مکزیک",
-        "common": "مکزیک"
-      },
-      "pol": {
-        "official": "Meksykańskie Stany Zjednoczone",
-        "common": "Meksyk"
-      },
-      "por": {
-        "official": "Estados Unidos Mexicanos",
-        "common": "México"
-      },
-      "rus": {
-        "official": "Мексиканские Соединённые Штаты",
-        "common": "Мексика"
-      },
-      "slk": {
-        "official": "Spojené štášy mexické",
-        "common": "Mexiko"
-      },
-      "spa": {
-        "official": "Estados Unidos Mexicanos",
-        "common": "México"
-      },
-      "srp": {
-        "official": "Сједињене Мексичке Државе",
-        "common": "Мексико"
-      },
-      "swe": {
-        "official": "Mexikos förenta stater",
-        "common": "Mexiko"
-      },
-      "tur": {
-        "official": "Birleşik Meksika Devletleri",
-        "common": "Meksika"
-      },
-      "urd": {
-        "official": "ریاستہائے متحدہ میکسیکو",
-        "common": "میکسیکو"
-      },
-      "zho": {
-        "official": "墨西哥合众国",
-        "common": "墨西哥"
-      }
-    },
-    "latlng": [
-      23.0,
-      -102.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BLZ",
-      "GTM",
-      "USA"
-    ],
-    "area": 1964375.0,
-    "demonyms": {
-      "eng": {
-        "f": "Mexican",
-        "m": "Mexican"
-      },
-      "fra": {
-        "f": "Mexicaine",
-        "m": "Mexicain"
-      }
-    },
-    "flag": "🇲🇽",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
-    },
-    "population": 128932753,
-    "gini": {
-      "2018": 45.4
-    },
-    "fifa": "MEX",
-    "car": {
-      "signs": [
-        "MEX"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-08:00",
-      "UTC-07:00",
-      "UTC-06:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mx.png",
-      "svg": "https://flagcdn.com/mx.svg",
-      "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        19.43,
-        -99.13
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Gabon",
       "official": "Gabonese Republic",
       "nativeName": {
@@ -7485,679 +6010,22 @@
   },
   {
     "name": {
-      "common": "North Macedonia",
-      "official": "Republic of North Macedonia",
+      "common": "Greece",
+      "official": "Hellenic Republic",
       "nativeName": {
-        "mkd": {
-          "official": "Република Северна Македонија",
-          "common": "Македонија"
+        "ell": {
+          "official": "Ελληνική Δημοκρατία",
+          "common": "Ελλάδα"
         }
       }
     },
     "tld": [
-      ".mk"
+      ".gr"
     ],
-    "cca2": "MK",
-    "ccn3": "807",
-    "cca3": "MKD",
-    "cioc": "MKD",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MKD": {
-        "name": "denar",
-        "symbol": "den"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "89"
-      ]
-    },
-    "capital": [
-      "Skopje"
-    ],
-    "altSpellings": [
-      "MK",
-      "The former Yugoslav Republic of Macedonia",
-      "Republic of North Macedonia",
-      "Macedonia, The Former Yugoslav Republic of",
-      "Република Северна Македонија"
-    ],
-    "region": "Europe",
-    "subregion": "Southeast Europe",
-    "languages": {
-      "mkd": "Macedonian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية شمال مقدونيا",
-        "common": "شمال مقدونيا"
-      },
-      "bre": {
-        "official": "Republik Makedonia an Norzh",
-        "common": "Makedonia an Norzh"
-      },
-      "ces": {
-        "official": "Republika Severní Makedonie",
-        "common": "Severní Makedonie"
-      },
-      "cym": {
-        "official": "Republic of North Macedonia",
-        "common": "North Macedonia"
-      },
-      "deu": {
-        "official": "Republik Nordmazedonien",
-        "common": "Nordmazedonien"
-      },
-      "est": {
-        "official": "Põhja-Makedoonia Vabariik",
-        "common": "Põhja-Makedoonia"
-      },
-      "fin": {
-        "official": "Pohjois-Makedonian tasavalta",
-        "common": "Pohjois-Makedonia"
-      },
-      "fra": {
-        "official": "République de Macédoine du Nord",
-        "common": "Macédoine du Nord"
-      },
-      "hrv": {
-        "official": "Republika Sjeverna Makedonija",
-        "common": "Sjeverna Makedonija"
-      },
-      "hun": {
-        "official": "Észak-macedón Köztársaság",
-        "common": "Észak-Macedónia"
-      },
-      "ita": {
-        "official": "Repubblica di Macedonia del Nord",
-        "common": "Macedonia del Nord"
-      },
-      "jpn": {
-        "official": "北マケドニア共和国",
-        "common": "北マケドニア "
-      },
-      "kor": {
-        "official": "북마케도니아 공화국",
-        "common": "북마케도니아"
-      },
-      "nld": {
-        "official": "Republiek Noord-Macedonië",
-        "common": "Noord-Macedonië"
-      },
-      "per": {
-        "official": "جمهوری مقدونیه شمالی",
-        "common": "مقدونیه شمالی"
-      },
-      "pol": {
-        "official": "Republika Macedonii Północnej",
-        "common": "Macedonia Północna"
-      },
-      "por": {
-        "official": "República da Macedônia do Norte",
-        "common": "Macedónia do Norte"
-      },
-      "rus": {
-        "official": "Республика Северная Македония",
-        "common": "Северная Македония"
-      },
-      "slk": {
-        "official": "Severomacedónska republika",
-        "common": "Severné Macedónsko"
-      },
-      "spa": {
-        "official": "República de Macedonia del Norte",
-        "common": "Macedonia del Norte"
-      },
-      "srp": {
-        "official": "Република Северна Македонија",
-        "common": "Северна Македонија"
-      },
-      "swe": {
-        "official": "Republiken Nordmakedonien",
-        "common": "Nordmakedonien"
-      },
-      "tur": {
-        "official": "Kuzey Makedonya Cumhuriyeti",
-        "common": "Kuzey Makedonya"
-      },
-      "urd": {
-        "official": "جمہوریہ مقدونیہ",
-        "common": "شمالی مقدونیہ"
-      },
-      "zho": {
-        "official": "北馬其頓共和國",
-        "common": "北馬其頓"
-      }
-    },
-    "latlng": [
-      41.83333333,
-      22.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "ALB",
-      "BGR",
-      "GRC",
-      "UNK",
-      "SRB"
-    ],
-    "area": 25713.0,
-    "demonyms": {
-      "eng": {
-        "f": "Macedonian",
-        "m": "Macedonian"
-      },
-      "fra": {
-        "f": "Macédonienne",
-        "m": "Macédonien"
-      }
-    },
-    "flag": "🇲🇰",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
-    },
-    "population": 2077132,
-    "gini": {
-      "2018": 33.0
-    },
-    "fifa": "MKD",
-    "car": {
-      "signs": [
-        "MK"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mk.png",
-      "svg": "https://flagcdn.com/mk.svg",
-      "alt": "The flag of North Macedonia has a red field, at the center of which is a golden-yellow sun with eight broadening rays that extend to the edges of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        42.0,
-        21.43
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Egypt",
-      "official": "Arab Republic of Egypt",
-      "nativeName": {
-        "ara": {
-          "official": "جمهورية مصر العربية",
-          "common": "مصر"
-        }
-      }
-    },
-    "tld": [
-      ".eg",
-      ".مصر"
-    ],
-    "cca2": "EG",
-    "ccn3": "818",
-    "cca3": "EGY",
-    "cioc": "EGY",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "EGP": {
-        "name": "Egyptian pound",
-        "symbol": "£"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "0"
-      ]
-    },
-    "capital": [
-      "Cairo"
-    ],
-    "altSpellings": [
-      "EG",
-      "Arab Republic of Egypt"
-    ],
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية مصر العربية",
-        "common": "مصر"
-      },
-      "bre": {
-        "official": "Republik arab Egipt",
-        "common": "Egipt"
-      },
-      "ces": {
-        "official": "Egyptská arabská republika",
-        "common": "Egypt"
-      },
-      "cym": {
-        "official": "Gweriniaeth Arabaidd yr Aifft",
-        "common": "Yr Aifft"
-      },
-      "deu": {
-        "official": "Arabische Republik Ägypten",
-        "common": "Ägypten"
-      },
-      "est": {
-        "official": "Egiptuse Araabia Vabariik",
-        "common": "Egiptus"
-      },
-      "fin": {
-        "official": "Egyptin arabitasavalta",
-        "common": "Egypti"
-      },
-      "fra": {
-        "official": "République arabe d'Égypte",
-        "common": "Égypte"
-      },
-      "hrv": {
-        "official": "Arapska Republika Egipat",
-        "common": "Egipat"
-      },
-      "hun": {
-        "official": "Egyiptomi Arab Köztársaság",
-        "common": "Egyiptom"
-      },
-      "ita": {
-        "official": "Repubblica araba d'Egitto",
-        "common": "Egitto"
-      },
-      "jpn": {
-        "official": "エジプト·アラブ共和国",
-        "common": "エジプト"
-      },
-      "kor": {
-        "official": "이집트 아랍 공화국",
-        "common": "이집트"
-      },
-      "nld": {
-        "official": "Arabische Republiek Egypte",
-        "common": "Egypte"
-      },
-      "per": {
-        "official": "جمهوری عربی مصر",
-        "common": "مصر"
-      },
-      "pol": {
-        "official": "Arabska Republika Egiptu",
-        "common": "Egipt"
-      },
-      "por": {
-        "official": "República Árabe do Egipto",
-        "common": "Egito"
-      },
-      "rus": {
-        "official": "Арабская Республика Египет",
-        "common": "Египет"
-      },
-      "slk": {
-        "official": "Egyptská arabská republika",
-        "common": "Egypt"
-      },
-      "spa": {
-        "official": "República Árabe de Egipto",
-        "common": "Egipto"
-      },
-      "srp": {
-        "official": "Арапска Република Египат",
-        "common": "Египат"
-      },
-      "swe": {
-        "official": "Arabrepubliken Egypten",
-        "common": "Egypten"
-      },
-      "tur": {
-        "official": "Mısır Arap Cumhuriyeti",
-        "common": "Mısır"
-      },
-      "urd": {
-        "official": "مصری عرب جمہوریہ",
-        "common": "مصر"
-      },
-      "zho": {
-        "official": "阿拉伯埃及共和国",
-        "common": "埃及"
-      }
-    },
-    "latlng": [
-      27.0,
-      30.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "ISR",
-      "LBY",
-      "PSE",
-      "SDN"
-    ],
-    "area": 1002450.0,
-    "demonyms": {
-      "eng": {
-        "f": "Egyptian",
-        "m": "Egyptian"
-      },
-      "fra": {
-        "f": "Égyptienne",
-        "m": "Égyptien"
-      }
-    },
-    "flag": "🇪🇬",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
-    },
-    "population": 102334403,
-    "gini": {
-      "2017": 31.5
-    },
-    "fifa": "EGY",
-    "car": {
-      "signs": [
-        "ET"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/eg.png",
-      "svg": "https://flagcdn.com/eg.svg",
-      "alt": "The flag of Egypt is composed of three equal horizontal bands of red, white and black, with Egypt's national emblem — a hoist-side facing gold eagle of Saladin — centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/eg.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/eg.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        30.05,
-        31.25
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Peru",
-      "official": "Republic of Peru",
-      "nativeName": {
-        "aym": {
-          "official": "Piruw Suyu",
-          "common": "Piruw"
-        },
-        "que": {
-          "official": "Piruw Ripuwlika",
-          "common": "Piruw"
-        },
-        "spa": {
-          "official": "República del Perú",
-          "common": "Perú"
-        }
-      }
-    },
-    "tld": [
-      ".pe"
-    ],
-    "cca2": "PE",
-    "ccn3": "604",
-    "cca3": "PER",
-    "cioc": "PER",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "PEN": {
-        "name": "Peruvian sol",
-        "symbol": "S/ "
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "1"
-      ]
-    },
-    "capital": [
-      "Lima"
-    ],
-    "altSpellings": [
-      "PE",
-      "Republic of Peru",
-      "República del Perú"
-    ],
-    "region": "Americas",
-    "subregion": "South America",
-    "languages": {
-      "aym": "Aymara",
-      "que": "Quechua",
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بيرو",
-        "common": "بيرو"
-      },
-      "bre": {
-        "official": "Republik Perou",
-        "common": "Perou"
-      },
-      "ces": {
-        "official": "Peruánská republika",
-        "common": "Peru"
-      },
-      "cym": {
-        "official": "Republic of Peru",
-        "common": "Peru"
-      },
-      "deu": {
-        "official": "Republik Peru",
-        "common": "Peru"
-      },
-      "est": {
-        "official": "Peruu Vabariik",
-        "common": "Peruu"
-      },
-      "fin": {
-        "official": "Perun tasavalta",
-        "common": "Peru"
-      },
-      "fra": {
-        "official": "République du Pérou",
-        "common": "Pérou"
-      },
-      "hrv": {
-        "official": "Republika Peru",
-        "common": "Peru"
-      },
-      "hun": {
-        "official": "Perui Köztársaság",
-        "common": "Peru"
-      },
-      "ita": {
-        "official": "Repubblica del Perù",
-        "common": "Perù"
-      },
-      "jpn": {
-        "official": "ペルー共和国",
-        "common": "ペルー"
-      },
-      "kor": {
-        "official": "페루 공화국",
-        "common": "페루"
-      },
-      "nld": {
-        "official": "Republiek Peru",
-        "common": "Peru"
-      },
-      "per": {
-        "official": "جمهوری پرو",
-        "common": "پرو"
-      },
-      "pol": {
-        "official": "Republika Peru",
-        "common": "Peru"
-      },
-      "por": {
-        "official": "República do Peru",
-        "common": "Perú"
-      },
-      "rus": {
-        "official": "Республика Перу",
-        "common": "Перу"
-      },
-      "slk": {
-        "official": "Peruánska republika",
-        "common": "Peru"
-      },
-      "spa": {
-        "official": "República de Perú",
-        "common": "Perú"
-      },
-      "srp": {
-        "official": "Република Перу",
-        "common": "Перу"
-      },
-      "swe": {
-        "official": "Republiken Peru",
-        "common": "Peru"
-      },
-      "tur": {
-        "official": "Peru Cumhuriyeti",
-        "common": "Peru"
-      },
-      "urd": {
-        "official": "جمہوریہ پیرو",
-        "common": "پیرو"
-      },
-      "zho": {
-        "official": "秘鲁共和国",
-        "common": "秘鲁"
-      }
-    },
-    "latlng": [
-      -10.0,
-      -76.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "COL",
-      "ECU"
-    ],
-    "area": 1285216.0,
-    "demonyms": {
-      "eng": {
-        "f": "Peruvian",
-        "m": "Peruvian"
-      },
-      "fra": {
-        "f": "Péruvienne",
-        "m": "Péruvien"
-      }
-    },
-    "flag": "🇵🇪",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
-    },
-    "population": 32971846,
-    "gini": {
-      "2019": 41.5
-    },
-    "fifa": "PER",
-    "car": {
-      "signs": [
-        "PE"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "continents": [
-      "South America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/pe.png",
-      "svg": "https://flagcdn.com/pe.svg",
-      "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -12.05,
-        -77.05
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Finland",
-      "official": "Republic of Finland",
-      "nativeName": {
-        "fin": {
-          "official": "Suomen tasavalta",
-          "common": "Suomi"
-        },
-        "swe": {
-          "official": "Republiken Finland",
-          "common": "Finland"
-        }
-      }
-    },
-    "tld": [
-      ".fi"
-    ],
-    "cca2": "FI",
-    "ccn3": "246",
-    "cca3": "FIN",
-    "cioc": "FIN",
+    "cca2": "GR",
+    "ccn3": "300",
+    "cca3": "GRC",
+    "cioc": "GRE",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
@@ -8170,161 +6038,160 @@
     "idd": {
       "root": "+3",
       "suffixes": [
-        "58"
+        "0"
       ]
     },
     "capital": [
-      "Helsinki"
+      "Athens"
     ],
     "altSpellings": [
-      "FI",
-      "Suomi",
-      "Republic of Finland",
-      "Suomen tasavalta",
-      "Republiken Finland"
+      "GR",
+      "Elláda",
+      "Hellenic Republic",
+      "Ελληνική Δημοκρατία"
     ],
     "region": "Europe",
-    "subregion": "Northern Europe",
+    "subregion": "Southern Europe",
     "languages": {
-      "fin": "Finnish",
-      "swe": "Swedish"
+      "ell": "Greek"
     },
     "translations": {
       "ara": {
-        "official": "جمهورية فنلندا",
-        "common": "فنلندا"
+        "official": "الجمهورية الهيلينية",
+        "common": "اليونان"
       },
       "bre": {
-        "official": "Republik Finland",
-        "common": "Finland"
+        "official": "Republik Hellenek",
+        "common": "Gres"
       },
       "ces": {
-        "official": "Finská republika",
-        "common": "Finsko"
+        "official": "Řecká republika",
+        "common": "Řecko"
       },
       "cym": {
-        "official": "Republic of Finland",
-        "common": "Finland"
+        "official": "Hellenic Republic",
+        "common": "Greece"
       },
       "deu": {
-        "official": "Republik Finnland",
-        "common": "Finnland"
+        "official": "Hellenische Republik",
+        "common": "Griechenland"
       },
       "est": {
-        "official": "Soome Vabariik",
-        "common": "Soome"
+        "official": "Kreeka Vabariik",
+        "common": "Kreeka"
       },
       "fin": {
-        "official": "Suomen tasavalta",
-        "common": "Suomi"
+        "official": "Helleenien tasavalta",
+        "common": "Kreikka"
       },
       "fra": {
-        "official": "République de Finlande",
-        "common": "Finlande"
+        "official": "République hellénique",
+        "common": "Grèce"
       },
       "hrv": {
-        "official": "Republika Finska",
-        "common": "Finska"
+        "official": "Helenska Republika",
+        "common": "Grčka"
       },
       "hun": {
-        "official": "Finn Köztársaság",
-        "common": "Finnország"
+        "official": "Görög Köztársaság",
+        "common": "Görögország"
       },
       "ita": {
-        "official": "Repubblica di Finlandia",
-        "common": "Finlandia"
+        "official": "Repubblica ellenica",
+        "common": "Grecia"
       },
       "jpn": {
-        "official": "フィンランド共和国",
-        "common": "フィンランド"
+        "official": "ギリシャ共和国",
+        "common": "ギリシャ"
       },
       "kor": {
-        "official": "핀란드 공화국",
-        "common": "핀란드"
+        "official": "그리스 공화국",
+        "common": "그리스"
       },
       "nld": {
-        "official": "Republiek Finland",
-        "common": "Finland"
+        "official": "Helleense Republiek",
+        "common": "Griekenland"
       },
       "per": {
-        "official": "جمهوری فنلاند",
-        "common": "فنلاند"
+        "official": "جمهوری یونان",
+        "common": "یونان"
       },
       "pol": {
-        "official": "Republika Finlandii",
-        "common": "Finlandia"
+        "official": "Republika Grecka",
+        "common": "Grecja"
       },
       "por": {
-        "official": "República da Finlândia",
-        "common": "Finlândia"
+        "official": "República Helénica",
+        "common": "Grécia"
       },
       "rus": {
-        "official": "Финляндская Республика",
-        "common": "Финляндия"
+        "official": "Греческая Республика",
+        "common": "Греция"
       },
       "slk": {
-        "official": "Fínska republika",
-        "common": "Fínsko"
+        "official": "Grécka republika",
+        "common": "Greécko"
       },
       "spa": {
-        "official": "República de Finlandia",
-        "common": "Finlandia"
+        "official": "República Helénica",
+        "common": "Grecia"
       },
       "srp": {
-        "official": "Република Финска",
-        "common": "Финска"
+        "official": "Хеленска Република",
+        "common": "Грчка"
       },
       "swe": {
-        "official": "Republiken Finland",
-        "common": "Finland"
+        "official": "Republiken Grekland",
+        "common": "Grekland"
       },
       "tur": {
-        "official": "Finlandiya Cumhuriyeti",
-        "common": "Finlandiya"
+        "official": "Helen Cumhuriyeti",
+        "common": "Yunanistan"
       },
       "urd": {
-        "official": "جمہوریہ فن لینڈ",
-        "common": "فن لینڈ"
+        "official": "جمہوریہ ہیلینیہ",
+        "common": "یونان"
       },
       "zho": {
-        "official": "芬兰共和国",
-        "common": "芬兰"
+        "official": "希腊共和国",
+        "common": "希腊"
       }
     },
     "latlng": [
-      64.0,
-      26.0
+      39.0,
+      22.0
     ],
     "landlocked": false,
     "borders": [
-      "NOR",
-      "SWE",
-      "RUS"
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
     ],
-    "area": 338424.0,
+    "area": 131990.0,
     "demonyms": {
       "eng": {
-        "f": "Finnish",
-        "m": "Finnish"
+        "f": "Greek",
+        "m": "Greek"
       },
       "fra": {
-        "f": "Finlandaise",
-        "m": "Finlandais"
+        "f": "Grecque",
+        "m": "Grec"
       }
     },
-    "flag": "🇫🇮",
+    "flag": "🇬🇷",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
-      "openStreetMaps": "openstreetmap.org/relation/54224"
+      "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
     },
-    "population": 5530719,
+    "population": 10715549,
     "gini": {
-      "2018": 27.3
+      "2018": 32.9
     },
-    "fifa": "FIN",
+    "fifa": "GRE",
     "car": {
       "signs": [
-        "FIN"
+        "GR"
       ],
       "side": "right"
     },
@@ -8335,239 +6202,222 @@
       "Europe"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/fi.png",
-      "svg": "https://flagcdn.com/fi.svg",
-      "alt": "The flag of Finland has a white field with a large blue cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+      "png": "https://flagcdn.com/w320/gr.png",
+      "svg": "https://flagcdn.com/gr.svg",
+      "alt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/fi.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/fi.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gr.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        60.17,
-        24.93
+        37.98,
+        23.73
       ]
     },
     "postalCode": {
-      "format": "#####",
-      "regex": "^(?:FI)*(\\d{5})$"
+      "format": "### ##",
+      "regex": "^(\\d{5})$"
     }
   },
   {
     "name": {
-      "common": "Niger",
-      "official": "Republic of Niger",
+      "common": "Grenada",
+      "official": "Grenada",
       "nativeName": {
-        "fra": {
-          "official": "République du Niger",
-          "common": "Niger"
+        "eng": {
+          "official": "Grenada",
+          "common": "Grenada"
         }
       }
     },
     "tld": [
-      ".ne"
+      ".gd"
     ],
-    "cca2": "NE",
-    "ccn3": "562",
-    "cca3": "NER",
-    "cioc": "NIG",
+    "cca2": "GD",
+    "ccn3": "308",
+    "cca3": "GRD",
+    "cioc": "GRN",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "XOF": {
-        "name": "West African CFA franc",
-        "symbol": "Fr"
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
       }
     },
     "idd": {
-      "root": "+2",
+      "root": "+1",
       "suffixes": [
-        "27"
+        "473"
       ]
     },
     "capital": [
-      "Niamey"
+      "St. George's"
     ],
     "altSpellings": [
-      "NE",
-      "Nijar"
+      "GD"
     ],
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Americas",
+    "subregion": "Caribbean",
     "languages": {
-      "fra": "French"
+      "eng": "English"
     },
     "translations": {
       "ara": {
-        "official": "جمهورية النيجر",
-        "common": "النيجر"
+        "official": "غرينادا",
+        "common": "غرينادا"
       },
       "bre": {
-        "official": "Republik Niger",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "ces": {
-        "official": "Nigerská republika",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "cym": {
-        "official": "Republic of Niger",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "deu": {
-        "official": "Republik Niger",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "est": {
-        "official": "Nigeri Vabariik",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "fin": {
-        "official": "Nigerin tasavalta",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "fra": {
-        "official": "République du Niger",
-        "common": "Niger"
+        "official": "Grenade",
+        "common": "Grenade"
       },
       "hrv": {
-        "official": "Republika Niger",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "hun": {
-        "official": "Nigeri Köztársaság",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "ita": {
-        "official": "Repubblica del Niger",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "jpn": {
-        "official": "ニジェール共和国",
-        "common": "ニジェール"
+        "official": "グレナダ",
+        "common": "グレナダ"
       },
       "kor": {
-        "official": "니제르 공화국",
-        "common": "니제르"
+        "official": "그레나다",
+        "common": "그레나다"
       },
       "nld": {
-        "official": "Republiek Niger",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "per": {
-        "official": "جمهوری نیجر",
-        "common": "نیجر"
+        "official": "گرنادا",
+        "common": "گرنادا"
       },
       "pol": {
-        "official": "Republika Nigru",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "por": {
-        "official": "República do Níger",
-        "common": "Níger"
+        "official": "Grenada",
+        "common": "Granada"
       },
       "rus": {
-        "official": "Республика Нигер",
-        "common": "Нигер"
+        "official": "Гренада",
+        "common": "Гренада"
       },
       "slk": {
-        "official": "Nigérská republika",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "spa": {
-        "official": "República de Níger",
-        "common": "Níger"
+        "official": "Granada",
+        "common": "Grenada"
       },
       "srp": {
-        "official": "Република Нигер",
-        "common": "Нигер"
+        "official": "Гренада",
+        "common": "Гренада"
       },
       "swe": {
-        "official": "Republiken Niger",
-        "common": "Niger"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "tur": {
-        "official": "Nijer Cumhuriyeti",
-        "common": "Nijer"
+        "official": "Grenada",
+        "common": "Grenada"
       },
       "urd": {
-        "official": "جمہوریہ نائجر",
-        "common": "نائجر"
+        "official": "گریناڈا",
+        "common": "گریناڈا"
       },
       "zho": {
-        "official": "尼日尔共和国",
-        "common": "尼日尔"
+        "official": "格林纳达",
+        "common": "格林纳达"
       }
     },
     "latlng": [
-      16.0,
-      8.0
+      12.11666666,
+      -61.66666666
     ],
-    "landlocked": true,
-    "borders": [
-      "DZA",
-      "BEN",
-      "BFA",
-      "TCD",
-      "LBY",
-      "MLI",
-      "NGA"
-    ],
-    "area": 1267000.0,
+    "landlocked": false,
+    "area": 344.0,
     "demonyms": {
       "eng": {
-        "f": "Nigerien",
-        "m": "Nigerien"
+        "f": "Grenadian",
+        "m": "Grenadian"
       },
       "fra": {
-        "f": "Nigérienne",
-        "m": "Nigérien"
+        "f": "Grenadienne",
+        "m": "Grenadien"
       }
     },
-    "flag": "🇳🇪",
+    "flag": "🇬🇩",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
+      "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
     },
-    "population": 24206636,
-    "gini": {
-      "2014": 34.3
-    },
-    "fifa": "NIG",
+    "population": 112519,
+    "fifa": "GRN",
     "car": {
       "signs": [
-        "RN"
+        "WG"
       ],
-      "side": "right"
+      "side": "left"
     },
     "timezones": [
-      "UTC+01:00"
+      "UTC-04:00"
     ],
     "continents": [
-      "Africa"
+      "North America"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/ne.png",
-      "svg": "https://flagcdn.com/ne.svg",
-      "alt": "The flag of Niger features three equal horizontal bands of orange, white and green, with an orange circle centered in the white band."
+      "png": "https://flagcdn.com/w320/gd.png",
+      "svg": "https://flagcdn.com/gd.svg",
+      "alt": "The flag of Grenada features a large central rectangular area surrounded by a red border, with three five-pointed yellow stars centered on the top and bottom borders. The central rectangle is divided diagonally into four alternating triangular areas of yellow at the top and bottom and green on the hoist and fly sides, and a five-pointed yellow star on a red circle is superimposed at its center. A symbolic nutmeg pod is situated on the green hoist-side triangle."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ne.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        13.52,
-        2.12
+        32.38,
+        -64.68
       ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -8788,216 +6638,1499 @@
   },
   {
     "name": {
-      "common": "North Korea",
-      "official": "Democratic People's Republic of Korea",
+      "common": "Hungary",
+      "official": "Hungary",
       "nativeName": {
-        "kor": {
-          "official": "조선민주주의인민공화국",
-          "common": "조선"
+        "hun": {
+          "official": "Magyarország",
+          "common": "Magyarország"
         }
       }
     },
     "tld": [
-      ".kp"
+      ".hu"
     ],
-    "cca2": "KP",
-    "ccn3": "408",
-    "cca3": "PRK",
-    "cioc": "PRK",
+    "cca2": "HU",
+    "ccn3": "348",
+    "cca3": "HUN",
+    "cioc": "HUN",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "KPW": {
-        "name": "North Korean won",
-        "symbol": "₩"
+      "HUF": {
+        "name": "Hungarian forint",
+        "symbol": "Ft"
       }
     },
     "idd": {
-      "root": "+8",
+      "root": "+3",
       "suffixes": [
-        "50"
+        "6"
       ]
     },
     "capital": [
-      "Pyongyang"
+      "Budapest"
     ],
     "altSpellings": [
-      "KP",
-      "Democratic People's Republic of Korea",
-      "DPRK",
-      "조선민주주의인민공화국",
-      "Chosŏn Minjujuŭi Inmin Konghwaguk",
-      "Korea, Democratic People's Republic of",
-      "북한",
-      "북조선"
+      "HU"
     ],
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Europe",
+    "subregion": "Central Europe",
     "languages": {
-      "kor": "Korean"
+      "hun": "Hungarian"
     },
     "translations": {
       "ara": {
-        "official": "جمهورية كوريا الديمقراطية الشعبية",
-        "common": "كوريا الشمالية"
+        "official": "الجمهورية المجرية",
+        "common": "المجر"
       },
       "bre": {
-        "official": "Republik Poblel ha Demokratel Korea",
-        "common": "Korea an Norzh"
+        "official": "Hungaria",
+        "common": "Hungaria"
       },
       "ces": {
-        "official": "Korejská lidově demokratická republika",
-        "common": "Severní Korea"
+        "official": "Maďarsko",
+        "common": "Maďarsko"
       },
       "cym": {
-        "official": "Democratic People's Republic of Korea",
-        "common": "North Korea"
+        "official": "Hungary",
+        "common": "Hungary"
       },
       "deu": {
-        "official": "Demokratische Volksrepublik Korea",
-        "common": "Nordkorea"
+        "official": "Ungarn",
+        "common": "Ungarn"
       },
       "est": {
-        "official": "Korea Rahvademokraatlik Vabariik",
-        "common": "Põhja-Korea"
+        "official": "Ungari",
+        "common": "Ungari"
       },
       "fin": {
-        "official": "Korean demokraattinen kansantasavalta",
-        "common": "Pohjois-Korea"
+        "official": "Unkari",
+        "common": "Unkari"
       },
       "fra": {
-        "official": "République populaire démocratique de Corée",
-        "common": "Corée du Nord"
+        "official": "Hongrie",
+        "common": "Hongrie"
       },
       "hrv": {
-        "official": "Demokratska Narodna Republika Koreja",
-        "common": "Sjeverna Koreja"
+        "official": "Madžarska",
+        "common": "Mađarska"
       },
       "hun": {
-        "official": "Koreai Népi Demokratikus Köztársaság",
-        "common": "Észak-Korea"
+        "official": "Magyarország",
+        "common": "Magyarország"
       },
       "ita": {
-        "official": "Repubblica democratica popolare di Corea",
-        "common": "Corea del Nord"
+        "official": "Ungheria",
+        "common": "Ungheria"
       },
       "jpn": {
-        "official": "朝鮮民主主義人民共和国",
-        "common": "朝鮮民主主義人民共和国"
+        "official": "ハンガリー",
+        "common": "ハンガリー"
       },
       "kor": {
-        "official": "조선민주주의인민공화국",
-        "common": "조선"
+        "official": "헝가리",
+        "common": "헝가리"
       },
       "nld": {
-        "official": "Democratische Volksrepubliek Korea",
-        "common": "Noord-Korea"
+        "official": "Hongarije",
+        "common": "Hongarije"
       },
       "per": {
-        "official": "جمهوری دموکراتیک خلق کره",
-        "common": "کُره شمالی"
+        "official": "مجارستان",
+        "common": "مجارستان"
       },
       "pol": {
-        "official": "Koreańska Republika Ludowo-Demokratyczna",
-        "common": "Korea Północna"
+        "official": "Węgry",
+        "common": "Węgry"
       },
       "por": {
-        "official": "República Popular Democrática da Coreia",
-        "common": "Coreia do Norte"
+        "official": "Hungria",
+        "common": "Hungria"
       },
       "rus": {
-        "official": "Корейская Народно-Демократическая Республика Корея",
-        "common": "Северная Корея"
+        "official": "Венгрия",
+        "common": "Венгрия"
       },
       "slk": {
-        "official": "Kórejská ľudovodemokratická republika",
-        "common": "Severná Kórea"
+        "official": "Maďarsko",
+        "common": "Maďarsko"
       },
       "spa": {
-        "official": "República Popular Democrática de Corea",
-        "common": "Corea del Norte"
+        "official": "Hungría",
+        "common": "Hungría"
       },
       "srp": {
-        "official": "Демократска Народна Република Кореја",
-        "common": "Северна Кореја"
+        "official": "Мађарска",
+        "common": "Мађарска"
       },
       "swe": {
-        "official": "Demokratiska Folkrepubliken Korea",
-        "common": "Nordkorea"
+        "official": "Ungern",
+        "common": "Ungern"
       },
       "tur": {
-        "official": "Kore Demokratik Halk Cumhuriyeti",
-        "common": "Kuzey Kore"
+        "official": "Macaristan",
+        "common": "Macaristan"
       },
       "urd": {
-        "official": "جمہوری عوامی جمہوریہ کوریا",
-        "common": "شمالی کوریا"
+        "official": "مجارستان",
+        "common": "مجارستان"
       },
       "zho": {
-        "official": "朝鲜人民民主共和国",
-        "common": "朝鲜"
+        "official": "匈牙利",
+        "common": "匈牙利"
       }
     },
     "latlng": [
-      40.0,
-      127.0
+      47.0,
+      20.0
     ],
-    "landlocked": false,
+    "landlocked": true,
     "borders": [
-      "CHN",
-      "KOR",
-      "RUS"
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
     ],
-    "area": 120538.0,
+    "area": 93028.0,
     "demonyms": {
       "eng": {
-        "f": "North Korean",
-        "m": "North Korean"
+        "f": "Hungarian",
+        "m": "Hungarian"
       },
       "fra": {
-        "f": "Nord-coréenne",
-        "m": "Nord-coréen"
+        "f": "Hongroise",
+        "m": "Hongrois"
       }
     },
-    "flag": "🇰🇵",
+    "flag": "🇭🇺",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
+      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
     },
-    "population": 25778815,
-    "fifa": "PRK",
+    "population": 9749763,
+    "gini": {
+      "2018": 29.6
+    },
+    "fifa": "HUN",
     "car": {
       "signs": [
-        ""
+        "H"
       ],
       "side": "right"
     },
     "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hu.png",
+      "svg": "https://flagcdn.com/hu.svg",
+      "alt": "The flag of Hungary is composed of three equal horizontal bands of red, white and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/hu.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/hu.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        47.5,
+        19.08
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia",
+      "nativeName": {
+        "ind": {
+          "official": "Republik Indonesia",
+          "common": "Indonesia"
+        }
+      }
+    },
+    "tld": [
+      ".id"
+    ],
+    "cca2": "ID",
+    "ccn3": "360",
+    "cca3": "IDN",
+    "cioc": "INA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "IDR": {
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "2"
+      ]
+    },
+    "capital": [
+      "Jakarta"
+    ],
+    "altSpellings": [
+      "ID",
+      "Republic of Indonesia",
+      "Republik Indonesia"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "ind": "Indonesian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية إندونيسيا",
+        "common": "إندونيسيا"
+      },
+      "bre": {
+        "official": "Republik Indonezia",
+        "common": "Indonezia"
+      },
+      "ces": {
+        "official": "Indonéská republika",
+        "common": "Indonésie"
+      },
+      "cym": {
+        "official": "Republic of Indonesia",
+        "common": "Indonesia"
+      },
+      "deu": {
+        "official": "Republik Indonesien",
+        "common": "Indonesien"
+      },
+      "est": {
+        "official": "Indoneesia Vabariik",
+        "common": "Indoneesia"
+      },
+      "fin": {
+        "official": "Indonesian tasavalta",
+        "common": "Indonesia"
+      },
+      "fra": {
+        "official": "République d'Indonésie",
+        "common": "Indonésie"
+      },
+      "hrv": {
+        "official": "Republika Indonezija",
+        "common": "Indonezija"
+      },
+      "hun": {
+        "official": "Indonéz Köztársaság",
+        "common": "Indonézia"
+      },
+      "ita": {
+        "official": "Repubblica di Indonesia",
+        "common": "Indonesia"
+      },
+      "jpn": {
+        "official": "インドネシア共和国",
+        "common": "インドネシア"
+      },
+      "kor": {
+        "official": "인도네시아 공화국",
+        "common": "인도네시아"
+      },
+      "nld": {
+        "official": "Republiek Indonesië",
+        "common": "Indonesië"
+      },
+      "per": {
+        "official": "جمهوری اندونزی",
+        "common": "اندونزی"
+      },
+      "pol": {
+        "official": "Republika Indonezji",
+        "common": "Indonezja"
+      },
+      "por": {
+        "official": "República da Indonésia",
+        "common": "Indonésia"
+      },
+      "rus": {
+        "official": "Республика Индонезия",
+        "common": "Индонезия"
+      },
+      "slk": {
+        "official": "Indonézska republika",
+        "common": "Indonézia"
+      },
+      "spa": {
+        "official": "República de Indonesia",
+        "common": "Indonesia"
+      },
+      "srp": {
+        "official": "Република Индонезија",
+        "common": "Индонезија"
+      },
+      "swe": {
+        "official": "Republiken Indonesien",
+        "common": "Indonesien"
+      },
+      "tur": {
+        "official": "Endonezya Cumhuriyeti",
+        "common": "Endonezya"
+      },
+      "urd": {
+        "official": "جمہوریہ انڈونیشیا",
+        "common": "انڈونیشیا"
+      },
+      "zho": {
+        "official": "印度尼西亚共和国",
+        "common": "印度尼西亚"
+      }
+    },
+    "latlng": [
+      -5.0,
+      120.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "area": 1904569.0,
+    "demonyms": {
+      "eng": {
+        "f": "Indonesian",
+        "m": "Indonesian"
+      },
+      "fra": {
+        "f": "Indonésienne",
+        "m": "Indonésien"
+      }
+    },
+    "flag": "🇮🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+    },
+    "population": 273523621,
+    "gini": {
+      "2019": 38.2
+    },
+    "fifa": "IDN",
+    "car": {
+      "signs": [
+        "RI"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00",
       "UTC+09:00"
     ],
     "continents": [
       "Asia"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/kp.png",
-      "svg": "https://flagcdn.com/kp.svg",
-      "alt": "The flag of North Korea is composed of three horizontal bands — a large central white-edged red band, and a blue band above and beneath the red band. On the hoist side of the red band is a red five-pointed star within a white circle."
+      "png": "https://flagcdn.com/w320/id.png",
+      "svg": "https://flagcdn.com/id.svg",
+      "alt": "The flag of Indonesia is composed of two equal horizontal bands of red and white."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/kp.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/id.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/id.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        39.02,
-        125.75
+        -6.17,
+        106.82
       ]
     },
     "postalCode": {
-      "format": "###-###",
-      "regex": "^(\\d{6})$"
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel",
+      "nativeName": {
+        "ara": {
+          "official": "دولة إسرائيل",
+          "common": "إسرائيل"
+        },
+        "heb": {
+          "official": "מדינת ישראל",
+          "common": "ישראל"
+        }
+      }
+    },
+    "tld": [
+      ".il"
+    ],
+    "cca2": "IL",
+    "ccn3": "376",
+    "cca3": "ISR",
+    "cioc": "ISR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "72"
+      ]
+    },
+    "capital": [
+      "Jerusalem"
+    ],
+    "altSpellings": [
+      "IL",
+      "State of Israel",
+      "Medīnat Yisrā'el"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة إسرائيل",
+        "common": "إسرائيل"
+      },
+      "bre": {
+        "official": "Stad Israel",
+        "common": "Israel"
+      },
+      "ces": {
+        "official": "Stát Izrael",
+        "common": "Izrael"
+      },
+      "cym": {
+        "official": "State of Israel",
+        "common": "Israel"
+      },
+      "deu": {
+        "official": "Staat Israel",
+        "common": "Israel"
+      },
+      "est": {
+        "official": "Iisraeli Riik",
+        "common": "Iisrael"
+      },
+      "fin": {
+        "official": "Israelin valtio",
+        "common": "Israel"
+      },
+      "fra": {
+        "official": "État d'Israël",
+        "common": "Israël"
+      },
+      "hrv": {
+        "official": "Država Izrael",
+        "common": "Izrael"
+      },
+      "hun": {
+        "official": "Izrael",
+        "common": "Izrael"
+      },
+      "ita": {
+        "official": "Stato di Israele",
+        "common": "Israele"
+      },
+      "jpn": {
+        "official": "イスラエル国",
+        "common": "イスラエル"
+      },
+      "kor": {
+        "official": "이스라엘국",
+        "common": "이스라엘"
+      },
+      "nld": {
+        "official": "Staat Israël",
+        "common": "Israël"
+      },
+      "per": {
+        "official": "فلسطين اشغالی",
+        "common": "فلسطين اشغالی"
+      },
+      "pol": {
+        "official": "Państwo Izrael",
+        "common": "Izrael"
+      },
+      "por": {
+        "official": "Estado de Israel",
+        "common": "Israel"
+      },
+      "rus": {
+        "official": "Государство Израиль",
+        "common": "Израиль"
+      },
+      "slk": {
+        "official": "Izraelský štát",
+        "common": "Izrael"
+      },
+      "spa": {
+        "official": "Estado de Israel",
+        "common": "Israel"
+      },
+      "srp": {
+        "official": "Држава Израел",
+        "common": "Израел"
+      },
+      "swe": {
+        "official": "Staten Israel",
+        "common": "Israel"
+      },
+      "tur": {
+        "official": "İsrail Devleti",
+        "common": "İsrail"
+      },
+      "urd": {
+        "official": "ریاستِ اسرائیل",
+        "common": "اسرائیل"
+      },
+      "zho": {
+        "official": "以色列国",
+        "common": "以色列"
+      }
+    },
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "landlocked": false,
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "area": 20770.0,
+    "demonyms": {
+      "eng": {
+        "f": "Israeli",
+        "m": "Israeli"
+      },
+      "fra": {
+        "f": "Israélienne",
+        "m": "Israélien"
+      }
+    },
+    "flag": "🇮🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
+    },
+    "population": 9216900,
+    "gini": {
+      "2016": 39.0
+    },
+    "fifa": "ISR",
+    "car": {
+      "signs": [
+        "IL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/il.png",
+      "svg": "https://flagcdn.com/il.svg",
+      "alt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/il.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        31.77,
+        35.23
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        }
+      }
+    },
+    "tld": [
+      ".it"
+    ],
+    "cca2": "IT",
+    "ccn3": "380",
+    "cca3": "ITA",
+    "cioc": "ITA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "9"
+      ]
+    },
+    "capital": [
+      "Rome"
+    ],
+    "altSpellings": [
+      "IT",
+      "Italian Republic",
+      "Repubblica italiana"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ita": "Italian"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية الإيطالية",
+        "common": "إيطاليا"
+      },
+      "bre": {
+        "official": "Republik Italia",
+        "common": "Italia"
+      },
+      "ces": {
+        "official": "Italská republika",
+        "common": "Itálie"
+      },
+      "cym": {
+        "official": "Italian Republic",
+        "common": "Italy"
+      },
+      "deu": {
+        "official": "Italienische Republik",
+        "common": "Italien"
+      },
+      "est": {
+        "official": "Itaalia Vabariik",
+        "common": "Itaalia"
+      },
+      "fin": {
+        "official": "Italian tasavalta",
+        "common": "Italia"
+      },
+      "fra": {
+        "official": "République italienne",
+        "common": "Italie"
+      },
+      "hrv": {
+        "official": "talijanska Republika",
+        "common": "Italija"
+      },
+      "hun": {
+        "official": "Olasz Köztársaság",
+        "common": "Olaszország"
+      },
+      "ita": {
+        "official": "Repubblica italiana",
+        "common": "Italia"
+      },
+      "jpn": {
+        "official": "イタリア共和国",
+        "common": "イタリア"
+      },
+      "kor": {
+        "official": "이탈리아 공화국",
+        "common": "이탈리아"
+      },
+      "nld": {
+        "official": "Italiaanse Republiek",
+        "common": "Italië"
+      },
+      "per": {
+        "official": "جمهوری ایتالیا",
+        "common": "ایتالیا"
+      },
+      "pol": {
+        "official": "Republika Włoska",
+        "common": "Włochy"
+      },
+      "por": {
+        "official": "República Italiana",
+        "common": "Itália"
+      },
+      "rus": {
+        "official": "итальянская Республика",
+        "common": "Италия"
+      },
+      "slk": {
+        "official": "Talianska republika",
+        "common": "Taliansko"
+      },
+      "spa": {
+        "official": "República Italiana",
+        "common": "Italia"
+      },
+      "srp": {
+        "official": "Италијанска Република",
+        "common": "Италија"
+      },
+      "swe": {
+        "official": "Republiken Italien",
+        "common": "Italien"
+      },
+      "tur": {
+        "official": "İtalyan Cumhuriyeti",
+        "common": "İtalya"
+      },
+      "urd": {
+        "official": "جمہوریہ اطالیہ",
+        "common": "اطالیہ"
+      },
+      "zho": {
+        "official": "意大利共和国",
+        "common": "意大利"
+      }
+    },
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "area": 301336.0,
+    "demonyms": {
+      "eng": {
+        "f": "Italian",
+        "m": "Italian"
+      },
+      "fra": {
+        "f": "Italienne",
+        "m": "Italien"
+      }
+    },
+    "flag": "🇮🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+    },
+    "population": 59554023,
+    "gini": {
+      "2017": 35.9
+    },
+    "fifa": "ITA",
+    "car": {
+      "signs": [
+        "I"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/it.png",
+      "svg": "https://flagcdn.com/it.svg",
+      "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        41.9,
+        12.48
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ivory Coast",
+      "official": "Republic of Côte d'Ivoire",
+      "nativeName": {
+        "fra": {
+          "official": "République de Côte d'Ivoire",
+          "common": "Côte d'Ivoire"
+        }
+      }
+    },
+    "tld": [
+      ".ci"
+    ],
+    "cca2": "CI",
+    "ccn3": "384",
+    "cca3": "CIV",
+    "cioc": "CIV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "25"
+      ]
+    },
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "altSpellings": [
+      "CI",
+      "Côte d'Ivoire",
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية ساحل العاج",
+        "common": "ساحل العاج"
+      },
+      "bre": {
+        "official": "Republik Aod an Olifant",
+        "common": "Aod an Olifant"
+      },
+      "ces": {
+        "official": "Republika Pobřeží slonoviny",
+        "common": "Pobřeží slonoviny"
+      },
+      "cym": {
+        "official": "Republic of Côte d'Ivoire",
+        "common": "Ivory Coast"
+      },
+      "deu": {
+        "official": "Republik Côte d'Ivoire",
+        "common": "Elfenbeinküste"
+      },
+      "est": {
+        "official": "Côte d’Ivoire’i Vabariik",
+        "common": "Elevandiluurannik"
+      },
+      "fin": {
+        "official": "Norsunluurannikon tasavalta",
+        "common": "Norsunluurannikko"
+      },
+      "fra": {
+        "official": "République de Côte d' Ivoire",
+        "common": "Côte d'Ivoire"
+      },
+      "hrv": {
+        "official": "Republika Côte d'Ivoire",
+        "common": "Obala Bjelokosti"
+      },
+      "hun": {
+        "official": "Elefántcsontparti Köztársaság",
+        "common": "Elefántcsontpart"
+      },
+      "ita": {
+        "official": "Repubblica della Costa d'Avorio",
+        "common": "Costa d'Avorio"
+      },
+      "jpn": {
+        "official": "コートジボワール共和国",
+        "common": "コートジボワール"
+      },
+      "kor": {
+        "official": "코트디부아르 공화국",
+        "common": "코트디부아르"
+      },
+      "nld": {
+        "official": "Republiek Ivoorkust",
+        "common": "Ivoorkust"
+      },
+      "per": {
+        "official": "جمهوری ساحل عاج",
+        "common": "ساحل عاج"
+      },
+      "pol": {
+        "official": "Republika WybrzeŻa Kości Słoniowej",
+        "common": "WybrzeŻe Kości Słoniowej"
+      },
+      "por": {
+        "official": "República da Côte d'Ivoire",
+        "common": "Costa do Marfim"
+      },
+      "rus": {
+        "official": "Республика Кот-д'Ивуаре",
+        "common": "Кот-д’Ивуар"
+      },
+      "slk": {
+        "official": "Republika Pobrežie Slonoviny",
+        "common": "Pobržie Slonoviny"
+      },
+      "spa": {
+        "official": "República de Côte d'Ivoire",
+        "common": "Costa de Marfil"
+      },
+      "srp": {
+        "official": "Република Обала Слоноваче",
+        "common": "Обала Слоноваче"
+      },
+      "swe": {
+        "official": "Republiken Elfenbenskusten",
+        "common": "Elfenbenskusten"
+      },
+      "tur": {
+        "official": "Fildişi Sahili",
+        "common": "Fildişi Sahili"
+      },
+      "urd": {
+        "official": "جمہوریہ کوت دیواغ",
+        "common": "آئیوری کوسٹ"
+      },
+      "zho": {
+        "official": "科特迪瓦共和国",
+        "common": "科特迪瓦"
+      }
+    },
+    "latlng": [
+      8.0,
+      -5.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "area": 322463.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ivorian",
+        "m": "Ivorian"
+      },
+      "fra": {
+        "f": "Ivoirienne",
+        "m": "Ivoirien"
+      }
+    },
+    "flag": "🇨🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+    },
+    "population": 26378275,
+    "gini": {
+      "2015": 41.5
+    },
+    "fifa": "CIV",
+    "car": {
+      "signs": [
+        "CI"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ci.png",
+      "svg": "https://flagcdn.com/ci.svg",
+      "alt": "The flag of Ivory Coast is composed of three equal vertical bands of orange, white and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.82,
+        -5.27
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Laos",
+      "official": "Lao People's Democratic Republic",
+      "nativeName": {
+        "lao": {
+          "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+          "common": "ສປປລາວ"
+        }
+      }
+    },
+    "tld": [
+      ".la"
+    ],
+    "cca2": "LA",
+    "ccn3": "418",
+    "cca3": "LAO",
+    "cioc": "LAO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LAK": {
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "56"
+      ]
+    },
+    "capital": [
+      "Vientiane"
+    ],
+    "altSpellings": [
+      "LA",
+      "Lao",
+      "Lao People's Democratic Republic",
+      "Sathalanalat Paxathipatai Paxaxon Lao"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "lao": "Lao"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية لاوس الديمقراطية الشعبية",
+        "common": "لاوس"
+      },
+      "bre": {
+        "official": "Republik Demokratel ar Bobl Lao",
+        "common": "Laos"
+      },
+      "ces": {
+        "official": "Laoská lidově demokratická republika",
+        "common": "Laos"
+      },
+      "cym": {
+        "official": "Lao People's Democratic Republic",
+        "common": "Laos"
+      },
+      "deu": {
+        "official": "Demokratische Volksrepublik Laos",
+        "common": "Laos"
+      },
+      "est": {
+        "official": "Laose Demokraatlik Rahvavabariik",
+        "common": "Laos"
+      },
+      "fin": {
+        "official": "Laosin demokraattinen kansantasavalta",
+        "common": "Laos"
+      },
+      "fra": {
+        "official": "République démocratique populaire lao",
+        "common": "Laos"
+      },
+      "hrv": {
+        "official": "Narodna Demokratska Republika",
+        "common": "Laos"
+      },
+      "hun": {
+        "official": "Laoszi Népi Demokratikus Köztársaság",
+        "common": "Laosz"
+      },
+      "ita": {
+        "official": "Repubblica democratica popolare del Laos",
+        "common": "Laos"
+      },
+      "jpn": {
+        "official": "ラオス人民民主共和国",
+        "common": "ラオス人民民主共和国"
+      },
+      "kor": {
+        "official": "라오 인민 민주 공화국",
+        "common": "라오스"
+      },
+      "nld": {
+        "official": "Lao Democratische Volksrepubliek",
+        "common": "Laos"
+      },
+      "per": {
+        "official": "جمهوری دموکراتیک خلق لائوس",
+        "common": "لائوس"
+      },
+      "pol": {
+        "official": "Laotańska Republika Ludowo-Demokratyczna",
+        "common": "Laos"
+      },
+      "por": {
+        "official": "Laos, República Democrática",
+        "common": "Laos"
+      },
+      "rus": {
+        "official": "Лаосская Народно-Демократическая Республика",
+        "common": "Лаос"
+      },
+      "slk": {
+        "official": "Laoská ľudovodemokratická republika",
+        "common": "Laos"
+      },
+      "spa": {
+        "official": "República Democrática Popular Lao",
+        "common": "Laos"
+      },
+      "srp": {
+        "official": "Лаошка Народна Демократска Република",
+        "common": "Лаос"
+      },
+      "swe": {
+        "official": "Demokratiska folkrepubliken Laos",
+        "common": "Laos"
+      },
+      "tur": {
+        "official": "Laos Demokratik Halk Cumhuriyeti",
+        "common": "Laos"
+      },
+      "urd": {
+        "official": "عوامی جمہوری جمہوریہ لاؤ",
+        "common": "لاؤس"
+      },
+      "zho": {
+        "official": "老挝人民民主共和国",
+        "common": "老挝"
+      }
+    },
+    "latlng": [
+      18.0,
+      105.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "area": 236800.0,
+    "demonyms": {
+      "eng": {
+        "f": "Laotian",
+        "m": "Laotian"
+      },
+      "fra": {
+        "f": "Laotienne",
+        "m": "Laotien"
+      }
+    },
+    "flag": "🇱🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
+    },
+    "population": 7275556,
+    "gini": {
+      "2018": 38.8
+    },
+    "fifa": "LAO",
+    "car": {
+      "signs": [
+        "LAO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/la.png",
+      "svg": "https://flagcdn.com/la.svg",
+      "alt": "The flag of Laos is composed of three horizontal bands of red, blue and red. The blue band is twice the height of the red bands and bears a white circle at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/la.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.97,
+        102.6
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya",
+      "nativeName": {
+        "ara": {
+          "official": "الدولة ليبيا",
+          "common": "‏ليبيا"
+        }
+      }
+    },
+    "tld": [
+      ".ly"
+    ],
+    "cca2": "LY",
+    "ccn3": "434",
+    "cca3": "LBY",
+    "cioc": "LBA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LYD": {
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "18"
+      ]
+    },
+    "capital": [
+      "Tripoli"
+    ],
+    "altSpellings": [
+      "LY",
+      "State of Libya",
+      "Dawlat Libya"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة ليبيا",
+        "common": "‏ليبيا"
+      },
+      "bre": {
+        "official": "Stad Libia",
+        "common": "Libia"
+      },
+      "ces": {
+        "official": "Stát Libye",
+        "common": "Libye"
+      },
+      "cym": {
+        "official": "State of Libya",
+        "common": "Libya"
+      },
+      "deu": {
+        "official": "Staat Libyen",
+        "common": "Libyen"
+      },
+      "est": {
+        "official": "Liibüa",
+        "common": "Liibüa"
+      },
+      "fin": {
+        "official": "Libyan valtio",
+        "common": "Libya"
+      },
+      "fra": {
+        "official": "Grande République arabe libyenne populaire et socialiste",
+        "common": "Libye"
+      },
+      "hrv": {
+        "official": "Država Libiji",
+        "common": "Libija"
+      },
+      "hun": {
+        "official": "Líbia Állam",
+        "common": "Líbia"
+      },
+      "ita": {
+        "official": "Stato della Libia",
+        "common": "Libia"
+      },
+      "jpn": {
+        "official": "リビアの国家",
+        "common": "リビア"
+      },
+      "kor": {
+        "official": "리비아",
+        "common": "리비아"
+      },
+      "nld": {
+        "official": "Staat van Libië",
+        "common": "Libië"
+      },
+      "per": {
+        "official": "دولت لیبی",
+        "common": "لیبی"
+      },
+      "pol": {
+        "official": "Państwo Libia",
+        "common": "Libia"
+      },
+      "por": {
+        "official": "Estado da Líbia",
+        "common": "Líbia"
+      },
+      "rus": {
+        "official": "Государство Ливии",
+        "common": "Ливия"
+      },
+      "slk": {
+        "official": "Líbya",
+        "common": "Líbya"
+      },
+      "spa": {
+        "official": "Estado de Libia",
+        "common": "Libia"
+      },
+      "srp": {
+        "official": "Држава Либија",
+        "common": "Либија"
+      },
+      "swe": {
+        "official": "Staten Libyen",
+        "common": "Libyen"
+      },
+      "tur": {
+        "official": "Libya Devleti",
+        "common": "Libya"
+      },
+      "urd": {
+        "official": "ریاستِ لیبیا",
+        "common": "لیبیا"
+      },
+      "zho": {
+        "official": "利比亚国",
+        "common": "利比亚"
+      }
+    },
+    "latlng": [
+      25.0,
+      17.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "area": 1759540.0,
+    "demonyms": {
+      "eng": {
+        "f": "Libyan",
+        "m": "Libyan"
+      },
+      "fra": {
+        "f": "Libyenne",
+        "m": "Libyen"
+      }
+    },
+    "flag": "🇱🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+      "openStreetMaps": "openstreetmap.org/relation/192758"
+    },
+    "population": 6871287,
+    "fifa": "LBY",
+    "car": {
+      "signs": [
+        "LAR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ly.png",
+      "svg": "https://flagcdn.com/ly.svg",
+      "alt": "The flag of Libya is composed of three horizontal bands of red, black and green, with the black band twice the height of the other two bands. At the center of the black band is a fly-side facing white crescent and a five-pointed white star placed just outside the crescent opening."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ly.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ly.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        32.88,
+        13.17
+      ]
     }
   },
   {
@@ -9215,215 +8348,216 @@
   },
   {
     "name": {
-      "common": "Greece",
-      "official": "Hellenic Republic",
+      "common": "Mexico",
+      "official": "United Mexican States",
       "nativeName": {
-        "ell": {
-          "official": "Ελληνική Δημοκρατία",
-          "common": "Ελλάδα"
+        "spa": {
+          "official": "Estados Unidos Mexicanos",
+          "common": "México"
         }
       }
     },
     "tld": [
-      ".gr"
+      ".mx"
     ],
-    "cca2": "GR",
-    "ccn3": "300",
-    "cca3": "GRC",
-    "cioc": "GRE",
+    "cca2": "MX",
+    "ccn3": "484",
+    "cca3": "MEX",
+    "cioc": "MEX",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "EUR": {
-        "name": "Euro",
-        "symbol": "€"
+      "MXN": {
+        "name": "Mexican peso",
+        "symbol": "$"
       }
     },
     "idd": {
-      "root": "+3",
+      "root": "+5",
       "suffixes": [
-        "0"
+        "2"
       ]
     },
     "capital": [
-      "Athens"
+      "Mexico City"
     ],
     "altSpellings": [
-      "GR",
-      "Elláda",
-      "Hellenic Republic",
-      "Ελληνική Δημοκρατία"
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos"
     ],
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Americas",
+    "subregion": "North America",
     "languages": {
-      "ell": "Greek"
+      "spa": "Spanish"
     },
     "translations": {
       "ara": {
-        "official": "الجمهورية الهيلينية",
-        "common": "اليونان"
+        "official": "الولايات المتحدة المكسيكية",
+        "common": "المسكيك"
       },
       "bre": {
-        "official": "Republik Hellenek",
-        "common": "Gres"
+        "official": "Stadoù-Unanet Mec'hiko",
+        "common": "Mec'hiko"
       },
       "ces": {
-        "official": "Řecká republika",
-        "common": "Řecko"
+        "official": "Spojené státy mexické",
+        "common": "Mexiko"
       },
       "cym": {
-        "official": "Hellenic Republic",
-        "common": "Greece"
+        "official": "United Mexican States",
+        "common": "Mexico"
       },
       "deu": {
-        "official": "Hellenische Republik",
-        "common": "Griechenland"
+        "official": "Vereinigte Mexikanische Staaten",
+        "common": "Mexiko"
       },
       "est": {
-        "official": "Kreeka Vabariik",
-        "common": "Kreeka"
+        "official": "Mehhiko Ühendriigid",
+        "common": "Mehhiko"
       },
       "fin": {
-        "official": "Helleenien tasavalta",
-        "common": "Kreikka"
+        "official": "Meksikon yhdysvallat",
+        "common": "Meksiko"
       },
       "fra": {
-        "official": "République hellénique",
-        "common": "Grèce"
+        "official": "États-Unis du Mexique",
+        "common": "Mexique"
       },
       "hrv": {
-        "official": "Helenska Republika",
-        "common": "Grčka"
+        "official": "Sjedinjene Meksičke Države",
+        "common": "Meksiko"
       },
       "hun": {
-        "official": "Görög Köztársaság",
-        "common": "Görögország"
+        "official": "Mexikói Egyesült Államok",
+        "common": "Mexikó"
       },
       "ita": {
-        "official": "Repubblica ellenica",
-        "common": "Grecia"
+        "official": "Stati Uniti del Messico",
+        "common": "Messico"
       },
       "jpn": {
-        "official": "ギリシャ共和国",
-        "common": "ギリシャ"
+        "official": "メキシコ合衆国",
+        "common": "メキシコ"
       },
       "kor": {
-        "official": "그리스 공화국",
-        "common": "그리스"
+        "official": "멕시코 합중국",
+        "common": "멕시코"
       },
       "nld": {
-        "official": "Helleense Republiek",
-        "common": "Griekenland"
+        "official": "Verenigde Mexicaanse Staten",
+        "common": "Mexico"
       },
       "per": {
-        "official": "جمهوری یونان",
-        "common": "یونان"
+        "official": "ایالات متحد مکزیک",
+        "common": "مکزیک"
       },
       "pol": {
-        "official": "Republika Grecka",
-        "common": "Grecja"
+        "official": "Meksykańskie Stany Zjednoczone",
+        "common": "Meksyk"
       },
       "por": {
-        "official": "República Helénica",
-        "common": "Grécia"
+        "official": "Estados Unidos Mexicanos",
+        "common": "México"
       },
       "rus": {
-        "official": "Греческая Республика",
-        "common": "Греция"
+        "official": "Мексиканские Соединённые Штаты",
+        "common": "Мексика"
       },
       "slk": {
-        "official": "Grécka republika",
-        "common": "Greécko"
+        "official": "Spojené štášy mexické",
+        "common": "Mexiko"
       },
       "spa": {
-        "official": "República Helénica",
-        "common": "Grecia"
+        "official": "Estados Unidos Mexicanos",
+        "common": "México"
       },
       "srp": {
-        "official": "Хеленска Република",
-        "common": "Грчка"
+        "official": "Сједињене Мексичке Државе",
+        "common": "Мексико"
       },
       "swe": {
-        "official": "Republiken Grekland",
-        "common": "Grekland"
+        "official": "Mexikos förenta stater",
+        "common": "Mexiko"
       },
       "tur": {
-        "official": "Helen Cumhuriyeti",
-        "common": "Yunanistan"
+        "official": "Birleşik Meksika Devletleri",
+        "common": "Meksika"
       },
       "urd": {
-        "official": "جمہوریہ ہیلینیہ",
-        "common": "یونان"
+        "official": "ریاستہائے متحدہ میکسیکو",
+        "common": "میکسیکو"
       },
       "zho": {
-        "official": "希腊共和国",
-        "common": "希腊"
+        "official": "墨西哥合众国",
+        "common": "墨西哥"
       }
     },
     "latlng": [
-      39.0,
-      22.0
+      23.0,
+      -102.0
     ],
     "landlocked": false,
     "borders": [
-      "ALB",
-      "BGR",
-      "TUR",
-      "MKD"
+      "BLZ",
+      "GTM",
+      "USA"
     ],
-    "area": 131990.0,
+    "area": 1964375.0,
     "demonyms": {
       "eng": {
-        "f": "Greek",
-        "m": "Greek"
+        "f": "Mexican",
+        "m": "Mexican"
       },
       "fra": {
-        "f": "Grecque",
-        "m": "Grec"
+        "f": "Mexicaine",
+        "m": "Mexicain"
       }
     },
-    "flag": "🇬🇷",
+    "flag": "🇲🇽",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
+      "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
     },
-    "population": 10715549,
+    "population": 128932753,
     "gini": {
-      "2018": 32.9
+      "2018": 45.4
     },
-    "fifa": "GRE",
+    "fifa": "MEX",
     "car": {
       "signs": [
-        "GR"
+        "MEX"
       ],
       "side": "right"
     },
     "timezones": [
-      "UTC+02:00"
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
     ],
     "continents": [
-      "Europe"
+      "North America"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/gr.png",
-      "svg": "https://flagcdn.com/gr.svg",
-      "alt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton."
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg",
+      "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/gr.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/gr.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        37.98,
-        23.73
+        19.43,
+        -99.13
       ]
     },
     "postalCode": {
-      "format": "### ##",
+      "format": "#####",
       "regex": "^(\\d{5})$"
     }
   },
@@ -9859,217 +8993,1299 @@
   },
   {
     "name": {
-      "common": "Fiji",
-      "official": "Republic of Fiji",
+      "common": "New Zealand",
+      "official": "New Zealand",
       "nativeName": {
         "eng": {
-          "official": "Republic of Fiji",
-          "common": "Fiji"
+          "official": "New Zealand",
+          "common": "New Zealand"
         },
-        "fij": {
-          "official": "Matanitu Tugalala o Viti",
-          "common": "Viti"
+        "mri": {
+          "official": "Aotearoa",
+          "common": "Aotearoa"
         },
-        "hif": {
-          "official": "रिपब्लिक ऑफ फीजी",
-          "common": "फिजी"
+        "nzs": {
+          "official": "New Zealand",
+          "common": "New Zealand"
         }
       }
     },
     "tld": [
-      ".fj"
+      ".nz"
     ],
-    "cca2": "FJ",
-    "ccn3": "242",
-    "cca3": "FJI",
-    "cioc": "FIJ",
+    "cca2": "NZ",
+    "ccn3": "554",
+    "cca3": "NZL",
+    "cioc": "NZL",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "FJD": {
-        "name": "Fijian dollar",
+      "NZD": {
+        "name": "New Zealand dollar",
         "symbol": "$"
       }
     },
     "idd": {
       "root": "+6",
       "suffixes": [
-        "79"
+        "4"
       ]
     },
     "capital": [
-      "Suva"
+      "Wellington"
     ],
     "altSpellings": [
-      "FJ",
-      "Viti",
-      "Republic of Fiji",
-      "Matanitu ko Viti",
-      "Fijī Gaṇarājya"
+      "NZ",
+      "Aotearoa"
     ],
     "region": "Oceania",
-    "subregion": "Melanesia",
+    "subregion": "Australia and New Zealand",
     "languages": {
       "eng": "English",
-      "fij": "Fijian",
-      "hif": "Fiji Hindi"
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
     },
     "translations": {
       "ara": {
-        "official": "جمهورية جزر فيجي",
-        "common": "فيجي"
+        "official": "نيوزيلندا",
+        "common": "نيوزيلندا"
       },
       "bre": {
-        "official": "Republik Fidji",
-        "common": "Fidji"
+        "official": "Zeland-Nevez",
+        "common": "Zeland-Nevez"
       },
       "ces": {
-        "official": "Republika Fidžijských ostrovů",
-        "common": "Fidži"
+        "official": "Nový Zéland",
+        "common": "Nový Zéland"
       },
       "cym": {
-        "official": "Republic of Fiji",
-        "common": "Fiji"
+        "official": "New Zealand",
+        "common": "New Zealand"
       },
       "deu": {
-        "official": "Republik Fidschi",
-        "common": "Fidschi"
+        "official": "Neuseeland",
+        "common": "Neuseeland"
       },
       "est": {
-        "official": "Fidži Vabariik",
-        "common": "Fidži"
+        "official": "Uus-Meremaa",
+        "common": "Uus-Meremaa"
       },
       "fin": {
-        "official": "Fidžin tasavalta",
-        "common": "Fidži"
+        "official": "Uusi-Seelanti",
+        "common": "Uusi-Seelanti"
       },
       "fra": {
-        "official": "République des Fidji",
-        "common": "Fidji"
+        "official": "Nouvelle-Zélande",
+        "common": "Nouvelle-Zélande"
       },
       "hrv": {
-        "official": "Republika Fidži",
-        "common": "Fiđi"
+        "official": "Novi Zeland",
+        "common": "Novi Zeland"
       },
       "hun": {
-        "official": "Fidzsi-szigeteki Köztársaság",
-        "common": "Fidzsi-szigetek"
+        "official": "Új-Zéland",
+        "common": "Új-Zéland"
       },
       "ita": {
-        "official": "Repubblica di Figi",
-        "common": "Figi"
+        "official": "Nuova Zelanda",
+        "common": "Nuova Zelanda"
       },
       "jpn": {
-        "official": "フィジー共和国",
-        "common": "フィジー"
+        "official": "ニュージーランド",
+        "common": "ニュージーランド"
       },
       "kor": {
-        "official": "피지 공화국",
-        "common": "피지"
+        "official": "뉴질랜드",
+        "common": "뉴질랜드"
       },
       "nld": {
-        "official": "Republiek Fiji",
-        "common": "Fiji"
+        "official": "Nieuw Zeeland",
+        "common": "Nieuw-Zeeland"
       },
       "per": {
-        "official": "جمهوری جزایر فیجی",
-        "common": "فیجی"
+        "official": "نیوزیلند",
+        "common": "نیوزیلند"
       },
       "pol": {
-        "official": "Republika Fidżi",
-        "common": "Fidżi"
+        "official": "Nowa Zelandia",
+        "common": "Nowa Zelandia"
       },
       "por": {
-        "official": "República de Fiji",
-        "common": "Fiji"
+        "official": "nova Zelândia",
+        "common": "Nova Zelândia"
       },
       "rus": {
-        "official": "Республика Фиджи",
-        "common": "Фиджи"
+        "official": "Новая Зеландия",
+        "common": "Новая Зеландия"
       },
       "slk": {
-        "official": "Fiǆijská republika",
-        "common": "Fiǆi"
+        "official": "Nový Zéland",
+        "common": "Nový Zéland"
       },
       "spa": {
-        "official": "República de Fiji",
-        "common": "Fiyi"
+        "official": "nueva Zelanda",
+        "common": "Nueva Zelanda"
       },
       "srp": {
-        "official": "Република Фиџи",
-        "common": "Фиџи"
+        "official": "Нови Зеланд",
+        "common": "Нови Зеланд"
       },
       "swe": {
-        "official": "Republiken Fiji",
-        "common": "Fiji"
+        "official": "Nya Zeeland",
+        "common": "Nya Zeeland"
       },
       "tur": {
-        "official": "Fiji Cumhuriyeti",
-        "common": "Fiji"
+        "official": "Yeni Zelanda",
+        "common": "Yeni Zelanda"
       },
       "urd": {
-        "official": "جمہوریہ فجی",
-        "common": "فجی"
+        "official": "نیوزی لینڈ",
+        "common": "نیوزی لینڈ"
       },
       "zho": {
-        "official": "斐济共和国",
-        "common": "斐济"
+        "official": "新西兰",
+        "common": "新西兰"
       }
     },
     "latlng": [
-      17.7134,
-      178.065
+      -41.0,
+      174.0
     ],
     "landlocked": false,
-    "area": 18272.0,
+    "area": 270467.0,
     "demonyms": {
       "eng": {
-        "f": "Fijian",
-        "m": "Fijian"
+        "f": "New Zealander",
+        "m": "New Zealander"
       },
       "fra": {
-        "f": "Fidjienne",
-        "m": "Fidjien"
+        "f": "Neo-Zélandaise",
+        "m": "Neo-Zélandais"
       }
     },
-    "flag": "🇫🇯",
+    "flag": "🇳🇿",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
+      "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
     },
-    "population": 896444,
-    "gini": {
-      "2013": 36.7
-    },
-    "fifa": "FIJ",
+    "population": 5084300,
+    "fifa": "NZL",
     "car": {
       "signs": [
-        "FJI"
+        "NZ"
       ],
       "side": "left"
     },
     "timezones": [
-      "UTC+12:00"
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
     ],
     "continents": [
       "Oceania"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/fj.png",
-      "svg": "https://flagcdn.com/fj.svg",
-      "alt": "The flag of Fiji has a light blue field. It features the flag of the United Kingdom — the Union Jack — in the canton and the shield of the national coat of arms centered in the fly half."
+      "png": "https://flagcdn.com/w320/nz.png",
+      "svg": "https://flagcdn.com/nz.svg",
+      "alt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/fj.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/nz.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        -18.13,
-        178.42
+        -41.3,
+        174.78
       ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua",
+      "nativeName": {
+        "spa": {
+          "official": "República de Nicaragua",
+          "common": "Nicaragua"
+        }
+      }
+    },
+    "tld": [
+      ".ni"
+    ],
+    "cca2": "NI",
+    "ccn3": "558",
+    "cca3": "NIC",
+    "cioc": "NCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NIO": {
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "05"
+      ]
+    },
+    "capital": [
+      "Managua"
+    ],
+    "altSpellings": [
+      "NI",
+      "Republic of Nicaragua",
+      "República de Nicaragua"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية نيكاراغوا",
+        "common": "نيكاراغوا"
+      },
+      "bre": {
+        "official": "Republik Nicaragua",
+        "common": "Nicaragua"
+      },
+      "ces": {
+        "official": "Republika Nikaragua",
+        "common": "Nikaragua"
+      },
+      "cym": {
+        "official": "Republic of Nicaragua",
+        "common": "Nicaragua"
+      },
+      "deu": {
+        "official": "Republik Nicaragua",
+        "common": "Nicaragua"
+      },
+      "est": {
+        "official": "Nicaragua Vabariik",
+        "common": "Nicaragua"
+      },
+      "fin": {
+        "official": "Nicaraguan tasavalta",
+        "common": "Nicaragua"
+      },
+      "fra": {
+        "official": "République du Nicaragua",
+        "common": "Nicaragua"
+      },
+      "hrv": {
+        "official": "Republika Nikaragva",
+        "common": "Nikaragva"
+      },
+      "hun": {
+        "official": "Nicaraguai Köztársaság",
+        "common": "Nicaragua"
+      },
+      "ita": {
+        "official": "Repubblica del Nicaragua",
+        "common": "Nicaragua"
+      },
+      "jpn": {
+        "official": "ニカラグア共和国",
+        "common": "ニカラグア"
+      },
+      "kor": {
+        "official": "니카라과 공화국",
+        "common": "니카라과"
+      },
+      "nld": {
+        "official": "Republiek Nicaragua",
+        "common": "Nicaragua"
+      },
+      "per": {
+        "official": "جمهوری نیکاراگوئه",
+        "common": "نیکاراگوئه"
+      },
+      "pol": {
+        "official": "Republika Nikaragui",
+        "common": "Nikaragua"
+      },
+      "por": {
+        "official": "República da Nicarágua",
+        "common": "Nicarágua"
+      },
+      "rus": {
+        "official": "Республика Никарагуа",
+        "common": "Никарагуа"
+      },
+      "slk": {
+        "official": "Nikaragujská republika",
+        "common": "Nikaragua"
+      },
+      "spa": {
+        "official": "República de Nicaragua",
+        "common": "Nicaragua"
+      },
+      "srp": {
+        "official": "Република Никарагва",
+        "common": "Никарагва"
+      },
+      "swe": {
+        "official": "Republiken Nicaragua",
+        "common": "Nicaragua"
+      },
+      "tur": {
+        "official": "Nikaragua Cumhuriyeti",
+        "common": "Nikaragua"
+      },
+      "urd": {
+        "official": "جمہوریہ نکاراگوا",
+        "common": "نکاراگوا"
+      },
+      "zho": {
+        "official": "尼加拉瓜共和国",
+        "common": "尼加拉瓜"
+      }
+    },
+    "latlng": [
+      13.0,
+      -85.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "area": 130373.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nicaraguan",
+        "m": "Nicaraguan"
+      },
+      "fra": {
+        "f": "Nicaraguayenne",
+        "m": "Nicaraguayen"
+      }
+    },
+    "flag": "🇳🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+    },
+    "population": 6624554,
+    "gini": {
+      "2014": 46.2
+    },
+    "fifa": "NCA",
+    "car": {
+      "signs": [
+        "NIC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ni.png",
+      "svg": "https://flagcdn.com/ni.svg",
+      "alt": "The flag of Nicaragua is composed of three equal horizontal bands of blue, white and blue, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.13,
+        -86.25
+      ]
+    },
+    "postalCode": {
+      "format": "###-###-#",
+      "regex": "^(\\d{7})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger",
+      "nativeName": {
+        "fra": {
+          "official": "République du Niger",
+          "common": "Niger"
+        }
+      }
+    },
+    "tld": [
+      ".ne"
+    ],
+    "cca2": "NE",
+    "ccn3": "562",
+    "cca3": "NER",
+    "cioc": "NIG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "27"
+      ]
+    },
+    "capital": [
+      "Niamey"
+    ],
+    "altSpellings": [
+      "NE",
+      "Nijar"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية النيجر",
+        "common": "النيجر"
+      },
+      "bre": {
+        "official": "Republik Niger",
+        "common": "Niger"
+      },
+      "ces": {
+        "official": "Nigerská republika",
+        "common": "Niger"
+      },
+      "cym": {
+        "official": "Republic of Niger",
+        "common": "Niger"
+      },
+      "deu": {
+        "official": "Republik Niger",
+        "common": "Niger"
+      },
+      "est": {
+        "official": "Nigeri Vabariik",
+        "common": "Niger"
+      },
+      "fin": {
+        "official": "Nigerin tasavalta",
+        "common": "Niger"
+      },
+      "fra": {
+        "official": "République du Niger",
+        "common": "Niger"
+      },
+      "hrv": {
+        "official": "Republika Niger",
+        "common": "Niger"
+      },
+      "hun": {
+        "official": "Nigeri Köztársaság",
+        "common": "Niger"
+      },
+      "ita": {
+        "official": "Repubblica del Niger",
+        "common": "Niger"
+      },
+      "jpn": {
+        "official": "ニジェール共和国",
+        "common": "ニジェール"
+      },
+      "kor": {
+        "official": "니제르 공화국",
+        "common": "니제르"
+      },
+      "nld": {
+        "official": "Republiek Niger",
+        "common": "Niger"
+      },
+      "per": {
+        "official": "جمهوری نیجر",
+        "common": "نیجر"
+      },
+      "pol": {
+        "official": "Republika Nigru",
+        "common": "Niger"
+      },
+      "por": {
+        "official": "República do Níger",
+        "common": "Níger"
+      },
+      "rus": {
+        "official": "Республика Нигер",
+        "common": "Нигер"
+      },
+      "slk": {
+        "official": "Nigérská republika",
+        "common": "Niger"
+      },
+      "spa": {
+        "official": "República de Níger",
+        "common": "Níger"
+      },
+      "srp": {
+        "official": "Република Нигер",
+        "common": "Нигер"
+      },
+      "swe": {
+        "official": "Republiken Niger",
+        "common": "Niger"
+      },
+      "tur": {
+        "official": "Nijer Cumhuriyeti",
+        "common": "Nijer"
+      },
+      "urd": {
+        "official": "جمہوریہ نائجر",
+        "common": "نائجر"
+      },
+      "zho": {
+        "official": "尼日尔共和国",
+        "common": "尼日尔"
+      }
+    },
+    "latlng": [
+      16.0,
+      8.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "area": 1267000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nigerien",
+        "m": "Nigerien"
+      },
+      "fra": {
+        "f": "Nigérienne",
+        "m": "Nigérien"
+      }
+    },
+    "flag": "🇳🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
+    },
+    "population": 24206636,
+    "gini": {
+      "2014": 34.3
+    },
+    "fifa": "NIG",
+    "car": {
+      "signs": [
+        "RN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ne.png",
+      "svg": "https://flagcdn.com/ne.svg",
+      "alt": "The flag of Niger features three equal horizontal bands of orange, white and green, with an orange circle centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ne.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.52,
+        2.12
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea",
+      "nativeName": {
+        "kor": {
+          "official": "조선민주주의인민공화국",
+          "common": "조선"
+        }
+      }
+    },
+    "tld": [
+      ".kp"
+    ],
+    "cca2": "KP",
+    "ccn3": "408",
+    "cca3": "PRK",
+    "cioc": "PRK",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KPW": {
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "50"
+      ]
+    },
+    "capital": [
+      "Pyongyang"
+    ],
+    "altSpellings": [
+      "KP",
+      "Democratic People's Republic of Korea",
+      "DPRK",
+      "조선민주주의인민공화국",
+      "Chosŏn Minjujuŭi Inmin Konghwaguk",
+      "Korea, Democratic People's Republic of",
+      "북한",
+      "북조선"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "kor": "Korean"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية كوريا الديمقراطية الشعبية",
+        "common": "كوريا الشمالية"
+      },
+      "bre": {
+        "official": "Republik Poblel ha Demokratel Korea",
+        "common": "Korea an Norzh"
+      },
+      "ces": {
+        "official": "Korejská lidově demokratická republika",
+        "common": "Severní Korea"
+      },
+      "cym": {
+        "official": "Democratic People's Republic of Korea",
+        "common": "North Korea"
+      },
+      "deu": {
+        "official": "Demokratische Volksrepublik Korea",
+        "common": "Nordkorea"
+      },
+      "est": {
+        "official": "Korea Rahvademokraatlik Vabariik",
+        "common": "Põhja-Korea"
+      },
+      "fin": {
+        "official": "Korean demokraattinen kansantasavalta",
+        "common": "Pohjois-Korea"
+      },
+      "fra": {
+        "official": "République populaire démocratique de Corée",
+        "common": "Corée du Nord"
+      },
+      "hrv": {
+        "official": "Demokratska Narodna Republika Koreja",
+        "common": "Sjeverna Koreja"
+      },
+      "hun": {
+        "official": "Koreai Népi Demokratikus Köztársaság",
+        "common": "Észak-Korea"
+      },
+      "ita": {
+        "official": "Repubblica democratica popolare di Corea",
+        "common": "Corea del Nord"
+      },
+      "jpn": {
+        "official": "朝鮮民主主義人民共和国",
+        "common": "朝鮮民主主義人民共和国"
+      },
+      "kor": {
+        "official": "조선민주주의인민공화국",
+        "common": "조선"
+      },
+      "nld": {
+        "official": "Democratische Volksrepubliek Korea",
+        "common": "Noord-Korea"
+      },
+      "per": {
+        "official": "جمهوری دموکراتیک خلق کره",
+        "common": "کُره شمالی"
+      },
+      "pol": {
+        "official": "Koreańska Republika Ludowo-Demokratyczna",
+        "common": "Korea Północna"
+      },
+      "por": {
+        "official": "República Popular Democrática da Coreia",
+        "common": "Coreia do Norte"
+      },
+      "rus": {
+        "official": "Корейская Народно-Демократическая Республика Корея",
+        "common": "Северная Корея"
+      },
+      "slk": {
+        "official": "Kórejská ľudovodemokratická republika",
+        "common": "Severná Kórea"
+      },
+      "spa": {
+        "official": "República Popular Democrática de Corea",
+        "common": "Corea del Norte"
+      },
+      "srp": {
+        "official": "Демократска Народна Република Кореја",
+        "common": "Северна Кореја"
+      },
+      "swe": {
+        "official": "Demokratiska Folkrepubliken Korea",
+        "common": "Nordkorea"
+      },
+      "tur": {
+        "official": "Kore Demokratik Halk Cumhuriyeti",
+        "common": "Kuzey Kore"
+      },
+      "urd": {
+        "official": "جمہوری عوامی جمہوریہ کوریا",
+        "common": "شمالی کوریا"
+      },
+      "zho": {
+        "official": "朝鲜人民民主共和国",
+        "common": "朝鲜"
+      }
+    },
+    "latlng": [
+      40.0,
+      127.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "area": 120538.0,
+    "demonyms": {
+      "eng": {
+        "f": "North Korean",
+        "m": "North Korean"
+      },
+      "fra": {
+        "f": "Nord-coréenne",
+        "m": "Nord-coréen"
+      }
+    },
+    "flag": "🇰🇵",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
+    },
+    "population": 25778815,
+    "fifa": "PRK",
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kp.png",
+      "svg": "https://flagcdn.com/kp.svg",
+      "alt": "The flag of North Korea is composed of three horizontal bands — a large central white-edged red band, and a blue band above and beneath the red band. On the hoist side of the red band is a red five-pointed star within a white circle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kp.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        39.02,
+        125.75
+      ]
+    },
+    "postalCode": {
+      "format": "###-###",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia",
+      "nativeName": {
+        "mkd": {
+          "official": "Република Северна Македонија",
+          "common": "Македонија"
+        }
+      }
+    },
+    "tld": [
+      ".mk"
+    ],
+    "cca2": "MK",
+    "ccn3": "807",
+    "cca3": "MKD",
+    "cioc": "MKD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MKD": {
+        "name": "denar",
+        "symbol": "den"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "89"
+      ]
+    },
+    "capital": [
+      "Skopje"
+    ],
+    "altSpellings": [
+      "MK",
+      "The former Yugoslav Republic of Macedonia",
+      "Republic of North Macedonia",
+      "Macedonia, The Former Yugoslav Republic of",
+      "Република Северна Македонија"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": {
+      "mkd": "Macedonian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية شمال مقدونيا",
+        "common": "شمال مقدونيا"
+      },
+      "bre": {
+        "official": "Republik Makedonia an Norzh",
+        "common": "Makedonia an Norzh"
+      },
+      "ces": {
+        "official": "Republika Severní Makedonie",
+        "common": "Severní Makedonie"
+      },
+      "cym": {
+        "official": "Republic of North Macedonia",
+        "common": "North Macedonia"
+      },
+      "deu": {
+        "official": "Republik Nordmazedonien",
+        "common": "Nordmazedonien"
+      },
+      "est": {
+        "official": "Põhja-Makedoonia Vabariik",
+        "common": "Põhja-Makedoonia"
+      },
+      "fin": {
+        "official": "Pohjois-Makedonian tasavalta",
+        "common": "Pohjois-Makedonia"
+      },
+      "fra": {
+        "official": "République de Macédoine du Nord",
+        "common": "Macédoine du Nord"
+      },
+      "hrv": {
+        "official": "Republika Sjeverna Makedonija",
+        "common": "Sjeverna Makedonija"
+      },
+      "hun": {
+        "official": "Észak-macedón Köztársaság",
+        "common": "Észak-Macedónia"
+      },
+      "ita": {
+        "official": "Repubblica di Macedonia del Nord",
+        "common": "Macedonia del Nord"
+      },
+      "jpn": {
+        "official": "北マケドニア共和国",
+        "common": "北マケドニア "
+      },
+      "kor": {
+        "official": "북마케도니아 공화국",
+        "common": "북마케도니아"
+      },
+      "nld": {
+        "official": "Republiek Noord-Macedonië",
+        "common": "Noord-Macedonië"
+      },
+      "per": {
+        "official": "جمهوری مقدونیه شمالی",
+        "common": "مقدونیه شمالی"
+      },
+      "pol": {
+        "official": "Republika Macedonii Północnej",
+        "common": "Macedonia Północna"
+      },
+      "por": {
+        "official": "República da Macedônia do Norte",
+        "common": "Macedónia do Norte"
+      },
+      "rus": {
+        "official": "Республика Северная Македония",
+        "common": "Северная Македония"
+      },
+      "slk": {
+        "official": "Severomacedónska republika",
+        "common": "Severné Macedónsko"
+      },
+      "spa": {
+        "official": "República de Macedonia del Norte",
+        "common": "Macedonia del Norte"
+      },
+      "srp": {
+        "official": "Република Северна Македонија",
+        "common": "Северна Македонија"
+      },
+      "swe": {
+        "official": "Republiken Nordmakedonien",
+        "common": "Nordmakedonien"
+      },
+      "tur": {
+        "official": "Kuzey Makedonya Cumhuriyeti",
+        "common": "Kuzey Makedonya"
+      },
+      "urd": {
+        "official": "جمہوریہ مقدونیہ",
+        "common": "شمالی مقدونیہ"
+      },
+      "zho": {
+        "official": "北馬其頓共和國",
+        "common": "北馬其頓"
+      }
+    },
+    "latlng": [
+      41.83333333,
+      22.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ],
+    "area": 25713.0,
+    "demonyms": {
+      "eng": {
+        "f": "Macedonian",
+        "m": "Macedonian"
+      },
+      "fra": {
+        "f": "Macédonienne",
+        "m": "Macédonien"
+      }
+    },
+    "flag": "🇲🇰",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+    },
+    "population": 2077132,
+    "gini": {
+      "2018": 33.0
+    },
+    "fifa": "MKD",
+    "car": {
+      "signs": [
+        "MK"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mk.png",
+      "svg": "https://flagcdn.com/mk.svg",
+      "alt": "The flag of North Macedonia has a red field, at the center of which is a golden-yellow sun with eight broadening rays that extend to the edges of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        42.0,
+        21.43
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "nativeName": {
+        "aym": {
+          "official": "Piruw Suyu",
+          "common": "Piruw"
+        },
+        "que": {
+          "official": "Piruw Ripuwlika",
+          "common": "Piruw"
+        },
+        "spa": {
+          "official": "República del Perú",
+          "common": "Perú"
+        }
+      }
+    },
+    "tld": [
+      ".pe"
+    ],
+    "cca2": "PE",
+    "ccn3": "604",
+    "cca3": "PER",
+    "cioc": "PER",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/ "
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "Lima"
+    ],
+    "altSpellings": [
+      "PE",
+      "Republic of Peru",
+      "República del Perú"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بيرو",
+        "common": "بيرو"
+      },
+      "bre": {
+        "official": "Republik Perou",
+        "common": "Perou"
+      },
+      "ces": {
+        "official": "Peruánská republika",
+        "common": "Peru"
+      },
+      "cym": {
+        "official": "Republic of Peru",
+        "common": "Peru"
+      },
+      "deu": {
+        "official": "Republik Peru",
+        "common": "Peru"
+      },
+      "est": {
+        "official": "Peruu Vabariik",
+        "common": "Peruu"
+      },
+      "fin": {
+        "official": "Perun tasavalta",
+        "common": "Peru"
+      },
+      "fra": {
+        "official": "République du Pérou",
+        "common": "Pérou"
+      },
+      "hrv": {
+        "official": "Republika Peru",
+        "common": "Peru"
+      },
+      "hun": {
+        "official": "Perui Köztársaság",
+        "common": "Peru"
+      },
+      "ita": {
+        "official": "Repubblica del Perù",
+        "common": "Perù"
+      },
+      "jpn": {
+        "official": "ペルー共和国",
+        "common": "ペルー"
+      },
+      "kor": {
+        "official": "페루 공화국",
+        "common": "페루"
+      },
+      "nld": {
+        "official": "Republiek Peru",
+        "common": "Peru"
+      },
+      "per": {
+        "official": "جمهوری پرو",
+        "common": "پرو"
+      },
+      "pol": {
+        "official": "Republika Peru",
+        "common": "Peru"
+      },
+      "por": {
+        "official": "República do Peru",
+        "common": "Perú"
+      },
+      "rus": {
+        "official": "Республика Перу",
+        "common": "Перу"
+      },
+      "slk": {
+        "official": "Peruánska republika",
+        "common": "Peru"
+      },
+      "spa": {
+        "official": "República de Perú",
+        "common": "Perú"
+      },
+      "srp": {
+        "official": "Република Перу",
+        "common": "Перу"
+      },
+      "swe": {
+        "official": "Republiken Peru",
+        "common": "Peru"
+      },
+      "tur": {
+        "official": "Peru Cumhuriyeti",
+        "common": "Peru"
+      },
+      "urd": {
+        "official": "جمہوریہ پیرو",
+        "common": "پیرو"
+      },
+      "zho": {
+        "official": "秘鲁共和国",
+        "common": "秘鲁"
+      }
+    },
+    "latlng": [
+      -10.0,
+      -76.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "area": 1285216.0,
+    "demonyms": {
+      "eng": {
+        "f": "Peruvian",
+        "m": "Peruvian"
+      },
+      "fra": {
+        "f": "Péruvienne",
+        "m": "Péruvien"
+      }
+    },
+    "flag": "🇵🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+    },
+    "population": 32971846,
+    "gini": {
+      "2019": 41.5
+    },
+    "fifa": "PER",
+    "car": {
+      "signs": [
+        "PE"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pe.png",
+      "svg": "https://flagcdn.com/pe.svg",
+      "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -12.05,
+        -77.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -34616,7 +34832,7 @@
     "flags": {
       "png": "https://flagcdn.com/w320/st.png",
       "svg": "https://flagcdn.com/st.svg",
-      "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
+      "alt": "The flag of South  is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
     },
     "coatOfArms": {
       "png": "https://mainfacts.com/media/images/coats_of_arms/st.png",
