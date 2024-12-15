@@ -211,6 +211,439 @@
   },
   {
     "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "nativeName": {
+        "grn": {
+          "official": "Argentine Republic",
+          "common": "Argentina"
+        },
+        "spa": {
+          "official": "República Argentina",
+          "common": "Argentina"
+        }
+      }
+    },
+    "tld": [
+      ".ar"
+    ],
+    "cca2": "AR",
+    "ccn3": "032",
+    "cca3": "ARG",
+    "cioc": "ARG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ARS": {
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "Buenos Aires"
+    ],
+    "altSpellings": [
+      "AR",
+      "Argentine Republic",
+      "República Argentina"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الأرجنتين",
+        "common": "الأرجنتين"
+      },
+      "bre": {
+        "official": "Republik Arc'hantina",
+        "common": "Arc'hantina"
+      },
+      "ces": {
+        "official": "Argentinská republika",
+        "common": "Argentina"
+      },
+      "cym": {
+        "official": "Gweriniaeth yr Ariannin",
+        "common": "Ariannin"
+      },
+      "deu": {
+        "official": "Argentinische Republik",
+        "common": "Argentinien"
+      },
+      "est": {
+        "official": "Argentina Vabariik",
+        "common": "Argentina"
+      },
+      "fin": {
+        "official": "Argentiinan tasavalta",
+        "common": "Argentiina"
+      },
+      "fra": {
+        "official": "République argentine",
+        "common": "Argentine"
+      },
+      "hrv": {
+        "official": "Argentinski Republika",
+        "common": "Argentina"
+      },
+      "hun": {
+        "official": "Argentin Köztársaság",
+        "common": "Argentína"
+      },
+      "ita": {
+        "official": "Repubblica Argentina",
+        "common": "Argentina"
+      },
+      "jpn": {
+        "official": "アルゼンチン共和国",
+        "common": "アルゼンチン"
+      },
+      "kor": {
+        "official": "아르헨티나 공화국",
+        "common": "아르헨티나"
+      },
+      "nld": {
+        "official": "Argentijnse Republiek",
+        "common": "Argentinië"
+      },
+      "per": {
+        "official": "جمهوری آرژانتین",
+        "common": "آرژانتین"
+      },
+      "pol": {
+        "official": "Republika Argentyńska",
+        "common": "Argentyna"
+      },
+      "por": {
+        "official": "República Argentina",
+        "common": "Argentina"
+      },
+      "rus": {
+        "official": "Аргентинская Республика",
+        "common": "Аргентина"
+      },
+      "slk": {
+        "official": "Argentínska republika",
+        "common": "Argentína"
+      },
+      "spa": {
+        "official": "República Argentina",
+        "common": "Argentina"
+      },
+      "srp": {
+        "official": "Аргентинска Република",
+        "common": "Аргентина"
+      },
+      "swe": {
+        "official": "Republiken Argentina",
+        "common": "Argentina"
+      },
+      "tur": {
+        "official": "Arjantin Cumhuriyeti",
+        "common": "Arjantin"
+      },
+      "urd": {
+        "official": "جمہوریہ ارجنٹائن",
+        "common": "ارجنٹائن"
+      },
+      "zho": {
+        "official": "阿根廷共和国",
+        "common": "阿根廷"
+      }
+    },
+    "latlng": [
+      -34.0,
+      -64.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "area": 2780400.0,
+    "demonyms": {
+      "eng": {
+        "f": "Argentine",
+        "m": "Argentine"
+      },
+      "fra": {
+        "f": "Argentine",
+        "m": "Argentin"
+      }
+    },
+    "flag": "🇦🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+    },
+    "population": 45376763,
+    "gini": {
+      "2019": 42.9
+    },
+    "fifa": "ARG",
+    "car": {
+      "signs": [
+        "RA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ar.png",
+      "svg": "https://flagcdn.com/ar.svg",
+      "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -34.58,
+        -58.67
+      ]
+    },
+    "postalCode": {
+      "format": "@####@@@",
+      "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia",
+      "nativeName": {
+        "hye": {
+          "official": "Հայաստանի Հանրապետություն",
+          "common": "Հայաստան"
+        }
+      }
+    },
+    "tld": [
+      ".am"
+    ],
+    "cca2": "AM",
+    "ccn3": "051",
+    "cca3": "ARM",
+    "cioc": "ARM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AMD": {
+        "name": "Armenian dram",
+        "symbol": "֏"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "74"
+      ]
+    },
+    "capital": [
+      "Yerevan"
+    ],
+    "altSpellings": [
+      "AM",
+      "Hayastan",
+      "Republic of Armenia",
+      "Հայաստանի Հանրապետություն"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "hye": "Armenian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية أرمينيا",
+        "common": "أرمينيا"
+      },
+      "bre": {
+        "official": "Republik Armenia",
+        "common": "Armenia"
+      },
+      "ces": {
+        "official": "Arménská republika",
+        "common": "Arménie"
+      },
+      "cym": {
+        "official": "Gweriniaeth Armenia",
+        "common": "Armenia"
+      },
+      "deu": {
+        "official": "Republik Armenien",
+        "common": "Armenien"
+      },
+      "est": {
+        "official": "Armeenia Vabariik",
+        "common": "Armeenia"
+      },
+      "fin": {
+        "official": "Armenian tasavalta",
+        "common": "Armenia"
+      },
+      "fra": {
+        "official": "République d'Arménie",
+        "common": "Arménie"
+      },
+      "hrv": {
+        "official": "Republika Armenija",
+        "common": "Armenija"
+      },
+      "hun": {
+        "official": "Örményország",
+        "common": "Örményország"
+      },
+      "ita": {
+        "official": "Repubblica di Armenia",
+        "common": "Armenia"
+      },
+      "jpn": {
+        "official": "アルメニア共和国",
+        "common": "アルメニア"
+      },
+      "kor": {
+        "official": "아르메니아 공화국",
+        "common": "아르메니아"
+      },
+      "nld": {
+        "official": "Republiek Armenië",
+        "common": "Armenië"
+      },
+      "per": {
+        "official": "جمهوری ارمنستان",
+        "common": "ارمنستان"
+      },
+      "pol": {
+        "official": "Republika Armenii",
+        "common": "Armenia"
+      },
+      "por": {
+        "official": "República da Arménia",
+        "common": "Arménia"
+      },
+      "rus": {
+        "official": "Республика Армения",
+        "common": "Армения"
+      },
+      "slk": {
+        "official": "Arménska republika",
+        "common": "Arménsko"
+      },
+      "spa": {
+        "official": "República de Armenia",
+        "common": "Armenia"
+      },
+      "srp": {
+        "official": "Република Јерменија",
+        "common": "Јерменија"
+      },
+      "swe": {
+        "official": "Republiken Armenien",
+        "common": "Armenien"
+      },
+      "tur": {
+        "official": "Ermenistan Cumhuriyeti",
+        "common": "Ermenistan"
+      },
+      "urd": {
+        "official": "جمہوریہ آرمینیا",
+        "common": "آرمینیا"
+      },
+      "zho": {
+        "official": "亚美尼亚共和国",
+        "common": "亚美尼亚"
+      }
+    },
+    "latlng": [
+      40.0,
+      45.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "area": 29743.0,
+    "demonyms": {
+      "eng": {
+        "f": "Armenian",
+        "m": "Armenian"
+      },
+      "fra": {
+        "f": "Arménienne",
+        "m": "Arménien"
+      }
+    },
+    "flag": "🇦🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
+    },
+    "population": 2963234,
+    "gini": {
+      "2019": 29.9
+    },
+    "fifa": "ARM",
+    "car": {
+      "signs": [
+        "AM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/am.png",
+      "svg": "https://flagcdn.com/am.svg",
+      "alt": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/am.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        40.17,
+        44.5
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
       "common": "Bahamas",
       "official": "Commonwealth of the Bahamas",
       "nativeName": {
@@ -1055,6 +1488,215 @@
       "latlng": [
         17.25,
         -88.77
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin",
+      "nativeName": {
+        "fra": {
+          "official": "République du Bénin",
+          "common": "Bénin"
+        }
+      }
+    },
+    "tld": [
+      ".bj"
+    ],
+    "cca2": "BJ",
+    "ccn3": "204",
+    "cca3": "BEN",
+    "cioc": "BEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "29"
+      ]
+    },
+    "capital": [
+      "Porto-Novo"
+    ],
+    "altSpellings": [
+      "BJ",
+      "Republic of Benin",
+      "République du Bénin"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بنين",
+        "common": "بنين"
+      },
+      "bre": {
+        "official": "Republik Benin",
+        "common": "Benin"
+      },
+      "ces": {
+        "official": "Beninská republika",
+        "common": "Benin"
+      },
+      "cym": {
+        "official": "Gweriniaeth Benin",
+        "common": "Benin"
+      },
+      "deu": {
+        "official": "Republik Benin",
+        "common": "Benin"
+      },
+      "est": {
+        "official": "Benini Vabariik",
+        "common": "Benin"
+      },
+      "fin": {
+        "official": "Beninin tasavalta",
+        "common": "Benin"
+      },
+      "fra": {
+        "official": "République du Bénin",
+        "common": "Bénin"
+      },
+      "hrv": {
+        "official": "Republika Benin",
+        "common": "Benin"
+      },
+      "hun": {
+        "official": "Benini Köztársaság",
+        "common": "Benin"
+      },
+      "ita": {
+        "official": "Repubblica del Benin",
+        "common": "Benin"
+      },
+      "jpn": {
+        "official": "ベナン共和国",
+        "common": "ベナン"
+      },
+      "kor": {
+        "official": "베냉 공화국",
+        "common": "베냉"
+      },
+      "nld": {
+        "official": "Republiek Benin",
+        "common": "Benin"
+      },
+      "per": {
+        "official": "جمهوری بنین",
+        "common": "بنین"
+      },
+      "pol": {
+        "official": "Benin",
+        "common": "Benin"
+      },
+      "por": {
+        "official": "República do Benin",
+        "common": "Benin"
+      },
+      "rus": {
+        "official": "Республика Бенин",
+        "common": "Бенин"
+      },
+      "slk": {
+        "official": "Beninská republika",
+        "common": "Benin"
+      },
+      "spa": {
+        "official": "República de Benin",
+        "common": "Benín"
+      },
+      "srp": {
+        "official": "Република Бенин",
+        "common": "Бенин"
+      },
+      "swe": {
+        "official": "Republiken Benin",
+        "common": "Benin"
+      },
+      "tur": {
+        "official": "Benin Cumhuriyeti",
+        "common": "Benin"
+      },
+      "urd": {
+        "official": "جمہوریہ بینن",
+        "common": "بینن"
+      },
+      "zho": {
+        "official": "贝宁共和国",
+        "common": "贝宁"
+      }
+    },
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "area": 112622.0,
+    "demonyms": {
+      "eng": {
+        "f": "Beninese",
+        "m": "Beninese"
+      },
+      "fra": {
+        "f": "Béninoise",
+        "m": "Béninois"
+      }
+    },
+    "flag": "🇧🇯",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192784"
+    },
+    "population": 12123198,
+    "gini": {
+      "2015": 47.8
+    },
+    "fifa": "BEN",
+    "car": {
+      "signs": [
+        "DY"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bj.png",
+      "svg": "https://flagcdn.com/bj.svg",
+      "alt": "The flag of Benin features a green vertical band on its hoist side that takes up about two-fifth the width of the field and two equal horizontal bands of yellow and red adjoining the vertical band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bj.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.48,
+        2.62
       ]
     }
   },
@@ -2769,215 +3411,6 @@
   },
   {
     "name": {
-      "common": "Benin",
-      "official": "Republic of Benin",
-      "nativeName": {
-        "fra": {
-          "official": "République du Bénin",
-          "common": "Bénin"
-        }
-      }
-    },
-    "tld": [
-      ".bj"
-    ],
-    "cca2": "BJ",
-    "ccn3": "204",
-    "cca3": "BEN",
-    "cioc": "BEN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XOF": {
-        "name": "West African CFA franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "29"
-      ]
-    },
-    "capital": [
-      "Porto-Novo"
-    ],
-    "altSpellings": [
-      "BJ",
-      "Republic of Benin",
-      "République du Bénin"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بنين",
-        "common": "بنين"
-      },
-      "bre": {
-        "official": "Republik Benin",
-        "common": "Benin"
-      },
-      "ces": {
-        "official": "Beninská republika",
-        "common": "Benin"
-      },
-      "cym": {
-        "official": "Gweriniaeth Benin",
-        "common": "Benin"
-      },
-      "deu": {
-        "official": "Republik Benin",
-        "common": "Benin"
-      },
-      "est": {
-        "official": "Benini Vabariik",
-        "common": "Benin"
-      },
-      "fin": {
-        "official": "Beninin tasavalta",
-        "common": "Benin"
-      },
-      "fra": {
-        "official": "République du Bénin",
-        "common": "Bénin"
-      },
-      "hrv": {
-        "official": "Republika Benin",
-        "common": "Benin"
-      },
-      "hun": {
-        "official": "Benini Köztársaság",
-        "common": "Benin"
-      },
-      "ita": {
-        "official": "Repubblica del Benin",
-        "common": "Benin"
-      },
-      "jpn": {
-        "official": "ベナン共和国",
-        "common": "ベナン"
-      },
-      "kor": {
-        "official": "베냉 공화국",
-        "common": "베냉"
-      },
-      "nld": {
-        "official": "Republiek Benin",
-        "common": "Benin"
-      },
-      "per": {
-        "official": "جمهوری بنین",
-        "common": "بنین"
-      },
-      "pol": {
-        "official": "Benin",
-        "common": "Benin"
-      },
-      "por": {
-        "official": "República do Benin",
-        "common": "Benin"
-      },
-      "rus": {
-        "official": "Республика Бенин",
-        "common": "Бенин"
-      },
-      "slk": {
-        "official": "Beninská republika",
-        "common": "Benin"
-      },
-      "spa": {
-        "official": "República de Benin",
-        "common": "Benín"
-      },
-      "srp": {
-        "official": "Република Бенин",
-        "common": "Бенин"
-      },
-      "swe": {
-        "official": "Republiken Benin",
-        "common": "Benin"
-      },
-      "tur": {
-        "official": "Benin Cumhuriyeti",
-        "common": "Benin"
-      },
-      "urd": {
-        "official": "جمہوریہ بینن",
-        "common": "بینن"
-      },
-      "zho": {
-        "official": "贝宁共和国",
-        "common": "贝宁"
-      }
-    },
-    "latlng": [
-      9.5,
-      2.25
-    ],
-    "landlocked": false,
-    "borders": [
-      "BFA",
-      "NER",
-      "NGA",
-      "TGO"
-    ],
-    "area": 112622.0,
-    "demonyms": {
-      "eng": {
-        "f": "Beninese",
-        "m": "Beninese"
-      },
-      "fra": {
-        "f": "Béninoise",
-        "m": "Béninois"
-      }
-    },
-    "flag": "🇧🇯",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192784"
-    },
-    "population": 12123198,
-    "gini": {
-      "2015": 47.8
-    },
-    "fifa": "BEN",
-    "car": {
-      "signs": [
-        "DY"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/bj.png",
-      "svg": "https://flagcdn.com/bj.svg",
-      "alt": "The flag of Benin features a green vertical band on its hoist side that takes up about two-fifth the width of the field and two equal horizontal bands of yellow and red adjoining the vertical band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/bj.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/bj.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        6.48,
-        2.62
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Indonesia",
       "official": "Republic of Indonesia",
       "nativeName": {
@@ -3395,205 +3828,6 @@
     "postalCode": {
       "format": "####",
       "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Saint Kitts and Nevis",
-      "official": "Federation of Saint Christopher and Nevis",
-      "nativeName": {
-        "eng": {
-          "official": "Federation of Saint Christopher and Nevis",
-          "common": "Saint Kitts and Nevis"
-        }
-      }
-    },
-    "tld": [
-      ".kn"
-    ],
-    "cca2": "KN",
-    "ccn3": "659",
-    "cca3": "KNA",
-    "cioc": "SKN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XCD": {
-        "name": "Eastern Caribbean dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "suffixes": [
-        "869"
-      ]
-    },
-    "capital": [
-      "Basseterre"
-    ],
-    "altSpellings": [
-      "KN",
-      "Federation of Saint Christopher and Nevis"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "اتحاد القديس كريستوفر ونيفيس",
-        "common": "سانت كيتس ونيفيس"
-      },
-      "bre": {
-        "official": "Kevread Saint Kitts ha Nevis",
-        "common": "Saint Kitts ha Nevis"
-      },
-      "ces": {
-        "official": "Federace Sv. Kryštof a Nevis",
-        "common": "Svatý Kryštof a Nevis"
-      },
-      "cym": {
-        "official": "Federation of Saint Christopher and Nevis",
-        "common": "Saint Kitts and Nevis"
-      },
-      "deu": {
-        "official": "Föderation von St. Kitts und Nevis",
-        "common": "St. Kitts und Nevis"
-      },
-      "est": {
-        "official": "Saint Kittsi ja Nevise Föderatsioon",
-        "common": "Saint Kitts ja Nevis"
-      },
-      "fin": {
-        "official": "Saint Christopherin ja Nevisin federaatio",
-        "common": "Saint Kitts ja Nevis"
-      },
-      "fra": {
-        "official": "Fédération de Saint-Christophe-et-Niévès",
-        "common": "Saint-Christophe-et-Niévès"
-      },
-      "hrv": {
-        "official": "Federacija Sv.Kristofora i Nevisa",
-        "common": "Sveti Kristof i Nevis"
-      },
-      "hun": {
-        "official": "Saint Christopher és Nevis Államszövetség",
-        "common": "Saint Kitts és Nevis"
-      },
-      "ita": {
-        "official": "Federazione di Saint Christopher e Nevis",
-        "common": "Saint Kitts e Nevis"
-      },
-      "jpn": {
-        "official": "セントクリストファーNevis連盟",
-        "common": "セントクリストファー・ネイビス"
-      },
-      "kor": {
-        "official": "세인트키츠 네비스 연방",
-        "common": "세인트키츠 네비스"
-      },
-      "nld": {
-        "official": "Federatie van Saint Kitts en Nevis",
-        "common": "Saint Kitts en Nevis"
-      },
-      "per": {
-        "official": "فدراسیون سنت کیتس و نویس",
-        "common": "سنت کیتس و نویس"
-      },
-      "pol": {
-        "official": "Federacja Saint Kitts i Nevis",
-        "common": "Saint Kitts i Nevis"
-      },
-      "por": {
-        "official": "Federação de São Cristóvão e Nevis",
-        "common": "São Cristóvão e Nevis"
-      },
-      "rus": {
-        "official": "Федерация Сент-Кристофер и Н е в и с",
-        "common": "Сент-Китс и Невис"
-      },
-      "slk": {
-        "official": "Feder໡cia Svätého Krištofa a Nevisu",
-        "common": "Svätý Krištof a Nevis"
-      },
-      "spa": {
-        "official": "Federación de San Cristóbal y Nevis",
-        "common": "San Cristóbal y Nieves"
-      },
-      "srp": {
-        "official": "Федерација Свети Кристофер и Невис",
-        "common": "Сент Китс и Невис"
-      },
-      "swe": {
-        "official": "Federationen Saint Kitts och Nevis",
-        "common": "Saint Kitts och Nevis"
-      },
-      "tur": {
-        "official": "Saint Kitts ve Nevis Federasyonu",
-        "common": "Saint Kitts ve Nevis"
-      },
-      "urd": {
-        "official": "وفاقِ سینٹ کیٹز و ناویس",
-        "common": "سینٹ کیٹز و ناویس"
-      },
-      "zho": {
-        "official": "圣克里斯托弗和尼维斯联邦",
-        "common": "圣基茨和尼维斯"
-      }
-    },
-    "latlng": [
-      17.33333333,
-      -62.75
-    ],
-    "landlocked": false,
-    "area": 261.0,
-    "demonyms": {
-      "eng": {
-        "f": "Kittitian or Nevisian",
-        "m": "Kittitian or Nevisian"
-      },
-      "fra": {
-        "f": "Kittitienne-et-nevicienne",
-        "m": "Kittitien-et-nevicien"
-      }
-    },
-    "flag": "🇰🇳",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
-    },
-    "population": 53192,
-    "fifa": "SKN",
-    "car": {
-      "signs": [
-        "KN"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/kn.png",
-      "svg": "https://flagcdn.com/kn.svg",
-      "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        17.3,
-        -62.72
-      ]
     }
   },
   {
@@ -19826,225 +20060,6 @@
   },
   {
     "name": {
-      "common": "Argentina",
-      "official": "Argentine Republic",
-      "nativeName": {
-        "grn": {
-          "official": "Argentine Republic",
-          "common": "Argentina"
-        },
-        "spa": {
-          "official": "República Argentina",
-          "common": "Argentina"
-        }
-      }
-    },
-    "tld": [
-      ".ar"
-    ],
-    "cca2": "AR",
-    "ccn3": "032",
-    "cca3": "ARG",
-    "cioc": "ARG",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "ARS": {
-        "name": "Argentine peso",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "4"
-      ]
-    },
-    "capital": [
-      "Buenos Aires"
-    ],
-    "altSpellings": [
-      "AR",
-      "Argentine Republic",
-      "República Argentina"
-    ],
-    "region": "Americas",
-    "subregion": "South America",
-    "languages": {
-      "grn": "Guaraní",
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية الأرجنتين",
-        "common": "الأرجنتين"
-      },
-      "bre": {
-        "official": "Republik Arc'hantina",
-        "common": "Arc'hantina"
-      },
-      "ces": {
-        "official": "Argentinská republika",
-        "common": "Argentina"
-      },
-      "cym": {
-        "official": "Gweriniaeth yr Ariannin",
-        "common": "Ariannin"
-      },
-      "deu": {
-        "official": "Argentinische Republik",
-        "common": "Argentinien"
-      },
-      "est": {
-        "official": "Argentina Vabariik",
-        "common": "Argentina"
-      },
-      "fin": {
-        "official": "Argentiinan tasavalta",
-        "common": "Argentiina"
-      },
-      "fra": {
-        "official": "République argentine",
-        "common": "Argentine"
-      },
-      "hrv": {
-        "official": "Argentinski Republika",
-        "common": "Argentina"
-      },
-      "hun": {
-        "official": "Argentin Köztársaság",
-        "common": "Argentína"
-      },
-      "ita": {
-        "official": "Repubblica Argentina",
-        "common": "Argentina"
-      },
-      "jpn": {
-        "official": "アルゼンチン共和国",
-        "common": "アルゼンチン"
-      },
-      "kor": {
-        "official": "아르헨티나 공화국",
-        "common": "아르헨티나"
-      },
-      "nld": {
-        "official": "Argentijnse Republiek",
-        "common": "Argentinië"
-      },
-      "per": {
-        "official": "جمهوری آرژانتین",
-        "common": "آرژانتین"
-      },
-      "pol": {
-        "official": "Republika Argentyńska",
-        "common": "Argentyna"
-      },
-      "por": {
-        "official": "República Argentina",
-        "common": "Argentina"
-      },
-      "rus": {
-        "official": "Аргентинская Республика",
-        "common": "Аргентина"
-      },
-      "slk": {
-        "official": "Argentínska republika",
-        "common": "Argentína"
-      },
-      "spa": {
-        "official": "República Argentina",
-        "common": "Argentina"
-      },
-      "srp": {
-        "official": "Аргентинска Република",
-        "common": "Аргентина"
-      },
-      "swe": {
-        "official": "Republiken Argentina",
-        "common": "Argentina"
-      },
-      "tur": {
-        "official": "Arjantin Cumhuriyeti",
-        "common": "Arjantin"
-      },
-      "urd": {
-        "official": "جمہوریہ ارجنٹائن",
-        "common": "ارجنٹائن"
-      },
-      "zho": {
-        "official": "阿根廷共和国",
-        "common": "阿根廷"
-      }
-    },
-    "latlng": [
-      -34.0,
-      -64.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "PRY",
-      "URY"
-    ],
-    "area": 2780400.0,
-    "demonyms": {
-      "eng": {
-        "f": "Argentine",
-        "m": "Argentine"
-      },
-      "fra": {
-        "f": "Argentine",
-        "m": "Argentin"
-      }
-    },
-    "flag": "🇦🇷",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
-    },
-    "population": 45376763,
-    "gini": {
-      "2019": 42.9
-    },
-    "fifa": "ARG",
-    "car": {
-      "signs": [
-        "RA"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-03:00"
-    ],
-    "continents": [
-      "South America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ar.png",
-      "svg": "https://flagcdn.com/ar.svg",
-      "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -34.58,
-        -58.67
-      ]
-    },
-    "postalCode": {
-      "format": "@####@@@",
-      "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
-    }
-  },
-  {
-    "name": {
       "common": "Nauru",
       "official": "Republic of Nauru",
       "nativeName": {
@@ -31334,220 +31349,6 @@
   },
   {
     "name": {
-      "common": "Armenia",
-      "official": "Republic of Armenia",
-      "nativeName": {
-        "hye": {
-          "official": "Հայաստանի Հանրապետություն",
-          "common": "Հայաստան"
-        }
-      }
-    },
-    "tld": [
-      ".am"
-    ],
-    "cca2": "AM",
-    "ccn3": "051",
-    "cca3": "ARM",
-    "cioc": "ARM",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "AMD": {
-        "name": "Armenian dram",
-        "symbol": "֏"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "74"
-      ]
-    },
-    "capital": [
-      "Yerevan"
-    ],
-    "altSpellings": [
-      "AM",
-      "Hayastan",
-      "Republic of Armenia",
-      "Հայաստանի Հանրապետություն"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "hye": "Armenian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية أرمينيا",
-        "common": "أرمينيا"
-      },
-      "bre": {
-        "official": "Republik Armenia",
-        "common": "Armenia"
-      },
-      "ces": {
-        "official": "Arménská republika",
-        "common": "Arménie"
-      },
-      "cym": {
-        "official": "Gweriniaeth Armenia",
-        "common": "Armenia"
-      },
-      "deu": {
-        "official": "Republik Armenien",
-        "common": "Armenien"
-      },
-      "est": {
-        "official": "Armeenia Vabariik",
-        "common": "Armeenia"
-      },
-      "fin": {
-        "official": "Armenian tasavalta",
-        "common": "Armenia"
-      },
-      "fra": {
-        "official": "République d'Arménie",
-        "common": "Arménie"
-      },
-      "hrv": {
-        "official": "Republika Armenija",
-        "common": "Armenija"
-      },
-      "hun": {
-        "official": "Örményország",
-        "common": "Örményország"
-      },
-      "ita": {
-        "official": "Repubblica di Armenia",
-        "common": "Armenia"
-      },
-      "jpn": {
-        "official": "アルメニア共和国",
-        "common": "アルメニア"
-      },
-      "kor": {
-        "official": "아르메니아 공화국",
-        "common": "아르메니아"
-      },
-      "nld": {
-        "official": "Republiek Armenië",
-        "common": "Armenië"
-      },
-      "per": {
-        "official": "جمهوری ارمنستان",
-        "common": "ارمنستان"
-      },
-      "pol": {
-        "official": "Republika Armenii",
-        "common": "Armenia"
-      },
-      "por": {
-        "official": "República da Arménia",
-        "common": "Arménia"
-      },
-      "rus": {
-        "official": "Республика Армения",
-        "common": "Армения"
-      },
-      "slk": {
-        "official": "Arménska republika",
-        "common": "Arménsko"
-      },
-      "spa": {
-        "official": "República de Armenia",
-        "common": "Armenia"
-      },
-      "srp": {
-        "official": "Република Јерменија",
-        "common": "Јерменија"
-      },
-      "swe": {
-        "official": "Republiken Armenien",
-        "common": "Armenien"
-      },
-      "tur": {
-        "official": "Ermenistan Cumhuriyeti",
-        "common": "Ermenistan"
-      },
-      "urd": {
-        "official": "جمہوریہ آرمینیا",
-        "common": "آرمینیا"
-      },
-      "zho": {
-        "official": "亚美尼亚共和国",
-        "common": "亚美尼亚"
-      }
-    },
-    "latlng": [
-      40.0,
-      45.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "AZE",
-      "GEO",
-      "IRN",
-      "TUR"
-    ],
-    "area": 29743.0,
-    "demonyms": {
-      "eng": {
-        "f": "Armenian",
-        "m": "Armenian"
-      },
-      "fra": {
-        "f": "Arménienne",
-        "m": "Arménien"
-      }
-    },
-    "flag": "🇦🇲",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
-    },
-    "population": 2963234,
-    "gini": {
-      "2019": 29.9
-    },
-    "fifa": "ARM",
-    "car": {
-      "signs": [
-        "AM"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/am.png",
-      "svg": "https://flagcdn.com/am.svg",
-      "alt": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/am.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        40.17,
-        44.5
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
       "common": "Japan",
       "official": "Japan",
       "nativeName": {
@@ -36846,6 +36647,205 @@
       "latlng": [
         -4.25,
         15.28
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis",
+      "nativeName": {
+        "eng": {
+          "official": "Federation of Saint Christopher and Nevis",
+          "common": "Saint Kitts and Nevis"
+        }
+      }
+    },
+    "tld": [
+      ".kn"
+    ],
+    "cca2": "KN",
+    "ccn3": "659",
+    "cca3": "KNA",
+    "cioc": "SKN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "869"
+      ]
+    },
+    "capital": [
+      "Basseterre"
+    ],
+    "altSpellings": [
+      "KN",
+      "Federation of Saint Christopher and Nevis"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "اتحاد القديس كريستوفر ونيفيس",
+        "common": "سانت كيتس ونيفيس"
+      },
+      "bre": {
+        "official": "Kevread Saint Kitts ha Nevis",
+        "common": "Saint Kitts ha Nevis"
+      },
+      "ces": {
+        "official": "Federace Sv. Kryštof a Nevis",
+        "common": "Svatý Kryštof a Nevis"
+      },
+      "cym": {
+        "official": "Federation of Saint Christopher and Nevis",
+        "common": "Saint Kitts and Nevis"
+      },
+      "deu": {
+        "official": "Föderation von St. Kitts und Nevis",
+        "common": "St. Kitts und Nevis"
+      },
+      "est": {
+        "official": "Saint Kittsi ja Nevise Föderatsioon",
+        "common": "Saint Kitts ja Nevis"
+      },
+      "fin": {
+        "official": "Saint Christopherin ja Nevisin federaatio",
+        "common": "Saint Kitts ja Nevis"
+      },
+      "fra": {
+        "official": "Fédération de Saint-Christophe-et-Niévès",
+        "common": "Saint-Christophe-et-Niévès"
+      },
+      "hrv": {
+        "official": "Federacija Sv.Kristofora i Nevisa",
+        "common": "Sveti Kristof i Nevis"
+      },
+      "hun": {
+        "official": "Saint Christopher és Nevis Államszövetség",
+        "common": "Saint Kitts és Nevis"
+      },
+      "ita": {
+        "official": "Federazione di Saint Christopher e Nevis",
+        "common": "Saint Kitts e Nevis"
+      },
+      "jpn": {
+        "official": "セントクリストファーNevis連盟",
+        "common": "セントクリストファー・ネイビス"
+      },
+      "kor": {
+        "official": "세인트키츠 네비스 연방",
+        "common": "세인트키츠 네비스"
+      },
+      "nld": {
+        "official": "Federatie van Saint Kitts en Nevis",
+        "common": "Saint Kitts en Nevis"
+      },
+      "per": {
+        "official": "فدراسیون سنت کیتس و نویس",
+        "common": "سنت کیتس و نویس"
+      },
+      "pol": {
+        "official": "Federacja Saint Kitts i Nevis",
+        "common": "Saint Kitts i Nevis"
+      },
+      "por": {
+        "official": "Federação de São Cristóvão e Nevis",
+        "common": "São Cristóvão e Nevis"
+      },
+      "rus": {
+        "official": "Федерация Сент-Кристофер и Н е в и с",
+        "common": "Сент-Китс и Невис"
+      },
+      "slk": {
+        "official": "Feder໡cia Svätého Krištofa a Nevisu",
+        "common": "Svätý Krištof a Nevis"
+      },
+      "spa": {
+        "official": "Federación de San Cristóbal y Nevis",
+        "common": "San Cristóbal y Nieves"
+      },
+      "srp": {
+        "official": "Федерација Свети Кристофер и Невис",
+        "common": "Сент Китс и Невис"
+      },
+      "swe": {
+        "official": "Federationen Saint Kitts och Nevis",
+        "common": "Saint Kitts och Nevis"
+      },
+      "tur": {
+        "official": "Saint Kitts ve Nevis Federasyonu",
+        "common": "Saint Kitts ve Nevis"
+      },
+      "urd": {
+        "official": "وفاقِ سینٹ کیٹز و ناویس",
+        "common": "سینٹ کیٹز و ناویس"
+      },
+      "zho": {
+        "official": "圣克里斯托弗和尼维斯联邦",
+        "common": "圣基茨和尼维斯"
+      }
+    },
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "landlocked": false,
+    "area": 261.0,
+    "demonyms": {
+      "eng": {
+        "f": "Kittitian or Nevisian",
+        "m": "Kittitian or Nevisian"
+      },
+      "fra": {
+        "f": "Kittitienne-et-nevicienne",
+        "m": "Kittitien-et-nevicien"
+      }
+    },
+    "flag": "🇰🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
+    },
+    "population": 53192,
+    "fifa": "SKN",
+    "car": {
+      "signs": [
+        "KN"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kn.png",
+      "svg": "https://flagcdn.com/kn.svg",
+      "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.3,
+        -62.72
       ]
     }
   },
