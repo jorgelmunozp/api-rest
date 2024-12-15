@@ -2785,6 +2785,220 @@
   },
   {
     "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria",
+      "nativeName": {
+        "bul": {
+          "official": "Република България",
+          "common": "България"
+        }
+      }
+    },
+    "tld": [
+      ".bg"
+    ],
+    "cca2": "BG",
+    "ccn3": "100",
+    "cca3": "BGR",
+    "cioc": "BUL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BGN": {
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "59"
+      ]
+    },
+    "capital": [
+      "Sofia"
+    ],
+    "altSpellings": [
+      "BG",
+      "Republic of Bulgaria",
+      "Република България"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": {
+      "bul": "Bulgarian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بلغاريا",
+        "common": "بلغاريا"
+      },
+      "bre": {
+        "official": "Republik Bulgaria",
+        "common": "Bulgaria"
+      },
+      "ces": {
+        "official": "Bulharská republika",
+        "common": "Bulharsko"
+      },
+      "cym": {
+        "official": "Gweriniaeth Bwlgaria",
+        "common": "Bwlgaria"
+      },
+      "deu": {
+        "official": "Republik Bulgarien",
+        "common": "Bulgarien"
+      },
+      "est": {
+        "official": "Bulgaaria Vabariik",
+        "common": "Bulgaaria"
+      },
+      "fin": {
+        "official": "Bulgarian tasavalta",
+        "common": "Bulgaria"
+      },
+      "fra": {
+        "official": "République de Bulgarie",
+        "common": "Bulgarie"
+      },
+      "hrv": {
+        "official": "Republika Bugarska",
+        "common": "Bugarska"
+      },
+      "hun": {
+        "official": "Bolgár Köztársaság",
+        "common": "Bulgária"
+      },
+      "ita": {
+        "official": "Repubblica di Bulgaria",
+        "common": "Bulgaria"
+      },
+      "jpn": {
+        "official": "ブルガリア共和国",
+        "common": "ブルガリア"
+      },
+      "kor": {
+        "official": "불가리아 공화국",
+        "common": "불가리아"
+      },
+      "nld": {
+        "official": "Republiek Bulgarije",
+        "common": "Bulgarije"
+      },
+      "per": {
+        "official": "جمهوری بلغارستان",
+        "common": "بلغارستان"
+      },
+      "pol": {
+        "official": "Republika Bułgarii",
+        "common": "Bułgaria"
+      },
+      "por": {
+        "official": "República da Bulgária",
+        "common": "Bulgária"
+      },
+      "rus": {
+        "official": "Республика Болгария",
+        "common": "Болгария"
+      },
+      "slk": {
+        "official": "Bulharská republika",
+        "common": "Bulharsko"
+      },
+      "spa": {
+        "official": "República de Bulgaria",
+        "common": "Bulgaria"
+      },
+      "srp": {
+        "official": "Република Бугарска",
+        "common": "Бугарска"
+      },
+      "swe": {
+        "official": "Republiken Bulgarien",
+        "common": "Bulgarien"
+      },
+      "tur": {
+        "official": "Bulgaristan Cumhuriyeti",
+        "common": "Bulgaristan"
+      },
+      "urd": {
+        "official": "جمہوریہ بلغاریہ",
+        "common": "بلغاریہ"
+      },
+      "zho": {
+        "official": "保加利亚共和国",
+        "common": "保加利亚"
+      }
+    },
+    "latlng": [
+      43.0,
+      25.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "area": 110879.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bulgarian",
+        "m": "Bulgarian"
+      },
+      "fra": {
+        "f": "Bulgare",
+        "m": "Bulgare"
+      }
+    },
+    "flag": "🇧🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
+    },
+    "population": 6927288,
+    "gini": {
+      "2018": 41.3
+    },
+    "fifa": "BUL",
+    "car": {
+      "signs": [
+        "BG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bg.png",
+      "svg": "https://flagcdn.com/bg.svg",
+      "alt": "The flag of Bulgaria is composed of three equal horizontal bands of white, green and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        42.68,
+        23.32
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
       "common": "Burundi",
       "official": "Republic of Burundi",
       "nativeName": {
@@ -3860,6 +4074,214 @@
   },
   {
     "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba",
+      "nativeName": {
+        "spa": {
+          "official": "República de Cuba",
+          "common": "Cuba"
+        }
+      }
+    },
+    "tld": [
+      ".cu"
+    ],
+    "cca2": "CU",
+    "ccn3": "192",
+    "cca3": "CUB",
+    "cioc": "CUB",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CUC": {
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      "CUP": {
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "capital": [
+      "Havana"
+    ],
+    "altSpellings": [
+      "CU",
+      "Republic of Cuba",
+      "República de Cuba"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية كوبا",
+        "common": "كوبا"
+      },
+      "bre": {
+        "official": "Republik Kuba",
+        "common": "Kuba"
+      },
+      "ces": {
+        "official": "Kubánská republika",
+        "common": "Kuba"
+      },
+      "cym": {
+        "official": "Gweriniaeth Ciwba",
+        "common": "Ciwba"
+      },
+      "deu": {
+        "official": "Republik Kuba",
+        "common": "Kuba"
+      },
+      "est": {
+        "official": "Kuuba Vabariik",
+        "common": "Kuuba"
+      },
+      "fin": {
+        "official": "Kuuban tasavalta",
+        "common": "Kuuba"
+      },
+      "fra": {
+        "official": "République de Cuba",
+        "common": "Cuba"
+      },
+      "hrv": {
+        "official": "Republika Kuba",
+        "common": "Kuba"
+      },
+      "hun": {
+        "official": "Kubai Köztársaság",
+        "common": "Kuba"
+      },
+      "ita": {
+        "official": "Repubblica di Cuba",
+        "common": "Cuba"
+      },
+      "jpn": {
+        "official": "キューバ共和国",
+        "common": "キューバ"
+      },
+      "kor": {
+        "official": "쿠바 공화국",
+        "common": "쿠바"
+      },
+      "nld": {
+        "official": "Republiek Cuba",
+        "common": "Cuba"
+      },
+      "per": {
+        "official": "جمهوری کوبا",
+        "common": "کوبا"
+      },
+      "pol": {
+        "official": "Republika Kuby",
+        "common": "Kuba"
+      },
+      "por": {
+        "official": "República de Cuba",
+        "common": "Cuba"
+      },
+      "rus": {
+        "official": "Республика Куба",
+        "common": "Куба"
+      },
+      "slk": {
+        "official": "Kubánska republika",
+        "common": "Kuba"
+      },
+      "spa": {
+        "official": "República de Cuba",
+        "common": "Cuba"
+      },
+      "srp": {
+        "official": "Република Куба",
+        "common": "Куба"
+      },
+      "swe": {
+        "official": "Republiken Kuba",
+        "common": "Kuba"
+      },
+      "tur": {
+        "official": "Küba Cumhuriyeti",
+        "common": "Küba"
+      },
+      "urd": {
+        "official": "جمہوریہ کیوبا",
+        "common": "کیوبا"
+      },
+      "zho": {
+        "official": "古巴共和国",
+        "common": "古巴"
+      }
+    },
+    "latlng": [
+      21.5,
+      -80.0
+    ],
+    "landlocked": false,
+    "area": 109884.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cuban",
+        "m": "Cuban"
+      },
+      "fra": {
+        "f": "Cubaine",
+        "m": "Cubain"
+      }
+    },
+    "flag": "🇨🇺",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
+    },
+    "population": 11326616,
+    "fifa": "CUB",
+    "car": {
+      "signs": [
+        "C"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cu.png",
+      "svg": "https://flagcdn.com/cu.svg",
+      "alt": "The flag of Cuba is composed of five equal horizontal bands of blue alternating with white and a red equilateral triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a white five-pointed star at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        23.12,
+        -82.35
+      ]
+    },
+    "postalCode": {
+      "format": "CP #####",
+      "regex": "^(?:CP)*(\\d{5})$"
+    }
+  },
+  {
+    "name": {
       "common": "Djibouti",
       "official": "Republic of Djibouti",
       "nativeName": {
@@ -4073,6 +4495,216 @@
         11.58,
         43.15
       ]
+    }
+  },
+  {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "nativeName": {
+        "spa": {
+          "official": "República Dominicana",
+          "common": "República Dominicana"
+        }
+      }
+    },
+    "tld": [
+      ".do"
+    ],
+    "cca2": "DO",
+    "ccn3": "214",
+    "cca3": "DOM",
+    "cioc": "DOM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DOP": {
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "809",
+        "829",
+        "849"
+      ]
+    },
+    "capital": [
+      "Santo Domingo"
+    ],
+    "altSpellings": [
+      "DO"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الدومينيكان",
+        "common": "جمهورية الدومينيكان"
+      },
+      "bre": {
+        "official": "Republik Dominikan",
+        "common": "Republik Dominikan"
+      },
+      "ces": {
+        "official": "Dominikánská republika",
+        "common": "Dominikánská republika"
+      },
+      "cym": {
+        "official": "Gweriniaeth Dominica",
+        "common": "Gweriniaeth Dominica"
+      },
+      "deu": {
+        "official": "Dominikanische Republik",
+        "common": "Dominikanische Republik"
+      },
+      "est": {
+        "official": "Dominikaani Vabariik",
+        "common": "Dominikaani Vabariik"
+      },
+      "fin": {
+        "official": "Dominikaaninen tasavalta",
+        "common": "Dominikaaninen tasavalta"
+      },
+      "fra": {
+        "official": "République Dominicaine",
+        "common": "République dominicaine"
+      },
+      "hrv": {
+        "official": "Dominikanska Republika",
+        "common": "Dominikanska Republika"
+      },
+      "hun": {
+        "official": "Dominikai Köztársaság",
+        "common": "Dominikai Köztársaság"
+      },
+      "ita": {
+        "official": "Repubblica Dominicana",
+        "common": "Repubblica Dominicana"
+      },
+      "jpn": {
+        "official": "ドミニカ共和国",
+        "common": "ドミニカ共和国"
+      },
+      "kor": {
+        "official": "도미니카 공화국",
+        "common": "도미니카 공화국"
+      },
+      "nld": {
+        "official": "Dominicaanse Republiek",
+        "common": "Dominicaanse Republiek"
+      },
+      "per": {
+        "official": "جمهوری دومینیکن",
+        "common": "جمهوری دومینیکن"
+      },
+      "pol": {
+        "official": "Republika Dominikańska",
+        "common": "Dominikana"
+      },
+      "por": {
+        "official": "República Dominicana",
+        "common": "República Dominicana"
+      },
+      "rus": {
+        "official": "Доминиканская Республика",
+        "common": "Доминиканская Республика"
+      },
+      "slk": {
+        "official": "Dominikánska republika",
+        "common": "Dominikánska republika"
+      },
+      "spa": {
+        "official": "República Dominicana",
+        "common": "República Dominicana"
+      },
+      "srp": {
+        "official": "Доминиканска Република",
+        "common": "Доминикана"
+      },
+      "swe": {
+        "official": "Dominikanska republiken",
+        "common": "Dominikanska republiken"
+      },
+      "tur": {
+        "official": "Dominik Cumhuriyeti",
+        "common": "Dominik Cumhuriyeti"
+      },
+      "urd": {
+        "official": "جمہوریہ ڈومینیکن",
+        "common": "ڈومینیکن"
+      },
+      "zho": {
+        "official": "多明尼加共和国",
+        "common": "多明尼加"
+      }
+    },
+    "latlng": [
+      19.0,
+      -70.66666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "HTI"
+    ],
+    "area": 48671.0,
+    "demonyms": {
+      "eng": {
+        "f": "Dominican",
+        "m": "Dominican"
+      },
+      "fra": {
+        "f": "Dominicaine",
+        "m": "Dominicain"
+      }
+    },
+    "flag": "🇩🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+    },
+    "population": 10847904,
+    "gini": {
+      "2019": 41.9
+    },
+    "fifa": "DOM",
+    "car": {
+      "signs": [
+        "DOM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/do.png",
+      "svg": "https://flagcdn.com/do.svg",
+      "alt": "The flag of the Dominican Republic is divided into four rectangles by a centered white cross that extends to the edges of the field and bears the national coat of arms in its center. The upper hoist-side and lower fly-side rectangles are blue and the lower hoist-side and upper fly-side rectangles are red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/do.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.47,
+        -69.9
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -9227,227 +9859,6 @@
   },
   {
     "name": {
-      "common": "Sudan",
-      "official": "Republic of the Sudan",
-      "nativeName": {
-        "ara": {
-          "official": "جمهورية السودان",
-          "common": "السودان"
-        },
-        "eng": {
-          "official": "Republic of the Sudan",
-          "common": "Sudan"
-        }
-      }
-    },
-    "tld": [
-      ".sd"
-    ],
-    "cca2": "SD",
-    "ccn3": "729",
-    "cca3": "SDN",
-    "cioc": "SUD",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "SDG": {
-        "name": "Sudanese pound",
-        "symbol": "ج.س"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "49"
-      ]
-    },
-    "capital": [
-      "Khartoum"
-    ],
-    "altSpellings": [
-      "SD",
-      "Republic of the Sudan",
-      "Jumhūrīyat as-Sūdān"
-    ],
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "languages": {
-      "ara": "Arabic",
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية السودان",
-        "common": "السودان"
-      },
-      "bre": {
-        "official": "Republik Soudan",
-        "common": "Soudan"
-      },
-      "ces": {
-        "official": "Súdánská republika",
-        "common": "Súdán"
-      },
-      "cym": {
-        "official": "Republic of the Sudan",
-        "common": "Sudan"
-      },
-      "deu": {
-        "official": "Republik Sudan",
-        "common": "Sudan"
-      },
-      "est": {
-        "official": "Sudaani Vabariik",
-        "common": "Sudaan"
-      },
-      "fin": {
-        "official": "Sudanin tasavalta",
-        "common": "Sudan"
-      },
-      "fra": {
-        "official": "République du Soudan",
-        "common": "Soudan"
-      },
-      "hrv": {
-        "official": "Republika Sudan",
-        "common": "Sudan"
-      },
-      "hun": {
-        "official": "Szudáni Köztársaság",
-        "common": "Szudán"
-      },
-      "ita": {
-        "official": "Repubblica del Sudan",
-        "common": "Sudan"
-      },
-      "jpn": {
-        "official": "スーダン共和国",
-        "common": "スーダン"
-      },
-      "kor": {
-        "official": "수단 공화국",
-        "common": "수단"
-      },
-      "nld": {
-        "official": "Republiek Soedan",
-        "common": "Soedan"
-      },
-      "per": {
-        "official": "جمهوری سودان",
-        "common": "سودان"
-      },
-      "pol": {
-        "official": "Republika Sudanu",
-        "common": "Sudan"
-      },
-      "por": {
-        "official": "República do Sudão",
-        "common": "Sudão"
-      },
-      "rus": {
-        "official": "Республика Судан",
-        "common": "Судан"
-      },
-      "slk": {
-        "official": "Sudánska republika",
-        "common": "Sudán"
-      },
-      "spa": {
-        "official": "República de Sudán",
-        "common": "Sudán"
-      },
-      "srp": {
-        "official": "Република Судан",
-        "common": "Судан"
-      },
-      "swe": {
-        "official": "Republiken Sudan",
-        "common": "Sudan"
-      },
-      "tur": {
-        "official": "Sudan Cumhuriyeti",
-        "common": "Sudan"
-      },
-      "urd": {
-        "official": "جمہوریہ سودان",
-        "common": "سودان"
-      },
-      "zho": {
-        "official": "苏丹共和国",
-        "common": "苏丹"
-      }
-    },
-    "latlng": [
-      15.0,
-      30.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "CAF",
-      "TCD",
-      "EGY",
-      "ERI",
-      "ETH",
-      "LBY",
-      "SSD"
-    ],
-    "area": 1886068.0,
-    "demonyms": {
-      "eng": {
-        "f": "Sudanese",
-        "m": "Sudanese"
-      },
-      "fra": {
-        "f": "Soudanaise",
-        "m": "Soudanais"
-      }
-    },
-    "flag": "🇸🇩",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192789"
-    },
-    "population": 43849269,
-    "gini": {
-      "2014": 34.2
-    },
-    "fifa": "SDN",
-    "car": {
-      "signs": [
-        "SUD"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/sd.png",
-      "svg": "https://flagcdn.com/sd.svg",
-      "alt": "The flag of Sudan is composed of three equal horizontal bands of red, white and black, with a green isosceles triangle superimposed on the hoist side. The green triangle spans about two-fifth the width of the field with its base on the hoist end."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/sd.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        15.6,
-        32.53
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Fiji",
       "official": "Republic of Fiji",
       "nativeName": {
@@ -11369,216 +11780,6 @@
   },
   {
     "name": {
-      "common": "Dominican Republic",
-      "official": "Dominican Republic",
-      "nativeName": {
-        "spa": {
-          "official": "República Dominicana",
-          "common": "República Dominicana"
-        }
-      }
-    },
-    "tld": [
-      ".do"
-    ],
-    "cca2": "DO",
-    "ccn3": "214",
-    "cca3": "DOM",
-    "cioc": "DOM",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "DOP": {
-        "name": "Dominican peso",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "suffixes": [
-        "809",
-        "829",
-        "849"
-      ]
-    },
-    "capital": [
-      "Santo Domingo"
-    ],
-    "altSpellings": [
-      "DO"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية الدومينيكان",
-        "common": "جمهورية الدومينيكان"
-      },
-      "bre": {
-        "official": "Republik Dominikan",
-        "common": "Republik Dominikan"
-      },
-      "ces": {
-        "official": "Dominikánská republika",
-        "common": "Dominikánská republika"
-      },
-      "cym": {
-        "official": "Gweriniaeth Dominica",
-        "common": "Gweriniaeth Dominica"
-      },
-      "deu": {
-        "official": "Dominikanische Republik",
-        "common": "Dominikanische Republik"
-      },
-      "est": {
-        "official": "Dominikaani Vabariik",
-        "common": "Dominikaani Vabariik"
-      },
-      "fin": {
-        "official": "Dominikaaninen tasavalta",
-        "common": "Dominikaaninen tasavalta"
-      },
-      "fra": {
-        "official": "République Dominicaine",
-        "common": "République dominicaine"
-      },
-      "hrv": {
-        "official": "Dominikanska Republika",
-        "common": "Dominikanska Republika"
-      },
-      "hun": {
-        "official": "Dominikai Köztársaság",
-        "common": "Dominikai Köztársaság"
-      },
-      "ita": {
-        "official": "Repubblica Dominicana",
-        "common": "Repubblica Dominicana"
-      },
-      "jpn": {
-        "official": "ドミニカ共和国",
-        "common": "ドミニカ共和国"
-      },
-      "kor": {
-        "official": "도미니카 공화국",
-        "common": "도미니카 공화국"
-      },
-      "nld": {
-        "official": "Dominicaanse Republiek",
-        "common": "Dominicaanse Republiek"
-      },
-      "per": {
-        "official": "جمهوری دومینیکن",
-        "common": "جمهوری دومینیکن"
-      },
-      "pol": {
-        "official": "Republika Dominikańska",
-        "common": "Dominikana"
-      },
-      "por": {
-        "official": "República Dominicana",
-        "common": "República Dominicana"
-      },
-      "rus": {
-        "official": "Доминиканская Республика",
-        "common": "Доминиканская Республика"
-      },
-      "slk": {
-        "official": "Dominikánska republika",
-        "common": "Dominikánska republika"
-      },
-      "spa": {
-        "official": "República Dominicana",
-        "common": "República Dominicana"
-      },
-      "srp": {
-        "official": "Доминиканска Република",
-        "common": "Доминикана"
-      },
-      "swe": {
-        "official": "Dominikanska republiken",
-        "common": "Dominikanska republiken"
-      },
-      "tur": {
-        "official": "Dominik Cumhuriyeti",
-        "common": "Dominik Cumhuriyeti"
-      },
-      "urd": {
-        "official": "جمہوریہ ڈومینیکن",
-        "common": "ڈومینیکن"
-      },
-      "zho": {
-        "official": "多明尼加共和国",
-        "common": "多明尼加"
-      }
-    },
-    "latlng": [
-      19.0,
-      -70.66666666
-    ],
-    "landlocked": false,
-    "borders": [
-      "HTI"
-    ],
-    "area": 48671.0,
-    "demonyms": {
-      "eng": {
-        "f": "Dominican",
-        "m": "Dominican"
-      },
-      "fra": {
-        "f": "Dominicaine",
-        "m": "Dominicain"
-      }
-    },
-    "flag": "🇩🇴",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
-    },
-    "population": 10847904,
-    "gini": {
-      "2019": 41.9
-    },
-    "fifa": "DOM",
-    "car": {
-      "signs": [
-        "DOM"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/do.png",
-      "svg": "https://flagcdn.com/do.svg",
-      "alt": "The flag of the Dominican Republic is divided into four rectangles by a centered white cross that extends to the edges of the field and bears the national coat of arms in its center. The upper hoist-side and lower fly-side rectangles are blue and the lower hoist-side and upper fly-side rectangles are red."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/do.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        18.47,
-        -69.9
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Madagascar",
       "official": "Republic of Madagascar",
       "nativeName": {
@@ -13137,428 +13338,6 @@
   },
   {
     "name": {
-      "common": "United Arab Emirates",
-      "official": "United Arab Emirates",
-      "nativeName": {
-        "ara": {
-          "official": "الإمارات العربية المتحدة",
-          "common": "دولة الإمارات العربية المتحدة"
-        }
-      }
-    },
-    "tld": [
-      ".ae",
-      "امارات."
-    ],
-    "cca2": "AE",
-    "ccn3": "784",
-    "cca3": "ARE",
-    "cioc": "UAE",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "AED": {
-        "name": "United Arab Emirates dirham",
-        "symbol": "د.إ"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "71"
-      ]
-    },
-    "capital": [
-      "Abu Dhabi"
-    ],
-    "altSpellings": [
-      "AE",
-      "UAE",
-      "Emirates"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "الإمارات العربية المتحدة",
-        "common": "دولة الإمارات العربية المتحدة"
-      },
-      "bre": {
-        "official": "Emirelezhioù Arab Unanet",
-        "common": "Emirelezhioù Arab Unanet"
-      },
-      "ces": {
-        "official": "Spojené arabské emiráty",
-        "common": "Arabské emiráty"
-      },
-      "cym": {
-        "official": "United Arab Emirates",
-        "common": "United Arab Emirates"
-      },
-      "deu": {
-        "official": "Vereinigte Arabische Emirate",
-        "common": "Vereinigte Arabische Emirate"
-      },
-      "est": {
-        "official": "Araabia Ühendemiraadid",
-        "common": "Araabia Ühendemiraadid"
-      },
-      "fin": {
-        "official": "Yhdistyneet arabiemiirikunnat",
-        "common": "Arabiemiraatit"
-      },
-      "fra": {
-        "official": "Émirats arabes unis",
-        "common": "Émirats arabes unis"
-      },
-      "hrv": {
-        "official": "Ujedinjeni Arapski Emirati",
-        "common": "Arapski Emirati"
-      },
-      "hun": {
-        "official": "Egyesült Arab Emírségek",
-        "common": "Egyesült Arab Emírségek"
-      },
-      "ita": {
-        "official": "Emirati Arabi Uniti",
-        "common": "Emirati Arabi Uniti"
-      },
-      "jpn": {
-        "official": "アラブ首長国連邦",
-        "common": "アラブ首長国連邦"
-      },
-      "kor": {
-        "official": "아랍 토후국 연방",
-        "common": "아랍에미리트"
-      },
-      "nld": {
-        "official": "Verenigde Arabische Emiraten",
-        "common": "Verenigde Arabische Emiraten"
-      },
-      "per": {
-        "official": "امارات متحده عربی",
-        "common": "امارات"
-      },
-      "pol": {
-        "official": "Zjednoczone Emiraty Arabskie",
-        "common": "Emiraty Arabskie"
-      },
-      "por": {
-        "official": "Emirados Árabes Unidos",
-        "common": "Emirados Árabes Unidos"
-      },
-      "rus": {
-        "official": "Объединенные Арабские Эмираты",
-        "common": "Объединённые Арабские Эмираты"
-      },
-      "slk": {
-        "official": "Spojené arabské emiráty",
-        "common": "Arabské emiráty"
-      },
-      "spa": {
-        "official": "Emiratos Árabes Unidos",
-        "common": "Emiratos Árabes Unidos"
-      },
-      "srp": {
-        "official": "Уједињени Арапски Емирати",
-        "common": "Уједињени Арапски Емирати"
-      },
-      "swe": {
-        "official": "Förenade Arabemiraten",
-        "common": "Förenade Arabemiraten"
-      },
-      "tur": {
-        "official": "Birleşik Arap Emirlikleri",
-        "common": "Birleşik Arap Emirlikleri"
-      },
-      "urd": {
-        "official": "متحدہ عرب امارات",
-        "common": "متحدہ عرب امارات"
-      },
-      "zho": {
-        "official": "阿拉伯联合酋长国",
-        "common": "阿拉伯联合酋长国"
-      }
-    },
-    "latlng": [
-      24.0,
-      54.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "OMN",
-      "SAU"
-    ],
-    "area": 83600.0,
-    "demonyms": {
-      "eng": {
-        "f": "Emirati",
-        "m": "Emirati"
-      },
-      "fra": {
-        "f": "Emirienne",
-        "m": "Emirien"
-      }
-    },
-    "flag": "🇦🇪",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
-    },
-    "population": 9890400,
-    "gini": {
-      "2018": 26.0
-    },
-    "fifa": "UAE",
-    "car": {
-      "signs": [
-        "UAE"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ae.png",
-      "svg": "https://flagcdn.com/ae.svg",
-      "alt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ae.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        24.47,
-        54.37
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Bulgaria",
-      "official": "Republic of Bulgaria",
-      "nativeName": {
-        "bul": {
-          "official": "Република България",
-          "common": "България"
-        }
-      }
-    },
-    "tld": [
-      ".bg"
-    ],
-    "cca2": "BG",
-    "ccn3": "100",
-    "cca3": "BGR",
-    "cioc": "BUL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "BGN": {
-        "name": "Bulgarian lev",
-        "symbol": "лв"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "59"
-      ]
-    },
-    "capital": [
-      "Sofia"
-    ],
-    "altSpellings": [
-      "BG",
-      "Republic of Bulgaria",
-      "Република България"
-    ],
-    "region": "Europe",
-    "subregion": "Southeast Europe",
-    "languages": {
-      "bul": "Bulgarian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بلغاريا",
-        "common": "بلغاريا"
-      },
-      "bre": {
-        "official": "Republik Bulgaria",
-        "common": "Bulgaria"
-      },
-      "ces": {
-        "official": "Bulharská republika",
-        "common": "Bulharsko"
-      },
-      "cym": {
-        "official": "Gweriniaeth Bwlgaria",
-        "common": "Bwlgaria"
-      },
-      "deu": {
-        "official": "Republik Bulgarien",
-        "common": "Bulgarien"
-      },
-      "est": {
-        "official": "Bulgaaria Vabariik",
-        "common": "Bulgaaria"
-      },
-      "fin": {
-        "official": "Bulgarian tasavalta",
-        "common": "Bulgaria"
-      },
-      "fra": {
-        "official": "République de Bulgarie",
-        "common": "Bulgarie"
-      },
-      "hrv": {
-        "official": "Republika Bugarska",
-        "common": "Bugarska"
-      },
-      "hun": {
-        "official": "Bolgár Köztársaság",
-        "common": "Bulgária"
-      },
-      "ita": {
-        "official": "Repubblica di Bulgaria",
-        "common": "Bulgaria"
-      },
-      "jpn": {
-        "official": "ブルガリア共和国",
-        "common": "ブルガリア"
-      },
-      "kor": {
-        "official": "불가리아 공화국",
-        "common": "불가리아"
-      },
-      "nld": {
-        "official": "Republiek Bulgarije",
-        "common": "Bulgarije"
-      },
-      "per": {
-        "official": "جمهوری بلغارستان",
-        "common": "بلغارستان"
-      },
-      "pol": {
-        "official": "Republika Bułgarii",
-        "common": "Bułgaria"
-      },
-      "por": {
-        "official": "República da Bulgária",
-        "common": "Bulgária"
-      },
-      "rus": {
-        "official": "Республика Болгария",
-        "common": "Болгария"
-      },
-      "slk": {
-        "official": "Bulharská republika",
-        "common": "Bulharsko"
-      },
-      "spa": {
-        "official": "República de Bulgaria",
-        "common": "Bulgaria"
-      },
-      "srp": {
-        "official": "Република Бугарска",
-        "common": "Бугарска"
-      },
-      "swe": {
-        "official": "Republiken Bulgarien",
-        "common": "Bulgarien"
-      },
-      "tur": {
-        "official": "Bulgaristan Cumhuriyeti",
-        "common": "Bulgaristan"
-      },
-      "urd": {
-        "official": "جمہوریہ بلغاریہ",
-        "common": "بلغاریہ"
-      },
-      "zho": {
-        "official": "保加利亚共和国",
-        "common": "保加利亚"
-      }
-    },
-    "latlng": [
-      43.0,
-      25.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "GRC",
-      "MKD",
-      "ROU",
-      "SRB",
-      "TUR"
-    ],
-    "area": 110879.0,
-    "demonyms": {
-      "eng": {
-        "f": "Bulgarian",
-        "m": "Bulgarian"
-      },
-      "fra": {
-        "f": "Bulgare",
-        "m": "Bulgare"
-      }
-    },
-    "flag": "🇧🇬",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
-    },
-    "population": 6927288,
-    "gini": {
-      "2018": 41.3
-    },
-    "fifa": "BUL",
-    "car": {
-      "signs": [
-        "BG"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/bg.png",
-      "svg": "https://flagcdn.com/bg.svg",
-      "alt": "The flag of Bulgaria is composed of three equal horizontal bands of white, green and red."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/bg.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/bg.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        42.68,
-        23.32
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
       "common": "Germany",
       "official": "Federal Republic of Germany",
       "nativeName": {
@@ -14425,214 +14204,6 @@
   },
   {
     "name": {
-      "common": "Cuba",
-      "official": "Republic of Cuba",
-      "nativeName": {
-        "spa": {
-          "official": "República de Cuba",
-          "common": "Cuba"
-        }
-      }
-    },
-    "tld": [
-      ".cu"
-    ],
-    "cca2": "CU",
-    "ccn3": "192",
-    "cca3": "CUB",
-    "cioc": "CUB",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CUC": {
-        "name": "Cuban convertible peso",
-        "symbol": "$"
-      },
-      "CUP": {
-        "name": "Cuban peso",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "3"
-      ]
-    },
-    "capital": [
-      "Havana"
-    ],
-    "altSpellings": [
-      "CU",
-      "Republic of Cuba",
-      "República de Cuba"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية كوبا",
-        "common": "كوبا"
-      },
-      "bre": {
-        "official": "Republik Kuba",
-        "common": "Kuba"
-      },
-      "ces": {
-        "official": "Kubánská republika",
-        "common": "Kuba"
-      },
-      "cym": {
-        "official": "Gweriniaeth Ciwba",
-        "common": "Ciwba"
-      },
-      "deu": {
-        "official": "Republik Kuba",
-        "common": "Kuba"
-      },
-      "est": {
-        "official": "Kuuba Vabariik",
-        "common": "Kuuba"
-      },
-      "fin": {
-        "official": "Kuuban tasavalta",
-        "common": "Kuuba"
-      },
-      "fra": {
-        "official": "République de Cuba",
-        "common": "Cuba"
-      },
-      "hrv": {
-        "official": "Republika Kuba",
-        "common": "Kuba"
-      },
-      "hun": {
-        "official": "Kubai Köztársaság",
-        "common": "Kuba"
-      },
-      "ita": {
-        "official": "Repubblica di Cuba",
-        "common": "Cuba"
-      },
-      "jpn": {
-        "official": "キューバ共和国",
-        "common": "キューバ"
-      },
-      "kor": {
-        "official": "쿠바 공화국",
-        "common": "쿠바"
-      },
-      "nld": {
-        "official": "Republiek Cuba",
-        "common": "Cuba"
-      },
-      "per": {
-        "official": "جمهوری کوبا",
-        "common": "کوبا"
-      },
-      "pol": {
-        "official": "Republika Kuby",
-        "common": "Kuba"
-      },
-      "por": {
-        "official": "República de Cuba",
-        "common": "Cuba"
-      },
-      "rus": {
-        "official": "Республика Куба",
-        "common": "Куба"
-      },
-      "slk": {
-        "official": "Kubánska republika",
-        "common": "Kuba"
-      },
-      "spa": {
-        "official": "República de Cuba",
-        "common": "Cuba"
-      },
-      "srp": {
-        "official": "Република Куба",
-        "common": "Куба"
-      },
-      "swe": {
-        "official": "Republiken Kuba",
-        "common": "Kuba"
-      },
-      "tur": {
-        "official": "Küba Cumhuriyeti",
-        "common": "Küba"
-      },
-      "urd": {
-        "official": "جمہوریہ کیوبا",
-        "common": "کیوبا"
-      },
-      "zho": {
-        "official": "古巴共和国",
-        "common": "古巴"
-      }
-    },
-    "latlng": [
-      21.5,
-      -80.0
-    ],
-    "landlocked": false,
-    "area": 109884.0,
-    "demonyms": {
-      "eng": {
-        "f": "Cuban",
-        "m": "Cuban"
-      },
-      "fra": {
-        "f": "Cubaine",
-        "m": "Cubain"
-      }
-    },
-    "flag": "🇨🇺",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
-    },
-    "population": 11326616,
-    "fifa": "CUB",
-    "car": {
-      "signs": [
-        "C"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cu.png",
-      "svg": "https://flagcdn.com/cu.svg",
-      "alt": "The flag of Cuba is composed of five equal horizontal bands of blue alternating with white and a red equilateral triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a white five-pointed star at its center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        23.12,
-        -82.35
-      ]
-    },
-    "postalCode": {
-      "format": "CP #####",
-      "regex": "^(?:CP)*(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Kyrgyzstan",
       "official": "Kyrgyz Republic",
       "nativeName": {
@@ -15302,210 +14873,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "São Tomé and Príncipe",
-      "official": "Democratic Republic of São Tomé and Príncipe",
-      "nativeName": {
-        "por": {
-          "official": "República Democrática do São Tomé e Príncipe",
-          "common": "São Tomé e Príncipe"
-        }
-      }
-    },
-    "tld": [
-      ".st"
-    ],
-    "cca2": "ST",
-    "ccn3": "678",
-    "cca3": "STP",
-    "cioc": "STP",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "STN": {
-        "name": "São Tomé and Príncipe dobra",
-        "symbol": "Db"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "39"
-      ]
-    },
-    "capital": [
-      "São Tomé"
-    ],
-    "altSpellings": [
-      "ST",
-      "Democratic Republic of São Tomé and Príncipe",
-      "Sao Tome and Principe",
-      "República Democrática de São Tomé e Príncipe"
-    ],
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "languages": {
-      "por": "Portuguese"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية ساو تومي وبرينسيب الديمقراطية",
-        "common": "ساو تومي وبرينسيب"
-      },
-      "bre": {
-        "official": "Republik Demokratel São Tomé ha Príncipe",
-        "common": "São Tomé ha Príncipe"
-      },
-      "ces": {
-        "official": "Demokratická republika Svatý Tomáš a Princův ostrov",
-        "common": "Svatý Tomáš a Princův ostrov"
-      },
-      "cym": {
-        "official": "Democratic Republic of São Tomé and Príncipe",
-        "common": "São Tomé and Príncipe"
-      },
-      "deu": {
-        "official": "Demokratische Republik São Tomé und Príncipe",
-        "common": "São Tomé und Príncipe"
-      },
-      "est": {
-        "official": "São Tomé ja Príncipe Demokraatlik Vabariik",
-        "common": "São Tomé ja Príncipe"
-      },
-      "fin": {
-        "official": "São Tomé ja Príncipen demokraattinen tasavalta",
-        "common": "São Téme ja Príncipe"
-      },
-      "fra": {
-        "official": "République démocratique de São Tomé et Príncipe",
-        "common": "São Tomé et Príncipe"
-      },
-      "hrv": {
-        "official": "Demokratska Republika São Tome i Principe",
-        "common": "Sveti Toma i Princip"
-      },
-      "hun": {
-        "official": "São Tomé és Príncipe Demokratikus Köztársaság",
-        "common": "São Tomé és Príncipe"
-      },
-      "ita": {
-        "official": "Repubblica democratica di São Tomé e Príncipe",
-        "common": "São Tomé e Príncipe"
-      },
-      "jpn": {
-        "official": "サントメ·プリンシペ民主共和国",
-        "common": "サントメ・プリンシペ"
-      },
-      "kor": {
-        "official": "상투메 프린시페 민주 공화국",
-        "common": "상투메 프린시페"
-      },
-      "nld": {
-        "official": "Democratische Republiek Sao Tomé en Principe",
-        "common": "Sao Tomé en Principe"
-      },
-      "per": {
-        "official": "جمهوری دموکراتیک سائوتومه و پرنسیپ",
-        "common": "سائوتومه و پرنسیپ"
-      },
-      "pol": {
-        "official": "Demokratyczna Republika Wysp Świętego Tomasza i Książęcej",
-        "common": "Wyspy Świętego Tomasza i Książęca"
-      },
-      "por": {
-        "official": "República Democrática de São Tomé e Príncipe",
-        "common": "São Tomé e Príncipe"
-      },
-      "rus": {
-        "official": "Демократическая Республика Сан-Томе и Принсипи",
-        "common": "Сан-Томе и Принсипи"
-      },
-      "slk": {
-        "official": "Demokratická republika Svätého Tomáša A princovho ostrova",
-        "common": "Svätý Tomáš a Princov ostrov"
-      },
-      "spa": {
-        "official": "República Democrática de Santo Tomé y Príncipe",
-        "common": "Santo Tomé y Príncipe"
-      },
-      "srp": {
-        "official": "Демократска Република Сао Томе и Принсипе",
-        "common": "Сао Томе и Принсипе"
-      },
-      "swe": {
-        "official": "Demokratiska republiken São Tomé och Príncipe",
-        "common": "São Tomé och Príncipe"
-      },
-      "tur": {
-        "official": "São Tomé ve Príncipe Demokratik Cumhuriyeti",
-        "common": "São Tomé ve Príncipe"
-      },
-      "urd": {
-        "official": "جمہوریہ ساؤ ٹومے و پرنسپے",
-        "common": "ساؤ ٹومے و پرنسپے"
-      },
-      "zho": {
-        "official": "圣多美和普林西比民主共和国",
-        "common": "圣多美和普林西比"
-      }
-    },
-    "latlng": [
-      1.0,
-      7.0
-    ],
-    "landlocked": false,
-    "area": 964.0,
-    "demonyms": {
-      "eng": {
-        "f": "Sao Tomean",
-        "m": "Sao Tomean"
-      },
-      "fra": {
-        "f": "Santoméenne",
-        "m": "Santoméen"
-      }
-    },
-    "flag": "🇸🇹",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/535880"
-    },
-    "population": 219161,
-    "gini": {
-      "2017": 56.3
-    },
-    "fifa": "STP",
-    "car": {
-      "signs": [
-        "STP"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/st.png",
-      "svg": "https://flagcdn.com/st.svg",
-      "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/st.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/st.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        0.34,
-        6.73
-      ]
     }
   },
   {
@@ -35061,6 +34428,210 @@
   },
   {
     "name": {
+      "common": "São Tomé and Príncipe",
+      "official": "Democratic Republic of São Tomé and Príncipe",
+      "nativeName": {
+        "por": {
+          "official": "República Democrática do São Tomé e Príncipe",
+          "common": "São Tomé e Príncipe"
+        }
+      }
+    },
+    "tld": [
+      ".st"
+    ],
+    "cca2": "ST",
+    "ccn3": "678",
+    "cca3": "STP",
+    "cioc": "STP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "STN": {
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "39"
+      ]
+    },
+    "capital": [
+      "São Tomé"
+    ],
+    "altSpellings": [
+      "ST",
+      "Democratic Republic of São Tomé and Príncipe",
+      "Sao Tome and Principe",
+      "República Democrática de São Tomé e Príncipe"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية ساو تومي وبرينسيب الديمقراطية",
+        "common": "ساو تومي وبرينسيب"
+      },
+      "bre": {
+        "official": "Republik Demokratel São Tomé ha Príncipe",
+        "common": "São Tomé ha Príncipe"
+      },
+      "ces": {
+        "official": "Demokratická republika Svatý Tomáš a Princův ostrov",
+        "common": "Svatý Tomáš a Princův ostrov"
+      },
+      "cym": {
+        "official": "Democratic Republic of São Tomé and Príncipe",
+        "common": "São Tomé and Príncipe"
+      },
+      "deu": {
+        "official": "Demokratische Republik São Tomé und Príncipe",
+        "common": "São Tomé und Príncipe"
+      },
+      "est": {
+        "official": "São Tomé ja Príncipe Demokraatlik Vabariik",
+        "common": "São Tomé ja Príncipe"
+      },
+      "fin": {
+        "official": "São Tomé ja Príncipen demokraattinen tasavalta",
+        "common": "São Téme ja Príncipe"
+      },
+      "fra": {
+        "official": "République démocratique de São Tomé et Príncipe",
+        "common": "São Tomé et Príncipe"
+      },
+      "hrv": {
+        "official": "Demokratska Republika São Tome i Principe",
+        "common": "Sveti Toma i Princip"
+      },
+      "hun": {
+        "official": "São Tomé és Príncipe Demokratikus Köztársaság",
+        "common": "São Tomé és Príncipe"
+      },
+      "ita": {
+        "official": "Repubblica democratica di São Tomé e Príncipe",
+        "common": "São Tomé e Príncipe"
+      },
+      "jpn": {
+        "official": "サントメ·プリンシペ民主共和国",
+        "common": "サントメ・プリンシペ"
+      },
+      "kor": {
+        "official": "상투메 프린시페 민주 공화국",
+        "common": "상투메 프린시페"
+      },
+      "nld": {
+        "official": "Democratische Republiek Sao Tomé en Principe",
+        "common": "Sao Tomé en Principe"
+      },
+      "per": {
+        "official": "جمهوری دموکراتیک سائوتومه و پرنسیپ",
+        "common": "سائوتومه و پرنسیپ"
+      },
+      "pol": {
+        "official": "Demokratyczna Republika Wysp Świętego Tomasza i Książęcej",
+        "common": "Wyspy Świętego Tomasza i Książęca"
+      },
+      "por": {
+        "official": "República Democrática de São Tomé e Príncipe",
+        "common": "São Tomé e Príncipe"
+      },
+      "rus": {
+        "official": "Демократическая Республика Сан-Томе и Принсипи",
+        "common": "Сан-Томе и Принсипи"
+      },
+      "slk": {
+        "official": "Demokratická republika Svätého Tomáša A princovho ostrova",
+        "common": "Svätý Tomáš a Princov ostrov"
+      },
+      "spa": {
+        "official": "República Democrática de Santo Tomé y Príncipe",
+        "common": "Santo Tomé y Príncipe"
+      },
+      "srp": {
+        "official": "Демократска Република Сао Томе и Принсипе",
+        "common": "Сао Томе и Принсипе"
+      },
+      "swe": {
+        "official": "Demokratiska republiken São Tomé och Príncipe",
+        "common": "São Tomé och Príncipe"
+      },
+      "tur": {
+        "official": "São Tomé ve Príncipe Demokratik Cumhuriyeti",
+        "common": "São Tomé ve Príncipe"
+      },
+      "urd": {
+        "official": "جمہوریہ ساؤ ٹومے و پرنسپے",
+        "common": "ساؤ ٹومے و پرنسپے"
+      },
+      "zho": {
+        "official": "圣多美和普林西比民主共和国",
+        "common": "圣多美和普林西比"
+      }
+    },
+    "latlng": [
+      1.0,
+      7.0
+    ],
+    "landlocked": false,
+    "area": 964.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sao Tomean",
+        "m": "Sao Tomean"
+      },
+      "fra": {
+        "f": "Santoméenne",
+        "m": "Santoméen"
+      }
+    },
+    "flag": "🇸🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535880"
+    },
+    "population": 219161,
+    "gini": {
+      "2017": 56.3
+    },
+    "fifa": "STP",
+    "car": {
+      "signs": [
+        "STP"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/st.png",
+      "svg": "https://flagcdn.com/st.svg",
+      "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/st.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/st.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        0.34,
+        6.73
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Saudi Arabia",
       "official": "Kingdom of Saudi Arabia",
       "nativeName": {
@@ -37888,6 +37459,227 @@
   },
   {
     "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية السودان",
+          "common": "السودان"
+        },
+        "eng": {
+          "official": "Republic of the Sudan",
+          "common": "Sudan"
+        }
+      }
+    },
+    "tld": [
+      ".sd"
+    ],
+    "cca2": "SD",
+    "ccn3": "729",
+    "cca3": "SDN",
+    "cioc": "SUD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SDG": {
+        "name": "Sudanese pound",
+        "symbol": "ج.س"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "49"
+      ]
+    },
+    "capital": [
+      "Khartoum"
+    ],
+    "altSpellings": [
+      "SD",
+      "Republic of the Sudan",
+      "Jumhūrīyat as-Sūdān"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية السودان",
+        "common": "السودان"
+      },
+      "bre": {
+        "official": "Republik Soudan",
+        "common": "Soudan"
+      },
+      "ces": {
+        "official": "Súdánská republika",
+        "common": "Súdán"
+      },
+      "cym": {
+        "official": "Republic of the Sudan",
+        "common": "Sudan"
+      },
+      "deu": {
+        "official": "Republik Sudan",
+        "common": "Sudan"
+      },
+      "est": {
+        "official": "Sudaani Vabariik",
+        "common": "Sudaan"
+      },
+      "fin": {
+        "official": "Sudanin tasavalta",
+        "common": "Sudan"
+      },
+      "fra": {
+        "official": "République du Soudan",
+        "common": "Soudan"
+      },
+      "hrv": {
+        "official": "Republika Sudan",
+        "common": "Sudan"
+      },
+      "hun": {
+        "official": "Szudáni Köztársaság",
+        "common": "Szudán"
+      },
+      "ita": {
+        "official": "Repubblica del Sudan",
+        "common": "Sudan"
+      },
+      "jpn": {
+        "official": "スーダン共和国",
+        "common": "スーダン"
+      },
+      "kor": {
+        "official": "수단 공화국",
+        "common": "수단"
+      },
+      "nld": {
+        "official": "Republiek Soedan",
+        "common": "Soedan"
+      },
+      "per": {
+        "official": "جمهوری سودان",
+        "common": "سودان"
+      },
+      "pol": {
+        "official": "Republika Sudanu",
+        "common": "Sudan"
+      },
+      "por": {
+        "official": "República do Sudão",
+        "common": "Sudão"
+      },
+      "rus": {
+        "official": "Республика Судан",
+        "common": "Судан"
+      },
+      "slk": {
+        "official": "Sudánska republika",
+        "common": "Sudán"
+      },
+      "spa": {
+        "official": "República de Sudán",
+        "common": "Sudán"
+      },
+      "srp": {
+        "official": "Република Судан",
+        "common": "Судан"
+      },
+      "swe": {
+        "official": "Republiken Sudan",
+        "common": "Sudan"
+      },
+      "tur": {
+        "official": "Sudan Cumhuriyeti",
+        "common": "Sudan"
+      },
+      "urd": {
+        "official": "جمہوریہ سودان",
+        "common": "سودان"
+      },
+      "zho": {
+        "official": "苏丹共和国",
+        "common": "苏丹"
+      }
+    },
+    "latlng": [
+      15.0,
+      30.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "area": 1886068.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sudanese",
+        "m": "Sudanese"
+      },
+      "fra": {
+        "f": "Soudanaise",
+        "m": "Soudanais"
+      }
+    },
+    "flag": "🇸🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192789"
+    },
+    "population": 43849269,
+    "gini": {
+      "2014": 34.2
+    },
+    "fifa": "SDN",
+    "car": {
+      "signs": [
+        "SUD"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sd.png",
+      "svg": "https://flagcdn.com/sd.svg",
+      "alt": "The flag of Sudan is composed of three equal horizontal bands of red, white and black, with a green isosceles triangle superimposed on the hoist side. The green triangle spans about two-fifth the width of the field with its base on the hoist end."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        15.6,
+        32.53
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
       "common": "Switzerland",
       "official": "Swiss Confederation",
       "nativeName": {
@@ -39613,6 +39405,214 @@
       "latlng": [
         0.32,
         32.55
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates",
+      "nativeName": {
+        "ara": {
+          "official": "الإمارات العربية المتحدة",
+          "common": "دولة الإمارات العربية المتحدة"
+        }
+      }
+    },
+    "tld": [
+      ".ae",
+      "امارات."
+    ],
+    "cca2": "AE",
+    "ccn3": "784",
+    "cca3": "ARE",
+    "cioc": "UAE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AED": {
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "71"
+      ]
+    },
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "altSpellings": [
+      "AE",
+      "UAE",
+      "Emirates"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "الإمارات العربية المتحدة",
+        "common": "دولة الإمارات العربية المتحدة"
+      },
+      "bre": {
+        "official": "Emirelezhioù Arab Unanet",
+        "common": "Emirelezhioù Arab Unanet"
+      },
+      "ces": {
+        "official": "Spojené arabské emiráty",
+        "common": "Arabské emiráty"
+      },
+      "cym": {
+        "official": "United Arab Emirates",
+        "common": "United Arab Emirates"
+      },
+      "deu": {
+        "official": "Vereinigte Arabische Emirate",
+        "common": "Vereinigte Arabische Emirate"
+      },
+      "est": {
+        "official": "Araabia Ühendemiraadid",
+        "common": "Araabia Ühendemiraadid"
+      },
+      "fin": {
+        "official": "Yhdistyneet arabiemiirikunnat",
+        "common": "Arabiemiraatit"
+      },
+      "fra": {
+        "official": "Émirats arabes unis",
+        "common": "Émirats arabes unis"
+      },
+      "hrv": {
+        "official": "Ujedinjeni Arapski Emirati",
+        "common": "Arapski Emirati"
+      },
+      "hun": {
+        "official": "Egyesült Arab Emírségek",
+        "common": "Egyesült Arab Emírségek"
+      },
+      "ita": {
+        "official": "Emirati Arabi Uniti",
+        "common": "Emirati Arabi Uniti"
+      },
+      "jpn": {
+        "official": "アラブ首長国連邦",
+        "common": "アラブ首長国連邦"
+      },
+      "kor": {
+        "official": "아랍 토후국 연방",
+        "common": "아랍에미리트"
+      },
+      "nld": {
+        "official": "Verenigde Arabische Emiraten",
+        "common": "Verenigde Arabische Emiraten"
+      },
+      "per": {
+        "official": "امارات متحده عربی",
+        "common": "امارات"
+      },
+      "pol": {
+        "official": "Zjednoczone Emiraty Arabskie",
+        "common": "Emiraty Arabskie"
+      },
+      "por": {
+        "official": "Emirados Árabes Unidos",
+        "common": "Emirados Árabes Unidos"
+      },
+      "rus": {
+        "official": "Объединенные Арабские Эмираты",
+        "common": "Объединённые Арабские Эмираты"
+      },
+      "slk": {
+        "official": "Spojené arabské emiráty",
+        "common": "Arabské emiráty"
+      },
+      "spa": {
+        "official": "Emiratos Árabes Unidos",
+        "common": "Emiratos Árabes Unidos"
+      },
+      "srp": {
+        "official": "Уједињени Арапски Емирати",
+        "common": "Уједињени Арапски Емирати"
+      },
+      "swe": {
+        "official": "Förenade Arabemiraten",
+        "common": "Förenade Arabemiraten"
+      },
+      "tur": {
+        "official": "Birleşik Arap Emirlikleri",
+        "common": "Birleşik Arap Emirlikleri"
+      },
+      "urd": {
+        "official": "متحدہ عرب امارات",
+        "common": "متحدہ عرب امارات"
+      },
+      "zho": {
+        "official": "阿拉伯联合酋长国",
+        "common": "阿拉伯联合酋长国"
+      }
+    },
+    "latlng": [
+      24.0,
+      54.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 83600.0,
+    "demonyms": {
+      "eng": {
+        "f": "Emirati",
+        "m": "Emirati"
+      },
+      "fra": {
+        "f": "Emirienne",
+        "m": "Emirien"
+      }
+    },
+    "flag": "🇦🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
+    },
+    "population": 9890400,
+    "gini": {
+      "2018": 26.0
+    },
+    "fifa": "UAE",
+    "car": {
+      "signs": [
+        "UAE"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ae.png",
+      "svg": "https://flagcdn.com/ae.svg",
+      "alt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ae.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        24.47,
+        54.37
       ]
     }
   },
