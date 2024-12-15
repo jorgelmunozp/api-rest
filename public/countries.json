@@ -6636,6 +6636,229 @@
   },
   {
     "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini",
+      "nativeName": {
+        "eng": {
+          "official": "Kingdom of Eswatini",
+          "common": "Eswatini"
+        },
+        "ssw": {
+          "official": "Umbuso weSwatini",
+          "common": "eSwatini"
+        }
+      }
+    },
+    "tld": [
+      ".sz"
+    ],
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cca3": "SWZ",
+    "cioc": "SWZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SZL": {
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "68"
+      ]
+    },
+    "capital": [
+      "Mbabane"
+    ],
+    "altSpellings": [
+      "SZ",
+      "Swaziland",
+      "weSwatini",
+      "Swatini",
+      "Ngwane",
+      "Kingdom of Eswatini",
+      "Umbuso weSwatini"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة إسواتيني",
+        "common": "إسواتيني"
+      },
+      "bre": {
+        "official": "Rouantelezh Eswatini",
+        "common": "Eswatini"
+      },
+      "ces": {
+        "official": "Svazijské království",
+        "common": "Svazijsko"
+      },
+      "cym": {
+        "official": "Kingdom of Eswatini",
+        "common": "Eswatini"
+      },
+      "deu": {
+        "official": "Königreich Eswatini",
+        "common": "Swasiland"
+      },
+      "est": {
+        "official": "eSwatini Kuningriik",
+        "common": "Svaasimaa"
+      },
+      "fin": {
+        "official": "Swazimaan kuningaskunta",
+        "common": "Swazimaa"
+      },
+      "fra": {
+        "official": "Royaume d’Eswatini",
+        "common": "Swaziland"
+      },
+      "hrv": {
+        "official": "Kraljevina eSwatini",
+        "common": "Svazi"
+      },
+      "hun": {
+        "official": "Szváziföldi Királyság",
+        "common": "Szváziföld"
+      },
+      "ita": {
+        "official": "Regno di eSwatini",
+        "common": "Swaziland"
+      },
+      "jpn": {
+        "official": "スワジランド王国",
+        "common": "スワジランド"
+      },
+      "kor": {
+        "official": "에스와티니 왕국",
+        "common": "에스와티니"
+      },
+      "nld": {
+        "official": "Koninkrijk eSwatini",
+        "common": "Swaziland"
+      },
+      "per": {
+        "official": "پادشاهی سوازیلند",
+        "common": "اسواتینی"
+      },
+      "pol": {
+        "official": "Królestwo Suazi",
+        "common": "Suazi"
+      },
+      "por": {
+        "official": "Reino de eSwatini",
+        "common": "Suazilândia"
+      },
+      "rus": {
+        "official": "Королевство Свазиленд",
+        "common": "Свазиленд"
+      },
+      "slk": {
+        "official": "Svazijské kráľovstvo",
+        "common": "Svazijsko"
+      },
+      "spa": {
+        "official": "Reino de eSwatini",
+        "common": "Suazilandia"
+      },
+      "srp": {
+        "official": "Краљевина Есватини",
+        "common": "Есватини"
+      },
+      "swe": {
+        "official": "Konungariket Eswatini",
+        "common": "Swaziland"
+      },
+      "tur": {
+        "official": "Esvatini Krallığı",
+        "common": "Esvatini"
+      },
+      "urd": {
+        "official": "مملکتِ سوازی لینڈ",
+        "common": "سوازی لینڈ"
+      },
+      "zho": {
+        "official": "斯威士兰王国",
+        "common": "斯威士兰"
+      }
+    },
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "area": 17364.0,
+    "demonyms": {
+      "eng": {
+        "f": "Swazi",
+        "m": "Swazi"
+      },
+      "fra": {
+        "f": "Swazie",
+        "m": "Swazie"
+      }
+    },
+    "flag": "🇸🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+    },
+    "population": 1160164,
+    "gini": {
+      "2016": 54.6
+    },
+    "fifa": "SWZ",
+    "car": {
+      "signs": [
+        "SD"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sz.png",
+      "svg": "https://flagcdn.com/sz.svg",
+      "alt": "The flag of Eswatini is composed of three horizontal bands — a large central yellow-edged red band, and a light blue band above and beneath the red band. The red band is three times the height of the blue bands and bears a centered emblem made up of a large black and white Nguni shield covering two spears and a staff decorated with feather tassels, all placed horizontally."
+    },
+    "coatOfArms": {
+      
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -26.32,
+        31.13
+      ]
+    },
+    "postalCode": {
+      "format": "@###",
+      "regex": "^([A-Z]\\d{3})$"
+    }
+  },
+  {
+    "name": {
       "common": "Fiji",
       "official": "Republic of Fiji",
       "nativeName": {
@@ -9864,6 +10087,222 @@
   },
   {
     "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية اللبنانية",
+          "common": "لبنان"
+        },
+        "fra": {
+          "official": "République libanaise",
+          "common": "Liban"
+        }
+      }
+    },
+    "tld": [
+      ".lb"
+    ],
+    "cca2": "LB",
+    "ccn3": "422",
+    "cca3": "LBN",
+    "cioc": "LBN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LBP": {
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "61"
+      ]
+    },
+    "capital": [
+      "Beirut"
+    ],
+    "altSpellings": [
+      "LB",
+      "Lebanese Republic",
+      "Al-Jumhūrīyah Al-Libnānīyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية اللبنانية",
+        "common": "لبنان"
+      },
+      "bre": {
+        "official": "Republik Liban",
+        "common": "Liban"
+      },
+      "ces": {
+        "official": "Libanonská republika",
+        "common": "Libanon"
+      },
+      "cym": {
+        "official": "Lebanese Republic",
+        "common": "Lebanon"
+      },
+      "deu": {
+        "official": "Libanesische Republik",
+        "common": "Libanon"
+      },
+      "est": {
+        "official": "Liibanoni Vabariik",
+        "common": "Liibanon"
+      },
+      "fin": {
+        "official": "Libanonin tasavalta",
+        "common": "Libanon"
+      },
+      "fra": {
+        "official": "République libanaise",
+        "common": "Liban"
+      },
+      "hrv": {
+        "official": "Libanonska Republika",
+        "common": "Libanon"
+      },
+      "hun": {
+        "official": "Libanoni Köztársaság",
+        "common": "Libanon"
+      },
+      "ita": {
+        "official": "Repubblica libanese",
+        "common": "Libano"
+      },
+      "jpn": {
+        "official": "レバノン共和国",
+        "common": "レバノン"
+      },
+      "kor": {
+        "official": "레바논 공화국",
+        "common": "레바논"
+      },
+      "nld": {
+        "official": "Libanese Republiek",
+        "common": "Libanon"
+      },
+      "per": {
+        "official": "جمهوری لبنان",
+        "common": "لبنان"
+      },
+      "pol": {
+        "official": "Republika Libańska",
+        "common": "Liban"
+      },
+      "por": {
+        "official": "República Libanesa",
+        "common": "Líbano"
+      },
+      "rus": {
+        "official": "Ливанская Республика",
+        "common": "Ливан"
+      },
+      "slk": {
+        "official": "Libanonská republika",
+        "common": "Libanon"
+      },
+      "spa": {
+        "official": "República Libanesa",
+        "common": "Líbano"
+      },
+      "srp": {
+        "official": "Либанска Република",
+        "common": "Либан"
+      },
+      "swe": {
+        "official": "Republiken Libanon",
+        "common": "Libanon"
+      },
+      "tur": {
+        "official": "Lübnan Cumhuriyeti",
+        "common": "Lübnan"
+      },
+      "urd": {
+        "official": "جمہوریہ لبنان",
+        "common": "لبنان"
+      },
+      "zho": {
+        "official": "黎巴嫩共和国",
+        "common": "黎巴嫩"
+      }
+    },
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "area": 10452.0,
+    "demonyms": {
+      "eng": {
+        "f": "Lebanese",
+        "m": "Lebanese"
+      },
+      "fra": {
+        "f": "Libanaise",
+        "m": "Libanais"
+      }
+    },
+    "flag": "🇱🇧",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
+    },
+    "population": 6825442,
+    "gini": {
+      "2011": 31.8
+    },
+    "fifa": "LBN",
+    "car": {
+      "signs": [
+        "RL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lb.png",
+      "svg": "https://flagcdn.com/lb.svg",
+      "alt": "The flag of Lebanon is composed of three horizontal bands of red, white and red. The white band is twice the height of the red bands and bears a green Lebanese Cedar tree at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lb.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        33.87,
+        35.5
+      ]
+    },
+    "postalCode": {
+      "format": "#### ####|####",
+      "regex": "^(\\d{4}(\\d{4})?)$"
+    }
+  },
+  {
+    "name": {
       "common": "Libya",
       "official": "State of Libya",
       "nativeName": {
@@ -10708,6 +11147,212 @@
   },
   {
     "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco",
+      "nativeName": {
+        "fra": {
+          "official": "Principauté de Monaco",
+          "common": "Monaco"
+        }
+      }
+    },
+    "tld": [
+      ".mc"
+    ],
+    "cca2": "MC",
+    "ccn3": "492",
+    "cca3": "MCO",
+    "cioc": "MON",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "77"
+      ]
+    },
+    "capital": [
+      "Monaco"
+    ],
+    "altSpellings": [
+      "MC",
+      "Principality of Monaco",
+      "Principauté de Monaco"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "إمارة موناكو",
+        "common": "موناكو"
+      },
+      "bre": {
+        "official": "Priñselezh Monako",
+        "common": "Monako"
+      },
+      "ces": {
+        "official": "Monacké knížectví",
+        "common": "Monako"
+      },
+      "cym": {
+        "official": "Principality of Monaco",
+        "common": "Monaco"
+      },
+      "deu": {
+        "official": "Fürstentum Monaco",
+        "common": "Monaco"
+      },
+      "est": {
+        "official": "Monaco Vürstiriik",
+        "common": "Monaco"
+      },
+      "fin": {
+        "official": "Monacon ruhtinaskunta",
+        "common": "Monaco"
+      },
+      "fra": {
+        "official": "Principauté de Monaco",
+        "common": "Monaco"
+      },
+      "hrv": {
+        "official": "Kneževina Monako",
+        "common": "Monako"
+      },
+      "hun": {
+        "official": "Monacói Hercegség",
+        "common": "Monaco"
+      },
+      "ita": {
+        "official": "Principato di Monaco",
+        "common": "Principato di Monaco"
+      },
+      "jpn": {
+        "official": "モナコ公国",
+        "common": "モナコ"
+      },
+      "kor": {
+        "official": "모나코 공국",
+        "common": "모나코"
+      },
+      "nld": {
+        "official": "Vorstendom Monaco",
+        "common": "Monaco"
+      },
+      "per": {
+        "official": "شاهزاده‌نشین موناکو",
+        "common": "موناکو"
+      },
+      "pol": {
+        "official": "Księstwo Monako",
+        "common": "Monako"
+      },
+      "por": {
+        "official": "Principado do Mónaco",
+        "common": "Mónaco"
+      },
+      "rus": {
+        "official": "Княжество Монако",
+        "common": "Монако"
+      },
+      "slk": {
+        "official": "Monacké kniežatstvo",
+        "common": "Monako"
+      },
+      "spa": {
+        "official": "Principado de Mónaco",
+        "common": "Mónaco"
+      },
+      "srp": {
+        "official": "Кнежевина Монако",
+        "common": "Монако"
+      },
+      "swe": {
+        "official": "Furstendömet Monaco",
+        "common": "Monaco"
+      },
+      "tur": {
+        "official": "Monako Prensliği",
+        "common": "Monako"
+      },
+      "urd": {
+        "official": "جمہوریہ مناکو",
+        "common": "موناکو"
+      },
+      "zho": {
+        "official": "摩纳哥公国",
+        "common": "摩纳哥"
+      }
+    },
+    "latlng": [
+      43.73333333,
+      7.4
+    ],
+    "landlocked": false,
+    "borders": [
+      "FRA"
+    ],
+    "area": 2.02,
+    "demonyms": {
+      "eng": {
+        "f": "Monegasque",
+        "m": "Monegasque"
+      },
+      "fra": {
+        "f": "Monégasque",
+        "m": "Monégasque"
+      }
+    },
+    "flag": "🇲🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
+    },
+    "population": 39244,
+    "car": {
+      "signs": [
+        "MC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mc.png",
+      "svg": "https://flagcdn.com/mc.svg",
+      "alt": "The flag of Monaco is composed of two equal horizontal bands of red and white."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        43.73,
+        7.42
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
       "common": "Morocco",
       "official": "Kingdom of Morocco",
       "nativeName": {
@@ -10917,6 +11562,217 @@
       "latlng": [
         34.02,
         -6.82
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal",
+      "nativeName": {
+        "nep": {
+          "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+          "common": "नेपाल"
+        }
+      }
+    },
+    "tld": [
+      ".np"
+    ],
+    "cca2": "NP",
+    "ccn3": "524",
+    "cca3": "NPL",
+    "cioc": "NEP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NPR": {
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "77"
+      ]
+    },
+    "capital": [
+      "Kathmandu"
+    ],
+    "altSpellings": [
+      "NP",
+      "Federal Democratic Republic of Nepal",
+      "Loktāntrik Ganatantra Nepāl"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "nep": "Nepali"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية نيبال الديمقراطية الاتحادية",
+        "common": "نيبال"
+      },
+      "bre": {
+        "official": "Republik Demokratel Kevreadel Nepal",
+        "common": "Nepal"
+      },
+      "ces": {
+        "official": "Federativní demokratická republika Nepál",
+        "common": "Nepál"
+      },
+      "cym": {
+        "official": "Federal Democratic Republic of Nepal",
+        "common": "Nepal"
+      },
+      "deu": {
+        "official": "Demokratische Bundesrepublik Nepal",
+        "common": "Nepal"
+      },
+      "est": {
+        "official": "Nepali Demokraatlik Liitvabariik",
+        "common": "Nepal"
+      },
+      "fin": {
+        "official": "Nepalin demokraattinen liittotasavalta",
+        "common": "Nepal"
+      },
+      "fra": {
+        "official": "République du Népal",
+        "common": "Népal"
+      },
+      "hrv": {
+        "official": "Savezna Demokratska Republika Nepal",
+        "common": "Nepal"
+      },
+      "hun": {
+        "official": "Nepáli Szövetségi Demokratikus Köztársaság",
+        "common": "Nepál"
+      },
+      "ita": {
+        "official": "Repubblica federale democratica del Nepal",
+        "common": "Nepal"
+      },
+      "jpn": {
+        "official": "ネパール連邦民主共和国",
+        "common": "ネパール"
+      },
+      "kor": {
+        "official": "네팔 연방 민주 공화국",
+        "common": "네팔"
+      },
+      "nld": {
+        "official": "Federale Democratische Republiek Nepal",
+        "common": "Nepal"
+      },
+      "per": {
+        "official": "جمهوری فدرال دموکراتیک نپال",
+        "common": "نپال"
+      },
+      "pol": {
+        "official": "Federalna Demokratyczna Republika Nepalu",
+        "common": "Nepal"
+      },
+      "por": {
+        "official": "República Democrática Federal do Nepal",
+        "common": "Nepal"
+      },
+      "rus": {
+        "official": "Федеративная Демократическая Республика Непал",
+        "common": "Непал"
+      },
+      "slk": {
+        "official": "Nepálska federatívna demokratická republika",
+        "common": "Nepál"
+      },
+      "spa": {
+        "official": "República Democrática Federal de Nepal",
+        "common": "Nepal"
+      },
+      "srp": {
+        "official": "Савезна Демократска Република Непал",
+        "common": "Непал"
+      },
+      "swe": {
+        "official": "Demokratiska förbundsrepubliken Nepal",
+        "common": "Nepal"
+      },
+      "tur": {
+        "official": "Nepal Federal Demokratik Cumhuriyeti",
+        "common": "Nepal"
+      },
+      "urd": {
+        "official": "وفاقی جمہوری جمہوریہ نیپال",
+        "common": "نیپال"
+      },
+      "zho": {
+        "official": "尼泊尔联邦民主共和国",
+        "common": "尼泊尔"
+      }
+    },
+    "latlng": [
+      28.0,
+      84.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "area": 147181.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nepalese",
+        "m": "Nepalese"
+      },
+      "fra": {
+        "f": "Népalaise",
+        "m": "Népalais"
+      }
+    },
+    "flag": "🇳🇵",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
+    },
+    "population": 29136808,
+    "gini": {
+      "2010": 32.8
+    },
+    "fifa": "NEP",
+    "car": {
+      "signs": [
+        "NEP"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:45"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/np.png",
+      "svg": "https://flagcdn.com/np.svg",
+      "alt": "The flag of Nepal is the world's only non-quadrilateral flag of a sovereign country. It takes the shape of two adjoining right-angled triangles and has a crimson red field with deep blue edges. Within the smaller upper triangle is an emblem of the upper half of a white sun resting on an upward facing white crescent. The lower triangle bears a white sun with twelve rays."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/np.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/np.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        27.72,
+        85.32
       ]
     },
     "postalCode": {
@@ -12211,437 +13067,222 @@
   },
   {
     "name": {
-      "common": "Peru",
-      "official": "Republic of Peru",
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea",
       "nativeName": {
-        "aym": {
-          "official": "Piruw Suyu",
-          "common": "Piruw"
+        "eng": {
+          "official": "Independent State of Papua New Guinea",
+          "common": "Papua New Guinea"
         },
-        "que": {
-          "official": "Piruw Ripuwlika",
-          "common": "Piruw"
+        "hmo": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niu Gini"
         },
-        "spa": {
-          "official": "República del Perú",
-          "common": "Perú"
+        "tpi": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niugini"
         }
       }
     },
     "tld": [
-      ".pe"
+      ".pg"
     ],
-    "cca2": "PE",
-    "ccn3": "604",
-    "cca3": "PER",
-    "cioc": "PER",
+    "cca2": "PG",
+    "ccn3": "598",
+    "cca3": "PNG",
+    "cioc": "PNG",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "PEN": {
-        "name": "Peruvian sol",
-        "symbol": "S/ "
+      "PGK": {
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
       }
     },
     "idd": {
-      "root": "+5",
+      "root": "+6",
       "suffixes": [
-        "1"
+        "75"
       ]
     },
     "capital": [
-      "Lima"
+      "Port Moresby"
     ],
     "altSpellings": [
-      "PE",
-      "Republic of Peru",
-      "República del Perú"
+      "PG",
+      "Independent State of Papua New Guinea",
+      "Independen Stet bilong Papua Niugini"
     ],
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Oceania",
+    "subregion": "Melanesia",
     "languages": {
-      "aym": "Aymara",
-      "que": "Quechua",
-      "spa": "Spanish"
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
     },
     "translations": {
       "ara": {
-        "official": "جمهورية بيرو",
-        "common": "بيرو"
+        "official": "دولة بابوا غينيا الجديدة",
+        "common": "بابوا غينيا الجديدة"
       },
       "bre": {
-        "official": "Republik Perou",
-        "common": "Perou"
+        "official": "Stad dizalc'h Papoua-Ginea Nevez",
+        "common": "Papoua-Ginea Nevez"
       },
       "ces": {
-        "official": "Peruánská republika",
-        "common": "Peru"
+        "official": "Nezávislý stát Papua Nová Guinea",
+        "common": "Papua-Nová Guinea"
       },
       "cym": {
-        "official": "Republic of Peru",
-        "common": "Peru"
+        "official": "Independent State of Papua New Guinea",
+        "common": "Papua New Guinea"
       },
       "deu": {
-        "official": "Republik Peru",
-        "common": "Peru"
+        "official": "Unabhängiger Staat Papua-Neuguinea",
+        "common": "Papua-Neuguinea"
       },
       "est": {
-        "official": "Peruu Vabariik",
-        "common": "Peruu"
+        "official": "Paapua Uus-Guinea Iseseisvusriik",
+        "common": "Paapua Uus-Guinea"
       },
       "fin": {
-        "official": "Perun tasavalta",
-        "common": "Peru"
+        "official": "Papua-Uuden-Guinean Itsenäinen valtio",
+        "common": "Papua-Uusi-Guinea"
       },
       "fra": {
-        "official": "République du Pérou",
-        "common": "Pérou"
+        "official": "État indépendant de Papouasie-Nouvelle-Guinée",
+        "common": "Papouasie-Nouvelle-Guinée"
       },
       "hrv": {
-        "official": "Republika Peru",
-        "common": "Peru"
+        "official": "Nezavisna Država Papui Novoj Gvineji",
+        "common": "Papua Nova Gvineja"
       },
       "hun": {
-        "official": "Perui Köztársaság",
-        "common": "Peru"
+        "official": "Pápua Új-Guinea Független Állam",
+        "common": "Pápua Új-Guinea"
       },
       "ita": {
-        "official": "Repubblica del Perù",
-        "common": "Perù"
+        "official": "Stato indipendente di Papua Nuova Guinea",
+        "common": "Papua Nuova Guinea"
       },
       "jpn": {
-        "official": "ペルー共和国",
-        "common": "ペルー"
+        "official": "パプアニューギニア独立国",
+        "common": "パプアニューギニア"
       },
       "kor": {
-        "official": "페루 공화국",
-        "common": "페루"
+        "official": "파푸아뉴기니 독립국",
+        "common": "파푸아뉴기니"
       },
       "nld": {
-        "official": "Republiek Peru",
-        "common": "Peru"
+        "official": "Onafhankelijke Staat Papoea -Nieuw-Guinea",
+        "common": "Papoea-Nieuw-Guinea"
       },
       "per": {
-        "official": "جمهوری پرو",
-        "common": "پرو"
+        "official": "مملکت مستقل پاپوآ گینهٔ نو",
+        "common": "پاپوآ گینه نو"
       },
       "pol": {
-        "official": "Republika Peru",
-        "common": "Peru"
+        "official": "Niezależne Państwo Papui-Nowej Gwinei",
+        "common": "Papua-Nowa Gwinea"
       },
       "por": {
-        "official": "República do Peru",
-        "common": "Perú"
+        "official": "Estado Independente da Papua Nova Guiné",
+        "common": "Papua Nova Guiné"
       },
       "rus": {
-        "official": "Республика Перу",
-        "common": "Перу"
+        "official": "Независимое Государство Папуа-Новой Гвинеи",
+        "common": "Папуа — Новая Гвинея"
       },
       "slk": {
-        "official": "Peruánska republika",
-        "common": "Peru"
+        "official": "Nezávislý štát Papua-Nová Guinea",
+        "common": "Papua-Nová Guinea"
       },
       "spa": {
-        "official": "República de Perú",
-        "common": "Perú"
+        "official": "Estado Independiente de Papúa Nueva Guinea",
+        "common": "Papúa Nueva Guinea"
       },
       "srp": {
-        "official": "Република Перу",
-        "common": "Перу"
+        "official": "Независна Држава Папуа Нова Гвинеја",
+        "common": "Папуа Нова Гвинеја"
       },
       "swe": {
-        "official": "Republiken Peru",
-        "common": "Peru"
+        "official": "Den oberoende staten Papua Nya Guinea",
+        "common": "Papua Nya Guinea"
       },
       "tur": {
-        "official": "Peru Cumhuriyeti",
-        "common": "Peru"
+        "official": "Papua Yeni Gine Bağımsız Devleti",
+        "common": "Papua Yeni Gine"
       },
       "urd": {
-        "official": "جمہوریہ پیرو",
-        "common": "پیرو"
+        "official": "آزاد ریاستِ پاپوا نیو گنی",
+        "common": "پاپوا نیو گنی"
       },
       "zho": {
-        "official": "秘鲁共和国",
-        "common": "秘鲁"
+        "official": "巴布亚新几内亚",
+        "common": "巴布亚新几内亚"
       }
     },
     "latlng": [
-      -10.0,
-      -76.0
+      -6.0,
+      147.0
     ],
     "landlocked": false,
     "borders": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "COL",
-      "ECU"
+      "IDN"
     ],
-    "area": 1285216.0,
+    "area": 462840.0,
     "demonyms": {
       "eng": {
-        "f": "Peruvian",
-        "m": "Peruvian"
+        "f": "Papua New Guinean",
+        "m": "Papua New Guinean"
       },
       "fra": {
-        "f": "Péruvienne",
-        "m": "Péruvien"
+        "f": "Papouasienne",
+        "m": "Papouasien"
       }
     },
-    "flag": "🇵🇪",
+    "flag": "🇵🇬",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+      "googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+      "openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
     },
-    "population": 32971846,
+    "population": 8947027,
     "gini": {
-      "2019": 41.5
+      "2009": 41.9
     },
-    "fifa": "PER",
+    "fifa": "PNG",
     "car": {
       "signs": [
-        "PE"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "continents": [
-      "South America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/pe.png",
-      "svg": "https://flagcdn.com/pe.svg",
-      "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -12.05,
-        -77.05
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Nepal",
-      "official": "Federal Democratic Republic of Nepal",
-      "nativeName": {
-        "nep": {
-          "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
-          "common": "नेपाल"
-        }
-      }
-    },
-    "tld": [
-      ".np"
-    ],
-    "cca2": "NP",
-    "ccn3": "524",
-    "cca3": "NPL",
-    "cioc": "NEP",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "NPR": {
-        "name": "Nepalese rupee",
-        "symbol": "₨"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "77"
-      ]
-    },
-    "capital": [
-      "Kathmandu"
-    ],
-    "altSpellings": [
-      "NP",
-      "Federal Democratic Republic of Nepal",
-      "Loktāntrik Ganatantra Nepāl"
-    ],
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "languages": {
-      "nep": "Nepali"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية نيبال الديمقراطية الاتحادية",
-        "common": "نيبال"
-      },
-      "bre": {
-        "official": "Republik Demokratel Kevreadel Nepal",
-        "common": "Nepal"
-      },
-      "ces": {
-        "official": "Federativní demokratická republika Nepál",
-        "common": "Nepál"
-      },
-      "cym": {
-        "official": "Federal Democratic Republic of Nepal",
-        "common": "Nepal"
-      },
-      "deu": {
-        "official": "Demokratische Bundesrepublik Nepal",
-        "common": "Nepal"
-      },
-      "est": {
-        "official": "Nepali Demokraatlik Liitvabariik",
-        "common": "Nepal"
-      },
-      "fin": {
-        "official": "Nepalin demokraattinen liittotasavalta",
-        "common": "Nepal"
-      },
-      "fra": {
-        "official": "République du Népal",
-        "common": "Népal"
-      },
-      "hrv": {
-        "official": "Savezna Demokratska Republika Nepal",
-        "common": "Nepal"
-      },
-      "hun": {
-        "official": "Nepáli Szövetségi Demokratikus Köztársaság",
-        "common": "Nepál"
-      },
-      "ita": {
-        "official": "Repubblica federale democratica del Nepal",
-        "common": "Nepal"
-      },
-      "jpn": {
-        "official": "ネパール連邦民主共和国",
-        "common": "ネパール"
-      },
-      "kor": {
-        "official": "네팔 연방 민주 공화국",
-        "common": "네팔"
-      },
-      "nld": {
-        "official": "Federale Democratische Republiek Nepal",
-        "common": "Nepal"
-      },
-      "per": {
-        "official": "جمهوری فدرال دموکراتیک نپال",
-        "common": "نپال"
-      },
-      "pol": {
-        "official": "Federalna Demokratyczna Republika Nepalu",
-        "common": "Nepal"
-      },
-      "por": {
-        "official": "República Democrática Federal do Nepal",
-        "common": "Nepal"
-      },
-      "rus": {
-        "official": "Федеративная Демократическая Республика Непал",
-        "common": "Непал"
-      },
-      "slk": {
-        "official": "Nepálska federatívna demokratická republika",
-        "common": "Nepál"
-      },
-      "spa": {
-        "official": "República Democrática Federal de Nepal",
-        "common": "Nepal"
-      },
-      "srp": {
-        "official": "Савезна Демократска Република Непал",
-        "common": "Непал"
-      },
-      "swe": {
-        "official": "Demokratiska förbundsrepubliken Nepal",
-        "common": "Nepal"
-      },
-      "tur": {
-        "official": "Nepal Federal Demokratik Cumhuriyeti",
-        "common": "Nepal"
-      },
-      "urd": {
-        "official": "وفاقی جمہوری جمہوریہ نیپال",
-        "common": "نیپال"
-      },
-      "zho": {
-        "official": "尼泊尔联邦民主共和国",
-        "common": "尼泊尔"
-      }
-    },
-    "latlng": [
-      28.0,
-      84.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "CHN",
-      "IND"
-    ],
-    "area": 147181.0,
-    "demonyms": {
-      "eng": {
-        "f": "Nepalese",
-        "m": "Nepalese"
-      },
-      "fra": {
-        "f": "Népalaise",
-        "m": "Népalais"
-      }
-    },
-    "flag": "🇳🇵",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
-    },
-    "population": 29136808,
-    "gini": {
-      "2010": 32.8
-    },
-    "fifa": "NEP",
-    "car": {
-      "signs": [
-        "NEP"
+        "PNG"
       ],
       "side": "left"
     },
     "timezones": [
-      "UTC+05:45"
+      "UTC+10:00"
     ],
     "continents": [
-      "Asia"
+      "Oceania"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/np.png",
-      "svg": "https://flagcdn.com/np.svg",
-      "alt": "The flag of Nepal is the world's only non-quadrilateral flag of a sovereign country. It takes the shape of two adjoining right-angled triangles and has a crimson red field with deep blue edges. Within the smaller upper triangle is an emblem of the upper half of a white sun resting on an upward facing white crescent. The lower triangle bears a white sun with twelve rays."
+      "png": "https://flagcdn.com/w320/pg.png",
+      "svg": "https://flagcdn.com/pg.svg",
+      "alt": "The flag of Papua New Guinea is divided diagonally, from the upper hoist-side corner to the lower fly-side corner, into a lower black and an upper red triangle. On the hoist side of the lower black triangle is a representation of the Southern Cross constellation made up of one small and four larger five-pointed white stars. A golden Raggiana bird-of-paradise is situated on the fly side of the upper red triangle."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/np.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/np.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pg.svg"
     },
-    "startOfWeek": "sunday",
+    "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        27.72,
-        85.32
+        -9.45,
+        147.18
       ]
     },
     "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
+      "format": "###",
+      "regex": "^(\\d{3})$"
     }
   },
   {
@@ -12865,644 +13506,226 @@
   },
   {
     "name": {
-      "common": "Monaco",
-      "official": "Principality of Monaco",
+      "common": "Peru",
+      "official": "Republic of Peru",
       "nativeName": {
-        "fra": {
-          "official": "Principauté de Monaco",
-          "common": "Monaco"
+        "aym": {
+          "official": "Piruw Suyu",
+          "common": "Piruw"
+        },
+        "que": {
+          "official": "Piruw Ripuwlika",
+          "common": "Piruw"
+        },
+        "spa": {
+          "official": "República del Perú",
+          "common": "Perú"
         }
       }
     },
     "tld": [
-      ".mc"
+      ".pe"
     ],
-    "cca2": "MC",
-    "ccn3": "492",
-    "cca3": "MCO",
-    "cioc": "MON",
+    "cca2": "PE",
+    "ccn3": "604",
+    "cca3": "PER",
+    "cioc": "PER",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-      "EUR": {
-        "name": "Euro",
-        "symbol": "€"
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/ "
       }
     },
     "idd": {
-      "root": "+3",
+      "root": "+5",
       "suffixes": [
-        "77"
+        "1"
       ]
     },
     "capital": [
-      "Monaco"
+      "Lima"
     ],
     "altSpellings": [
-      "MC",
-      "Principality of Monaco",
-      "Principauté de Monaco"
+      "PE",
+      "Republic of Peru",
+      "República del Perú"
     ],
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Americas",
+    "subregion": "South America",
     "languages": {
-      "fra": "French"
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
     },
     "translations": {
       "ara": {
-        "official": "إمارة موناكو",
-        "common": "موناكو"
+        "official": "جمهورية بيرو",
+        "common": "بيرو"
       },
       "bre": {
-        "official": "Priñselezh Monako",
-        "common": "Monako"
+        "official": "Republik Perou",
+        "common": "Perou"
       },
       "ces": {
-        "official": "Monacké knížectví",
-        "common": "Monako"
+        "official": "Peruánská republika",
+        "common": "Peru"
       },
       "cym": {
-        "official": "Principality of Monaco",
-        "common": "Monaco"
+        "official": "Republic of Peru",
+        "common": "Peru"
       },
       "deu": {
-        "official": "Fürstentum Monaco",
-        "common": "Monaco"
+        "official": "Republik Peru",
+        "common": "Peru"
       },
       "est": {
-        "official": "Monaco Vürstiriik",
-        "common": "Monaco"
+        "official": "Peruu Vabariik",
+        "common": "Peruu"
       },
       "fin": {
-        "official": "Monacon ruhtinaskunta",
-        "common": "Monaco"
+        "official": "Perun tasavalta",
+        "common": "Peru"
       },
       "fra": {
-        "official": "Principauté de Monaco",
-        "common": "Monaco"
+        "official": "République du Pérou",
+        "common": "Pérou"
       },
       "hrv": {
-        "official": "Kneževina Monako",
-        "common": "Monako"
+        "official": "Republika Peru",
+        "common": "Peru"
       },
       "hun": {
-        "official": "Monacói Hercegség",
-        "common": "Monaco"
+        "official": "Perui Köztársaság",
+        "common": "Peru"
       },
       "ita": {
-        "official": "Principato di Monaco",
-        "common": "Principato di Monaco"
+        "official": "Repubblica del Perù",
+        "common": "Perù"
       },
       "jpn": {
-        "official": "モナコ公国",
-        "common": "モナコ"
+        "official": "ペルー共和国",
+        "common": "ペルー"
       },
       "kor": {
-        "official": "모나코 공국",
-        "common": "모나코"
+        "official": "페루 공화국",
+        "common": "페루"
       },
       "nld": {
-        "official": "Vorstendom Monaco",
-        "common": "Monaco"
+        "official": "Republiek Peru",
+        "common": "Peru"
       },
       "per": {
-        "official": "شاهزاده‌نشین موناکو",
-        "common": "موناکو"
+        "official": "جمهوری پرو",
+        "common": "پرو"
       },
       "pol": {
-        "official": "Księstwo Monako",
-        "common": "Monako"
+        "official": "Republika Peru",
+        "common": "Peru"
       },
       "por": {
-        "official": "Principado do Mónaco",
-        "common": "Mónaco"
+        "official": "República do Peru",
+        "common": "Perú"
       },
       "rus": {
-        "official": "Княжество Монако",
-        "common": "Монако"
+        "official": "Республика Перу",
+        "common": "Перу"
       },
       "slk": {
-        "official": "Monacké kniežatstvo",
-        "common": "Monako"
+        "official": "Peruánska republika",
+        "common": "Peru"
       },
       "spa": {
-        "official": "Principado de Mónaco",
-        "common": "Mónaco"
+        "official": "República de Perú",
+        "common": "Perú"
       },
       "srp": {
-        "official": "Кнежевина Монако",
-        "common": "Монако"
+        "official": "Република Перу",
+        "common": "Перу"
       },
       "swe": {
-        "official": "Furstendömet Monaco",
-        "common": "Monaco"
+        "official": "Republiken Peru",
+        "common": "Peru"
       },
       "tur": {
-        "official": "Monako Prensliği",
-        "common": "Monako"
+        "official": "Peru Cumhuriyeti",
+        "common": "Peru"
       },
       "urd": {
-        "official": "جمہوریہ مناکو",
-        "common": "موناکو"
+        "official": "جمہوریہ پیرو",
+        "common": "پیرو"
       },
       "zho": {
-        "official": "摩纳哥公国",
-        "common": "摩纳哥"
+        "official": "秘鲁共和国",
+        "common": "秘鲁"
       }
     },
     "latlng": [
-      43.73333333,
-      7.4
+      -10.0,
+      -76.0
     ],
     "landlocked": false,
     "borders": [
-      "FRA"
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
     ],
-    "area": 2.02,
+    "area": 1285216.0,
     "demonyms": {
       "eng": {
-        "f": "Monegasque",
-        "m": "Monegasque"
+        "f": "Peruvian",
+        "m": "Peruvian"
       },
       "fra": {
-        "f": "Monégasque",
-        "m": "Monégasque"
+        "f": "Péruvienne",
+        "m": "Péruvien"
       }
     },
-    "flag": "🇲🇨",
+    "flag": "🇵🇪",
     "maps": {
-      "googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
+      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
     },
-    "population": 39244,
+    "population": 32971846,
+    "gini": {
+      "2019": 41.5
+    },
+    "fifa": "PER",
     "car": {
       "signs": [
-        "MC"
+        "PE"
       ],
       "side": "right"
     },
     "timezones": [
-      "UTC+01:00"
+      "UTC-05:00"
     ],
     "continents": [
-      "Europe"
+      "South America"
     ],
     "flags": {
-      "png": "https://flagcdn.com/w320/mc.png",
-      "svg": "https://flagcdn.com/mc.svg",
-      "alt": "The flag of Monaco is composed of two equal horizontal bands of red and white."
+      "png": "https://flagcdn.com/w320/pe.png",
+      "svg": "https://flagcdn.com/pe.svg",
+      "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
     },
     "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mc.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mc.svg"
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
     },
     "startOfWeek": "monday",
     "capitalInfo": {
       "latlng": [
-        43.73,
-        7.42
+        -12.05,
+        -77.05
       ]
     },
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Lebanon",
-      "official": "Lebanese Republic",
-      "nativeName": {
-        "ara": {
-          "official": "الجمهورية اللبنانية",
-          "common": "لبنان"
-        },
-        "fra": {
-          "official": "République libanaise",
-          "common": "Liban"
-        }
-      }
-    },
-    "tld": [
-      ".lb"
-    ],
-    "cca2": "LB",
-    "ccn3": "422",
-    "cca3": "LBN",
-    "cioc": "LBN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "LBP": {
-        "name": "Lebanese pound",
-        "symbol": "ل.ل"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "61"
-      ]
-    },
-    "capital": [
-      "Beirut"
-    ],
-    "altSpellings": [
-      "LB",
-      "Lebanese Republic",
-      "Al-Jumhūrīyah Al-Libnānīyah"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic",
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "الجمهورية اللبنانية",
-        "common": "لبنان"
-      },
-      "bre": {
-        "official": "Republik Liban",
-        "common": "Liban"
-      },
-      "ces": {
-        "official": "Libanonská republika",
-        "common": "Libanon"
-      },
-      "cym": {
-        "official": "Lebanese Republic",
-        "common": "Lebanon"
-      },
-      "deu": {
-        "official": "Libanesische Republik",
-        "common": "Libanon"
-      },
-      "est": {
-        "official": "Liibanoni Vabariik",
-        "common": "Liibanon"
-      },
-      "fin": {
-        "official": "Libanonin tasavalta",
-        "common": "Libanon"
-      },
-      "fra": {
-        "official": "République libanaise",
-        "common": "Liban"
-      },
-      "hrv": {
-        "official": "Libanonska Republika",
-        "common": "Libanon"
-      },
-      "hun": {
-        "official": "Libanoni Köztársaság",
-        "common": "Libanon"
-      },
-      "ita": {
-        "official": "Repubblica libanese",
-        "common": "Libano"
-      },
-      "jpn": {
-        "official": "レバノン共和国",
-        "common": "レバノン"
-      },
-      "kor": {
-        "official": "레바논 공화국",
-        "common": "레바논"
-      },
-      "nld": {
-        "official": "Libanese Republiek",
-        "common": "Libanon"
-      },
-      "per": {
-        "official": "جمهوری لبنان",
-        "common": "لبنان"
-      },
-      "pol": {
-        "official": "Republika Libańska",
-        "common": "Liban"
-      },
-      "por": {
-        "official": "República Libanesa",
-        "common": "Líbano"
-      },
-      "rus": {
-        "official": "Ливанская Республика",
-        "common": "Ливан"
-      },
-      "slk": {
-        "official": "Libanonská republika",
-        "common": "Libanon"
-      },
-      "spa": {
-        "official": "República Libanesa",
-        "common": "Líbano"
-      },
-      "srp": {
-        "official": "Либанска Република",
-        "common": "Либан"
-      },
-      "swe": {
-        "official": "Republiken Libanon",
-        "common": "Libanon"
-      },
-      "tur": {
-        "official": "Lübnan Cumhuriyeti",
-        "common": "Lübnan"
-      },
-      "urd": {
-        "official": "جمہوریہ لبنان",
-        "common": "لبنان"
-      },
-      "zho": {
-        "official": "黎巴嫩共和国",
-        "common": "黎巴嫩"
-      }
-    },
-    "latlng": [
-      33.83333333,
-      35.83333333
-    ],
-    "landlocked": false,
-    "borders": [
-      "ISR",
-      "SYR"
-    ],
-    "area": 10452.0,
-    "demonyms": {
-      "eng": {
-        "f": "Lebanese",
-        "m": "Lebanese"
-      },
-      "fra": {
-        "f": "Libanaise",
-        "m": "Libanais"
-      }
-    },
-    "flag": "🇱🇧",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
-    },
-    "population": 6825442,
-    "gini": {
-      "2011": 31.8
-    },
-    "fifa": "LBN",
-    "car": {
-      "signs": [
-        "RL"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/lb.png",
-      "svg": "https://flagcdn.com/lb.svg",
-      "alt": "The flag of Lebanon is composed of three horizontal bands of red, white and red. The white band is twice the height of the red bands and bears a green Lebanese Cedar tree at its center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/lb.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        33.87,
-        35.5
-      ]
-    },
-    "postalCode": {
-      "format": "#### ####|####",
-      "regex": "^(\\d{4}(\\d{4})?)$"
-    }
-  },
-  {
-    "name": {
-      "common": "Papua New Guinea",
-      "official": "Independent State of Papua New Guinea",
-      "nativeName": {
-        "eng": {
-          "official": "Independent State of Papua New Guinea",
-          "common": "Papua New Guinea"
-        },
-        "hmo": {
-          "official": "Independen Stet bilong Papua Niugini",
-          "common": "Papua Niu Gini"
-        },
-        "tpi": {
-          "official": "Independen Stet bilong Papua Niugini",
-          "common": "Papua Niugini"
-        }
-      }
-    },
-    "tld": [
-      ".pg"
-    ],
-    "cca2": "PG",
-    "ccn3": "598",
-    "cca3": "PNG",
-    "cioc": "PNG",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "PGK": {
-        "name": "Papua New Guinean kina",
-        "symbol": "K"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "75"
-      ]
-    },
-    "capital": [
-      "Port Moresby"
-    ],
-    "altSpellings": [
-      "PG",
-      "Independent State of Papua New Guinea",
-      "Independen Stet bilong Papua Niugini"
-    ],
-    "region": "Oceania",
-    "subregion": "Melanesia",
-    "languages": {
-      "eng": "English",
-      "hmo": "Hiri Motu",
-      "tpi": "Tok Pisin"
-    },
-    "translations": {
-      "ara": {
-        "official": "دولة بابوا غينيا الجديدة",
-        "common": "بابوا غينيا الجديدة"
-      },
-      "bre": {
-        "official": "Stad dizalc'h Papoua-Ginea Nevez",
-        "common": "Papoua-Ginea Nevez"
-      },
-      "ces": {
-        "official": "Nezávislý stát Papua Nová Guinea",
-        "common": "Papua-Nová Guinea"
-      },
-      "cym": {
-        "official": "Independent State of Papua New Guinea",
-        "common": "Papua New Guinea"
-      },
-      "deu": {
-        "official": "Unabhängiger Staat Papua-Neuguinea",
-        "common": "Papua-Neuguinea"
-      },
-      "est": {
-        "official": "Paapua Uus-Guinea Iseseisvusriik",
-        "common": "Paapua Uus-Guinea"
-      },
-      "fin": {
-        "official": "Papua-Uuden-Guinean Itsenäinen valtio",
-        "common": "Papua-Uusi-Guinea"
-      },
-      "fra": {
-        "official": "État indépendant de Papouasie-Nouvelle-Guinée",
-        "common": "Papouasie-Nouvelle-Guinée"
-      },
-      "hrv": {
-        "official": "Nezavisna Država Papui Novoj Gvineji",
-        "common": "Papua Nova Gvineja"
-      },
-      "hun": {
-        "official": "Pápua Új-Guinea Független Állam",
-        "common": "Pápua Új-Guinea"
-      },
-      "ita": {
-        "official": "Stato indipendente di Papua Nuova Guinea",
-        "common": "Papua Nuova Guinea"
-      },
-      "jpn": {
-        "official": "パプアニューギニア独立国",
-        "common": "パプアニューギニア"
-      },
-      "kor": {
-        "official": "파푸아뉴기니 독립국",
-        "common": "파푸아뉴기니"
-      },
-      "nld": {
-        "official": "Onafhankelijke Staat Papoea -Nieuw-Guinea",
-        "common": "Papoea-Nieuw-Guinea"
-      },
-      "per": {
-        "official": "مملکت مستقل پاپوآ گینهٔ نو",
-        "common": "پاپوآ گینه نو"
-      },
-      "pol": {
-        "official": "Niezależne Państwo Papui-Nowej Gwinei",
-        "common": "Papua-Nowa Gwinea"
-      },
-      "por": {
-        "official": "Estado Independente da Papua Nova Guiné",
-        "common": "Papua Nova Guiné"
-      },
-      "rus": {
-        "official": "Независимое Государство Папуа-Новой Гвинеи",
-        "common": "Папуа — Новая Гвинея"
-      },
-      "slk": {
-        "official": "Nezávislý štát Papua-Nová Guinea",
-        "common": "Papua-Nová Guinea"
-      },
-      "spa": {
-        "official": "Estado Independiente de Papúa Nueva Guinea",
-        "common": "Papúa Nueva Guinea"
-      },
-      "srp": {
-        "official": "Независна Држава Папуа Нова Гвинеја",
-        "common": "Папуа Нова Гвинеја"
-      },
-      "swe": {
-        "official": "Den oberoende staten Papua Nya Guinea",
-        "common": "Papua Nya Guinea"
-      },
-      "tur": {
-        "official": "Papua Yeni Gine Bağımsız Devleti",
-        "common": "Papua Yeni Gine"
-      },
-      "urd": {
-        "official": "آزاد ریاستِ پاپوا نیو گنی",
-        "common": "پاپوا نیو گنی"
-      },
-      "zho": {
-        "official": "巴布亚新几内亚",
-        "common": "巴布亚新几内亚"
-      }
-    },
-    "latlng": [
-      -6.0,
-      147.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "IDN"
-    ],
-    "area": 462840.0,
-    "demonyms": {
-      "eng": {
-        "f": "Papua New Guinean",
-        "m": "Papua New Guinean"
-      },
-      "fra": {
-        "f": "Papouasienne",
-        "m": "Papouasien"
-      }
-    },
-    "flag": "🇵🇬",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
-      "openStreetMaps": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
-    },
-    "population": 8947027,
-    "gini": {
-      "2009": 41.9
-    },
-    "fifa": "PNG",
-    "car": {
-      "signs": [
-        "PNG"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+10:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/pg.png",
-      "svg": "https://flagcdn.com/pg.svg",
-      "alt": "The flag of Papua New Guinea is divided diagonally, from the upper hoist-side corner to the lower fly-side corner, into a lower black and an upper red triangle. On the hoist side of the lower black triangle is a representation of the Southern Cross constellation made up of one small and four larger five-pointed white stars. A golden Raggiana bird-of-paradise is situated on the fly side of the upper red triangle."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/pg.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/pg.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -9.45,
-        147.18
-      ]
-    },
-    "postalCode": {
-      "format": "###",
-      "regex": "^(\\d{3})$"
     }
   },
   {
@@ -13929,229 +14152,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Eswatini",
-      "official": "Kingdom of Eswatini",
-      "nativeName": {
-        "eng": {
-          "official": "Kingdom of Eswatini",
-          "common": "Eswatini"
-        },
-        "ssw": {
-          "official": "Umbuso weSwatini",
-          "common": "eSwatini"
-        }
-      }
-    },
-    "tld": [
-      ".sz"
-    ],
-    "cca2": "SZ",
-    "ccn3": "748",
-    "cca3": "SWZ",
-    "cioc": "SWZ",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "SZL": {
-        "name": "Swazi lilangeni",
-        "symbol": "L"
-      },
-      "ZAR": {
-        "name": "South African rand",
-        "symbol": "R"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "68"
-      ]
-    },
-    "capital": [
-      "Mbabane"
-    ],
-    "altSpellings": [
-      "SZ",
-      "Swaziland",
-      "weSwatini",
-      "Swatini",
-      "Ngwane",
-      "Kingdom of Eswatini",
-      "Umbuso weSwatini"
-    ],
-    "region": "Africa",
-    "subregion": "Southern Africa",
-    "languages": {
-      "eng": "English",
-      "ssw": "Swazi"
-    },
-    "translations": {
-      "ara": {
-        "official": "مملكة إسواتيني",
-        "common": "إسواتيني"
-      },
-      "bre": {
-        "official": "Rouantelezh Eswatini",
-        "common": "Eswatini"
-      },
-      "ces": {
-        "official": "Svazijské království",
-        "common": "Svazijsko"
-      },
-      "cym": {
-        "official": "Kingdom of Eswatini",
-        "common": "Eswatini"
-      },
-      "deu": {
-        "official": "Königreich Eswatini",
-        "common": "Swasiland"
-      },
-      "est": {
-        "official": "eSwatini Kuningriik",
-        "common": "Svaasimaa"
-      },
-      "fin": {
-        "official": "Swazimaan kuningaskunta",
-        "common": "Swazimaa"
-      },
-      "fra": {
-        "official": "Royaume d’Eswatini",
-        "common": "Swaziland"
-      },
-      "hrv": {
-        "official": "Kraljevina eSwatini",
-        "common": "Svazi"
-      },
-      "hun": {
-        "official": "Szváziföldi Királyság",
-        "common": "Szváziföld"
-      },
-      "ita": {
-        "official": "Regno di eSwatini",
-        "common": "Swaziland"
-      },
-      "jpn": {
-        "official": "スワジランド王国",
-        "common": "スワジランド"
-      },
-      "kor": {
-        "official": "에스와티니 왕국",
-        "common": "에스와티니"
-      },
-      "nld": {
-        "official": "Koninkrijk eSwatini",
-        "common": "Swaziland"
-      },
-      "per": {
-        "official": "پادشاهی سوازیلند",
-        "common": "اسواتینی"
-      },
-      "pol": {
-        "official": "Królestwo Suazi",
-        "common": "Suazi"
-      },
-      "por": {
-        "official": "Reino de eSwatini",
-        "common": "Suazilândia"
-      },
-      "rus": {
-        "official": "Королевство Свазиленд",
-        "common": "Свазиленд"
-      },
-      "slk": {
-        "official": "Svazijské kráľovstvo",
-        "common": "Svazijsko"
-      },
-      "spa": {
-        "official": "Reino de eSwatini",
-        "common": "Suazilandia"
-      },
-      "srp": {
-        "official": "Краљевина Есватини",
-        "common": "Есватини"
-      },
-      "swe": {
-        "official": "Konungariket Eswatini",
-        "common": "Swaziland"
-      },
-      "tur": {
-        "official": "Esvatini Krallığı",
-        "common": "Esvatini"
-      },
-      "urd": {
-        "official": "مملکتِ سوازی لینڈ",
-        "common": "سوازی لینڈ"
-      },
-      "zho": {
-        "official": "斯威士兰王国",
-        "common": "斯威士兰"
-      }
-    },
-    "latlng": [
-      -26.5,
-      31.5
-    ],
-    "landlocked": true,
-    "borders": [
-      "MOZ",
-      "ZAF"
-    ],
-    "area": 17364.0,
-    "demonyms": {
-      "eng": {
-        "f": "Swazi",
-        "m": "Swazi"
-      },
-      "fra": {
-        "f": "Swazie",
-        "m": "Swazie"
-      }
-    },
-    "flag": "🇸🇿",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
-    },
-    "population": 1160164,
-    "gini": {
-      "2016": 54.6
-    },
-    "fifa": "SWZ",
-    "car": {
-      "signs": [
-        "SD"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/sz.png",
-      "svg": "https://flagcdn.com/sz.svg",
-      "alt": "The flag of Eswatini is composed of three horizontal bands — a large central yellow-edged red band, and a light blue band above and beneath the red band. The red band is three times the height of the blue bands and bears a centered emblem made up of a large black and white Nguni shield covering two spears and a staff decorated with feather tassels, all placed horizontally."
-    },
-    "coatOfArms": {
-      
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -26.32,
-        31.13
-      ]
-    },
-    "postalCode": {
-      "format": "@###",
-      "regex": "^([A-Z]\\d{3})$"
     }
   },
   {
