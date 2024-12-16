@@ -8775,6 +8775,224 @@
   },
   {
     "name": {
+      "common": "Czechia",
+      "official": "Czech Republic",
+      "nativeName": {
+        "ces": {
+          "official": "Česká republika",
+          "common": "Česko"
+        },
+        "slk": {
+          "official": "Česká republika",
+          "common": "Česko"
+        }
+      }
+    },
+    "tld": [
+      ".cz"
+    ],
+    "cca2": "CZ",
+    "ccn3": "203",
+    "cca3": "CZE",
+    "cioc": "CZE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CZK": {
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "20"
+      ]
+    },
+    "capital": [
+      "Prague"
+    ],
+    "altSpellings": [
+      "CZ",
+      "Česká republika",
+      "Česko"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+      "ces": "Czech",
+      "slk": "Slovak"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية التشيك",
+        "common": "التشيك"
+      },
+      "bre": {
+        "official": "Republik Tchek",
+        "common": "Tchekia"
+      },
+      "ces": {
+        "official": "Česká republika",
+        "common": "Česko"
+      },
+      "cym": {
+        "official": "Y Weriniaeth Tsiec",
+        "common": "Y Weriniaeth Tsiec"
+      },
+      "deu": {
+        "official": "Tschechische Republik",
+        "common": "Tschechien"
+      },
+      "est": {
+        "official": "Tšehhi Vabariik",
+        "common": "Tšehhi"
+      },
+      "fin": {
+        "official": "Tšekin tasavalta",
+        "common": "Tšekki"
+      },
+      "fra": {
+        "official": "République tchèque",
+        "common": "Tchéquie"
+      },
+      "hrv": {
+        "official": "Češka",
+        "common": "Češka"
+      },
+      "hun": {
+        "official": "Cseh Köztársaság",
+        "common": "Csehország"
+      },
+      "ita": {
+        "official": "Repubblica Ceca",
+        "common": "Cechia"
+      },
+      "jpn": {
+        "official": "チェコ共和国",
+        "common": "チェコ"
+      },
+      "kor": {
+        "official": "체코",
+        "common": "체코"
+      },
+      "nld": {
+        "official": "Tsjechische Republiek",
+        "common": "Tsjechië"
+      },
+      "per": {
+        "official": "جمهوری چک",
+        "common": "جمهوری چک"
+      },
+      "pol": {
+        "official": "Republika Czeska",
+        "common": "Czechy"
+      },
+      "por": {
+        "official": "República Checa",
+        "common": "Chéquia"
+      },
+      "rus": {
+        "official": "Чешская Республика",
+        "common": "Чехия"
+      },
+      "slk": {
+        "official": "Česká republika",
+        "common": "Česko"
+      },
+      "spa": {
+        "official": "República Checa",
+        "common": "Chequia"
+      },
+      "srp": {
+        "official": "Чешка Република",
+        "common": "Чешка"
+      },
+      "swe": {
+        "official": "Republiken Tjeckien",
+        "common": "Tjeckien"
+      },
+      "tur": {
+        "official": "Çek Cumhuriyeti",
+        "common": "Çekya"
+      },
+      "urd": {
+        "official": "چيک جمہوريہ",
+        "common": "چيک"
+      },
+      "zho": {
+        "official": "捷克共和国",
+        "common": "捷克"
+      }
+    },
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "area": 78865.0,
+    "demonyms": {
+      "eng": {
+        "f": "Czech",
+        "m": "Czech"
+      },
+      "fra": {
+        "f": "Tchèque",
+        "m": "Tchèque"
+      }
+    },
+    "flag": "🇨🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
+    },
+    "population": 10698896,
+    "gini": {
+      "2018": 25.0
+    },
+    "fifa": "CZE",
+    "car": {
+      "signs": [
+        "CZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cz.png",
+      "svg": "https://flagcdn.com/cz.svg",
+      "alt": "The flag of Czechia is composed of two equal horizontal bands of white and red, with a blue isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end and spans about two-fifth the width of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        50.08,
+        14.47
+      ]
+    },
+    "postalCode": {
+      "format": "### ##",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
       "common": "Denmark",
       "official": "Kingdom of Denmark",
       "nativeName": {
@@ -14986,6 +15204,218 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Ireland",
+          "common": "Ireland"
+        },
+        "gle": {
+          "official": "Poblacht na hÉireann",
+          "common": "Éire"
+        }
+      }
+    },
+    "tld": [
+      ".ie"
+    ],
+    "cca2": "IE",
+    "ccn3": "372",
+    "cca3": "IRL",
+    "cioc": "IRL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "53"
+      ]
+    },
+    "capital": [
+      "Dublin"
+    ],
+    "altSpellings": [
+      "IE",
+      "Éire",
+      "Republic of Ireland",
+      "Poblacht na hÉireann"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية أيرلندا",
+        "common": "أيرلندا"
+      },
+      "bre": {
+        "official": "Republik Iwerzhon",
+        "common": "Iwerzhon"
+      },
+      "ces": {
+        "official": "Irsko",
+        "common": "Irsko"
+      },
+      "cym": {
+        "official": "Republic of Ireland",
+        "common": "Ireland"
+      },
+      "deu": {
+        "official": "Republik Irland",
+        "common": "Irland"
+      },
+      "est": {
+        "official": "Iirimaa",
+        "common": "Iirimaa"
+      },
+      "fin": {
+        "official": "Irlannin tasavalta",
+        "common": "Irlanti"
+      },
+      "fra": {
+        "official": "République d'Irlande",
+        "common": "Irlande"
+      },
+      "hrv": {
+        "official": "Republika Irska",
+        "common": "Irska"
+      },
+      "hun": {
+        "official": "Ír Köztársaság",
+        "common": "Írország"
+      },
+      "ita": {
+        "official": "Repubblica d'Irlanda",
+        "common": "Irlanda"
+      },
+      "jpn": {
+        "official": "アイルランド共和国",
+        "common": "アイルランド"
+      },
+      "kor": {
+        "official": "아일랜드 공화국",
+        "common": "아일랜드"
+      },
+      "nld": {
+        "official": "Republic of Ireland",
+        "common": "Ierland"
+      },
+      "per": {
+        "official": "ایرلند",
+        "common": "ایرلند"
+      },
+      "pol": {
+        "official": "Republika Irlandii",
+        "common": "Irlandia"
+      },
+      "por": {
+        "official": "República da Irlanda",
+        "common": "Irlanda"
+      },
+      "rus": {
+        "official": "Ирландия",
+        "common": "Ирландия"
+      },
+      "slk": {
+        "official": "Írska republika",
+        "common": "Írsko"
+      },
+      "spa": {
+        "official": "República de Irlanda",
+        "common": "Irlanda"
+      },
+      "srp": {
+        "official": "Република Ирска",
+        "common": "Ирска"
+      },
+      "swe": {
+        "official": "Irland",
+        "common": "Irland"
+      },
+      "tur": {
+        "official": "İrlanda Cumhuriyeti",
+        "common": "İrlanda"
+      },
+      "urd": {
+        "official": "جمہوریہ جزیرہ آئرلینڈ",
+        "common": "جزیرہ آئرلینڈ"
+      },
+      "zho": {
+        "official": "爱尔兰共和国",
+        "common": "爱尔兰"
+      }
+    },
+    "latlng": [
+      53.0,
+      -8.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "GBR"
+    ],
+    "area": 70273.0,
+    "demonyms": {
+      "eng": {
+        "f": "Irish",
+        "m": "Irish"
+      },
+      "fra": {
+        "f": "Irlandaise",
+        "m": "Irlandais"
+      }
+    },
+    "flag": "🇮🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
+    },
+    "population": 4994724,
+    "gini": {
+      "2017": 31.4
+    },
+    "fifa": "IRL",
+    "car": {
+      "signs": [
+        "IRL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ie.png",
+      "svg": "https://flagcdn.com/ie.svg",
+      "alt": "The flag of Ireland is composed of three equal vertical bands of green, white and orange."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ie.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ie.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        53.32,
+        -6.23
+      ]
     }
   },
   {
@@ -21682,433 +22112,6 @@
   },
   {
     "name": {
-      "common": "Malaysia",
-      "official": "Malaysia",
-      "nativeName": {
-        "eng": {
-          "official": "Malaysia",
-          "common": "Malaysia"
-        },
-        "msa": {
-          "official": "مليسيا",
-          "common": "مليسيا"
-        }
-      }
-    },
-    "tld": [
-      ".my"
-    ],
-    "cca2": "MY",
-    "ccn3": "458",
-    "cca3": "MYS",
-    "cioc": "MAS",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MYR": {
-        "name": "Malaysian ringgit",
-        "symbol": "RM"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "0"
-      ]
-    },
-    "capital": [
-      "Kuala Lumpur"
-    ],
-    "altSpellings": [
-      "MY"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "eng": "English",
-      "msa": "Malay"
-    },
-    "translations": {
-      "ara": {
-        "official": "ماليزيا",
-        "common": "ماليزيا"
-      },
-      "bre": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "ces": {
-        "official": "Malajsie",
-        "common": "Malajsie"
-      },
-      "cym": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "deu": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "est": {
-        "official": "Malaisia",
-        "common": "Malaisia"
-      },
-      "fin": {
-        "official": "Malesia",
-        "common": "Malesia"
-      },
-      "fra": {
-        "official": "Fédération de Malaisie",
-        "common": "Malaisie"
-      },
-      "hrv": {
-        "official": "Malezija",
-        "common": "Malezija"
-      },
-      "hun": {
-        "official": "Malajzia",
-        "common": "Malajzia"
-      },
-      "ita": {
-        "official": "Malaysia",
-        "common": "Malesia"
-      },
-      "jpn": {
-        "official": "マレーシア",
-        "common": "マレーシア"
-      },
-      "kor": {
-        "official": "말레이시아",
-        "common": "말레이시아"
-      },
-      "nld": {
-        "official": "Maleisië",
-        "common": "Maleisië"
-      },
-      "per": {
-        "official": "فدراسیون مالزی",
-        "common": "مالزی"
-      },
-      "pol": {
-        "official": "Malezja",
-        "common": "Malezja"
-      },
-      "por": {
-        "official": "Malásia",
-        "common": "Malásia"
-      },
-      "rus": {
-        "official": "Малайзия",
-        "common": "Малайзия"
-      },
-      "slk": {
-        "official": "Malajzia",
-        "common": "Malajzia"
-      },
-      "spa": {
-        "official": "Malasia",
-        "common": "Malasia"
-      },
-      "srp": {
-        "official": "Малезија",
-        "common": "Малезија"
-      },
-      "swe": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "tur": {
-        "official": "Malezya",
-        "common": "Malezya"
-      },
-      "urd": {
-        "official": "ملائیشیا",
-        "common": "ملائیشیا"
-      },
-      "zho": {
-        "official": "马来西亚",
-        "common": "马来西亚"
-      }
-    },
-    "latlng": [
-      2.5,
-      112.5
-    ],
-    "landlocked": false,
-    "borders": [
-      "BRN",
-      "IDN",
-      "THA"
-    ],
-    "area": 330803.0,
-    "demonyms": {
-      "eng": {
-        "f": "Malaysian",
-        "m": "Malaysian"
-      },
-      "fra": {
-        "f": "Malaisienne",
-        "m": "Malaisien"
-      }
-    },
-    "flag": "🇲🇾",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
-    },
-    "population": 32365998,
-    "gini": {
-      "2015": 41.1
-    },
-    "fifa": "MAS",
-    "car": {
-      "signs": [
-        "MAL"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/my.png",
-      "svg": "https://flagcdn.com/my.svg",
-      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/my.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        3.17,
-        101.7
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Malawi",
-      "official": "Republic of Malawi",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Malawi",
-          "common": "Malawi"
-        },
-        "nya": {
-          "official": "Chalo cha Malawi, Dziko la Malaŵi",
-          "common": "Malaŵi"
-        }
-      }
-    },
-    "tld": [
-      ".mw"
-    ],
-    "cca2": "MW",
-    "ccn3": "454",
-    "cca3": "MWI",
-    "cioc": "MAW",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MWK": {
-        "name": "Malawian kwacha",
-        "symbol": "MK"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "65"
-      ]
-    },
-    "capital": [
-      "Lilongwe"
-    ],
-    "altSpellings": [
-      "MW",
-      "Republic of Malawi"
-    ],
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "languages": {
-      "eng": "English",
-      "nya": "Chewa"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية مالاوي",
-        "common": "مالاوي"
-      },
-      "bre": {
-        "official": "Republik Malawi",
-        "common": "Malawi"
-      },
-      "ces": {
-        "official": "Malawiská republika",
-        "common": "Malawi"
-      },
-      "cym": {
-        "official": "Republic of Malawi",
-        "common": "Malawi"
-      },
-      "deu": {
-        "official": "Republik Malawi",
-        "common": "Malawi"
-      },
-      "est": {
-        "official": "Malawi Vabariik",
-        "common": "Malawi"
-      },
-      "fin": {
-        "official": "Malawin tasavalta",
-        "common": "Malawi"
-      },
-      "fra": {
-        "official": "République du Malawi",
-        "common": "Malawi"
-      },
-      "hrv": {
-        "official": "Republika Malavi",
-        "common": "Malavi"
-      },
-      "hun": {
-        "official": "Malawi Köztársaság",
-        "common": "Malawi"
-      },
-      "ita": {
-        "official": "Repubblica del Malawi",
-        "common": "Malawi"
-      },
-      "jpn": {
-        "official": "マラウイ共和国",
-        "common": "マラウイ"
-      },
-      "kor": {
-        "official": "말라위 공화국",
-        "common": "말라위"
-      },
-      "nld": {
-        "official": "Republiek Malawi",
-        "common": "Malawi"
-      },
-      "per": {
-        "official": "جمهوری مالاوی",
-        "common": "مالاوی"
-      },
-      "pol": {
-        "official": "Republika Malawi",
-        "common": "Malawi"
-      },
-      "por": {
-        "official": "República do Malawi",
-        "common": "Malawi"
-      },
-      "rus": {
-        "official": "Республика Малави",
-        "common": "Малави"
-      },
-      "slk": {
-        "official": "Malawijská republika",
-        "common": "Malawi"
-      },
-      "spa": {
-        "official": "República de Malawi",
-        "common": "Malawi"
-      },
-      "srp": {
-        "official": "Република Малави",
-        "common": "Малави"
-      },
-      "swe": {
-        "official": "Republiken Malawi",
-        "common": "Malawi"
-      },
-      "tur": {
-        "official": "Malavi Cumhuriyeti",
-        "common": "Malavi"
-      },
-      "urd": {
-        "official": "جمہوریہ ملاوی",
-        "common": "ملاوی"
-      },
-      "zho": {
-        "official": "马拉维共和国",
-        "common": "马拉维"
-      }
-    },
-    "latlng": [
-      -13.5,
-      34.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "MOZ",
-      "TZA",
-      "ZMB"
-    ],
-    "area": 118484.0,
-    "demonyms": {
-      "eng": {
-        "f": "Malawian",
-        "m": "Malawian"
-      },
-      "fra": {
-        "f": "Malawienne",
-        "m": "Malawien"
-      }
-    },
-    "flag": "🇲🇼",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
-    },
-    "population": 19129955,
-    "gini": {
-      "2016": 44.7
-    },
-    "fifa": "MWI",
-    "car": {
-      "signs": [
-        "MW"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mw.png",
-      "svg": "https://flagcdn.com/mw.svg",
-      "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -13.97,
-        33.78
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Oman",
       "official": "Sultanate of Oman",
       "nativeName": {
@@ -23835,224 +23838,6 @@
   },
   {
     "name": {
-      "common": "Czechia",
-      "official": "Czech Republic",
-      "nativeName": {
-        "ces": {
-          "official": "Česká republika",
-          "common": "Česko"
-        },
-        "slk": {
-          "official": "Česká republika",
-          "common": "Česko"
-        }
-      }
-    },
-    "tld": [
-      ".cz"
-    ],
-    "cca2": "CZ",
-    "ccn3": "203",
-    "cca3": "CZE",
-    "cioc": "CZE",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CZK": {
-        "name": "Czech koruna",
-        "symbol": "Kč"
-      }
-    },
-    "idd": {
-      "root": "+4",
-      "suffixes": [
-        "20"
-      ]
-    },
-    "capital": [
-      "Prague"
-    ],
-    "altSpellings": [
-      "CZ",
-      "Česká republika",
-      "Česko"
-    ],
-    "region": "Europe",
-    "subregion": "Central Europe",
-    "languages": {
-      "ces": "Czech",
-      "slk": "Slovak"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية التشيك",
-        "common": "التشيك"
-      },
-      "bre": {
-        "official": "Republik Tchek",
-        "common": "Tchekia"
-      },
-      "ces": {
-        "official": "Česká republika",
-        "common": "Česko"
-      },
-      "cym": {
-        "official": "Y Weriniaeth Tsiec",
-        "common": "Y Weriniaeth Tsiec"
-      },
-      "deu": {
-        "official": "Tschechische Republik",
-        "common": "Tschechien"
-      },
-      "est": {
-        "official": "Tšehhi Vabariik",
-        "common": "Tšehhi"
-      },
-      "fin": {
-        "official": "Tšekin tasavalta",
-        "common": "Tšekki"
-      },
-      "fra": {
-        "official": "République tchèque",
-        "common": "Tchéquie"
-      },
-      "hrv": {
-        "official": "Češka",
-        "common": "Češka"
-      },
-      "hun": {
-        "official": "Cseh Köztársaság",
-        "common": "Csehország"
-      },
-      "ita": {
-        "official": "Repubblica Ceca",
-        "common": "Cechia"
-      },
-      "jpn": {
-        "official": "チェコ共和国",
-        "common": "チェコ"
-      },
-      "kor": {
-        "official": "체코",
-        "common": "체코"
-      },
-      "nld": {
-        "official": "Tsjechische Republiek",
-        "common": "Tsjechië"
-      },
-      "per": {
-        "official": "جمهوری چک",
-        "common": "جمهوری چک"
-      },
-      "pol": {
-        "official": "Republika Czeska",
-        "common": "Czechy"
-      },
-      "por": {
-        "official": "República Checa",
-        "common": "Chéquia"
-      },
-      "rus": {
-        "official": "Чешская Республика",
-        "common": "Чехия"
-      },
-      "slk": {
-        "official": "Česká republika",
-        "common": "Česko"
-      },
-      "spa": {
-        "official": "República Checa",
-        "common": "Chequia"
-      },
-      "srp": {
-        "official": "Чешка Република",
-        "common": "Чешка"
-      },
-      "swe": {
-        "official": "Republiken Tjeckien",
-        "common": "Tjeckien"
-      },
-      "tur": {
-        "official": "Çek Cumhuriyeti",
-        "common": "Çekya"
-      },
-      "urd": {
-        "official": "چيک جمہوريہ",
-        "common": "چيک"
-      },
-      "zho": {
-        "official": "捷克共和国",
-        "common": "捷克"
-      }
-    },
-    "latlng": [
-      49.75,
-      15.5
-    ],
-    "landlocked": true,
-    "borders": [
-      "AUT",
-      "DEU",
-      "POL",
-      "SVK"
-    ],
-    "area": 78865.0,
-    "demonyms": {
-      "eng": {
-        "f": "Czech",
-        "m": "Czech"
-      },
-      "fra": {
-        "f": "Tchèque",
-        "m": "Tchèque"
-      }
-    },
-    "flag": "🇨🇿",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
-    },
-    "population": 10698896,
-    "gini": {
-      "2018": 25.0
-    },
-    "fifa": "CZE",
-    "car": {
-      "signs": [
-        "CZ"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cz.png",
-      "svg": "https://flagcdn.com/cz.svg",
-      "alt": "The flag of Czechia is composed of two equal horizontal bands of white and red, with a blue isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end and spans about two-fifth the width of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cz.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cz.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        50.08,
-        14.47
-      ]
-    },
-    "postalCode": {
-      "format": "### ##",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Estonia",
       "official": "Republic of Estonia",
       "nativeName": {
@@ -24890,218 +24675,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Ireland",
-      "official": "Republic of Ireland",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Ireland",
-          "common": "Ireland"
-        },
-        "gle": {
-          "official": "Poblacht na hÉireann",
-          "common": "Éire"
-        }
-      }
-    },
-    "tld": [
-      ".ie"
-    ],
-    "cca2": "IE",
-    "ccn3": "372",
-    "cca3": "IRL",
-    "cioc": "IRL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "EUR": {
-        "name": "Euro",
-        "symbol": "€"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "53"
-      ]
-    },
-    "capital": [
-      "Dublin"
-    ],
-    "altSpellings": [
-      "IE",
-      "Éire",
-      "Republic of Ireland",
-      "Poblacht na hÉireann"
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "languages": {
-      "eng": "English",
-      "gle": "Irish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية أيرلندا",
-        "common": "أيرلندا"
-      },
-      "bre": {
-        "official": "Republik Iwerzhon",
-        "common": "Iwerzhon"
-      },
-      "ces": {
-        "official": "Irsko",
-        "common": "Irsko"
-      },
-      "cym": {
-        "official": "Republic of Ireland",
-        "common": "Ireland"
-      },
-      "deu": {
-        "official": "Republik Irland",
-        "common": "Irland"
-      },
-      "est": {
-        "official": "Iirimaa",
-        "common": "Iirimaa"
-      },
-      "fin": {
-        "official": "Irlannin tasavalta",
-        "common": "Irlanti"
-      },
-      "fra": {
-        "official": "République d'Irlande",
-        "common": "Irlande"
-      },
-      "hrv": {
-        "official": "Republika Irska",
-        "common": "Irska"
-      },
-      "hun": {
-        "official": "Ír Köztársaság",
-        "common": "Írország"
-      },
-      "ita": {
-        "official": "Repubblica d'Irlanda",
-        "common": "Irlanda"
-      },
-      "jpn": {
-        "official": "アイルランド共和国",
-        "common": "アイルランド"
-      },
-      "kor": {
-        "official": "아일랜드 공화국",
-        "common": "아일랜드"
-      },
-      "nld": {
-        "official": "Republic of Ireland",
-        "common": "Ierland"
-      },
-      "per": {
-        "official": "ایرلند",
-        "common": "ایرلند"
-      },
-      "pol": {
-        "official": "Republika Irlandii",
-        "common": "Irlandia"
-      },
-      "por": {
-        "official": "República da Irlanda",
-        "common": "Irlanda"
-      },
-      "rus": {
-        "official": "Ирландия",
-        "common": "Ирландия"
-      },
-      "slk": {
-        "official": "Írska republika",
-        "common": "Írsko"
-      },
-      "spa": {
-        "official": "República de Irlanda",
-        "common": "Irlanda"
-      },
-      "srp": {
-        "official": "Република Ирска",
-        "common": "Ирска"
-      },
-      "swe": {
-        "official": "Irland",
-        "common": "Irland"
-      },
-      "tur": {
-        "official": "İrlanda Cumhuriyeti",
-        "common": "İrlanda"
-      },
-      "urd": {
-        "official": "جمہوریہ جزیرہ آئرلینڈ",
-        "common": "جزیرہ آئرلینڈ"
-      },
-      "zho": {
-        "official": "爱尔兰共和国",
-        "common": "爱尔兰"
-      }
-    },
-    "latlng": [
-      53.0,
-      -8.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "GBR"
-    ],
-    "area": 70273.0,
-    "demonyms": {
-      "eng": {
-        "f": "Irish",
-        "m": "Irish"
-      },
-      "fra": {
-        "f": "Irlandaise",
-        "m": "Irlandais"
-      }
-    },
-    "flag": "🇮🇪",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
-    },
-    "population": 4994724,
-    "gini": {
-      "2017": 31.4
-    },
-    "fifa": "IRL",
-    "car": {
-      "signs": [
-        "IRL"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ie.png",
-      "svg": "https://flagcdn.com/ie.svg",
-      "alt": "The flag of Ireland is composed of three equal vertical bands of green, white and orange."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ie.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ie.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        53.32,
-        -6.23
-      ]
     }
   },
   {
@@ -27245,6 +26818,433 @@
     "postalCode": {
       "format": "####",
       "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "nativeName": {
+        "eng": {
+          "official": "Malaysia",
+          "common": "Malaysia"
+        },
+        "msa": {
+          "official": "مليسيا",
+          "common": "مليسيا"
+        }
+      }
+    },
+    "tld": [
+      ".my"
+    ],
+    "cca2": "MY",
+    "ccn3": "458",
+    "cca3": "MYS",
+    "cioc": "MAS",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MYR": {
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "altSpellings": [
+      "MY"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    },
+    "translations": {
+      "ara": {
+        "official": "ماليزيا",
+        "common": "ماليزيا"
+      },
+      "bre": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "ces": {
+        "official": "Malajsie",
+        "common": "Malajsie"
+      },
+      "cym": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "deu": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "est": {
+        "official": "Malaisia",
+        "common": "Malaisia"
+      },
+      "fin": {
+        "official": "Malesia",
+        "common": "Malesia"
+      },
+      "fra": {
+        "official": "Fédération de Malaisie",
+        "common": "Malaisie"
+      },
+      "hrv": {
+        "official": "Malezija",
+        "common": "Malezija"
+      },
+      "hun": {
+        "official": "Malajzia",
+        "common": "Malajzia"
+      },
+      "ita": {
+        "official": "Malaysia",
+        "common": "Malesia"
+      },
+      "jpn": {
+        "official": "マレーシア",
+        "common": "マレーシア"
+      },
+      "kor": {
+        "official": "말레이시아",
+        "common": "말레이시아"
+      },
+      "nld": {
+        "official": "Maleisië",
+        "common": "Maleisië"
+      },
+      "per": {
+        "official": "فدراسیون مالزی",
+        "common": "مالزی"
+      },
+      "pol": {
+        "official": "Malezja",
+        "common": "Malezja"
+      },
+      "por": {
+        "official": "Malásia",
+        "common": "Malásia"
+      },
+      "rus": {
+        "official": "Малайзия",
+        "common": "Малайзия"
+      },
+      "slk": {
+        "official": "Malajzia",
+        "common": "Malajzia"
+      },
+      "spa": {
+        "official": "Malasia",
+        "common": "Malasia"
+      },
+      "srp": {
+        "official": "Малезија",
+        "common": "Малезија"
+      },
+      "swe": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "tur": {
+        "official": "Malezya",
+        "common": "Malezya"
+      },
+      "urd": {
+        "official": "ملائیشیا",
+        "common": "ملائیشیا"
+      },
+      "zho": {
+        "official": "马来西亚",
+        "common": "马来西亚"
+      }
+    },
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "area": 330803.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malaysian",
+        "m": "Malaysian"
+      },
+      "fra": {
+        "f": "Malaisienne",
+        "m": "Malaisien"
+      }
+    },
+    "flag": "🇲🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
+    },
+    "population": 32365998,
+    "gini": {
+      "2015": 41.1
+    },
+    "fifa": "MAS",
+    "car": {
+      "signs": [
+        "MAL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/my.png",
+      "svg": "https://flagcdn.com/my.svg",
+      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/my.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        3.17,
+        101.7
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malawi",
+          "common": "Malawi"
+        },
+        "nya": {
+          "official": "Chalo cha Malawi, Dziko la Malaŵi",
+          "common": "Malaŵi"
+        }
+      }
+    },
+    "tld": [
+      ".mw"
+    ],
+    "cca2": "MW",
+    "ccn3": "454",
+    "cca3": "MWI",
+    "cioc": "MAW",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MWK": {
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "65"
+      ]
+    },
+    "capital": [
+      "Lilongwe"
+    ],
+    "altSpellings": [
+      "MW",
+      "Republic of Malawi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية مالاوي",
+        "common": "مالاوي"
+      },
+      "bre": {
+        "official": "Republik Malawi",
+        "common": "Malawi"
+      },
+      "ces": {
+        "official": "Malawiská republika",
+        "common": "Malawi"
+      },
+      "cym": {
+        "official": "Republic of Malawi",
+        "common": "Malawi"
+      },
+      "deu": {
+        "official": "Republik Malawi",
+        "common": "Malawi"
+      },
+      "est": {
+        "official": "Malawi Vabariik",
+        "common": "Malawi"
+      },
+      "fin": {
+        "official": "Malawin tasavalta",
+        "common": "Malawi"
+      },
+      "fra": {
+        "official": "République du Malawi",
+        "common": "Malawi"
+      },
+      "hrv": {
+        "official": "Republika Malavi",
+        "common": "Malavi"
+      },
+      "hun": {
+        "official": "Malawi Köztársaság",
+        "common": "Malawi"
+      },
+      "ita": {
+        "official": "Repubblica del Malawi",
+        "common": "Malawi"
+      },
+      "jpn": {
+        "official": "マラウイ共和国",
+        "common": "マラウイ"
+      },
+      "kor": {
+        "official": "말라위 공화국",
+        "common": "말라위"
+      },
+      "nld": {
+        "official": "Republiek Malawi",
+        "common": "Malawi"
+      },
+      "per": {
+        "official": "جمهوری مالاوی",
+        "common": "مالاوی"
+      },
+      "pol": {
+        "official": "Republika Malawi",
+        "common": "Malawi"
+      },
+      "por": {
+        "official": "República do Malawi",
+        "common": "Malawi"
+      },
+      "rus": {
+        "official": "Республика Малави",
+        "common": "Малави"
+      },
+      "slk": {
+        "official": "Malawijská republika",
+        "common": "Malawi"
+      },
+      "spa": {
+        "official": "República de Malawi",
+        "common": "Malawi"
+      },
+      "srp": {
+        "official": "Република Малави",
+        "common": "Малави"
+      },
+      "swe": {
+        "official": "Republiken Malawi",
+        "common": "Malawi"
+      },
+      "tur": {
+        "official": "Malavi Cumhuriyeti",
+        "common": "Malavi"
+      },
+      "urd": {
+        "official": "جمہوریہ ملاوی",
+        "common": "ملاوی"
+      },
+      "zho": {
+        "official": "马拉维共和国",
+        "common": "马拉维"
+      }
+    },
+    "latlng": [
+      -13.5,
+      34.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "area": 118484.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malawian",
+        "m": "Malawian"
+      },
+      "fra": {
+        "f": "Malawienne",
+        "m": "Malawien"
+      }
+    },
+    "flag": "🇲🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
+    },
+    "population": 19129955,
+    "gini": {
+      "2016": 44.7
+    },
+    "fifa": "MWI",
+    "car": {
+      "signs": [
+        "MW"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mw.png",
+      "svg": "https://flagcdn.com/mw.svg",
+      "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -13.97,
+        33.78
+      ]
     }
   },
   {
