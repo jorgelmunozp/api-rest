@@ -3220,7 +3220,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "2",
       "suffixes": [
         "2"
       ]
@@ -3450,7 +3450,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "01",
       "suffixes": [
         "01"
       ]
@@ -3658,7 +3658,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "29",
       "suffixes": [
         "29"
       ]
@@ -3872,7 +3872,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "75",
       "suffixes": [
         "75"
       ]
@@ -4091,7 +4091,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "91",
       "suffixes": [
         "91"
       ]
@@ -4284,8 +4284,8 @@
   },
   {
     "name": {
-      "common": "Bosnia and Herzegovina",
-      "official": "Bosnia and Herzegovina",
+      "common": "Bosnia & Herzegovina",
+      "official": "Bosnia & Herzegovina",
       "nativeName": {
         "bos": {
           "official": "Bosna i Hercegovina",
@@ -4313,13 +4313,13 @@
     "unMember": true,
     "currencies": {
       "BAM": {
-        "name": "Bosnia and Herzegovina convertible mark",
+        "name": "Bosnia & Herzegovina convertible mark",
         "symbol": "KM"
       }
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "87",
       "suffixes": [
         "87"
       ]
@@ -4487,7 +4487,7 @@
     "flags": {
       "png": "https://flagcdn.com/w320/ba.png",
       "svg": "https://flagcdn.com/ba.svg",
-      "alt": "The flag of Bosnia and Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field."
+      "alt": "The flag of Bosnia & Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field."
     },
     "coatOfArms": {
       "png": "https://mainfacts.com/media/images/coats_of_arms/ba.png",
