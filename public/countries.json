@@ -21649,6 +21649,1478 @@
   },
   {
     "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "nativeName": {
+        "eng": {
+          "official": "Malaysia",
+          "common": "Malaysia"
+        },
+        "msa": {
+          "official": "مليسيا",
+          "common": "مليسيا"
+        }
+      }
+    },
+    "tld": [
+      ".my"
+    ],
+    "cca2": "MY",
+    "ccn3": "458",
+    "cca3": "MYS",
+    "cioc": "MAS",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MYR": {
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "altSpellings": [
+      "MY"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    },
+    "translations": {
+      "ara": {
+        "official": "ماليزيا",
+        "common": "ماليزيا"
+      },
+      "bre": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "ces": {
+        "official": "Malajsie",
+        "common": "Malajsie"
+      },
+      "cym": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "deu": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "est": {
+        "official": "Malaisia",
+        "common": "Malaisia"
+      },
+      "fin": {
+        "official": "Malesia",
+        "common": "Malesia"
+      },
+      "fra": {
+        "official": "Fédération de Malaisie",
+        "common": "Malaisie"
+      },
+      "hrv": {
+        "official": "Malezija",
+        "common": "Malezija"
+      },
+      "hun": {
+        "official": "Malajzia",
+        "common": "Malajzia"
+      },
+      "ita": {
+        "official": "Malaysia",
+        "common": "Malesia"
+      },
+      "jpn": {
+        "official": "マレーシア",
+        "common": "マレーシア"
+      },
+      "kor": {
+        "official": "말레이시아",
+        "common": "말레이시아"
+      },
+      "nld": {
+        "official": "Maleisië",
+        "common": "Maleisië"
+      },
+      "per": {
+        "official": "فدراسیون مالزی",
+        "common": "مالزی"
+      },
+      "pol": {
+        "official": "Malezja",
+        "common": "Malezja"
+      },
+      "por": {
+        "official": "Malásia",
+        "common": "Malásia"
+      },
+      "rus": {
+        "official": "Малайзия",
+        "common": "Малайзия"
+      },
+      "slk": {
+        "official": "Malajzia",
+        "common": "Malajzia"
+      },
+      "spa": {
+        "official": "Malasia",
+        "common": "Malasia"
+      },
+      "srp": {
+        "official": "Малезија",
+        "common": "Малезија"
+      },
+      "swe": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "tur": {
+        "official": "Malezya",
+        "common": "Malezya"
+      },
+      "urd": {
+        "official": "ملائیشیا",
+        "common": "ملائیشیا"
+      },
+      "zho": {
+        "official": "马来西亚",
+        "common": "马来西亚"
+      }
+    },
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "area": 330803.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malaysian",
+        "m": "Malaysian"
+      },
+      "fra": {
+        "f": "Malaisienne",
+        "m": "Malaisien"
+      }
+    },
+    "flag": "🇲🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
+    },
+    "population": 32365998,
+    "gini": {
+      "2015": 41.1
+    },
+    "fifa": "MAS",
+    "car": {
+      "signs": [
+        "MAL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/my.png",
+      "svg": "https://flagcdn.com/my.svg",
+      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/my.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        3.17,
+        101.7
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malawi",
+          "common": "Malawi"
+        },
+        "nya": {
+          "official": "Chalo cha Malawi, Dziko la Malaŵi",
+          "common": "Malaŵi"
+        }
+      }
+    },
+    "tld": [
+      ".mw"
+    ],
+    "cca2": "MW",
+    "ccn3": "454",
+    "cca3": "MWI",
+    "cioc": "MAW",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MWK": {
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "65"
+      ]
+    },
+    "capital": [
+      "Lilongwe"
+    ],
+    "altSpellings": [
+      "MW",
+      "Republic of Malawi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية مالاوي",
+        "common": "مالاوي"
+      },
+      "bre": {
+        "official": "Republik Malawi",
+        "common": "Malawi"
+      },
+      "ces": {
+        "official": "Malawiská republika",
+        "common": "Malawi"
+      },
+      "cym": {
+        "official": "Republic of Malawi",
+        "common": "Malawi"
+      },
+      "deu": {
+        "official": "Republik Malawi",
+        "common": "Malawi"
+      },
+      "est": {
+        "official": "Malawi Vabariik",
+        "common": "Malawi"
+      },
+      "fin": {
+        "official": "Malawin tasavalta",
+        "common": "Malawi"
+      },
+      "fra": {
+        "official": "République du Malawi",
+        "common": "Malawi"
+      },
+      "hrv": {
+        "official": "Republika Malavi",
+        "common": "Malavi"
+      },
+      "hun": {
+        "official": "Malawi Köztársaság",
+        "common": "Malawi"
+      },
+      "ita": {
+        "official": "Repubblica del Malawi",
+        "common": "Malawi"
+      },
+      "jpn": {
+        "official": "マラウイ共和国",
+        "common": "マラウイ"
+      },
+      "kor": {
+        "official": "말라위 공화국",
+        "common": "말라위"
+      },
+      "nld": {
+        "official": "Republiek Malawi",
+        "common": "Malawi"
+      },
+      "per": {
+        "official": "جمهوری مالاوی",
+        "common": "مالاوی"
+      },
+      "pol": {
+        "official": "Republika Malawi",
+        "common": "Malawi"
+      },
+      "por": {
+        "official": "República do Malawi",
+        "common": "Malawi"
+      },
+      "rus": {
+        "official": "Республика Малави",
+        "common": "Малави"
+      },
+      "slk": {
+        "official": "Malawijská republika",
+        "common": "Malawi"
+      },
+      "spa": {
+        "official": "República de Malawi",
+        "common": "Malawi"
+      },
+      "srp": {
+        "official": "Република Малави",
+        "common": "Малави"
+      },
+      "swe": {
+        "official": "Republiken Malawi",
+        "common": "Malawi"
+      },
+      "tur": {
+        "official": "Malavi Cumhuriyeti",
+        "common": "Malavi"
+      },
+      "urd": {
+        "official": "جمہوریہ ملاوی",
+        "common": "ملاوی"
+      },
+      "zho": {
+        "official": "马拉维共和国",
+        "common": "马拉维"
+      }
+    },
+    "latlng": [
+      -13.5,
+      34.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "area": 118484.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malawian",
+        "m": "Malawian"
+      },
+      "fra": {
+        "f": "Malawienne",
+        "m": "Malawien"
+      }
+    },
+    "flag": "🇲🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
+    },
+    "population": 19129955,
+    "gini": {
+      "2016": 44.7
+    },
+    "fifa": "MWI",
+    "car": {
+      "signs": [
+        "MW"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mw.png",
+      "svg": "https://flagcdn.com/mw.svg",
+      "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -13.97,
+        33.78
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Maldives",
+      "official": "Republic of the Maldives",
+      "nativeName": {
+        "div": {
+          "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+          "common": "ދިވެހިރާއްޖޭގެ"
+        }
+      }
+    },
+    "tld": [
+      ".mv"
+    ],
+    "cca2": "MV",
+    "ccn3": "462",
+    "cca3": "MDV",
+    "cioc": "MDV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MVR": {
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "60"
+      ]
+    },
+    "capital": [
+      "Malé"
+    ],
+    "altSpellings": [
+      "MV",
+      "Maldive Islands",
+      "Republic of the Maldives",
+      "Dhivehi Raajjeyge Jumhooriyya"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "div": "Maldivian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية المالديف",
+        "common": "المالديف"
+      },
+      "bre": {
+        "official": "Republik Maldivez",
+        "common": "Maldivez"
+      },
+      "ces": {
+        "official": "Maledivská republika",
+        "common": "Maledivy"
+      },
+      "cym": {
+        "official": "Republic of the Maldives",
+        "common": "Maldives"
+      },
+      "deu": {
+        "official": "Republik Malediven",
+        "common": "Malediven"
+      },
+      "est": {
+        "official": "Maldiivi Vabariik",
+        "common": "Maldiivid"
+      },
+      "fin": {
+        "official": "Malediivien tasavalta",
+        "common": "Malediivit"
+      },
+      "fra": {
+        "official": "République des Maldives",
+        "common": "Maldives"
+      },
+      "hrv": {
+        "official": "Republika Maldivi",
+        "common": "Maldivi"
+      },
+      "hun": {
+        "official": "Maldív-szigetek",
+        "common": "Maldív-szigetek"
+      },
+      "ita": {
+        "official": "Repubblica delle Maldive",
+        "common": "Maldive"
+      },
+      "jpn": {
+        "official": "モルディブ共和国",
+        "common": "モルディブ"
+      },
+      "kor": {
+        "official": "몰디브 공화국",
+        "common": "몰디브"
+      },
+      "nld": {
+        "official": "Republiek van de Malediven",
+        "common": "Maldiven"
+      },
+      "per": {
+        "official": "جمهوری مالدیو",
+        "common": "مالدیو"
+      },
+      "pol": {
+        "official": "Republika Malediwów",
+        "common": "Malediwy"
+      },
+      "por": {
+        "official": "República das Maldivas",
+        "common": "Maldivas"
+      },
+      "rus": {
+        "official": "Республика Мальдивы",
+        "common": "Мальдивы"
+      },
+      "slk": {
+        "official": "Maldivská republika",
+        "common": "Maldivy"
+      },
+      "spa": {
+        "official": "República de las Maldivas",
+        "common": "Maldivas"
+      },
+      "srp": {
+        "official": "Малдивска Република",
+        "common": "Малдиви"
+      },
+      "swe": {
+        "official": "Republiken Maldiverna",
+        "common": "Maldiverna"
+      },
+      "tur": {
+        "official": "Maldivler Cumhuriyeti",
+        "common": "Maldivler"
+      },
+      "urd": {
+        "official": "جمہوریہ مالدیپ",
+        "common": "مالدیپ"
+      },
+      "zho": {
+        "official": "马尔代夫共和国",
+        "common": "马尔代夫"
+      }
+    },
+    "latlng": [
+      3.25,
+      73.0
+    ],
+    "landlocked": false,
+    "area": 300.0,
+    "demonyms": {
+      "eng": {
+        "f": "Maldivan",
+        "m": "Maldivan"
+      },
+      "fra": {
+        "f": "Maldivienne",
+        "m": "Maldivien"
+      }
+    },
+    "flag": "🇲🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
+    },
+    "population": 540542,
+    "gini": {
+      "2016": 31.3
+    },
+    "fifa": "MDV",
+    "car": {
+      "signs": [
+        "MV"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mv.png",
+      "svg": "https://flagcdn.com/mv.svg",
+      "alt": "The flag of Maldives has a red field, at the center of which is a large green rectangle bearing a fly-side facing white crescent."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        4.17,
+        73.51
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali",
+      "nativeName": {
+        "fra": {
+          "official": "République du Mali",
+          "common": "Mali"
+        }
+      }
+    },
+    "tld": [
+      ".ml"
+    ],
+    "cca2": "ML",
+    "ccn3": "466",
+    "cca3": "MLI",
+    "cioc": "MLI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "23"
+      ]
+    },
+    "capital": [
+      "Bamako"
+    ],
+    "altSpellings": [
+      "ML",
+      "Republic of Mali",
+      "République du Mali"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية مالي",
+        "common": "مالي"
+      },
+      "bre": {
+        "official": "Republik Mali",
+        "common": "Mali"
+      },
+      "ces": {
+        "official": "Republika Mali",
+        "common": "Mali"
+      },
+      "cym": {
+        "official": "Republic of Mali",
+        "common": "Mali"
+      },
+      "deu": {
+        "official": "Republik Mali",
+        "common": "Mali"
+      },
+      "est": {
+        "official": "Mali Vabariik",
+        "common": "Mali"
+      },
+      "fin": {
+        "official": "Malin tasavalta",
+        "common": "Mali"
+      },
+      "fra": {
+        "official": "République du Mali",
+        "common": "Mali"
+      },
+      "hrv": {
+        "official": "Republika Mali",
+        "common": "Mali"
+      },
+      "hun": {
+        "official": "Mali Köztársaság",
+        "common": "Mali"
+      },
+      "ita": {
+        "official": "Repubblica del Mali",
+        "common": "Mali"
+      },
+      "jpn": {
+        "official": "マリ共和国",
+        "common": "マリ"
+      },
+      "kor": {
+        "official": "말리 공화국",
+        "common": "말리"
+      },
+      "nld": {
+        "official": "Republiek Mali",
+        "common": "Mali"
+      },
+      "per": {
+        "official": "جمهوری مالی",
+        "common": "مالی"
+      },
+      "pol": {
+        "official": "Republika Mali",
+        "common": "Mali"
+      },
+      "por": {
+        "official": "República do Mali",
+        "common": "Mali"
+      },
+      "rus": {
+        "official": "Республика Мали",
+        "common": "Мали"
+      },
+      "slk": {
+        "official": "Malijská republika",
+        "common": "Mali"
+      },
+      "spa": {
+        "official": "República de Malí",
+        "common": "Mali"
+      },
+      "srp": {
+        "official": "Република Мали",
+        "common": "Мали"
+      },
+      "swe": {
+        "official": "Republiken Mali",
+        "common": "Mali"
+      },
+      "tur": {
+        "official": "Mali Cumhuriyeti",
+        "common": "Mali"
+      },
+      "urd": {
+        "official": "جمہوریہ مالی",
+        "common": "مالی"
+      },
+      "zho": {
+        "official": "马里共和国",
+        "common": "马里"
+      }
+    },
+    "latlng": [
+      17.0,
+      -4.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "area": 1240192.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malian",
+        "m": "Malian"
+      },
+      "fra": {
+        "f": "Malienne",
+        "m": "Malien"
+      }
+    },
+    "flag": "🇲🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
+    },
+    "population": 20250834,
+    "gini": {
+      "2009": 33.0
+    },
+    "fifa": "MLI",
+    "car": {
+      "signs": [
+        "RMM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ml.png",
+      "svg": "https://flagcdn.com/ml.svg",
+      "alt": "The flag of Mali is composed of three equal vertical bands of green, yellow and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ml.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ml.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.65,
+        -8.0
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malta",
+          "common": "Malta"
+        },
+        "mlt": {
+          "official": "Repubblika ta ' Malta",
+          "common": "Malta"
+        }
+      }
+    },
+    "tld": [
+      ".mt"
+    ],
+    "cca2": "MT",
+    "ccn3": "470",
+    "cca3": "MLT",
+    "cioc": "MLT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "56"
+      ]
+    },
+    "capital": [
+      "Valletta"
+    ],
+    "altSpellings": [
+      "MT",
+      "Republic of Malta",
+      "Repubblika ta' Malta"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "eng": "English",
+      "mlt": "Maltese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية مالطا",
+        "common": "مالطا"
+      },
+      "bre": {
+        "official": "Republik Malta",
+        "common": "Malta"
+      },
+      "ces": {
+        "official": "Maltská republika",
+        "common": "Malta"
+      },
+      "cym": {
+        "official": "Republic of Malta",
+        "common": "Malta"
+      },
+      "deu": {
+        "official": "Republik Malta",
+        "common": "Malta"
+      },
+      "est": {
+        "official": "Malta Vabariik",
+        "common": "Malta"
+      },
+      "fin": {
+        "official": "Maltan tasavalta",
+        "common": "Malta"
+      },
+      "fra": {
+        "official": "République de Malte",
+        "common": "Malte"
+      },
+      "hrv": {
+        "official": "Republika Malta",
+        "common": "Malta"
+      },
+      "hun": {
+        "official": "Máltai Köztársaság",
+        "common": "Málta"
+      },
+      "ita": {
+        "official": "Repubblica di Malta",
+        "common": "Malta"
+      },
+      "jpn": {
+        "official": "マルタ共和国",
+        "common": "マルタ"
+      },
+      "kor": {
+        "official": "몰타 공화국",
+        "common": "몰타"
+      },
+      "nld": {
+        "official": "Republiek Malta",
+        "common": "Malta"
+      },
+      "per": {
+        "official": "جمهوری مالت",
+        "common": "مالت"
+      },
+      "pol": {
+        "official": "Republika Malty",
+        "common": "Malta"
+      },
+      "por": {
+        "official": "República de Malta",
+        "common": "Malta"
+      },
+      "rus": {
+        "official": "Республика Мальта",
+        "common": "Мальта"
+      },
+      "slk": {
+        "official": "Maltská republika",
+        "common": "Malta"
+      },
+      "spa": {
+        "official": "República de Malta",
+        "common": "Malta"
+      },
+      "srp": {
+        "official": " Република Малта",
+        "common": "Малта"
+      },
+      "swe": {
+        "official": "Republiken Malta",
+        "common": "Malta"
+      },
+      "tur": {
+        "official": "Malta Cumhuriyeti",
+        "common": "Malta"
+      },
+      "urd": {
+        "official": "جمہوریہ مالٹا",
+        "common": "مالٹا"
+      },
+      "zho": {
+        "official": "马耳他共和国",
+        "common": "马耳他"
+      }
+    },
+    "latlng": [
+      35.9375,
+      14.3754
+    ],
+    "landlocked": false,
+    "area": 316.0,
+    "demonyms": {
+      "eng": {
+        "f": "Maltese",
+        "m": "Maltese"
+      },
+      "fra": {
+        "f": "Maltaise",
+        "m": "Maltais"
+      }
+    },
+    "flag": "🇲🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
+    },
+    "population": 525285,
+    "gini": {
+      "2018": 28.7
+    },
+    "fifa": "MLT",
+    "car": {
+      "signs": [
+        "M"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mt.png",
+      "svg": "https://flagcdn.com/mt.svg",
+      "alt": "The flag of Malta is composed of two equal vertical bands of white and red. A representation of the George cross edged in red is situated on the upper hoist-side corner of the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        35.88,
+        14.5
+      ]
+    },
+    "postalCode": {
+      "format": "@@@ ###|@@@ ##",
+      "regex": "^([A-Z]{3}\\d{2}\\d?)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of the Marshall Islands",
+          "common": "Marshall Islands"
+        },
+        "mah": {
+          "official": "Republic of the Marshall Islands",
+          "common": "M̧ajeļ"
+        }
+      }
+    },
+    "tld": [
+      ".mh"
+    ],
+    "cca2": "MH",
+    "ccn3": "584",
+    "cca3": "MHL",
+    "cioc": "MHL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "92"
+      ]
+    },
+    "capital": [
+      "Majuro"
+    ],
+    "altSpellings": [
+      "MH",
+      "Republic of the Marshall Islands",
+      "Aolepān Aorōkin M̧ajeļ"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية جزر مارشال",
+        "common": "جزر مارشال"
+      },
+      "bre": {
+        "official": "Republik Inizi Marshall",
+        "common": "Inizi Marshall"
+      },
+      "ces": {
+        "official": "Republika Marshallovy ostrovy",
+        "common": "Marshallovy ostrovy"
+      },
+      "cym": {
+        "official": "Republic of the Marshall Islands",
+        "common": "Marshall Islands"
+      },
+      "deu": {
+        "official": "Republik Marshallinseln",
+        "common": "Marshallinseln"
+      },
+      "est": {
+        "official": "Marshalli Saarte Vabariik",
+        "common": "Marshalli Saared"
+      },
+      "fin": {
+        "official": "Marshallinsaarten tasavalta",
+        "common": "Marshallinsaaret"
+      },
+      "fra": {
+        "official": "République des Îles Marshall",
+        "common": "Îles Marshall"
+      },
+      "hrv": {
+        "official": "Republika Maršalovi Otoci",
+        "common": "Maršalovi Otoci"
+      },
+      "hun": {
+        "official": "Marshall-szigetek",
+        "common": "Marshall-szigetek"
+      },
+      "ita": {
+        "official": "Repubblica delle Isole Marshall",
+        "common": "Isole Marshall"
+      },
+      "jpn": {
+        "official": "マーシャル諸島共和国",
+        "common": "マーシャル諸島"
+      },
+      "kor": {
+        "official": "마셜 제도 공화국",
+        "common": "마셜 제도"
+      },
+      "nld": {
+        "official": "Republiek van de Marshall-eilanden",
+        "common": "Marshalleilanden"
+      },
+      "per": {
+        "official": "جمهوری جزایر مارشال",
+        "common": "جزایر مارشال"
+      },
+      "pol": {
+        "official": "Republika Wysp Marshalla",
+        "common": "Wyspy Marshalla"
+      },
+      "por": {
+        "official": "República das Ilhas Marshall",
+        "common": "Ilhas Marshall"
+      },
+      "rus": {
+        "official": "Республика Маршалловы острова",
+        "common": "Маршалловы Острова"
+      },
+      "slk": {
+        "official": "Republika Marshallových ostrovov",
+        "common": "Marshallove ostrovy"
+      },
+      "spa": {
+        "official": "República de las Islas Marshall",
+        "common": "Islas Marshall"
+      },
+      "srp": {
+        "official": "Република Маршалска Острва",
+        "common": "Маршалска Острва"
+      },
+      "swe": {
+        "official": "Republiken Marshallöarna",
+        "common": "Marshallöarna"
+      },
+      "tur": {
+        "official": "Marshall Adaları Cumhuriyeti",
+        "common": "Marshall Adaları"
+      },
+      "urd": {
+        "official": "جمہوریہ جزائر مارشل",
+        "common": "جزائر مارشل"
+      },
+      "zho": {
+        "official": "马绍尔群岛共和国",
+        "common": "马绍尔群岛"
+      }
+    },
+    "latlng": [
+      9.0,
+      168.0
+    ],
+    "landlocked": false,
+    "area": 181.0,
+    "demonyms": {
+      "eng": {
+        "f": "Marshallese",
+        "m": "Marshallese"
+      },
+      "fra": {
+        "f": "Marshallaise",
+        "m": "Marshallais"
+      }
+    },
+    "flag": "🇲🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571771"
+    },
+    "population": 59194,
+    "car": {
+      "signs": [
+        "MH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mh.png",
+      "svg": "https://flagcdn.com/mh.svg",
+      "alt": "The flag of Marshall Islands has a blue field with two broadening adjacent diagonal bands of orange and white that extend from the lower hoist-side corner to the upper fly-side corner of the field. A large white star with twenty-four rays — four large rays at the cardinal points and twenty smaller rays — is situated in the upper hoist-side corner above the diagonal bands."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        7.1,
+        171.38
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية الإسلامية الموريتانية",
+          "common": "موريتانيا"
+        }
+      }
+    },
+    "tld": [
+      ".mr"
+    ],
+    "cca2": "MR",
+    "ccn3": "478",
+    "cca3": "MRT",
+    "cioc": "MTN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "22"
+      ]
+    },
+    "capital": [
+      "Nouakchott"
+    ],
+    "altSpellings": [
+      "MR",
+      "Islamic Republic of Mauritania",
+      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية الإسلامية الموريتانية",
+        "common": "موريتانيا"
+      },
+      "bre": {
+        "official": "Republik islamek Maouritania",
+        "common": "Maouritania"
+      },
+      "ces": {
+        "official": "Mauritánská islámská republika",
+        "common": "Mauritánie"
+      },
+      "cym": {
+        "official": "Islamic Republic of Mauritania",
+        "common": "Mauritania"
+      },
+      "deu": {
+        "official": "Islamische Republik Mauretanien",
+        "common": "Mauretanien"
+      },
+      "est": {
+        "official": "Mauritaania Islamivabariik",
+        "common": "Mauritaania"
+      },
+      "fin": {
+        "official": "Mauritanian islamilainen tasavalta",
+        "common": "Mauritania"
+      },
+      "fra": {
+        "official": "République islamique de Mauritanie",
+        "common": "Mauritanie"
+      },
+      "hrv": {
+        "official": "Islamska Republika Mauritanija",
+        "common": "Mauritanija"
+      },
+      "hun": {
+        "official": "Mauritániai Iszlám Köztársaság",
+        "common": "Mauritánia"
+      },
+      "ita": {
+        "official": "Repubblica islamica di Mauritania",
+        "common": "Mauritania"
+      },
+      "jpn": {
+        "official": "モーリタニア·イスラム共和国",
+        "common": "モーリタニア"
+      },
+      "kor": {
+        "official": "모리타니 이슬람 공화국",
+        "common": "모리타니"
+      },
+      "nld": {
+        "official": "Islamitische Republiek Mauritanië",
+        "common": "Mauritanië"
+      },
+      "per": {
+        "official": "جمهوری اسلامی موریتانی",
+        "common": "موریتانی"
+      },
+      "pol": {
+        "official": "Islamska Republika Mauretańska",
+        "common": "Mauretania"
+      },
+      "por": {
+        "official": "República Islâmica da Mauritânia",
+        "common": "Mauritânia"
+      },
+      "rus": {
+        "official": "Исламская Республика Мавритания",
+        "common": "Мавритания"
+      },
+      "slk": {
+        "official": "Mauritánska islamská republika",
+        "common": "Mauritánia"
+      },
+      "spa": {
+        "official": "República Islámica de Mauritania",
+        "common": "Mauritania"
+      },
+      "srp": {
+        "official": "Исламска Република Мауританија",
+        "common": "Мауританија"
+      },
+      "swe": {
+        "official": "Islamiska republiken Mauretanien",
+        "common": "Mauretanien"
+      },
+      "tur": {
+        "official": "Moritanya İslam Cumhuriyeti",
+        "common": "Moritanya"
+      },
+      "urd": {
+        "official": "اسلامی جمہوریہ موریتانیہ",
+        "common": "موریتانیہ"
+      },
+      "zho": {
+        "official": "毛里塔尼亚伊斯兰共和国",
+        "common": "毛里塔尼亚"
+      }
+    },
+    "latlng": [
+      20.0,
+      -12.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "area": 1030700.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mauritanian",
+        "m": "Mauritanian"
+      },
+      "fra": {
+        "f": "Mauritanienne",
+        "m": "Mauritanien"
+      }
+    },
+    "flag": "🇲🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192763"
+    },
+    "population": 4649660,
+    "gini": {
+      "2014": 32.6
+    },
+    "fifa": "MTN",
+    "car": {
+      "signs": [
+        "RIM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mr.png",
+      "svg": "https://flagcdn.com/mr.svg",
+      "alt": "The flag of Mauritania has a green field with a thin red horizontal band at the top and bottom of the field. At the center of the field is a five-pointed yellow star above an upward facing yellow crescent."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.07,
+        -15.97
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Mauritius",
       "official": "Republic of Mauritius",
       "nativeName": {
@@ -22077,6 +23549,425 @@
   },
   {
     "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia",
+      "nativeName": {
+        "eng": {
+          "official": "Federated States of Micronesia",
+          "common": "Micronesia"
+        }
+      }
+    },
+    "tld": [
+      ".fm"
+    ],
+    "cca2": "FM",
+    "ccn3": "583",
+    "cca3": "FSM",
+    "cioc": "FSM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "91"
+      ]
+    },
+    "capital": [
+      "Palikir"
+    ],
+    "altSpellings": [
+      "FM",
+      "Federated States of Micronesia",
+      "Micronesia, Federated States of"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "ولايات ميكرونيسيا المتحدة",
+        "common": "ميكرونيسيا"
+      },
+      "bre": {
+        "official": "Stadoù Kevreet Mikronezia",
+        "common": "Mikronezia"
+      },
+      "ces": {
+        "official": "Federativní státy Mikronésie",
+        "common": "Mikronésie"
+      },
+      "cym": {
+        "official": "Federated States of Micronesia",
+        "common": "Micronesia"
+      },
+      "deu": {
+        "official": "Föderierte Staaten von Mikronesien",
+        "common": "Mikronesien"
+      },
+      "est": {
+        "official": "Mikroneesia Liiduriigid",
+        "common": "Mikroneesia"
+      },
+      "fin": {
+        "official": "Mikronesian liittovaltio",
+        "common": "Mikronesia"
+      },
+      "fra": {
+        "official": "États fédérés de Micronésie",
+        "common": "Micronésie"
+      },
+      "hrv": {
+        "official": "Savezne Države Mikronezije",
+        "common": "Mikronezija"
+      },
+      "hun": {
+        "official": "Mikronéziai Szövetségi Államok",
+        "common": "Mikronéziai Szövetségi Államok"
+      },
+      "ita": {
+        "official": "Stati federati di Micronesia",
+        "common": "Micronesia"
+      },
+      "jpn": {
+        "official": "ミクロネシア連邦",
+        "common": "ミクロネシア連邦"
+      },
+      "kor": {
+        "official": "미크로네시아 연방",
+        "common": "미크로네시아"
+      },
+      "nld": {
+        "official": "Federale Staten van Micronesia",
+        "common": "Micronesië"
+      },
+      "per": {
+        "official": "ایالات فدرال میکرونزی",
+        "common": "میکرونزی"
+      },
+      "pol": {
+        "official": "Sfederowane Stany Mikronezji",
+        "common": "Mikronezja"
+      },
+      "por": {
+        "official": "Estados Federados da Micronésia",
+        "common": "Micronésia"
+      },
+      "rus": {
+        "official": "Федеративные Штаты Микронезии",
+        "common": "Федеративные Штаты Микронезии"
+      },
+      "slk": {
+        "official": "Mikronézske federatívne štáty",
+        "common": "Mikronézia"
+      },
+      "spa": {
+        "official": "Estados Federados de Micronesia",
+        "common": "Micronesia"
+      },
+      "srp": {
+        "official": "Савез Држава Микронезије",
+        "common": "Микронезија"
+      },
+      "swe": {
+        "official": "Mikronesiska federationen",
+        "common": "Mikronesiska federationen"
+      },
+      "tur": {
+        "official": "Mikronezya Federal Devletleri",
+        "common": "Mikronezya"
+      },
+      "urd": {
+        "official": "ریاستہائے وفاقیہ مائکرونیشیا",
+        "common": "مائکرونیشیا"
+      },
+      "zho": {
+        "official": "密克罗尼西亚联邦",
+        "common": "密克罗尼西亚"
+      }
+    },
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "landlocked": false,
+    "area": 702.0,
+    "demonyms": {
+      "eng": {
+        "f": "Micronesian",
+        "m": "Micronesian"
+      },
+      "fra": {
+        "f": "Micronésienne",
+        "m": "Micronésien"
+      }
+    },
+    "flag": "🇫🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571802"
+    },
+    "population": 115021,
+    "gini": {
+      "2013": 40.1
+    },
+    "car": {
+      "signs": [
+        "FSM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+10:00",
+      "UTC+11:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/fm.png",
+      "svg": "https://flagcdn.com/fm.svg",
+      "alt": "The flag of Micronesia has a light blue field, at the center of which are four five-pointed white stars arranged in the shape of a diamond."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/fm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/fm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.92,
+        158.15
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Moldova",
+      "official": "Republic of Moldova",
+      "nativeName": {
+        "ron": {
+          "official": "Republica Moldova",
+          "common": "Moldova"
+        }
+      }
+    },
+    "tld": [
+      ".md"
+    ],
+    "cca2": "MD",
+    "ccn3": "498",
+    "cca3": "MDA",
+    "cioc": "MDA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MDL": {
+        "name": "Moldovan leu",
+        "symbol": "L"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "73"
+      ]
+    },
+    "capital": [
+      "Chișinău"
+    ],
+    "altSpellings": [
+      "MD",
+      "Moldova, Republic of",
+      "Republic of Moldova",
+      "Republica Moldova"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+      "ron": "Romanian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية مولدوڤا",
+        "common": "مولدوڤا"
+      },
+      "bre": {
+        "official": "Republik Moldova",
+        "common": "Moldova"
+      },
+      "ces": {
+        "official": "Moldavská republika",
+        "common": "Moldavsko"
+      },
+      "cym": {
+        "official": "Republic of Moldova",
+        "common": "Moldova"
+      },
+      "deu": {
+        "official": "Republik Moldau",
+        "common": "Moldawien"
+      },
+      "est": {
+        "official": "Moldova Vabariik",
+        "common": "Moldova"
+      },
+      "fin": {
+        "official": "Moldovan tasavalta",
+        "common": "Moldova"
+      },
+      "fra": {
+        "official": "République de Moldavie",
+        "common": "Moldavie"
+      },
+      "hrv": {
+        "official": "Moldavija",
+        "common": "Moldova"
+      },
+      "hun": {
+        "official": "Moldovai Köztársaság",
+        "common": "Moldova"
+      },
+      "ita": {
+        "official": "Repubblica di Moldova",
+        "common": "Moldavia"
+      },
+      "jpn": {
+        "official": "モルドバ共和国",
+        "common": "モルドバ共和国"
+      },
+      "kor": {
+        "official": "몰도바 공화국",
+        "common": "몰도바"
+      },
+      "nld": {
+        "official": "Republiek Moldavië",
+        "common": "Moldavië"
+      },
+      "per": {
+        "official": "جمهوری مولداوی",
+        "common": "مولداوی"
+      },
+      "pol": {
+        "official": "Republika Mołdawii",
+        "common": "Mołdawia"
+      },
+      "por": {
+        "official": "República da Moldávia",
+        "common": "Moldávia"
+      },
+      "rus": {
+        "official": "Молдова",
+        "common": "Молдавия"
+      },
+      "slk": {
+        "official": "Moldavská republika",
+        "common": "Moldavsko"
+      },
+      "spa": {
+        "official": "República de Moldova",
+        "common": "Moldavia"
+      },
+      "srp": {
+        "official": "Република Молдавија",
+        "common": "Молдавија"
+      },
+      "swe": {
+        "official": "Republiken Moldavien",
+        "common": "Moldavien"
+      },
+      "tur": {
+        "official": "Moldova Cumhuriyeti",
+        "common": "Moldova"
+      },
+      "urd": {
+        "official": "جمہوریہ مالدووا",
+        "common": "مالدووا"
+      },
+      "zho": {
+        "official": "摩尔多瓦共和国",
+        "common": "摩尔多瓦"
+      }
+    },
+    "latlng": [
+      47.0,
+      29.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "area": 33846.0,
+    "demonyms": {
+      "eng": {
+        "f": "Moldovan",
+        "m": "Moldovan"
+      },
+      "fra": {
+        "f": "Moldave",
+        "m": "Moldave"
+      }
+    },
+    "flag": "🇲🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
+    },
+    "population": 2617820,
+    "gini": {
+      "2018": 25.7
+    },
+    "fifa": "MDA",
+    "car": {
+      "signs": [
+        "MD"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/md.png",
+      "svg": "https://flagcdn.com/md.svg",
+      "alt": "The flag of Moldova is composed of three equal vertical bands of blue, yellow and red, with the national coat of arms centered in the yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/md.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/md.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        47.01,
+        28.9
+      ]
+    },
+    "postalCode": {
+      "format": "MD-####",
+      "regex": "^(?:MD)*(\\d{4})$"
+    }
+  },
+  {
+    "name": {
       "common": "Monaco",
       "official": "Principality of Monaco",
       "nativeName": {
@@ -22279,6 +24170,216 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Mongolia",
+      "official": "Mongolia",
+      "nativeName": {
+        "mon": {
+          "official": "Монгол улс",
+          "common": "Монгол улс"
+        }
+      }
+    },
+    "tld": [
+      ".mn"
+    ],
+    "cca2": "MN",
+    "ccn3": "496",
+    "cca3": "MNG",
+    "cioc": "MGL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MNT": {
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "76"
+      ]
+    },
+    "capital": [
+      "Ulan Bator"
+    ],
+    "altSpellings": [
+      "MN"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "mon": "Mongolian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية منغوليا",
+        "common": "منغوليا"
+      },
+      "bre": {
+        "official": "Mongolia",
+        "common": "Mongolia"
+      },
+      "ces": {
+        "official": "Stát Mongolsko",
+        "common": "Mongolsko"
+      },
+      "cym": {
+        "official": "Mongolia",
+        "common": "Mongolia"
+      },
+      "deu": {
+        "official": "Mongolei",
+        "common": "Mongolei"
+      },
+      "est": {
+        "official": "Mongoolia",
+        "common": "Mongoolia"
+      },
+      "fin": {
+        "official": "Mongolian tasavalta",
+        "common": "Mongolia"
+      },
+      "fra": {
+        "official": "Mongolie",
+        "common": "Mongolie"
+      },
+      "hrv": {
+        "official": "Mongolija",
+        "common": "Mongolija"
+      },
+      "hun": {
+        "official": "Mongólia",
+        "common": "Mongólia"
+      },
+      "ita": {
+        "official": "Mongolia",
+        "common": "Mongolia"
+      },
+      "jpn": {
+        "official": "モンゴル",
+        "common": "モンゴル"
+      },
+      "kor": {
+        "official": "몽골",
+        "common": "몽골국"
+      },
+      "nld": {
+        "official": "Mongolië",
+        "common": "Mongolië"
+      },
+      "per": {
+        "official": "مغولستان",
+        "common": "مغولستان"
+      },
+      "pol": {
+        "official": "Mongolia",
+        "common": "Mongolia"
+      },
+      "por": {
+        "official": "Mongólia",
+        "common": "Mongólia"
+      },
+      "rus": {
+        "official": "Монголия",
+        "common": "Монголия"
+      },
+      "slk": {
+        "official": "Mongolsko",
+        "common": "Mongolsko"
+      },
+      "spa": {
+        "official": "Mongolia",
+        "common": "Mongolia"
+      },
+      "srp": {
+        "official": "Монголија",
+        "common": "Монголија"
+      },
+      "swe": {
+        "official": "Mongoliet",
+        "common": "Mongoliet"
+      },
+      "tur": {
+        "official": "Moğolistan",
+        "common": "Moğolistan"
+      },
+      "urd": {
+        "official": "منگولیا",
+        "common": "منگولیا"
+      },
+      "zho": {
+        "official": "蒙古",
+        "common": "蒙古"
+      }
+    },
+    "latlng": [
+      46.0,
+      105.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "area": 1564110.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mongolian",
+        "m": "Mongolian"
+      },
+      "fra": {
+        "f": "Mongole",
+        "m": "Mongol"
+      }
+    },
+    "flag": "🇲🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/161033"
+    },
+    "population": 3278292,
+    "gini": {
+      "2018": 32.7
+    },
+    "fifa": "MNG",
+    "car": {
+      "signs": [
+        "MGL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mn.png",
+      "svg": "https://flagcdn.com/mn.svg",
+      "alt": "The flag of Mongolia is composed of three equal vertical bands of red, blue and red, with the national emblem — the Soyombo — in gold centered in the hoist-side red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        47.92,
+        106.91
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
     }
   },
   {
@@ -22710,6 +24811,651 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique",
+      "nativeName": {
+        "por": {
+          "official": "República de Moçambique",
+          "common": "Moçambique"
+        }
+      }
+    },
+    "tld": [
+      ".mz"
+    ],
+    "cca2": "MZ",
+    "ccn3": "508",
+    "cca3": "MOZ",
+    "cioc": "MOZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MZN": {
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "58"
+      ]
+    },
+    "capital": [
+      "Maputo"
+    ],
+    "altSpellings": [
+      "MZ",
+      "Republic of Mozambique",
+      "República de Moçambique"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية موزمبيق",
+        "common": "موزمبيق"
+      },
+      "bre": {
+        "official": "Republik Mozambik",
+        "common": "Mozambik"
+      },
+      "ces": {
+        "official": "Mosambická republika",
+        "common": "Mosambik"
+      },
+      "cym": {
+        "official": "Republic of Mozambique",
+        "common": "Mozambique"
+      },
+      "deu": {
+        "official": "Republik Mosambik",
+        "common": "Mosambik"
+      },
+      "est": {
+        "official": "Mosambiigi Vabariik",
+        "common": "Mosambiik"
+      },
+      "fin": {
+        "official": "Mosambikin tasavalta",
+        "common": "Mosambik"
+      },
+      "fra": {
+        "official": "République du Mozambique",
+        "common": "Mozambique"
+      },
+      "hrv": {
+        "official": "Republika Mozambiku",
+        "common": "Mozambik"
+      },
+      "hun": {
+        "official": "Mozambiki Köztársaság",
+        "common": "Mozambik"
+      },
+      "ita": {
+        "official": "Repubblica del Mozambico",
+        "common": "Mozambico"
+      },
+      "jpn": {
+        "official": "モザンビーク共和国",
+        "common": "モザンビーク"
+      },
+      "kor": {
+        "official": "모잠비크 공화국",
+        "common": "모잠비크"
+      },
+      "nld": {
+        "official": "Republiek Mozambique",
+        "common": "Mozambique"
+      },
+      "per": {
+        "official": "جمهوری موزامبیک",
+        "common": "موزامبیک"
+      },
+      "pol": {
+        "official": "Republika Mozambiku",
+        "common": "Mozambik"
+      },
+      "por": {
+        "official": "República de Moçambique",
+        "common": "Moçambique"
+      },
+      "rus": {
+        "official": "Республика Мозамбик",
+        "common": "Мозамбик"
+      },
+      "slk": {
+        "official": "Mozambická republika",
+        "common": "Mozambik"
+      },
+      "spa": {
+        "official": "República de Mozambique",
+        "common": "Mozambique"
+      },
+      "srp": {
+        "official": "Република Мозамбик",
+        "common": "Мозамбик"
+      },
+      "swe": {
+        "official": "Republiken Moçambique",
+        "common": "Moçambique"
+      },
+      "tur": {
+        "official": "Mozambik Cumhuriyeti",
+        "common": "Mozambik"
+      },
+      "urd": {
+        "official": "جمہوریہ موزمبیق",
+        "common": "موزمبیق"
+      },
+      "zho": {
+        "official": "莫桑比克共和国",
+        "common": "莫桑比克"
+      }
+    },
+    "latlng": [
+      -18.25,
+      35.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 801590.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mozambican",
+        "m": "Mozambican"
+      },
+      "fra": {
+        "f": "Mozambicaine",
+        "m": "Mozambicain"
+      }
+    },
+    "flag": "🇲🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195273"
+    },
+    "population": 31255435,
+    "gini": {
+      "2014": 54.0
+    },
+    "fifa": "MOZ",
+    "car": {
+      "signs": [
+        "MOC"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mz.png",
+      "svg": "https://flagcdn.com/mz.svg",
+      "alt": "The flag of Mozambique is composed of three equal horizontal bands of teal, black with white top and bottom edges, and yellow. A red isosceles triangle spanning about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end. This triangle bears a crossed rifle and hoe in black superimposed on an open white book which is superimposed on a five-pointed yellow star."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -25.95,
+        32.58
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Myanmar",
+      "official": "Republic of the Union of Myanmar",
+      "nativeName": {
+        "mya": {
+          "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+          "common": "မြန်မာ"
+        }
+      }
+    },
+    "tld": [
+      ".mm"
+    ],
+    "cca2": "MM",
+    "ccn3": "104",
+    "cca3": "MMR",
+    "cioc": "MYA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MMK": {
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "5"
+      ]
+    },
+    "capital": [
+      "Naypyidaw"
+    ],
+    "altSpellings": [
+      "MM",
+      "Burma",
+      "Republic of the Union of Myanmar",
+      "Pyidaunzu Thanmăda Myăma Nainngandaw"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "mya": "Burmese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية اتحاد ميانمار",
+        "common": "ميانمار"
+      },
+      "bre": {
+        "official": "Republik Unaniezh Myanmar",
+        "common": "Myanmar"
+      },
+      "ces": {
+        "official": "Republika Myanmarský svaz",
+        "common": "Myanmar"
+      },
+      "cym": {
+        "official": "Republic of the Union of Myanmar",
+        "common": "Myanmar"
+      },
+      "deu": {
+        "official": "Republik der Union Myanmar",
+        "common": "Myanmar"
+      },
+      "est": {
+        "official": "Myanmari Liidu Vabariik",
+        "common": "Myanmar"
+      },
+      "fin": {
+        "official": "Myanmarin liiton tasavalta",
+        "common": "Myanmar"
+      },
+      "fra": {
+        "official": "République de l'Union du Myanmar",
+        "common": "Birmanie"
+      },
+      "hrv": {
+        "official": "Republika Unije Mijanmar",
+        "common": "Mijanmar"
+      },
+      "hun": {
+        "official": "Mianmari Államszövetség Köztársasága",
+        "common": "Mianmar"
+      },
+      "ita": {
+        "official": "Repubblica dell'Unione di Myanmar",
+        "common": "Birmania"
+      },
+      "jpn": {
+        "official": "ミャンマー連邦共和国",
+        "common": "ミャンマー"
+      },
+      "kor": {
+        "official": "미얀마 연방 공화국",
+        "common": "미얀마"
+      },
+      "nld": {
+        "official": "Republiek van de Unie van Myanmar",
+        "common": "Myanmar"
+      },
+      "per": {
+        "official": "اتحادیه جمهوری میانمار",
+        "common": "میانمار"
+      },
+      "pol": {
+        "official": "Republika Związku Mjanmy",
+        "common": "Mjanma"
+      },
+      "por": {
+        "official": "República da União de Myanmar",
+        "common": "Myanmar"
+      },
+      "rus": {
+        "official": "Республика Союза Мьянма",
+        "common": "Мьянма"
+      },
+      "slk": {
+        "official": "Mjanmarská zväzová republika",
+        "common": "Mjanmarsko"
+      },
+      "spa": {
+        "official": "República de la Unión de Myanmar",
+        "common": "Myanmar"
+      },
+      "srp": {
+        "official": "Република Савез Мјанмара",
+        "common": "Мјанмар"
+      },
+      "swe": {
+        "official": "Republiken Unionen Myanmar",
+        "common": "Myanmar"
+      },
+      "tur": {
+        "official": "Myanmar Birliği Cumhuriyeti",
+        "common": "Myanmar"
+      },
+      "urd": {
+        "official": "متحدہ جمہوریہ میانمار",
+        "common": "میانمار"
+      },
+      "zho": {
+        "official": "缅甸联邦共和国",
+        "common": "缅甸"
+      }
+    },
+    "latlng": [
+      22.0,
+      98.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "area": 676578.0,
+    "demonyms": {
+      "eng": {
+        "f": "Burmese",
+        "m": "Burmese"
+      },
+      "fra": {
+        "f": "Birmane",
+        "m": "Birman"
+      }
+    },
+    "flag": "🇲🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/50371"
+    },
+    "population": 54409794,
+    "gini": {
+      "2017": 30.7
+    },
+    "fifa": "MYA",
+    "car": {
+      "signs": [
+        "BUR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+06:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mm.png",
+      "svg": "https://flagcdn.com/mm.svg",
+      "alt": "The flag of Myanmar is composed of three equal horizontal bands of yellow, green and red, with a large five-pointed white star superimposed at the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        19.76,
+        96.07
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "nativeName": {
+        "eng": {
+          "official": "Federal Republic of Nigeria",
+          "common": "Nigeria"
+        }
+      }
+    },
+    "tld": [
+      ".ng"
+    ],
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "cioc": "NGR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "34"
+      ]
+    },
+    "capital": [
+      "Abuja"
+    ],
+    "altSpellings": [
+      "NG",
+      "Nijeriya",
+      "Naíjíríà",
+      "Federal Republic of Nigeria"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية نيجيريا الاتحادية",
+        "common": "نيجيريا"
+      },
+      "bre": {
+        "official": "Republik Kevreadel Nigeria",
+        "common": "Nigeria"
+      },
+      "ces": {
+        "official": "Nigerijská federativní republika",
+        "common": "Nigérie"
+      },
+      "cym": {
+        "official": "Federal Republic of Nigeria",
+        "common": "Nigeria"
+      },
+      "deu": {
+        "official": "Bundesrepublik Nigeria",
+        "common": "Nigeria"
+      },
+      "est": {
+        "official": "Nigeeria Liitvabariik",
+        "common": "Nigeeria"
+      },
+      "fin": {
+        "official": "Nigerian liittotasavalta",
+        "common": "Nigeria"
+      },
+      "fra": {
+        "official": "République fédérale du Nigeria",
+        "common": "Nigéria"
+      },
+      "hrv": {
+        "official": "Savezna Republika Nigerija",
+        "common": "Nigerija"
+      },
+      "hun": {
+        "official": "Nigéria",
+        "common": "Nigéria"
+      },
+      "ita": {
+        "official": "Repubblica federale di Nigeria",
+        "common": "Nigeria"
+      },
+      "jpn": {
+        "official": "ナイジェリア連邦共和国",
+        "common": "ナイジェリア"
+      },
+      "kor": {
+        "official": "나이지리아 연방 공화국",
+        "common": "나이지리아"
+      },
+      "nld": {
+        "official": "Federale Republiek Nigeria",
+        "common": "Nigeria"
+      },
+      "per": {
+        "official": "جمهوری فدرال نیجریه",
+        "common": "نیجریه"
+      },
+      "pol": {
+        "official": "Federalna Republika Nigerii",
+        "common": "Nigeria"
+      },
+      "por": {
+        "official": "República Federal da Nigéria",
+        "common": "Nigéria"
+      },
+      "rus": {
+        "official": "Федеративная Республика Нигерия",
+        "common": "Нигерия"
+      },
+      "slk": {
+        "official": "Nigérijská federatívna republika",
+        "common": "Nigéria"
+      },
+      "spa": {
+        "official": "República Federal de Nigeria",
+        "common": "Nigeria"
+      },
+      "srp": {
+        "official": "Савезна Република Нигерија",
+        "common": "Нигерија "
+      },
+      "swe": {
+        "official": "Förbundsrepubliken Nigeria",
+        "common": "Nigeria"
+      },
+      "tur": {
+        "official": "Nijerya Federal Cumhuriyeti",
+        "common": "Nijerya"
+      },
+      "urd": {
+        "official": "وفاقی جمہوریہ نائجیریا",
+        "common": "نائجیریا"
+      },
+      "zho": {
+        "official": "尼日利亚联邦共和国",
+        "common": "尼日利亚"
+      }
+    },
+    "latlng": [
+      10.0,
+      8.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "area": 923768.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nigerian",
+        "m": "Nigerian"
+      },
+      "fra": {
+        "f": "Nigériane",
+        "m": "Nigérian"
+      }
+    },
+    "flag": "🇳🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
+    },
+    "population": 206139587,
+    "gini": {
+      "2018": 35.1
+    },
+    "fifa": "NGA",
+    "car": {
+      "signs": [
+        "WAN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ng.png",
+      "svg": "https://flagcdn.com/ng.svg",
+      "alt": "The flag of Nigeria is composed of three equal vertical bands of green, white and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ng.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        9.08,
+        7.53
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
     }
   },
   {
@@ -25106,6 +27852,425 @@
   },
   {
     "name": {
+      "common": "Palau",
+      "official": "Republic of Palau",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Palau",
+          "common": "Palau"
+        },
+        "pau": {
+          "official": "Beluu er a Belau",
+          "common": "Belau"
+        }
+      }
+    },
+    "tld": [
+      ".pw"
+    ],
+    "cca2": "PW",
+    "ccn3": "585",
+    "cca3": "PLW",
+    "cioc": "PLW",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "80"
+      ]
+    },
+    "capital": [
+      "Ngerulmud"
+    ],
+    "altSpellings": [
+      "PW",
+      "Republic of Palau",
+      "Beluu er a Belau"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بالاو",
+        "common": "بالاو"
+      },
+      "bre": {
+        "official": "Republik Palau",
+        "common": "Palau"
+      },
+      "ces": {
+        "official": "Republika Palau",
+        "common": "Palau"
+      },
+      "cym": {
+        "official": "Republic of Palau",
+        "common": "Palau"
+      },
+      "deu": {
+        "official": "Republik Palau",
+        "common": "Palau"
+      },
+      "est": {
+        "official": "Belau Vabariik",
+        "common": "Belau"
+      },
+      "fin": {
+        "official": "Palaun tasavalta",
+        "common": "Palau"
+      },
+      "fra": {
+        "official": "République des Palaos (Palau)",
+        "common": "Palaos (Palau)"
+      },
+      "hrv": {
+        "official": "Republika Palau",
+        "common": "Palau"
+      },
+      "hun": {
+        "official": "Palaui Köztársaság",
+        "common": "Palau"
+      },
+      "ita": {
+        "official": "Repubblica di Palau",
+        "common": "Palau"
+      },
+      "jpn": {
+        "official": "パラオ共和国",
+        "common": "パラオ"
+      },
+      "kor": {
+        "official": "팔라우 공화국",
+        "common": "팔라우"
+      },
+      "nld": {
+        "official": "Republiek van Palau",
+        "common": "Palau"
+      },
+      "per": {
+        "official": "جمهوری پالائو",
+        "common": "پالائو"
+      },
+      "pol": {
+        "official": "Republika Palau",
+        "common": "Palau"
+      },
+      "por": {
+        "official": "República de Palau",
+        "common": "Palau"
+      },
+      "rus": {
+        "official": "Республика Палау",
+        "common": "Палау"
+      },
+      "slk": {
+        "official": "Palauská republika",
+        "common": "Palau"
+      },
+      "spa": {
+        "official": "República de Palau",
+        "common": "Palau"
+      },
+      "srp": {
+        "official": "Република Палау",
+        "common": "Палау"
+      },
+      "swe": {
+        "official": "Republiken Palau",
+        "common": "Palau"
+      },
+      "tur": {
+        "official": "Palau Cumhuriyeti",
+        "common": "Palau"
+      },
+      "urd": {
+        "official": "جمہوریہ پلاؤ",
+        "common": "پلاؤ"
+      },
+      "zho": {
+        "official": "帕劳共和国",
+        "common": "帕劳"
+      }
+    },
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "landlocked": false,
+    "area": 459.0,
+    "demonyms": {
+      "eng": {
+        "f": "Palauan",
+        "m": "Palauan"
+      },
+      "fra": {
+        "f": "Paluane",
+        "m": "Paluan"
+      }
+    },
+    "flag": "🇵🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
+    },
+    "population": 18092,
+    "car": {
+      "signs": [
+        "PAL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pw.png",
+      "svg": "https://flagcdn.com/pw.svg",
+      "alt": "The flag of Palau has a light blue field with a large golden-yellow circle that is offset slightly towards the hoist side of center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        7.5,
+        134.62
+      ]
+    },
+    "postalCode": {
+      "format": "96940",
+      "regex": "^(96940)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama",
+      "nativeName": {
+        "spa": {
+          "official": "República de Panamá",
+          "common": "Panamá"
+        }
+      }
+    },
+    "tld": [
+      ".pa"
+    ],
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "cioc": "PAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PAB": {
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "07"
+      ]
+    },
+    "capital": [
+      "Panama City"
+    ],
+    "altSpellings": [
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بنما",
+        "common": "بنما"
+      },
+      "bre": {
+        "official": "Republik Panama",
+        "common": "Panama"
+      },
+      "ces": {
+        "official": "Panamská republika",
+        "common": "Panama"
+      },
+      "cym": {
+        "official": "Republic of Panama",
+        "common": "Panama"
+      },
+      "deu": {
+        "official": "Republik Panama",
+        "common": "Panama"
+      },
+      "est": {
+        "official": "Panama Vabariik",
+        "common": "Panama"
+      },
+      "fin": {
+        "official": "Panaman tasavalta",
+        "common": "Panama"
+      },
+      "fra": {
+        "official": "République du Panama",
+        "common": "Panama"
+      },
+      "hrv": {
+        "official": "Republika Panama",
+        "common": "Panama"
+      },
+      "hun": {
+        "official": "Panamai Köztársaság",
+        "common": "Panama"
+      },
+      "ita": {
+        "official": "Repubblica di Panama",
+        "common": "Panama"
+      },
+      "jpn": {
+        "official": "パナマ共和国",
+        "common": "パナマ"
+      },
+      "kor": {
+        "official": "파나마 공화국",
+        "common": "파나마"
+      },
+      "nld": {
+        "official": "Republiek Panama",
+        "common": "Panama"
+      },
+      "per": {
+        "official": "جمهوری پاناما",
+        "common": "پاناما"
+      },
+      "pol": {
+        "official": "Republika Panamy",
+        "common": "Panama"
+      },
+      "por": {
+        "official": "República do Panamá",
+        "common": "Panamá"
+      },
+      "rus": {
+        "official": "Республика Панама",
+        "common": "Панама"
+      },
+      "slk": {
+        "official": "Panamská republika",
+        "common": "Panama"
+      },
+      "spa": {
+        "official": "República de Panamá",
+        "common": "Panamá"
+      },
+      "srp": {
+        "official": "Република Панама",
+        "common": "Панама"
+      },
+      "swe": {
+        "official": "Republiken Panama",
+        "common": "Panama"
+      },
+      "tur": {
+        "official": "Panama Cumhuriyeti",
+        "common": "Panama"
+      },
+      "urd": {
+        "official": "جمہوریہ پاناما",
+        "common": "پاناما"
+      },
+      "zho": {
+        "official": "巴拿马共和国",
+        "common": "巴拿马"
+      }
+    },
+    "latlng": [
+      9.0,
+      -80.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "area": 75417.0,
+    "demonyms": {
+      "eng": {
+        "f": "Panamanian",
+        "m": "Panamanian"
+      },
+      "fra": {
+        "f": "Panaméenne",
+        "m": "Panaméen"
+      }
+    },
+    "flag": "🇵🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+    },
+    "population": 4314768,
+    "gini": {
+      "2019": 49.8
+    },
+    "fifa": "PAN",
+    "car": {
+      "signs": [
+        "PA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pa.png",
+      "svg": "https://flagcdn.com/pa.svg",
+      "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        8.97,
+        -79.53
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Papua New Guinea",
       "official": "Independent State of Papua New Guinea",
       "nativeName": {
@@ -25983,3171 +29148,6 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Malaysia",
-      "official": "Malaysia",
-      "nativeName": {
-        "eng": {
-          "official": "Malaysia",
-          "common": "Malaysia"
-        },
-        "msa": {
-          "official": "مليسيا",
-          "common": "مليسيا"
-        }
-      }
-    },
-    "tld": [
-      ".my"
-    ],
-    "cca2": "MY",
-    "ccn3": "458",
-    "cca3": "MYS",
-    "cioc": "MAS",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MYR": {
-        "name": "Malaysian ringgit",
-        "symbol": "RM"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "0"
-      ]
-    },
-    "capital": [
-      "Kuala Lumpur"
-    ],
-    "altSpellings": [
-      "MY"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "eng": "English",
-      "msa": "Malay"
-    },
-    "translations": {
-      "ara": {
-        "official": "ماليزيا",
-        "common": "ماليزيا"
-      },
-      "bre": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "ces": {
-        "official": "Malajsie",
-        "common": "Malajsie"
-      },
-      "cym": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "deu": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "est": {
-        "official": "Malaisia",
-        "common": "Malaisia"
-      },
-      "fin": {
-        "official": "Malesia",
-        "common": "Malesia"
-      },
-      "fra": {
-        "official": "Fédération de Malaisie",
-        "common": "Malaisie"
-      },
-      "hrv": {
-        "official": "Malezija",
-        "common": "Malezija"
-      },
-      "hun": {
-        "official": "Malajzia",
-        "common": "Malajzia"
-      },
-      "ita": {
-        "official": "Malaysia",
-        "common": "Malesia"
-      },
-      "jpn": {
-        "official": "マレーシア",
-        "common": "マレーシア"
-      },
-      "kor": {
-        "official": "말레이시아",
-        "common": "말레이시아"
-      },
-      "nld": {
-        "official": "Maleisië",
-        "common": "Maleisië"
-      },
-      "per": {
-        "official": "فدراسیون مالزی",
-        "common": "مالزی"
-      },
-      "pol": {
-        "official": "Malezja",
-        "common": "Malezja"
-      },
-      "por": {
-        "official": "Malásia",
-        "common": "Malásia"
-      },
-      "rus": {
-        "official": "Малайзия",
-        "common": "Малайзия"
-      },
-      "slk": {
-        "official": "Malajzia",
-        "common": "Malajzia"
-      },
-      "spa": {
-        "official": "Malasia",
-        "common": "Malasia"
-      },
-      "srp": {
-        "official": "Малезија",
-        "common": "Малезија"
-      },
-      "swe": {
-        "official": "Malaysia",
-        "common": "Malaysia"
-      },
-      "tur": {
-        "official": "Malezya",
-        "common": "Malezya"
-      },
-      "urd": {
-        "official": "ملائیشیا",
-        "common": "ملائیشیا"
-      },
-      "zho": {
-        "official": "马来西亚",
-        "common": "马来西亚"
-      }
-    },
-    "latlng": [
-      2.5,
-      112.5
-    ],
-    "landlocked": false,
-    "borders": [
-      "BRN",
-      "IDN",
-      "THA"
-    ],
-    "area": 330803.0,
-    "demonyms": {
-      "eng": {
-        "f": "Malaysian",
-        "m": "Malaysian"
-      },
-      "fra": {
-        "f": "Malaisienne",
-        "m": "Malaisien"
-      }
-    },
-    "flag": "🇲🇾",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
-    },
-    "population": 32365998,
-    "gini": {
-      "2015": 41.1
-    },
-    "fifa": "MAS",
-    "car": {
-      "signs": [
-        "MAL"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/my.png",
-      "svg": "https://flagcdn.com/my.svg",
-      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/my.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        3.17,
-        101.7
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Malawi",
-      "official": "Republic of Malawi",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Malawi",
-          "common": "Malawi"
-        },
-        "nya": {
-          "official": "Chalo cha Malawi, Dziko la Malaŵi",
-          "common": "Malaŵi"
-        }
-      }
-    },
-    "tld": [
-      ".mw"
-    ],
-    "cca2": "MW",
-    "ccn3": "454",
-    "cca3": "MWI",
-    "cioc": "MAW",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MWK": {
-        "name": "Malawian kwacha",
-        "symbol": "MK"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "65"
-      ]
-    },
-    "capital": [
-      "Lilongwe"
-    ],
-    "altSpellings": [
-      "MW",
-      "Republic of Malawi"
-    ],
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "languages": {
-      "eng": "English",
-      "nya": "Chewa"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية مالاوي",
-        "common": "مالاوي"
-      },
-      "bre": {
-        "official": "Republik Malawi",
-        "common": "Malawi"
-      },
-      "ces": {
-        "official": "Malawiská republika",
-        "common": "Malawi"
-      },
-      "cym": {
-        "official": "Republic of Malawi",
-        "common": "Malawi"
-      },
-      "deu": {
-        "official": "Republik Malawi",
-        "common": "Malawi"
-      },
-      "est": {
-        "official": "Malawi Vabariik",
-        "common": "Malawi"
-      },
-      "fin": {
-        "official": "Malawin tasavalta",
-        "common": "Malawi"
-      },
-      "fra": {
-        "official": "République du Malawi",
-        "common": "Malawi"
-      },
-      "hrv": {
-        "official": "Republika Malavi",
-        "common": "Malavi"
-      },
-      "hun": {
-        "official": "Malawi Köztársaság",
-        "common": "Malawi"
-      },
-      "ita": {
-        "official": "Repubblica del Malawi",
-        "common": "Malawi"
-      },
-      "jpn": {
-        "official": "マラウイ共和国",
-        "common": "マラウイ"
-      },
-      "kor": {
-        "official": "말라위 공화국",
-        "common": "말라위"
-      },
-      "nld": {
-        "official": "Republiek Malawi",
-        "common": "Malawi"
-      },
-      "per": {
-        "official": "جمهوری مالاوی",
-        "common": "مالاوی"
-      },
-      "pol": {
-        "official": "Republika Malawi",
-        "common": "Malawi"
-      },
-      "por": {
-        "official": "República do Malawi",
-        "common": "Malawi"
-      },
-      "rus": {
-        "official": "Республика Малави",
-        "common": "Малави"
-      },
-      "slk": {
-        "official": "Malawijská republika",
-        "common": "Malawi"
-      },
-      "spa": {
-        "official": "República de Malawi",
-        "common": "Malawi"
-      },
-      "srp": {
-        "official": "Република Малави",
-        "common": "Малави"
-      },
-      "swe": {
-        "official": "Republiken Malawi",
-        "common": "Malawi"
-      },
-      "tur": {
-        "official": "Malavi Cumhuriyeti",
-        "common": "Malavi"
-      },
-      "urd": {
-        "official": "جمہوریہ ملاوی",
-        "common": "ملاوی"
-      },
-      "zho": {
-        "official": "马拉维共和国",
-        "common": "马拉维"
-      }
-    },
-    "latlng": [
-      -13.5,
-      34.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "MOZ",
-      "TZA",
-      "ZMB"
-    ],
-    "area": 118484.0,
-    "demonyms": {
-      "eng": {
-        "f": "Malawian",
-        "m": "Malawian"
-      },
-      "fra": {
-        "f": "Malawienne",
-        "m": "Malawien"
-      }
-    },
-    "flag": "🇲🇼",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
-    },
-    "population": 19129955,
-    "gini": {
-      "2016": 44.7
-    },
-    "fifa": "MWI",
-    "car": {
-      "signs": [
-        "MW"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mw.png",
-      "svg": "https://flagcdn.com/mw.svg",
-      "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -13.97,
-        33.78
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Maldives",
-      "official": "Republic of the Maldives",
-      "nativeName": {
-        "div": {
-          "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
-          "common": "ދިވެހިރާއްޖޭގެ"
-        }
-      }
-    },
-    "tld": [
-      ".mv"
-    ],
-    "cca2": "MV",
-    "ccn3": "462",
-    "cca3": "MDV",
-    "cioc": "MDV",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MVR": {
-        "name": "Maldivian rufiyaa",
-        "symbol": ".ރ"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "60"
-      ]
-    },
-    "capital": [
-      "Malé"
-    ],
-    "altSpellings": [
-      "MV",
-      "Maldive Islands",
-      "Republic of the Maldives",
-      "Dhivehi Raajjeyge Jumhooriyya"
-    ],
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "languages": {
-      "div": "Maldivian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية المالديف",
-        "common": "المالديف"
-      },
-      "bre": {
-        "official": "Republik Maldivez",
-        "common": "Maldivez"
-      },
-      "ces": {
-        "official": "Maledivská republika",
-        "common": "Maledivy"
-      },
-      "cym": {
-        "official": "Republic of the Maldives",
-        "common": "Maldives"
-      },
-      "deu": {
-        "official": "Republik Malediven",
-        "common": "Malediven"
-      },
-      "est": {
-        "official": "Maldiivi Vabariik",
-        "common": "Maldiivid"
-      },
-      "fin": {
-        "official": "Malediivien tasavalta",
-        "common": "Malediivit"
-      },
-      "fra": {
-        "official": "République des Maldives",
-        "common": "Maldives"
-      },
-      "hrv": {
-        "official": "Republika Maldivi",
-        "common": "Maldivi"
-      },
-      "hun": {
-        "official": "Maldív-szigetek",
-        "common": "Maldív-szigetek"
-      },
-      "ita": {
-        "official": "Repubblica delle Maldive",
-        "common": "Maldive"
-      },
-      "jpn": {
-        "official": "モルディブ共和国",
-        "common": "モルディブ"
-      },
-      "kor": {
-        "official": "몰디브 공화국",
-        "common": "몰디브"
-      },
-      "nld": {
-        "official": "Republiek van de Malediven",
-        "common": "Maldiven"
-      },
-      "per": {
-        "official": "جمهوری مالدیو",
-        "common": "مالدیو"
-      },
-      "pol": {
-        "official": "Republika Malediwów",
-        "common": "Malediwy"
-      },
-      "por": {
-        "official": "República das Maldivas",
-        "common": "Maldivas"
-      },
-      "rus": {
-        "official": "Республика Мальдивы",
-        "common": "Мальдивы"
-      },
-      "slk": {
-        "official": "Maldivská republika",
-        "common": "Maldivy"
-      },
-      "spa": {
-        "official": "República de las Maldivas",
-        "common": "Maldivas"
-      },
-      "srp": {
-        "official": "Малдивска Република",
-        "common": "Малдиви"
-      },
-      "swe": {
-        "official": "Republiken Maldiverna",
-        "common": "Maldiverna"
-      },
-      "tur": {
-        "official": "Maldivler Cumhuriyeti",
-        "common": "Maldivler"
-      },
-      "urd": {
-        "official": "جمہوریہ مالدیپ",
-        "common": "مالدیپ"
-      },
-      "zho": {
-        "official": "马尔代夫共和国",
-        "common": "马尔代夫"
-      }
-    },
-    "latlng": [
-      3.25,
-      73.0
-    ],
-    "landlocked": false,
-    "area": 300.0,
-    "demonyms": {
-      "eng": {
-        "f": "Maldivan",
-        "m": "Maldivan"
-      },
-      "fra": {
-        "f": "Maldivienne",
-        "m": "Maldivien"
-      }
-    },
-    "flag": "🇲🇻",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
-    },
-    "population": 540542,
-    "gini": {
-      "2016": 31.3
-    },
-    "fifa": "MDV",
-    "car": {
-      "signs": [
-        "MV"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+05:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mv.png",
-      "svg": "https://flagcdn.com/mv.svg",
-      "alt": "The flag of Maldives has a red field, at the center of which is a large green rectangle bearing a fly-side facing white crescent."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mv.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        4.17,
-        73.51
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Mali",
-      "official": "Republic of Mali",
-      "nativeName": {
-        "fra": {
-          "official": "République du Mali",
-          "common": "Mali"
-        }
-      }
-    },
-    "tld": [
-      ".ml"
-    ],
-    "cca2": "ML",
-    "ccn3": "466",
-    "cca3": "MLI",
-    "cioc": "MLI",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XOF": {
-        "name": "West African CFA franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "23"
-      ]
-    },
-    "capital": [
-      "Bamako"
-    ],
-    "altSpellings": [
-      "ML",
-      "Republic of Mali",
-      "République du Mali"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية مالي",
-        "common": "مالي"
-      },
-      "bre": {
-        "official": "Republik Mali",
-        "common": "Mali"
-      },
-      "ces": {
-        "official": "Republika Mali",
-        "common": "Mali"
-      },
-      "cym": {
-        "official": "Republic of Mali",
-        "common": "Mali"
-      },
-      "deu": {
-        "official": "Republik Mali",
-        "common": "Mali"
-      },
-      "est": {
-        "official": "Mali Vabariik",
-        "common": "Mali"
-      },
-      "fin": {
-        "official": "Malin tasavalta",
-        "common": "Mali"
-      },
-      "fra": {
-        "official": "République du Mali",
-        "common": "Mali"
-      },
-      "hrv": {
-        "official": "Republika Mali",
-        "common": "Mali"
-      },
-      "hun": {
-        "official": "Mali Köztársaság",
-        "common": "Mali"
-      },
-      "ita": {
-        "official": "Repubblica del Mali",
-        "common": "Mali"
-      },
-      "jpn": {
-        "official": "マリ共和国",
-        "common": "マリ"
-      },
-      "kor": {
-        "official": "말리 공화국",
-        "common": "말리"
-      },
-      "nld": {
-        "official": "Republiek Mali",
-        "common": "Mali"
-      },
-      "per": {
-        "official": "جمهوری مالی",
-        "common": "مالی"
-      },
-      "pol": {
-        "official": "Republika Mali",
-        "common": "Mali"
-      },
-      "por": {
-        "official": "República do Mali",
-        "common": "Mali"
-      },
-      "rus": {
-        "official": "Республика Мали",
-        "common": "Мали"
-      },
-      "slk": {
-        "official": "Malijská republika",
-        "common": "Mali"
-      },
-      "spa": {
-        "official": "República de Malí",
-        "common": "Mali"
-      },
-      "srp": {
-        "official": "Република Мали",
-        "common": "Мали"
-      },
-      "swe": {
-        "official": "Republiken Mali",
-        "common": "Mali"
-      },
-      "tur": {
-        "official": "Mali Cumhuriyeti",
-        "common": "Mali"
-      },
-      "urd": {
-        "official": "جمہوریہ مالی",
-        "common": "مالی"
-      },
-      "zho": {
-        "official": "马里共和国",
-        "common": "马里"
-      }
-    },
-    "latlng": [
-      17.0,
-      -4.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "DZA",
-      "BFA",
-      "GIN",
-      "CIV",
-      "MRT",
-      "NER",
-      "SEN"
-    ],
-    "area": 1240192.0,
-    "demonyms": {
-      "eng": {
-        "f": "Malian",
-        "m": "Malian"
-      },
-      "fra": {
-        "f": "Malienne",
-        "m": "Malien"
-      }
-    },
-    "flag": "🇲🇱",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
-    },
-    "population": 20250834,
-    "gini": {
-      "2009": 33.0
-    },
-    "fifa": "MLI",
-    "car": {
-      "signs": [
-        "RMM"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ml.png",
-      "svg": "https://flagcdn.com/ml.svg",
-      "alt": "The flag of Mali is composed of three equal vertical bands of green, yellow and red."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ml.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ml.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        12.65,
-        -8.0
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Malta",
-      "official": "Republic of Malta",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Malta",
-          "common": "Malta"
-        },
-        "mlt": {
-          "official": "Repubblika ta ' Malta",
-          "common": "Malta"
-        }
-      }
-    },
-    "tld": [
-      ".mt"
-    ],
-    "cca2": "MT",
-    "ccn3": "470",
-    "cca3": "MLT",
-    "cioc": "MLT",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "EUR": {
-        "name": "Euro",
-        "symbol": "€"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "56"
-      ]
-    },
-    "capital": [
-      "Valletta"
-    ],
-    "altSpellings": [
-      "MT",
-      "Republic of Malta",
-      "Repubblika ta' Malta"
-    ],
-    "region": "Europe",
-    "subregion": "Southern Europe",
-    "languages": {
-      "eng": "English",
-      "mlt": "Maltese"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية مالطا",
-        "common": "مالطا"
-      },
-      "bre": {
-        "official": "Republik Malta",
-        "common": "Malta"
-      },
-      "ces": {
-        "official": "Maltská republika",
-        "common": "Malta"
-      },
-      "cym": {
-        "official": "Republic of Malta",
-        "common": "Malta"
-      },
-      "deu": {
-        "official": "Republik Malta",
-        "common": "Malta"
-      },
-      "est": {
-        "official": "Malta Vabariik",
-        "common": "Malta"
-      },
-      "fin": {
-        "official": "Maltan tasavalta",
-        "common": "Malta"
-      },
-      "fra": {
-        "official": "République de Malte",
-        "common": "Malte"
-      },
-      "hrv": {
-        "official": "Republika Malta",
-        "common": "Malta"
-      },
-      "hun": {
-        "official": "Máltai Köztársaság",
-        "common": "Málta"
-      },
-      "ita": {
-        "official": "Repubblica di Malta",
-        "common": "Malta"
-      },
-      "jpn": {
-        "official": "マルタ共和国",
-        "common": "マルタ"
-      },
-      "kor": {
-        "official": "몰타 공화국",
-        "common": "몰타"
-      },
-      "nld": {
-        "official": "Republiek Malta",
-        "common": "Malta"
-      },
-      "per": {
-        "official": "جمهوری مالت",
-        "common": "مالت"
-      },
-      "pol": {
-        "official": "Republika Malty",
-        "common": "Malta"
-      },
-      "por": {
-        "official": "República de Malta",
-        "common": "Malta"
-      },
-      "rus": {
-        "official": "Республика Мальта",
-        "common": "Мальта"
-      },
-      "slk": {
-        "official": "Maltská republika",
-        "common": "Malta"
-      },
-      "spa": {
-        "official": "República de Malta",
-        "common": "Malta"
-      },
-      "srp": {
-        "official": " Република Малта",
-        "common": "Малта"
-      },
-      "swe": {
-        "official": "Republiken Malta",
-        "common": "Malta"
-      },
-      "tur": {
-        "official": "Malta Cumhuriyeti",
-        "common": "Malta"
-      },
-      "urd": {
-        "official": "جمہوریہ مالٹا",
-        "common": "مالٹا"
-      },
-      "zho": {
-        "official": "马耳他共和国",
-        "common": "马耳他"
-      }
-    },
-    "latlng": [
-      35.9375,
-      14.3754
-    ],
-    "landlocked": false,
-    "area": 316.0,
-    "demonyms": {
-      "eng": {
-        "f": "Maltese",
-        "m": "Maltese"
-      },
-      "fra": {
-        "f": "Maltaise",
-        "m": "Maltais"
-      }
-    },
-    "flag": "🇲🇹",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
-    },
-    "population": 525285,
-    "gini": {
-      "2018": 28.7
-    },
-    "fifa": "MLT",
-    "car": {
-      "signs": [
-        "M"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mt.png",
-      "svg": "https://flagcdn.com/mt.svg",
-      "alt": "The flag of Malta is composed of two equal vertical bands of white and red. A representation of the George cross edged in red is situated on the upper hoist-side corner of the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mt.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mt.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        35.88,
-        14.5
-      ]
-    },
-    "postalCode": {
-      "format": "@@@ ###|@@@ ##",
-      "regex": "^([A-Z]{3}\\d{2}\\d?)$"
-    }
-  },
-  {
-    "name": {
-      "common": "Marshall Islands",
-      "official": "Republic of the Marshall Islands",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of the Marshall Islands",
-          "common": "Marshall Islands"
-        },
-        "mah": {
-          "official": "Republic of the Marshall Islands",
-          "common": "M̧ajeļ"
-        }
-      }
-    },
-    "tld": [
-      ".mh"
-    ],
-    "cca2": "MH",
-    "ccn3": "584",
-    "cca3": "MHL",
-    "cioc": "MHL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "92"
-      ]
-    },
-    "capital": [
-      "Majuro"
-    ],
-    "altSpellings": [
-      "MH",
-      "Republic of the Marshall Islands",
-      "Aolepān Aorōkin M̧ajeļ"
-    ],
-    "region": "Oceania",
-    "subregion": "Micronesia",
-    "languages": {
-      "eng": "English",
-      "mah": "Marshallese"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية جزر مارشال",
-        "common": "جزر مارشال"
-      },
-      "bre": {
-        "official": "Republik Inizi Marshall",
-        "common": "Inizi Marshall"
-      },
-      "ces": {
-        "official": "Republika Marshallovy ostrovy",
-        "common": "Marshallovy ostrovy"
-      },
-      "cym": {
-        "official": "Republic of the Marshall Islands",
-        "common": "Marshall Islands"
-      },
-      "deu": {
-        "official": "Republik Marshallinseln",
-        "common": "Marshallinseln"
-      },
-      "est": {
-        "official": "Marshalli Saarte Vabariik",
-        "common": "Marshalli Saared"
-      },
-      "fin": {
-        "official": "Marshallinsaarten tasavalta",
-        "common": "Marshallinsaaret"
-      },
-      "fra": {
-        "official": "République des Îles Marshall",
-        "common": "Îles Marshall"
-      },
-      "hrv": {
-        "official": "Republika Maršalovi Otoci",
-        "common": "Maršalovi Otoci"
-      },
-      "hun": {
-        "official": "Marshall-szigetek",
-        "common": "Marshall-szigetek"
-      },
-      "ita": {
-        "official": "Repubblica delle Isole Marshall",
-        "common": "Isole Marshall"
-      },
-      "jpn": {
-        "official": "マーシャル諸島共和国",
-        "common": "マーシャル諸島"
-      },
-      "kor": {
-        "official": "마셜 제도 공화국",
-        "common": "마셜 제도"
-      },
-      "nld": {
-        "official": "Republiek van de Marshall-eilanden",
-        "common": "Marshalleilanden"
-      },
-      "per": {
-        "official": "جمهوری جزایر مارشال",
-        "common": "جزایر مارشال"
-      },
-      "pol": {
-        "official": "Republika Wysp Marshalla",
-        "common": "Wyspy Marshalla"
-      },
-      "por": {
-        "official": "República das Ilhas Marshall",
-        "common": "Ilhas Marshall"
-      },
-      "rus": {
-        "official": "Республика Маршалловы острова",
-        "common": "Маршалловы Острова"
-      },
-      "slk": {
-        "official": "Republika Marshallových ostrovov",
-        "common": "Marshallove ostrovy"
-      },
-      "spa": {
-        "official": "República de las Islas Marshall",
-        "common": "Islas Marshall"
-      },
-      "srp": {
-        "official": "Република Маршалска Острва",
-        "common": "Маршалска Острва"
-      },
-      "swe": {
-        "official": "Republiken Marshallöarna",
-        "common": "Marshallöarna"
-      },
-      "tur": {
-        "official": "Marshall Adaları Cumhuriyeti",
-        "common": "Marshall Adaları"
-      },
-      "urd": {
-        "official": "جمہوریہ جزائر مارشل",
-        "common": "جزائر مارشل"
-      },
-      "zho": {
-        "official": "马绍尔群岛共和国",
-        "common": "马绍尔群岛"
-      }
-    },
-    "latlng": [
-      9.0,
-      168.0
-    ],
-    "landlocked": false,
-    "area": 181.0,
-    "demonyms": {
-      "eng": {
-        "f": "Marshallese",
-        "m": "Marshallese"
-      },
-      "fra": {
-        "f": "Marshallaise",
-        "m": "Marshallais"
-      }
-    },
-    "flag": "🇲🇭",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/571771"
-    },
-    "population": 59194,
-    "car": {
-      "signs": [
-        "MH"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+12:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mh.png",
-      "svg": "https://flagcdn.com/mh.svg",
-      "alt": "The flag of Marshall Islands has a blue field with two broadening adjacent diagonal bands of orange and white that extend from the lower hoist-side corner to the upper fly-side corner of the field. A large white star with twenty-four rays — four large rays at the cardinal points and twenty smaller rays — is situated in the upper hoist-side corner above the diagonal bands."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mh.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mh.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        7.1,
-        171.38
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Mauritania",
-      "official": "Islamic Republic of Mauritania",
-      "nativeName": {
-        "ara": {
-          "official": "الجمهورية الإسلامية الموريتانية",
-          "common": "موريتانيا"
-        }
-      }
-    },
-    "tld": [
-      ".mr"
-    ],
-    "cca2": "MR",
-    "ccn3": "478",
-    "cca3": "MRT",
-    "cioc": "MTN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MRU": {
-        "name": "Mauritanian ouguiya",
-        "symbol": "UM"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "22"
-      ]
-    },
-    "capital": [
-      "Nouakchott"
-    ],
-    "altSpellings": [
-      "MR",
-      "Islamic Republic of Mauritania",
-      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "الجمهورية الإسلامية الموريتانية",
-        "common": "موريتانيا"
-      },
-      "bre": {
-        "official": "Republik islamek Maouritania",
-        "common": "Maouritania"
-      },
-      "ces": {
-        "official": "Mauritánská islámská republika",
-        "common": "Mauritánie"
-      },
-      "cym": {
-        "official": "Islamic Republic of Mauritania",
-        "common": "Mauritania"
-      },
-      "deu": {
-        "official": "Islamische Republik Mauretanien",
-        "common": "Mauretanien"
-      },
-      "est": {
-        "official": "Mauritaania Islamivabariik",
-        "common": "Mauritaania"
-      },
-      "fin": {
-        "official": "Mauritanian islamilainen tasavalta",
-        "common": "Mauritania"
-      },
-      "fra": {
-        "official": "République islamique de Mauritanie",
-        "common": "Mauritanie"
-      },
-      "hrv": {
-        "official": "Islamska Republika Mauritanija",
-        "common": "Mauritanija"
-      },
-      "hun": {
-        "official": "Mauritániai Iszlám Köztársaság",
-        "common": "Mauritánia"
-      },
-      "ita": {
-        "official": "Repubblica islamica di Mauritania",
-        "common": "Mauritania"
-      },
-      "jpn": {
-        "official": "モーリタニア·イスラム共和国",
-        "common": "モーリタニア"
-      },
-      "kor": {
-        "official": "모리타니 이슬람 공화국",
-        "common": "모리타니"
-      },
-      "nld": {
-        "official": "Islamitische Republiek Mauritanië",
-        "common": "Mauritanië"
-      },
-      "per": {
-        "official": "جمهوری اسلامی موریتانی",
-        "common": "موریتانی"
-      },
-      "pol": {
-        "official": "Islamska Republika Mauretańska",
-        "common": "Mauretania"
-      },
-      "por": {
-        "official": "República Islâmica da Mauritânia",
-        "common": "Mauritânia"
-      },
-      "rus": {
-        "official": "Исламская Республика Мавритания",
-        "common": "Мавритания"
-      },
-      "slk": {
-        "official": "Mauritánska islamská republika",
-        "common": "Mauritánia"
-      },
-      "spa": {
-        "official": "República Islámica de Mauritania",
-        "common": "Mauritania"
-      },
-      "srp": {
-        "official": "Исламска Република Мауританија",
-        "common": "Мауританија"
-      },
-      "swe": {
-        "official": "Islamiska republiken Mauretanien",
-        "common": "Mauretanien"
-      },
-      "tur": {
-        "official": "Moritanya İslam Cumhuriyeti",
-        "common": "Moritanya"
-      },
-      "urd": {
-        "official": "اسلامی جمہوریہ موریتانیہ",
-        "common": "موریتانیہ"
-      },
-      "zho": {
-        "official": "毛里塔尼亚伊斯兰共和国",
-        "common": "毛里塔尼亚"
-      }
-    },
-    "latlng": [
-      20.0,
-      -12.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "DZA",
-      "MLI",
-      "SEN",
-      "ESH"
-    ],
-    "area": 1030700.0,
-    "demonyms": {
-      "eng": {
-        "f": "Mauritanian",
-        "m": "Mauritanian"
-      },
-      "fra": {
-        "f": "Mauritanienne",
-        "m": "Mauritanien"
-      }
-    },
-    "flag": "🇲🇷",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192763"
-    },
-    "population": 4649660,
-    "gini": {
-      "2014": 32.6
-    },
-    "fifa": "MTN",
-    "car": {
-      "signs": [
-        "RIM"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mr.png",
-      "svg": "https://flagcdn.com/mr.svg",
-      "alt": "The flag of Mauritania has a green field with a thin red horizontal band at the top and bottom of the field. At the center of the field is a five-pointed yellow star above an upward facing yellow crescent."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mr.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mr.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        18.07,
-        -15.97
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Micronesia",
-      "official": "Federated States of Micronesia",
-      "nativeName": {
-        "eng": {
-          "official": "Federated States of Micronesia",
-          "common": "Micronesia"
-        }
-      }
-    },
-    "tld": [
-      ".fm"
-    ],
-    "cca2": "FM",
-    "ccn3": "583",
-    "cca3": "FSM",
-    "cioc": "FSM",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "91"
-      ]
-    },
-    "capital": [
-      "Palikir"
-    ],
-    "altSpellings": [
-      "FM",
-      "Federated States of Micronesia",
-      "Micronesia, Federated States of"
-    ],
-    "region": "Oceania",
-    "subregion": "Micronesia",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "ولايات ميكرونيسيا المتحدة",
-        "common": "ميكرونيسيا"
-      },
-      "bre": {
-        "official": "Stadoù Kevreet Mikronezia",
-        "common": "Mikronezia"
-      },
-      "ces": {
-        "official": "Federativní státy Mikronésie",
-        "common": "Mikronésie"
-      },
-      "cym": {
-        "official": "Federated States of Micronesia",
-        "common": "Micronesia"
-      },
-      "deu": {
-        "official": "Föderierte Staaten von Mikronesien",
-        "common": "Mikronesien"
-      },
-      "est": {
-        "official": "Mikroneesia Liiduriigid",
-        "common": "Mikroneesia"
-      },
-      "fin": {
-        "official": "Mikronesian liittovaltio",
-        "common": "Mikronesia"
-      },
-      "fra": {
-        "official": "États fédérés de Micronésie",
-        "common": "Micronésie"
-      },
-      "hrv": {
-        "official": "Savezne Države Mikronezije",
-        "common": "Mikronezija"
-      },
-      "hun": {
-        "official": "Mikronéziai Szövetségi Államok",
-        "common": "Mikronéziai Szövetségi Államok"
-      },
-      "ita": {
-        "official": "Stati federati di Micronesia",
-        "common": "Micronesia"
-      },
-      "jpn": {
-        "official": "ミクロネシア連邦",
-        "common": "ミクロネシア連邦"
-      },
-      "kor": {
-        "official": "미크로네시아 연방",
-        "common": "미크로네시아"
-      },
-      "nld": {
-        "official": "Federale Staten van Micronesia",
-        "common": "Micronesië"
-      },
-      "per": {
-        "official": "ایالات فدرال میکرونزی",
-        "common": "میکرونزی"
-      },
-      "pol": {
-        "official": "Sfederowane Stany Mikronezji",
-        "common": "Mikronezja"
-      },
-      "por": {
-        "official": "Estados Federados da Micronésia",
-        "common": "Micronésia"
-      },
-      "rus": {
-        "official": "Федеративные Штаты Микронезии",
-        "common": "Федеративные Штаты Микронезии"
-      },
-      "slk": {
-        "official": "Mikronézske federatívne štáty",
-        "common": "Mikronézia"
-      },
-      "spa": {
-        "official": "Estados Federados de Micronesia",
-        "common": "Micronesia"
-      },
-      "srp": {
-        "official": "Савез Држава Микронезије",
-        "common": "Микронезија"
-      },
-      "swe": {
-        "official": "Mikronesiska federationen",
-        "common": "Mikronesiska federationen"
-      },
-      "tur": {
-        "official": "Mikronezya Federal Devletleri",
-        "common": "Mikronezya"
-      },
-      "urd": {
-        "official": "ریاستہائے وفاقیہ مائکرونیشیا",
-        "common": "مائکرونیشیا"
-      },
-      "zho": {
-        "official": "密克罗尼西亚联邦",
-        "common": "密克罗尼西亚"
-      }
-    },
-    "latlng": [
-      6.91666666,
-      158.25
-    ],
-    "landlocked": false,
-    "area": 702.0,
-    "demonyms": {
-      "eng": {
-        "f": "Micronesian",
-        "m": "Micronesian"
-      },
-      "fra": {
-        "f": "Micronésienne",
-        "m": "Micronésien"
-      }
-    },
-    "flag": "🇫🇲",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/571802"
-    },
-    "population": 115021,
-    "gini": {
-      "2013": 40.1
-    },
-    "car": {
-      "signs": [
-        "FSM"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+10:00",
-      "UTC+11:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/fm.png",
-      "svg": "https://flagcdn.com/fm.svg",
-      "alt": "The flag of Micronesia has a light blue field, at the center of which are four five-pointed white stars arranged in the shape of a diamond."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/fm.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/fm.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        6.92,
-        158.15
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Moldova",
-      "official": "Republic of Moldova",
-      "nativeName": {
-        "ron": {
-          "official": "Republica Moldova",
-          "common": "Moldova"
-        }
-      }
-    },
-    "tld": [
-      ".md"
-    ],
-    "cca2": "MD",
-    "ccn3": "498",
-    "cca3": "MDA",
-    "cioc": "MDA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MDL": {
-        "name": "Moldovan leu",
-        "symbol": "L"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "suffixes": [
-        "73"
-      ]
-    },
-    "capital": [
-      "Chișinău"
-    ],
-    "altSpellings": [
-      "MD",
-      "Moldova, Republic of",
-      "Republic of Moldova",
-      "Republica Moldova"
-    ],
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "languages": {
-      "ron": "Romanian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية مولدوڤا",
-        "common": "مولدوڤا"
-      },
-      "bre": {
-        "official": "Republik Moldova",
-        "common": "Moldova"
-      },
-      "ces": {
-        "official": "Moldavská republika",
-        "common": "Moldavsko"
-      },
-      "cym": {
-        "official": "Republic of Moldova",
-        "common": "Moldova"
-      },
-      "deu": {
-        "official": "Republik Moldau",
-        "common": "Moldawien"
-      },
-      "est": {
-        "official": "Moldova Vabariik",
-        "common": "Moldova"
-      },
-      "fin": {
-        "official": "Moldovan tasavalta",
-        "common": "Moldova"
-      },
-      "fra": {
-        "official": "République de Moldavie",
-        "common": "Moldavie"
-      },
-      "hrv": {
-        "official": "Moldavija",
-        "common": "Moldova"
-      },
-      "hun": {
-        "official": "Moldovai Köztársaság",
-        "common": "Moldova"
-      },
-      "ita": {
-        "official": "Repubblica di Moldova",
-        "common": "Moldavia"
-      },
-      "jpn": {
-        "official": "モルドバ共和国",
-        "common": "モルドバ共和国"
-      },
-      "kor": {
-        "official": "몰도바 공화국",
-        "common": "몰도바"
-      },
-      "nld": {
-        "official": "Republiek Moldavië",
-        "common": "Moldavië"
-      },
-      "per": {
-        "official": "جمهوری مولداوی",
-        "common": "مولداوی"
-      },
-      "pol": {
-        "official": "Republika Mołdawii",
-        "common": "Mołdawia"
-      },
-      "por": {
-        "official": "República da Moldávia",
-        "common": "Moldávia"
-      },
-      "rus": {
-        "official": "Молдова",
-        "common": "Молдавия"
-      },
-      "slk": {
-        "official": "Moldavská republika",
-        "common": "Moldavsko"
-      },
-      "spa": {
-        "official": "República de Moldova",
-        "common": "Moldavia"
-      },
-      "srp": {
-        "official": "Република Молдавија",
-        "common": "Молдавија"
-      },
-      "swe": {
-        "official": "Republiken Moldavien",
-        "common": "Moldavien"
-      },
-      "tur": {
-        "official": "Moldova Cumhuriyeti",
-        "common": "Moldova"
-      },
-      "urd": {
-        "official": "جمہوریہ مالدووا",
-        "common": "مالدووا"
-      },
-      "zho": {
-        "official": "摩尔多瓦共和国",
-        "common": "摩尔多瓦"
-      }
-    },
-    "latlng": [
-      47.0,
-      29.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "ROU",
-      "UKR"
-    ],
-    "area": 33846.0,
-    "demonyms": {
-      "eng": {
-        "f": "Moldovan",
-        "m": "Moldovan"
-      },
-      "fra": {
-        "f": "Moldave",
-        "m": "Moldave"
-      }
-    },
-    "flag": "🇲🇩",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
-    },
-    "population": 2617820,
-    "gini": {
-      "2018": 25.7
-    },
-    "fifa": "MDA",
-    "car": {
-      "signs": [
-        "MD"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/md.png",
-      "svg": "https://flagcdn.com/md.svg",
-      "alt": "The flag of Moldova is composed of three equal vertical bands of blue, yellow and red, with the national coat of arms centered in the yellow band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/md.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/md.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        47.01,
-        28.9
-      ]
-    },
-    "postalCode": {
-      "format": "MD-####",
-      "regex": "^(?:MD)*(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Mongolia",
-      "official": "Mongolia",
-      "nativeName": {
-        "mon": {
-          "official": "Монгол улс",
-          "common": "Монгол улс"
-        }
-      }
-    },
-    "tld": [
-      ".mn"
-    ],
-    "cca2": "MN",
-    "ccn3": "496",
-    "cca3": "MNG",
-    "cioc": "MGL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MNT": {
-        "name": "Mongolian tögrög",
-        "symbol": "₮"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "76"
-      ]
-    },
-    "capital": [
-      "Ulan Bator"
-    ],
-    "altSpellings": [
-      "MN"
-    ],
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "languages": {
-      "mon": "Mongolian"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية منغوليا",
-        "common": "منغوليا"
-      },
-      "bre": {
-        "official": "Mongolia",
-        "common": "Mongolia"
-      },
-      "ces": {
-        "official": "Stát Mongolsko",
-        "common": "Mongolsko"
-      },
-      "cym": {
-        "official": "Mongolia",
-        "common": "Mongolia"
-      },
-      "deu": {
-        "official": "Mongolei",
-        "common": "Mongolei"
-      },
-      "est": {
-        "official": "Mongoolia",
-        "common": "Mongoolia"
-      },
-      "fin": {
-        "official": "Mongolian tasavalta",
-        "common": "Mongolia"
-      },
-      "fra": {
-        "official": "Mongolie",
-        "common": "Mongolie"
-      },
-      "hrv": {
-        "official": "Mongolija",
-        "common": "Mongolija"
-      },
-      "hun": {
-        "official": "Mongólia",
-        "common": "Mongólia"
-      },
-      "ita": {
-        "official": "Mongolia",
-        "common": "Mongolia"
-      },
-      "jpn": {
-        "official": "モンゴル",
-        "common": "モンゴル"
-      },
-      "kor": {
-        "official": "몽골",
-        "common": "몽골국"
-      },
-      "nld": {
-        "official": "Mongolië",
-        "common": "Mongolië"
-      },
-      "per": {
-        "official": "مغولستان",
-        "common": "مغولستان"
-      },
-      "pol": {
-        "official": "Mongolia",
-        "common": "Mongolia"
-      },
-      "por": {
-        "official": "Mongólia",
-        "common": "Mongólia"
-      },
-      "rus": {
-        "official": "Монголия",
-        "common": "Монголия"
-      },
-      "slk": {
-        "official": "Mongolsko",
-        "common": "Mongolsko"
-      },
-      "spa": {
-        "official": "Mongolia",
-        "common": "Mongolia"
-      },
-      "srp": {
-        "official": "Монголија",
-        "common": "Монголија"
-      },
-      "swe": {
-        "official": "Mongoliet",
-        "common": "Mongoliet"
-      },
-      "tur": {
-        "official": "Moğolistan",
-        "common": "Moğolistan"
-      },
-      "urd": {
-        "official": "منگولیا",
-        "common": "منگولیا"
-      },
-      "zho": {
-        "official": "蒙古",
-        "common": "蒙古"
-      }
-    },
-    "latlng": [
-      46.0,
-      105.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "CHN",
-      "RUS"
-    ],
-    "area": 1564110.0,
-    "demonyms": {
-      "eng": {
-        "f": "Mongolian",
-        "m": "Mongolian"
-      },
-      "fra": {
-        "f": "Mongole",
-        "m": "Mongol"
-      }
-    },
-    "flag": "🇲🇳",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/161033"
-    },
-    "population": 3278292,
-    "gini": {
-      "2018": 32.7
-    },
-    "fifa": "MNG",
-    "car": {
-      "signs": [
-        "MGL"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+07:00",
-      "UTC+08:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mn.png",
-      "svg": "https://flagcdn.com/mn.svg",
-      "alt": "The flag of Mongolia is composed of three equal vertical bands of red, blue and red, with the national emblem — the Soyombo — in gold centered in the hoist-side red band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mn.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mn.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        47.92,
-        106.91
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Mozambique",
-      "official": "Republic of Mozambique",
-      "nativeName": {
-        "por": {
-          "official": "República de Moçambique",
-          "common": "Moçambique"
-        }
-      }
-    },
-    "tld": [
-      ".mz"
-    ],
-    "cca2": "MZ",
-    "ccn3": "508",
-    "cca3": "MOZ",
-    "cioc": "MOZ",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MZN": {
-        "name": "Mozambican metical",
-        "symbol": "MT"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "58"
-      ]
-    },
-    "capital": [
-      "Maputo"
-    ],
-    "altSpellings": [
-      "MZ",
-      "Republic of Mozambique",
-      "República de Moçambique"
-    ],
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "languages": {
-      "por": "Portuguese"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية موزمبيق",
-        "common": "موزمبيق"
-      },
-      "bre": {
-        "official": "Republik Mozambik",
-        "common": "Mozambik"
-      },
-      "ces": {
-        "official": "Mosambická republika",
-        "common": "Mosambik"
-      },
-      "cym": {
-        "official": "Republic of Mozambique",
-        "common": "Mozambique"
-      },
-      "deu": {
-        "official": "Republik Mosambik",
-        "common": "Mosambik"
-      },
-      "est": {
-        "official": "Mosambiigi Vabariik",
-        "common": "Mosambiik"
-      },
-      "fin": {
-        "official": "Mosambikin tasavalta",
-        "common": "Mosambik"
-      },
-      "fra": {
-        "official": "République du Mozambique",
-        "common": "Mozambique"
-      },
-      "hrv": {
-        "official": "Republika Mozambiku",
-        "common": "Mozambik"
-      },
-      "hun": {
-        "official": "Mozambiki Köztársaság",
-        "common": "Mozambik"
-      },
-      "ita": {
-        "official": "Repubblica del Mozambico",
-        "common": "Mozambico"
-      },
-      "jpn": {
-        "official": "モザンビーク共和国",
-        "common": "モザンビーク"
-      },
-      "kor": {
-        "official": "모잠비크 공화국",
-        "common": "모잠비크"
-      },
-      "nld": {
-        "official": "Republiek Mozambique",
-        "common": "Mozambique"
-      },
-      "per": {
-        "official": "جمهوری موزامبیک",
-        "common": "موزامبیک"
-      },
-      "pol": {
-        "official": "Republika Mozambiku",
-        "common": "Mozambik"
-      },
-      "por": {
-        "official": "República de Moçambique",
-        "common": "Moçambique"
-      },
-      "rus": {
-        "official": "Республика Мозамбик",
-        "common": "Мозамбик"
-      },
-      "slk": {
-        "official": "Mozambická republika",
-        "common": "Mozambik"
-      },
-      "spa": {
-        "official": "República de Mozambique",
-        "common": "Mozambique"
-      },
-      "srp": {
-        "official": "Република Мозамбик",
-        "common": "Мозамбик"
-      },
-      "swe": {
-        "official": "Republiken Moçambique",
-        "common": "Moçambique"
-      },
-      "tur": {
-        "official": "Mozambik Cumhuriyeti",
-        "common": "Mozambik"
-      },
-      "urd": {
-        "official": "جمہوریہ موزمبیق",
-        "common": "موزمبیق"
-      },
-      "zho": {
-        "official": "莫桑比克共和国",
-        "common": "莫桑比克"
-      }
-    },
-    "latlng": [
-      -18.25,
-      35.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "MWI",
-      "ZAF",
-      "SWZ",
-      "TZA",
-      "ZMB",
-      "ZWE"
-    ],
-    "area": 801590.0,
-    "demonyms": {
-      "eng": {
-        "f": "Mozambican",
-        "m": "Mozambican"
-      },
-      "fra": {
-        "f": "Mozambicaine",
-        "m": "Mozambicain"
-      }
-    },
-    "flag": "🇲🇿",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/195273"
-    },
-    "population": 31255435,
-    "gini": {
-      "2014": 54.0
-    },
-    "fifa": "MOZ",
-    "car": {
-      "signs": [
-        "MOC"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mz.png",
-      "svg": "https://flagcdn.com/mz.svg",
-      "alt": "The flag of Mozambique is composed of three equal horizontal bands of teal, black with white top and bottom edges, and yellow. A red isosceles triangle spanning about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end. This triangle bears a crossed rifle and hoe in black superimposed on an open white book which is superimposed on a five-pointed yellow star."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mz.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mz.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -25.95,
-        32.58
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Myanmar",
-      "official": "Republic of the Union of Myanmar",
-      "nativeName": {
-        "mya": {
-          "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
-          "common": "မြန်မာ"
-        }
-      }
-    },
-    "tld": [
-      ".mm"
-    ],
-    "cca2": "MM",
-    "ccn3": "104",
-    "cca3": "MMR",
-    "cioc": "MYA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "MMK": {
-        "name": "Burmese kyat",
-        "symbol": "Ks"
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "5"
-      ]
-    },
-    "capital": [
-      "Naypyidaw"
-    ],
-    "altSpellings": [
-      "MM",
-      "Burma",
-      "Republic of the Union of Myanmar",
-      "Pyidaunzu Thanmăda Myăma Nainngandaw"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "mya": "Burmese"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية اتحاد ميانمار",
-        "common": "ميانمار"
-      },
-      "bre": {
-        "official": "Republik Unaniezh Myanmar",
-        "common": "Myanmar"
-      },
-      "ces": {
-        "official": "Republika Myanmarský svaz",
-        "common": "Myanmar"
-      },
-      "cym": {
-        "official": "Republic of the Union of Myanmar",
-        "common": "Myanmar"
-      },
-      "deu": {
-        "official": "Republik der Union Myanmar",
-        "common": "Myanmar"
-      },
-      "est": {
-        "official": "Myanmari Liidu Vabariik",
-        "common": "Myanmar"
-      },
-      "fin": {
-        "official": "Myanmarin liiton tasavalta",
-        "common": "Myanmar"
-      },
-      "fra": {
-        "official": "République de l'Union du Myanmar",
-        "common": "Birmanie"
-      },
-      "hrv": {
-        "official": "Republika Unije Mijanmar",
-        "common": "Mijanmar"
-      },
-      "hun": {
-        "official": "Mianmari Államszövetség Köztársasága",
-        "common": "Mianmar"
-      },
-      "ita": {
-        "official": "Repubblica dell'Unione di Myanmar",
-        "common": "Birmania"
-      },
-      "jpn": {
-        "official": "ミャンマー連邦共和国",
-        "common": "ミャンマー"
-      },
-      "kor": {
-        "official": "미얀마 연방 공화국",
-        "common": "미얀마"
-      },
-      "nld": {
-        "official": "Republiek van de Unie van Myanmar",
-        "common": "Myanmar"
-      },
-      "per": {
-        "official": "اتحادیه جمهوری میانمار",
-        "common": "میانمار"
-      },
-      "pol": {
-        "official": "Republika Związku Mjanmy",
-        "common": "Mjanma"
-      },
-      "por": {
-        "official": "República da União de Myanmar",
-        "common": "Myanmar"
-      },
-      "rus": {
-        "official": "Республика Союза Мьянма",
-        "common": "Мьянма"
-      },
-      "slk": {
-        "official": "Mjanmarská zväzová republika",
-        "common": "Mjanmarsko"
-      },
-      "spa": {
-        "official": "República de la Unión de Myanmar",
-        "common": "Myanmar"
-      },
-      "srp": {
-        "official": "Република Савез Мјанмара",
-        "common": "Мјанмар"
-      },
-      "swe": {
-        "official": "Republiken Unionen Myanmar",
-        "common": "Myanmar"
-      },
-      "tur": {
-        "official": "Myanmar Birliği Cumhuriyeti",
-        "common": "Myanmar"
-      },
-      "urd": {
-        "official": "متحدہ جمہوریہ میانمار",
-        "common": "میانمار"
-      },
-      "zho": {
-        "official": "缅甸联邦共和国",
-        "common": "缅甸"
-      }
-    },
-    "latlng": [
-      22.0,
-      98.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BGD",
-      "CHN",
-      "IND",
-      "LAO",
-      "THA"
-    ],
-    "area": 676578.0,
-    "demonyms": {
-      "eng": {
-        "f": "Burmese",
-        "m": "Burmese"
-      },
-      "fra": {
-        "f": "Birmane",
-        "m": "Birman"
-      }
-    },
-    "flag": "🇲🇲",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/50371"
-    },
-    "population": 54409794,
-    "gini": {
-      "2017": 30.7
-    },
-    "fifa": "MYA",
-    "car": {
-      "signs": [
-        "BUR"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+06:30"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/mm.png",
-      "svg": "https://flagcdn.com/mm.svg",
-      "alt": "The flag of Myanmar is composed of three equal horizontal bands of yellow, green and red, with a large five-pointed white star superimposed at the center of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/mm.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/mm.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        19.76,
-        96.07
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-
-  {
-    "name": {
-      "common": "Nigeria",
-      "official": "Federal Republic of Nigeria",
-      "nativeName": {
-        "eng": {
-          "official": "Federal Republic of Nigeria",
-          "common": "Nigeria"
-        }
-      }
-    },
-    "tld": [
-      ".ng"
-    ],
-    "cca2": "NG",
-    "ccn3": "566",
-    "cca3": "NGA",
-    "cioc": "NGR",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "NGN": {
-        "name": "Nigerian naira",
-        "symbol": "₦"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "34"
-      ]
-    },
-    "capital": [
-      "Abuja"
-    ],
-    "altSpellings": [
-      "NG",
-      "Nijeriya",
-      "Naíjíríà",
-      "Federal Republic of Nigeria"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية نيجيريا الاتحادية",
-        "common": "نيجيريا"
-      },
-      "bre": {
-        "official": "Republik Kevreadel Nigeria",
-        "common": "Nigeria"
-      },
-      "ces": {
-        "official": "Nigerijská federativní republika",
-        "common": "Nigérie"
-      },
-      "cym": {
-        "official": "Federal Republic of Nigeria",
-        "common": "Nigeria"
-      },
-      "deu": {
-        "official": "Bundesrepublik Nigeria",
-        "common": "Nigeria"
-      },
-      "est": {
-        "official": "Nigeeria Liitvabariik",
-        "common": "Nigeeria"
-      },
-      "fin": {
-        "official": "Nigerian liittotasavalta",
-        "common": "Nigeria"
-      },
-      "fra": {
-        "official": "République fédérale du Nigeria",
-        "common": "Nigéria"
-      },
-      "hrv": {
-        "official": "Savezna Republika Nigerija",
-        "common": "Nigerija"
-      },
-      "hun": {
-        "official": "Nigéria",
-        "common": "Nigéria"
-      },
-      "ita": {
-        "official": "Repubblica federale di Nigeria",
-        "common": "Nigeria"
-      },
-      "jpn": {
-        "official": "ナイジェリア連邦共和国",
-        "common": "ナイジェリア"
-      },
-      "kor": {
-        "official": "나이지리아 연방 공화국",
-        "common": "나이지리아"
-      },
-      "nld": {
-        "official": "Federale Republiek Nigeria",
-        "common": "Nigeria"
-      },
-      "per": {
-        "official": "جمهوری فدرال نیجریه",
-        "common": "نیجریه"
-      },
-      "pol": {
-        "official": "Federalna Republika Nigerii",
-        "common": "Nigeria"
-      },
-      "por": {
-        "official": "República Federal da Nigéria",
-        "common": "Nigéria"
-      },
-      "rus": {
-        "official": "Федеративная Республика Нигерия",
-        "common": "Нигерия"
-      },
-      "slk": {
-        "official": "Nigérijská federatívna republika",
-        "common": "Nigéria"
-      },
-      "spa": {
-        "official": "República Federal de Nigeria",
-        "common": "Nigeria"
-      },
-      "srp": {
-        "official": "Савезна Република Нигерија",
-        "common": "Нигерија "
-      },
-      "swe": {
-        "official": "Förbundsrepubliken Nigeria",
-        "common": "Nigeria"
-      },
-      "tur": {
-        "official": "Nijerya Federal Cumhuriyeti",
-        "common": "Nijerya"
-      },
-      "urd": {
-        "official": "وفاقی جمہوریہ نائجیریا",
-        "common": "نائجیریا"
-      },
-      "zho": {
-        "official": "尼日利亚联邦共和国",
-        "common": "尼日利亚"
-      }
-    },
-    "latlng": [
-      10.0,
-      8.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BEN",
-      "CMR",
-      "TCD",
-      "NER"
-    ],
-    "area": 923768.0,
-    "demonyms": {
-      "eng": {
-        "f": "Nigerian",
-        "m": "Nigerian"
-      },
-      "fra": {
-        "f": "Nigériane",
-        "m": "Nigérian"
-      }
-    },
-    "flag": "🇳🇬",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
-    },
-    "population": 206139587,
-    "gini": {
-      "2018": 35.1
-    },
-    "fifa": "NGA",
-    "car": {
-      "signs": [
-        "WAN"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ng.png",
-      "svg": "https://flagcdn.com/ng.svg",
-      "alt": "The flag of Nigeria is composed of three equal vertical bands of green, white and green."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ng.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        9.08,
-        7.53
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Palau",
-      "official": "Republic of Palau",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Palau",
-          "common": "Palau"
-        },
-        "pau": {
-          "official": "Beluu er a Belau",
-          "common": "Belau"
-        }
-      }
-    },
-    "tld": [
-      ".pw"
-    ],
-    "cca2": "PW",
-    "ccn3": "585",
-    "cca3": "PLW",
-    "cioc": "PLW",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "80"
-      ]
-    },
-    "capital": [
-      "Ngerulmud"
-    ],
-    "altSpellings": [
-      "PW",
-      "Republic of Palau",
-      "Beluu er a Belau"
-    ],
-    "region": "Oceania",
-    "subregion": "Micronesia",
-    "languages": {
-      "eng": "English",
-      "pau": "Palauan"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بالاو",
-        "common": "بالاو"
-      },
-      "bre": {
-        "official": "Republik Palau",
-        "common": "Palau"
-      },
-      "ces": {
-        "official": "Republika Palau",
-        "common": "Palau"
-      },
-      "cym": {
-        "official": "Republic of Palau",
-        "common": "Palau"
-      },
-      "deu": {
-        "official": "Republik Palau",
-        "common": "Palau"
-      },
-      "est": {
-        "official": "Belau Vabariik",
-        "common": "Belau"
-      },
-      "fin": {
-        "official": "Palaun tasavalta",
-        "common": "Palau"
-      },
-      "fra": {
-        "official": "République des Palaos (Palau)",
-        "common": "Palaos (Palau)"
-      },
-      "hrv": {
-        "official": "Republika Palau",
-        "common": "Palau"
-      },
-      "hun": {
-        "official": "Palaui Köztársaság",
-        "common": "Palau"
-      },
-      "ita": {
-        "official": "Repubblica di Palau",
-        "common": "Palau"
-      },
-      "jpn": {
-        "official": "パラオ共和国",
-        "common": "パラオ"
-      },
-      "kor": {
-        "official": "팔라우 공화국",
-        "common": "팔라우"
-      },
-      "nld": {
-        "official": "Republiek van Palau",
-        "common": "Palau"
-      },
-      "per": {
-        "official": "جمهوری پالائو",
-        "common": "پالائو"
-      },
-      "pol": {
-        "official": "Republika Palau",
-        "common": "Palau"
-      },
-      "por": {
-        "official": "República de Palau",
-        "common": "Palau"
-      },
-      "rus": {
-        "official": "Республика Палау",
-        "common": "Палау"
-      },
-      "slk": {
-        "official": "Palauská republika",
-        "common": "Palau"
-      },
-      "spa": {
-        "official": "República de Palau",
-        "common": "Palau"
-      },
-      "srp": {
-        "official": "Република Палау",
-        "common": "Палау"
-      },
-      "swe": {
-        "official": "Republiken Palau",
-        "common": "Palau"
-      },
-      "tur": {
-        "official": "Palau Cumhuriyeti",
-        "common": "Palau"
-      },
-      "urd": {
-        "official": "جمہوریہ پلاؤ",
-        "common": "پلاؤ"
-      },
-      "zho": {
-        "official": "帕劳共和国",
-        "common": "帕劳"
-      }
-    },
-    "latlng": [
-      7.5,
-      134.5
-    ],
-    "landlocked": false,
-    "area": 459.0,
-    "demonyms": {
-      "eng": {
-        "f": "Palauan",
-        "m": "Palauan"
-      },
-      "fra": {
-        "f": "Paluane",
-        "m": "Paluan"
-      }
-    },
-    "flag": "🇵🇼",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
-    },
-    "population": 18092,
-    "car": {
-      "signs": [
-        "PAL"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/pw.png",
-      "svg": "https://flagcdn.com/pw.svg",
-      "alt": "The flag of Palau has a light blue field with a large golden-yellow circle that is offset slightly towards the hoist side of center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/pw.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        7.5,
-        134.62
-      ]
-    },
-    "postalCode": {
-      "format": "96940",
-      "regex": "^(96940)$"
-    }
-  },
-  {
-    "name": {
-      "common": "Panama",
-      "official": "Republic of Panama",
-      "nativeName": {
-        "spa": {
-          "official": "República de Panamá",
-          "common": "Panamá"
-        }
-      }
-    },
-    "tld": [
-      ".pa"
-    ],
-    "cca2": "PA",
-    "ccn3": "591",
-    "cca3": "PAN",
-    "cioc": "PAN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "PAB": {
-        "name": "Panamanian balboa",
-        "symbol": "B/."
-      },
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "07"
-      ]
-    },
-    "capital": [
-      "Panama City"
-    ],
-    "altSpellings": [
-      "PA",
-      "Republic of Panama",
-      "República de Panamá"
-    ],
-    "region": "Americas",
-    "subregion": "Central America",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بنما",
-        "common": "بنما"
-      },
-      "bre": {
-        "official": "Republik Panama",
-        "common": "Panama"
-      },
-      "ces": {
-        "official": "Panamská republika",
-        "common": "Panama"
-      },
-      "cym": {
-        "official": "Republic of Panama",
-        "common": "Panama"
-      },
-      "deu": {
-        "official": "Republik Panama",
-        "common": "Panama"
-      },
-      "est": {
-        "official": "Panama Vabariik",
-        "common": "Panama"
-      },
-      "fin": {
-        "official": "Panaman tasavalta",
-        "common": "Panama"
-      },
-      "fra": {
-        "official": "République du Panama",
-        "common": "Panama"
-      },
-      "hrv": {
-        "official": "Republika Panama",
-        "common": "Panama"
-      },
-      "hun": {
-        "official": "Panamai Köztársaság",
-        "common": "Panama"
-      },
-      "ita": {
-        "official": "Repubblica di Panama",
-        "common": "Panama"
-      },
-      "jpn": {
-        "official": "パナマ共和国",
-        "common": "パナマ"
-      },
-      "kor": {
-        "official": "파나마 공화국",
-        "common": "파나마"
-      },
-      "nld": {
-        "official": "Republiek Panama",
-        "common": "Panama"
-      },
-      "per": {
-        "official": "جمهوری پاناما",
-        "common": "پاناما"
-      },
-      "pol": {
-        "official": "Republika Panamy",
-        "common": "Panama"
-      },
-      "por": {
-        "official": "República do Panamá",
-        "common": "Panamá"
-      },
-      "rus": {
-        "official": "Республика Панама",
-        "common": "Панама"
-      },
-      "slk": {
-        "official": "Panamská republika",
-        "common": "Panama"
-      },
-      "spa": {
-        "official": "República de Panamá",
-        "common": "Panamá"
-      },
-      "srp": {
-        "official": "Република Панама",
-        "common": "Панама"
-      },
-      "swe": {
-        "official": "Republiken Panama",
-        "common": "Panama"
-      },
-      "tur": {
-        "official": "Panama Cumhuriyeti",
-        "common": "Panama"
-      },
-      "urd": {
-        "official": "جمہوریہ پاناما",
-        "common": "پاناما"
-      },
-      "zho": {
-        "official": "巴拿马共和国",
-        "common": "巴拿马"
-      }
-    },
-    "latlng": [
-      9.0,
-      -80.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "COL",
-      "CRI"
-    ],
-    "area": 75417.0,
-    "demonyms": {
-      "eng": {
-        "f": "Panamanian",
-        "m": "Panamanian"
-      },
-      "fra": {
-        "f": "Panaméenne",
-        "m": "Panaméen"
-      }
-    },
-    "flag": "🇵🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
-    },
-    "population": 4314768,
-    "gini": {
-      "2019": 49.8
-    },
-    "fifa": "PAN",
-    "car": {
-      "signs": [
-        "PA"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/pa.png",
-      "svg": "https://flagcdn.com/pa.svg",
-      "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        8.97,
-        -79.53
-      ]
     }
   },
   {
