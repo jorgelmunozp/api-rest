@@ -8413,6 +8413,219 @@
   },
   {
     "name": {
+      "common": "Côte d'Ivoire",
+      "official": "Republic of Côte d'Ivoire",
+      "nativeName": {
+        "fra": {
+          "official": "République de Côte d'Ivoire",
+          "common": "Côte d'Ivoire"
+        }
+      }
+    },
+    "tld": [
+      ".ci"
+    ],
+    "cca2": "CI",
+    "ccn3": "384",
+    "cca3": "CIV",
+    "cioc": "CIV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "mainSuffix": "25",
+      "suffixes": [
+        "25"
+      ]
+    },
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "altSpellings": [
+      "CI",
+      "Côte d'Ivoire",
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية ساحل العاج",
+        "common": "ساحل العاج"
+      },
+      "bre": {
+        "official": "Republik Aod an Olifant",
+        "common": "Aod an Olifant"
+      },
+      "ces": {
+        "official": "Republika Pobřeží slonoviny",
+        "common": "Pobřeží slonoviny"
+      },
+      "cym": {
+        "official": "Republic of Côte d'Ivoire",
+        "common": "Ivory Coast"
+      },
+      "deu": {
+        "official": "Republik Côte d'Ivoire",
+        "common": "Elfenbeinküste"
+      },
+      "est": {
+        "official": "Côte d’Ivoire’i Vabariik",
+        "common": "Elevandiluurannik"
+      },
+      "fin": {
+        "official": "Norsunluurannikon tasavalta",
+        "common": "Norsunluurannikko"
+      },
+      "fra": {
+        "official": "République de Côte d' Ivoire",
+        "common": "Côte d'Ivoire"
+      },
+      "hrv": {
+        "official": "Republika Côte d'Ivoire",
+        "common": "Obala Bjelokosti"
+      },
+      "hun": {
+        "official": "Elefántcsontparti Köztársaság",
+        "common": "Elefántcsontpart"
+      },
+      "ita": {
+        "official": "Repubblica della Costa d'Avorio",
+        "common": "Costa d'Avorio"
+      },
+      "jpn": {
+        "official": "コートジボワール共和国",
+        "common": "コートジボワール"
+      },
+      "kor": {
+        "official": "코트디부아르 공화국",
+        "common": "코트디부아르"
+      },
+      "nld": {
+        "official": "Republiek Ivoorkust",
+        "common": "Ivoorkust"
+      },
+      "per": {
+        "official": "جمهوری ساحل عاج",
+        "common": "ساحل عاج"
+      },
+      "pol": {
+        "official": "Republika WybrzeŻa Kości Słoniowej",
+        "common": "WybrzeŻe Kości Słoniowej"
+      },
+      "por": {
+        "official": "República da Côte d'Ivoire",
+        "common": "Costa do Marfim"
+      },
+      "rus": {
+        "official": "Республика Кот-д'Ивуаре",
+        "common": "Кот-д’Ивуар"
+      },
+      "slk": {
+        "official": "Republika Pobrežie Slonoviny",
+        "common": "Pobržie Slonoviny"
+      },
+      "spa": {
+        "official": "República de Côte d'Ivoire",
+        "common": "Costa de Marfil"
+      },
+      "srp": {
+        "official": "Република Обала Слоноваче",
+        "common": "Обала Слоноваче"
+      },
+      "swe": {
+        "official": "Republiken Elfenbenskusten",
+        "common": "Elfenbenskusten"
+      },
+      "tur": {
+        "official": "Fildişi Sahili",
+        "common": "Fildişi Sahili"
+      },
+      "urd": {
+        "official": "جمہوریہ کوت دیواغ",
+        "common": "آئیوری کوسٹ"
+      },
+      "zho": {
+        "official": "科特迪瓦共和国",
+        "common": "科特迪瓦"
+      }
+    },
+    "latlng": [
+      8.0,
+      -5.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "area": 322463.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ivorian",
+        "m": "Ivorian"
+      },
+      "fra": {
+        "f": "Ivoirienne",
+        "m": "Ivoirien"
+      }
+    },
+    "flag": "🇨🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+    },
+    "population": 26378275,
+    "gini": {
+      "2015": 41.5
+    },
+    "fifa": "CIV",
+    "car": {
+      "signs": [
+        "CI"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ci.png",
+      "svg": "https://flagcdn.com/ci.svg",
+      "alt": "The flag of Ivory Coast is composed of three equal vertical bands of orange, white and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.82,
+        -5.27
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Croatia",
       "official": "Republic of Croatia",
       "nativeName": {
@@ -13175,7 +13388,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "95",
       "suffixes": [
         "95"
       ]
@@ -13388,7 +13601,7 @@
     },
     "idd": {
       "root": "+4",
-      "mainSuffix": "",
+      "mainSuffix": "9",
       "suffixes": [
         "9"
       ]
@@ -13607,7 +13820,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "33",
       "suffixes": [
         "33"
       ]
@@ -13814,7 +14027,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "0",
       "suffixes": [
         "0"
       ]
@@ -14228,7 +14441,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "02",
       "suffixes": [
         "02"
       ]
@@ -14440,7 +14653,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "24",
       "suffixes": [
         "24"
       ]
@@ -14656,7 +14869,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "45",
       "suffixes": [
         "45"
       ]
@@ -14869,7 +15082,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "92",
       "suffixes": [
         "92"
       ]
@@ -15081,7 +15294,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "09",
       "suffixes": [
         "09"
       ]
@@ -15294,7 +15507,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "04",
       "suffixes": [
         "04"
       ]
@@ -15507,7 +15720,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "6",
       "suffixes": [
         "6"
       ]
@@ -15722,7 +15935,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "54",
       "suffixes": [
         "54"
       ]
@@ -15939,7 +16152,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "1",
       "suffixes": [
         "1"
       ]
@@ -16159,7 +16372,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "2",
       "suffixes": [
         "2"
       ]
@@ -16375,7 +16588,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "8",
       "suffixes": [
         "8"
       ]
@@ -16597,7 +16810,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "64",
       "suffixes": [
         "64"
       ]
@@ -16819,7 +17032,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "53",
       "suffixes": [
         "53"
       ]
@@ -17032,7 +17245,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "72",
       "suffixes": [
         "72"
       ]
@@ -17248,7 +17461,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "9",
       "suffixes": [
         "9"
       ]
@@ -17663,219 +17876,6 @@
   },
   {
     "name": {
-      "common": "Ivory Coast",
-      "official": "Republic of Côte d'Ivoire",
-      "nativeName": {
-        "fra": {
-          "official": "République de Côte d'Ivoire",
-          "common": "Côte d'Ivoire"
-        }
-      }
-    },
-    "tld": [
-      ".ci"
-    ],
-    "cca2": "CI",
-    "ccn3": "384",
-    "cca3": "CIV",
-    "cioc": "CIV",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XOF": {
-        "name": "West African CFA franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "mainSuffix": "",
-      "suffixes": [
-        "25"
-      ]
-    },
-    "capital": [
-      "Yamoussoukro"
-    ],
-    "altSpellings": [
-      "CI",
-      "Côte d'Ivoire",
-      "Ivory Coast",
-      "Republic of Côte d'Ivoire",
-      "République de Côte d'Ivoire"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "fra": "French"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية ساحل العاج",
-        "common": "ساحل العاج"
-      },
-      "bre": {
-        "official": "Republik Aod an Olifant",
-        "common": "Aod an Olifant"
-      },
-      "ces": {
-        "official": "Republika Pobřeží slonoviny",
-        "common": "Pobřeží slonoviny"
-      },
-      "cym": {
-        "official": "Republic of Côte d'Ivoire",
-        "common": "Ivory Coast"
-      },
-      "deu": {
-        "official": "Republik Côte d'Ivoire",
-        "common": "Elfenbeinküste"
-      },
-      "est": {
-        "official": "Côte d’Ivoire’i Vabariik",
-        "common": "Elevandiluurannik"
-      },
-      "fin": {
-        "official": "Norsunluurannikon tasavalta",
-        "common": "Norsunluurannikko"
-      },
-      "fra": {
-        "official": "République de Côte d' Ivoire",
-        "common": "Côte d'Ivoire"
-      },
-      "hrv": {
-        "official": "Republika Côte d'Ivoire",
-        "common": "Obala Bjelokosti"
-      },
-      "hun": {
-        "official": "Elefántcsontparti Köztársaság",
-        "common": "Elefántcsontpart"
-      },
-      "ita": {
-        "official": "Repubblica della Costa d'Avorio",
-        "common": "Costa d'Avorio"
-      },
-      "jpn": {
-        "official": "コートジボワール共和国",
-        "common": "コートジボワール"
-      },
-      "kor": {
-        "official": "코트디부아르 공화국",
-        "common": "코트디부아르"
-      },
-      "nld": {
-        "official": "Republiek Ivoorkust",
-        "common": "Ivoorkust"
-      },
-      "per": {
-        "official": "جمهوری ساحل عاج",
-        "common": "ساحل عاج"
-      },
-      "pol": {
-        "official": "Republika WybrzeŻa Kości Słoniowej",
-        "common": "WybrzeŻe Kości Słoniowej"
-      },
-      "por": {
-        "official": "República da Côte d'Ivoire",
-        "common": "Costa do Marfim"
-      },
-      "rus": {
-        "official": "Республика Кот-д'Ивуаре",
-        "common": "Кот-д’Ивуар"
-      },
-      "slk": {
-        "official": "Republika Pobrežie Slonoviny",
-        "common": "Pobržie Slonoviny"
-      },
-      "spa": {
-        "official": "República de Côte d'Ivoire",
-        "common": "Costa de Marfil"
-      },
-      "srp": {
-        "official": "Република Обала Слоноваче",
-        "common": "Обала Слоноваче"
-      },
-      "swe": {
-        "official": "Republiken Elfenbenskusten",
-        "common": "Elfenbenskusten"
-      },
-      "tur": {
-        "official": "Fildişi Sahili",
-        "common": "Fildişi Sahili"
-      },
-      "urd": {
-        "official": "جمہوریہ کوت دیواغ",
-        "common": "آئیوری کوسٹ"
-      },
-      "zho": {
-        "official": "科特迪瓦共和国",
-        "common": "科特迪瓦"
-      }
-    },
-    "latlng": [
-      8.0,
-      -5.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BFA",
-      "GHA",
-      "GIN",
-      "LBR",
-      "MLI"
-    ],
-    "area": 322463.0,
-    "demonyms": {
-      "eng": {
-        "f": "Ivorian",
-        "m": "Ivorian"
-      },
-      "fra": {
-        "f": "Ivoirienne",
-        "m": "Ivoirien"
-      }
-    },
-    "flag": "🇨🇮",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
-    },
-    "population": 26378275,
-    "gini": {
-      "2015": 41.5
-    },
-    "fifa": "CIV",
-    "car": {
-      "signs": [
-        "CI"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ci.png",
-      "svg": "https://flagcdn.com/ci.svg",
-      "alt": "The flag of Ivory Coast is composed of three equal vertical bands of orange, white and green."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        6.82,
-        -5.27
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Jamaica",
       "official": "Jamaica",
       "nativeName": {
@@ -18111,7 +18111,7 @@
     },
     "idd": {
       "root": "+8",
-      "mainSuffix": "",
+      "mainSuffix": "1",
       "suffixes": [
         "1"
       ]
@@ -18320,7 +18320,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "62",
       "suffixes": [
         "62"
       ]
@@ -18767,7 +18767,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "54",
       "suffixes": [
         "54"
       ]
