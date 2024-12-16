@@ -7963,7 +7963,227 @@
   },
   {
     "name": {
-      "common": "Congo DR",
+      "common": "Congo - Brazzaville",
+      "official": "Republic of the Congo",
+      "nativeName": {
+        "fra": {
+          "official": "République du Congo",
+          "common": "République du Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo",
+          "common": "Repubilika ya Kongo"
+        },
+        "lin": {
+          "official": "Republíki ya Kongó",
+          "common": "Republíki ya Kongó"
+        }
+      }
+    },
+    "tld": [
+      ".cg"
+    ],
+    "cca2": "CG",
+    "ccn3": "178",
+    "cca3": "COG",
+    "cioc": "CGO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "mainSuffix": "45",
+      "suffixes": [
+        "42"
+      ]
+    },
+    "capital": [
+      "Brazzaville"
+    ],
+    "altSpellings": [
+      "CG",
+      "Congo",
+      "Congo-Brazzaville"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الكونغو",
+        "common": "جمهورية الكونفو"
+      },
+      "bre": {
+        "official": "Republik Kongo",
+        "common": "Kongo-Brazzaville"
+      },
+      "ces": {
+        "official": "Konžská republika",
+        "common": "Kongo"
+      },
+      "cym": {
+        "official": "Gweriniaeth y Congo",
+        "common": "Gweriniaeth y Congo"
+      },
+      "deu": {
+        "official": "Republik Kongo",
+        "common": "Kongo"
+      },
+      "est": {
+        "official": "Kongo Vabariik",
+        "common": "Kongo Vabariik"
+      },
+      "fin": {
+        "official": "Kongon tasavalta",
+        "common": "Kongo-Brazzaville"
+      },
+      "fra": {
+        "official": "République du Congo",
+        "common": "Congo"
+      },
+      "hrv": {
+        "official": "Republika Kongo",
+        "common": "Kongo"
+      },
+      "hun": {
+        "official": "Kongói Köztársaság",
+        "common": "Kongói Köztársaság"
+      },
+      "ita": {
+        "official": "Repubblica del Congo",
+        "common": "Congo"
+      },
+      "jpn": {
+        "official": "コンゴ共和国",
+        "common": "コンゴ共和国"
+      },
+      "kor": {
+        "official": "콩고",
+        "common": "콩고"
+      },
+      "nld": {
+        "official": "Republiek Congo",
+        "common": "Congo"
+      },
+      "per": {
+        "official": "جمهوری برازاویل کُنگو",
+        "common": "جمهوری کُنگو"
+      },
+      "pol": {
+        "official": "Republika Konga",
+        "common": "Kongo"
+      },
+      "por": {
+        "official": "República do Congo",
+        "common": "Congo"
+      },
+      "rus": {
+        "official": "Республика Конго",
+        "common": "Республика Конго"
+      },
+      "slk": {
+        "official": "Konžská republika",
+        "common": "Kongo"
+      },
+      "spa": {
+        "official": "República del Congo",
+        "common": "Congo"
+      },
+      "srp": {
+        "official": "Република Конго",
+        "common": "Конго"
+      },
+      "swe": {
+        "official": "Republiken Kongo",
+        "common": "Kongo-Brazzaville"
+      },
+      "tur": {
+        "official": "Kongo Cumhuriyeti",
+        "common": "Kongo Cumhuriyeti"
+      },
+      "urd": {
+        "official": "جمہوریہ کانگو",
+        "common": "جمہوریہ کانگو"
+      },
+      "zho": {
+        "official": "刚果共和国",
+        "common": "刚果"
+      }
+    },
+    "latlng": [
+      -1.0,
+      15.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "area": 342000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Congolese",
+        "m": "Congolese"
+      },
+      "fra": {
+        "f": "Congolaise",
+        "m": "Congolais"
+      }
+    },
+    "flag": "🇨🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192794"
+    },
+    "population": 5657000,
+    "gini": {
+      "2011": 48.9
+    },
+    "fifa": "CGO",
+    "car": {
+      "signs": [
+        "RCB"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cg.png",
+      "svg": "https://flagcdn.com/cg.svg",
+      "alt": "The flag of the Republic of the Congo features a yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
+    },
+    "coatOfArms": {
+      
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -4.25,
+        15.28
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Congo - Kinshasa",
       "official": "Democratic Republic of the Congo",
       "nativeName": {
         "fra": {
@@ -29319,7 +29539,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "3",
       "suffixes": [
         "3"
       ]
@@ -29528,7 +29748,7 @@
     },
     "idd": {
       "root": "+4",
-      "mainSuffix": "",
+      "mainSuffix": "8",
       "suffixes": [
         "8"
       ]
@@ -29745,7 +29965,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "51",
       "suffixes": [
         "51"
       ]
@@ -29959,7 +30179,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "74",
       "suffixes": [
         "74"
       ]
@@ -30136,226 +30356,6 @@
   },
   {
     "name": {
-      "common": "Republic of the Congo",
-      "official": "Republic of the Congo",
-      "nativeName": {
-        "fra": {
-          "official": "République du Congo",
-          "common": "République du Congo"
-        },
-        "kon": {
-          "official": "Repubilika ya Kongo",
-          "common": "Repubilika ya Kongo"
-        },
-        "lin": {
-          "official": "Republíki ya Kongó",
-          "common": "Republíki ya Kongó"
-        }
-      }
-    },
-    "tld": [
-      ".cg"
-    ],
-    "cca2": "CG",
-    "ccn3": "178",
-    "cca3": "COG",
-    "cioc": "CGO",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XAF": {
-        "name": "Central African CFA franc",
-        "symbol": "Fr"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "mainSuffix": "",
-      "suffixes": [
-        "42"
-      ]
-    },
-    "capital": [
-      "Brazzaville"
-    ],
-    "altSpellings": [
-      "CG",
-      "Congo",
-      "Congo-Brazzaville"
-    ],
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "languages": {
-      "fra": "French",
-      "kon": "Kikongo",
-      "lin": "Lingala"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية الكونغو",
-        "common": "جمهورية الكونفو"
-      },
-      "bre": {
-        "official": "Republik Kongo",
-        "common": "Kongo-Brazzaville"
-      },
-      "ces": {
-        "official": "Konžská republika",
-        "common": "Kongo"
-      },
-      "cym": {
-        "official": "Gweriniaeth y Congo",
-        "common": "Gweriniaeth y Congo"
-      },
-      "deu": {
-        "official": "Republik Kongo",
-        "common": "Kongo"
-      },
-      "est": {
-        "official": "Kongo Vabariik",
-        "common": "Kongo Vabariik"
-      },
-      "fin": {
-        "official": "Kongon tasavalta",
-        "common": "Kongo-Brazzaville"
-      },
-      "fra": {
-        "official": "République du Congo",
-        "common": "Congo"
-      },
-      "hrv": {
-        "official": "Republika Kongo",
-        "common": "Kongo"
-      },
-      "hun": {
-        "official": "Kongói Köztársaság",
-        "common": "Kongói Köztársaság"
-      },
-      "ita": {
-        "official": "Repubblica del Congo",
-        "common": "Congo"
-      },
-      "jpn": {
-        "official": "コンゴ共和国",
-        "common": "コンゴ共和国"
-      },
-      "kor": {
-        "official": "콩고",
-        "common": "콩고"
-      },
-      "nld": {
-        "official": "Republiek Congo",
-        "common": "Congo"
-      },
-      "per": {
-        "official": "جمهوری برازاویل کُنگو",
-        "common": "جمهوری کُنگو"
-      },
-      "pol": {
-        "official": "Republika Konga",
-        "common": "Kongo"
-      },
-      "por": {
-        "official": "República do Congo",
-        "common": "Congo"
-      },
-      "rus": {
-        "official": "Республика Конго",
-        "common": "Республика Конго"
-      },
-      "slk": {
-        "official": "Konžská republika",
-        "common": "Kongo"
-      },
-      "spa": {
-        "official": "República del Congo",
-        "common": "Congo"
-      },
-      "srp": {
-        "official": "Република Конго",
-        "common": "Конго"
-      },
-      "swe": {
-        "official": "Republiken Kongo",
-        "common": "Kongo-Brazzaville"
-      },
-      "tur": {
-        "official": "Kongo Cumhuriyeti",
-        "common": "Kongo Cumhuriyeti"
-      },
-      "urd": {
-        "official": "جمہوریہ کانگو",
-        "common": "جمہوریہ کانگو"
-      },
-      "zho": {
-        "official": "刚果共和国",
-        "common": "刚果"
-      }
-    },
-    "latlng": [
-      -1.0,
-      15.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "AGO",
-      "CMR",
-      "CAF",
-      "COD",
-      "GAB"
-    ],
-    "area": 342000.0,
-    "demonyms": {
-      "eng": {
-        "f": "Congolese",
-        "m": "Congolese"
-      },
-      "fra": {
-        "f": "Congolaise",
-        "m": "Congolais"
-      }
-    },
-    "flag": "🇨🇬",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192794"
-    },
-    "population": 5657000,
-    "gini": {
-      "2011": 48.9
-    },
-    "fifa": "CGO",
-    "car": {
-      "signs": [
-        "RCB"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cg.png",
-      "svg": "https://flagcdn.com/cg.svg",
-      "alt": "The flag of the Republic of the Congo features a yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
-    },
-    "coatOfArms": {
-      
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -4.25,
-        15.28
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Romania",
       "official": "Romania",
       "nativeName": {
@@ -30383,7 +30383,7 @@
     },
     "idd": {
       "root": "+4",
-      "mainSuffix": "",
+      "mainSuffix": "0",
       "suffixes": [
         "0"
       ]
@@ -30846,7 +30846,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "50",
       "suffixes": [
         "50"
       ]
