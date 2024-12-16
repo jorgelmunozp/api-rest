@@ -31032,607 +31032,6 @@
   },
   {
     "name": {
-      "common": "Saint Kitts and Nevis",
-      "official": "Federation of Saint Christopher and Nevis",
-      "nativeName": {
-        "eng": {
-          "official": "Federation of Saint Christopher and Nevis",
-          "common": "Saint Kitts and Nevis"
-        }
-      }
-    },
-    "tld": [
-      ".kn"
-    ],
-    "cca2": "KN",
-    "ccn3": "659",
-    "cca3": "KNA",
-    "cioc": "SKN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XCD": {
-        "name": "Eastern Caribbean dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "mainSuffix": "",
-      "suffixes": [
-        "869"
-      ]
-    },
-    "capital": [
-      "Basseterre"
-    ],
-    "altSpellings": [
-      "KN",
-      "Federation of Saint Christopher and Nevis"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "اتحاد القديس كريستوفر ونيفيس",
-        "common": "سانت كيتس ونيفيس"
-      },
-      "bre": {
-        "official": "Kevread Saint Kitts ha Nevis",
-        "common": "Saint Kitts ha Nevis"
-      },
-      "ces": {
-        "official": "Federace Sv. Kryštof a Nevis",
-        "common": "Svatý Kryštof a Nevis"
-      },
-      "cym": {
-        "official": "Federation of Saint Christopher and Nevis",
-        "common": "Saint Kitts and Nevis"
-      },
-      "deu": {
-        "official": "Föderation von St. Kitts und Nevis",
-        "common": "St. Kitts und Nevis"
-      },
-      "est": {
-        "official": "Saint Kittsi ja Nevise Föderatsioon",
-        "common": "Saint Kitts ja Nevis"
-      },
-      "fin": {
-        "official": "Saint Christopherin ja Nevisin federaatio",
-        "common": "Saint Kitts ja Nevis"
-      },
-      "fra": {
-        "official": "Fédération de Saint-Christophe-et-Niévès",
-        "common": "Saint-Christophe-et-Niévès"
-      },
-      "hrv": {
-        "official": "Federacija Sv.Kristofora i Nevisa",
-        "common": "Sveti Kristof i Nevis"
-      },
-      "hun": {
-        "official": "Saint Christopher és Nevis Államszövetség",
-        "common": "Saint Kitts és Nevis"
-      },
-      "ita": {
-        "official": "Federazione di Saint Christopher e Nevis",
-        "common": "Saint Kitts e Nevis"
-      },
-      "jpn": {
-        "official": "セントクリストファーNevis連盟",
-        "common": "セントクリストファー・ネイビス"
-      },
-      "kor": {
-        "official": "세인트키츠 네비스 연방",
-        "common": "세인트키츠 네비스"
-      },
-      "nld": {
-        "official": "Federatie van Saint Kitts en Nevis",
-        "common": "Saint Kitts en Nevis"
-      },
-      "per": {
-        "official": "فدراسیون سنت کیتس و نویس",
-        "common": "سنت کیتس و نویس"
-      },
-      "pol": {
-        "official": "Federacja Saint Kitts i Nevis",
-        "common": "Saint Kitts i Nevis"
-      },
-      "por": {
-        "official": "Federação de São Cristóvão e Nevis",
-        "common": "São Cristóvão e Nevis"
-      },
-      "rus": {
-        "official": "Федерация Сент-Кристофер и Н е в и с",
-        "common": "Сент-Китс и Невис"
-      },
-      "slk": {
-        "official": "Feder໡cia Svätého Krištofa a Nevisu",
-        "common": "Svätý Krištof a Nevis"
-      },
-      "spa": {
-        "official": "Federación de San Cristóbal y Nevis",
-        "common": "San Cristóbal y Nieves"
-      },
-      "srp": {
-        "official": "Федерација Свети Кристофер и Невис",
-        "common": "Сент Китс и Невис"
-      },
-      "swe": {
-        "official": "Federationen Saint Kitts och Nevis",
-        "common": "Saint Kitts och Nevis"
-      },
-      "tur": {
-        "official": "Saint Kitts ve Nevis Federasyonu",
-        "common": "Saint Kitts ve Nevis"
-      },
-      "urd": {
-        "official": "وفاقِ سینٹ کیٹز و ناویس",
-        "common": "سینٹ کیٹز و ناویس"
-      },
-      "zho": {
-        "official": "圣克里斯托弗和尼维斯联邦",
-        "common": "圣基茨和尼维斯"
-      }
-    },
-    "latlng": [
-      17.33333333,
-      -62.75
-    ],
-    "landlocked": false,
-    "area": 261.0,
-    "demonyms": {
-      "eng": {
-        "f": "Kittitian or Nevisian",
-        "m": "Kittitian or Nevisian"
-      },
-      "fra": {
-        "f": "Kittitienne-et-nevicienne",
-        "m": "Kittitien-et-nevicien"
-      }
-    },
-    "flag": "🇰🇳",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
-    },
-    "population": 53192,
-    "fifa": "SKN",
-    "car": {
-      "signs": [
-        "KN"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/kn.png",
-      "svg": "https://flagcdn.com/kn.svg",
-      "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        17.3,
-        -62.72
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Saint Lucia",
-      "official": "Saint Lucia",
-      "nativeName": {
-        "eng": {
-          "official": "Saint Lucia",
-          "common": "Saint Lucia"
-        }
-      }
-    },
-    "tld": [
-      ".lc"
-    ],
-    "cca2": "LC",
-    "ccn3": "662",
-    "cca3": "LCA",
-    "cioc": "LCA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XCD": {
-        "name": "Eastern Caribbean dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "mainSuffix": "",
-      "suffixes": [
-        "758"
-      ]
-    },
-    "capital": [
-      "Castries"
-    ],
-    "altSpellings": [
-      "LC"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "سانت لوسيا",
-        "common": "سانت لوسيا"
-      },
-      "bre": {
-        "official": "Santez-Lusia",
-        "common": "Santez-Lusia"
-      },
-      "ces": {
-        "official": "Svatá Lucie",
-        "common": "Svatá Lucie"
-      },
-      "cym": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "deu": {
-        "official": "St. Lucia",
-        "common": "St. Lucia"
-      },
-      "est": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "fin": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "fra": {
-        "official": "Sainte-Lucie",
-        "common": "Sainte-Lucie"
-      },
-      "hrv": {
-        "official": "Sveta Lucija",
-        "common": "Sveta Lucija"
-      },
-      "hun": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "ita": {
-        "official": "Santa Lucia",
-        "common": "Santa Lucia"
-      },
-      "jpn": {
-        "official": "セントルシア",
-        "common": "セントルシア"
-      },
-      "kor": {
-        "official": "세인트루시아",
-        "common": "세인트루시아"
-      },
-      "nld": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "per": {
-        "official": "سنت لوسیا",
-        "common": "سنت لوسیا"
-      },
-      "pol": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "por": {
-        "official": "Santa Lúcia",
-        "common": "Santa Lúcia"
-      },
-      "rus": {
-        "official": "Сент-Люсия",
-        "common": "Сент-Люсия"
-      },
-      "slk": {
-        "official": "Svätá Lucia",
-        "common": "Svätá Lucia"
-      },
-      "spa": {
-        "official": "Santa Lucía",
-        "common": "Santa Lucía"
-      },
-      "srp": {
-        "official": "Света Луција",
-        "common": "Света Луција"
-      },
-      "swe": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "tur": {
-        "official": "Saint Lucia",
-        "common": "Saint Lucia"
-      },
-      "urd": {
-        "official": "سینٹ لوسیا",
-        "common": "سینٹ لوسیا"
-      },
-      "zho": {
-        "official": "圣卢西亚",
-        "common": "圣卢西亚"
-      }
-    },
-    "latlng": [
-      13.88333333,
-      -60.96666666
-    ],
-    "landlocked": false,
-    "area": 616.0,
-    "demonyms": {
-      "eng": {
-        "f": "Saint Lucian",
-        "m": "Saint Lucian"
-      },
-      "fra": {
-        "f": "Saint-Lucienne",
-        "m": "Saint-Lucien"
-      }
-    },
-    "flag": "🇱🇨",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
-    },
-    "population": 183629,
-    "gini": {
-      "2016": 51.2
-    },
-    "fifa": "LCA",
-    "car": {
-      "signs": [
-        "WL"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/lc.png",
-      "svg": "https://flagcdn.com/lc.svg",
-      "alt": "The flag of Saint Lucia has a light blue field, at the center of which are two triangles which share a common base — a small golden-yellow isosceles triangle superimposed on a large white-edged black isosceles triangle."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        14.0,
-        -61.0
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Saint Vincent & Grenadines",
-      "official": "Saint Vincent & Grenadines",
-      "nativeName": {
-        "eng": {
-          "official": "Saint Vincent & Grenadines",
-          "common": "Saint Vincent & Grenadines"
-        }
-      }
-    },
-    "tld": [
-      ".vc"
-    ],
-    "cca2": "VC",
-    "ccn3": "670",
-    "cca3": "VCT",
-    "cioc": "VIN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "XCD": {
-        "name": "Eastern Caribbean dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+1",
-      "mainSuffix": "",
-      "suffixes": [
-        "784"
-      ]
-    },
-    "capital": [
-      "Kingstown"
-    ],
-    "altSpellings": [
-      "VC"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "سانت فينسنت والغرينادين",
-        "common": "سانت فينسنت والغرينادين"
-      },
-      "bre": {
-        "official": "Sant-Visant hag ar Grenadinez",
-        "common": "Sant-Visant hag ar Grenadinez"
-      },
-      "ces": {
-        "official": "Svatý Vincenc a Grenadiny",
-        "common": "Svatý Vincenc a Grenadiny"
-      },
-      "cym": {
-        "official": "Saint Vincent & Grenadines",
-        "common": "Saint Vincent & Grenadines"
-      },
-      "deu": {
-        "official": "St. Vincent und die Grenadinen",
-        "common": "St. Vincent und die Grenadinen"
-      },
-      "est": {
-        "official": "Saint Vincent ja Grenadiinid",
-        "common": "Saint Vincent"
-      },
-      "fin": {
-        "official": "Saint Vincent ja Grenadiinit",
-        "common": "Saint Vincent ja Grenadiinit"
-      },
-      "fra": {
-        "official": "Saint-Vincent-et-les Grenadines",
-        "common": "Saint-Vincent-et-les-Grenadines"
-      },
-      "hrv": {
-        "official": "Sveti Vincent i Grenadini",
-        "common": "Sveti Vincent i Grenadini"
-      },
-      "hun": {
-        "official": "Saint Vincent és a Grenadine-szigetek",
-        "common": "Saint Vincent és a Grenadine-szigetek"
-      },
-      "ita": {
-        "official": "Saint Vincent e Grenadine",
-        "common": "Saint Vincent e Grenadine"
-      },
-      "jpn": {
-        "official": "セントビンセントおよびグレナディーン諸島",
-        "common": "セントビンセントおよびグレナディーン諸島"
-      },
-      "kor": {
-        "official": "세인트빈센트 그레나딘",
-        "common": "세인트빈센트 그레나딘"
-      },
-      "nld": {
-        "official": "Saint Vincent en de Grenadines",
-        "common": "Saint Vincent en de Grenadines"
-      },
-      "per": {
-        "official": "سنت وینسنت و گرنادین‌ها",
-        "common": "سنت وینسنت و گرنادین‌ها"
-      },
-      "pol": {
-        "official": "Saint Vincent i Grenadyny",
-        "common": "Saint Vincent i Grenadyny"
-      },
-      "por": {
-        "official": "São Vicente e Granadinas",
-        "common": "São Vincente e Granadinas"
-      },
-      "rus": {
-        "official": "Сент-Винсент и Гренадины",
-        "common": "Сент-Винсент и Гренадины"
-      },
-      "slk": {
-        "official": "Svätý Vincent a Grenadíny",
-        "common": "Svätý Vincent a Grenadíny"
-      },
-      "spa": {
-        "official": "San Vicente y las Granadinas",
-        "common": "San Vicente y Granadinas"
-      },
-      "srp": {
-        "official": "Свети Винсент и Гренадини",
-        "common": "Свети Винсент и Гренадини"
-      },
-      "swe": {
-        "official": "Saint Vincent och Grenadinerna",
-        "common": "Saint Vincent och Grenadinerna"
-      },
-      "tur": {
-        "official": "Saint Vincent ve Grenadinler",
-        "common": "Saint Vincent ve Grenadinler"
-      },
-      "urd": {
-        "official": "سینٹ وینسینٹ و گریناڈائنز",
-        "common": "سینٹ وینسینٹ و گریناڈائنز"
-      },
-      "zho": {
-        "official": "圣文森特和格林纳丁斯",
-        "common": "圣文森特和格林纳丁斯"
-      }
-    },
-    "latlng": [
-      13.25,
-      -61.2
-    ],
-    "landlocked": false,
-    "area": 389.0,
-    "demonyms": {
-      "eng": {
-        "f": "Saint Vincentian",
-        "m": "Saint Vincentian"
-      },
-      "fra": {
-        "f": "Vincentaise",
-        "m": "Vincentais"
-      }
-    },
-    "flag": "🇻🇨",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
-    },
-    "population": 110947,
-    "fifa": "VIN",
-    "car": {
-      "signs": [
-        "WV"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/vc.png",
-      "svg": "https://flagcdn.com/vc.svg",
-      "alt": "The flag of Saint Vincent & Grenadines is composed of three vertical bands of blue, gold and green. The gold band is twice as wide as the other two bands and bears three green diamonds arranged to form the letter V at its center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        13.13,
-        -61.22
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Samoa",
       "official": "Independent State of Samoa",
       "nativeName": {
@@ -31664,7 +31063,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "85",
       "suffixes": [
         "85"
       ]
@@ -31869,7 +31268,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "78",
       "suffixes": [
         "78"
       ]
@@ -32077,7 +31476,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "39",
       "suffixes": [
         "39"
       ]
@@ -32283,7 +31682,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "66",
       "suffixes": [
         "66"
       ]
@@ -32498,7 +31897,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "21",
       "suffixes": [
         "21"
       ]
@@ -32714,7 +32113,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "81",
       "suffixes": [
         "81"
       ]
@@ -32942,7 +32341,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "48",
       "suffixes": [
         "48"
       ]
@@ -33149,7 +32548,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "32",
       "suffixes": [
         "32"
       ]
@@ -33370,7 +32769,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "5",
       "suffixes": [
         "5"
       ]
@@ -33575,7 +32974,7 @@
     },
     "idd": {
       "root": "+4",
-      "mainSuffix": "",
+      "mainSuffix": "21",
       "suffixes": [
         "21"
       ]
@@ -33790,7 +33189,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "86",
       "suffixes": [
         "86"
       ]
@@ -34004,7 +33403,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "77",
       "suffixes": [
         "77"
       ]
@@ -34210,7 +33609,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "52",
       "suffixes": [
         "52"
       ]
@@ -34466,7 +33865,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "7",
       "suffixes": [
         "7"
       ]
@@ -34696,7 +34095,7 @@
     },
     "idd": {
       "root": "+8",
-      "mainSuffix": "",
+      "mainSuffix": "2",
       "suffixes": [
         "2"
       ]
@@ -34909,7 +34308,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "11",
       "suffixes": [
         "11"
       ]
@@ -35119,7 +34518,7 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "4",
       "suffixes": [
         "4"
       ]
@@ -35344,7 +34743,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "4",
       "suffixes": [
         "4"
       ]
@@ -35529,6 +34928,607 @@
   },
   {
     "name": {
+      "common": "St. Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis",
+      "nativeName": {
+        "eng": {
+          "official": "Federation of Saint Christopher and Nevis",
+          "common": "Saint Kitts and Nevis"
+        }
+      }
+    },
+    "tld": [
+      ".kn"
+    ],
+    "cca2": "KN",
+    "ccn3": "659",
+    "cca3": "KNA",
+    "cioc": "SKN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "mainSuffix": "",
+      "suffixes": [
+        "869"
+      ]
+    },
+    "capital": [
+      "Basseterre"
+    ],
+    "altSpellings": [
+      "KN",
+      "Federation of Saint Christopher and Nevis"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "اتحاد القديس كريستوفر ونيفيس",
+        "common": "سانت كيتس ونيفيس"
+      },
+      "bre": {
+        "official": "Kevread Saint Kitts ha Nevis",
+        "common": "Saint Kitts ha Nevis"
+      },
+      "ces": {
+        "official": "Federace Sv. Kryštof a Nevis",
+        "common": "Svatý Kryštof a Nevis"
+      },
+      "cym": {
+        "official": "Federation of Saint Christopher and Nevis",
+        "common": "Saint Kitts and Nevis"
+      },
+      "deu": {
+        "official": "Föderation von St. Kitts und Nevis",
+        "common": "St. Kitts und Nevis"
+      },
+      "est": {
+        "official": "Saint Kittsi ja Nevise Föderatsioon",
+        "common": "Saint Kitts ja Nevis"
+      },
+      "fin": {
+        "official": "Saint Christopherin ja Nevisin federaatio",
+        "common": "Saint Kitts ja Nevis"
+      },
+      "fra": {
+        "official": "Fédération de Saint-Christophe-et-Niévès",
+        "common": "Saint-Christophe-et-Niévès"
+      },
+      "hrv": {
+        "official": "Federacija Sv.Kristofora i Nevisa",
+        "common": "Sveti Kristof i Nevis"
+      },
+      "hun": {
+        "official": "Saint Christopher és Nevis Államszövetség",
+        "common": "Saint Kitts és Nevis"
+      },
+      "ita": {
+        "official": "Federazione di Saint Christopher e Nevis",
+        "common": "Saint Kitts e Nevis"
+      },
+      "jpn": {
+        "official": "セントクリストファーNevis連盟",
+        "common": "セントクリストファー・ネイビス"
+      },
+      "kor": {
+        "official": "세인트키츠 네비스 연방",
+        "common": "세인트키츠 네비스"
+      },
+      "nld": {
+        "official": "Federatie van Saint Kitts en Nevis",
+        "common": "Saint Kitts en Nevis"
+      },
+      "per": {
+        "official": "فدراسیون سنت کیتس و نویس",
+        "common": "سنت کیتس و نویس"
+      },
+      "pol": {
+        "official": "Federacja Saint Kitts i Nevis",
+        "common": "Saint Kitts i Nevis"
+      },
+      "por": {
+        "official": "Federação de São Cristóvão e Nevis",
+        "common": "São Cristóvão e Nevis"
+      },
+      "rus": {
+        "official": "Федерация Сент-Кристофер и Н е в и с",
+        "common": "Сент-Китс и Невис"
+      },
+      "slk": {
+        "official": "Feder໡cia Svätého Krištofa a Nevisu",
+        "common": "Svätý Krištof a Nevis"
+      },
+      "spa": {
+        "official": "Federación de San Cristóbal y Nevis",
+        "common": "San Cristóbal y Nieves"
+      },
+      "srp": {
+        "official": "Федерација Свети Кристофер и Невис",
+        "common": "Сент Китс и Невис"
+      },
+      "swe": {
+        "official": "Federationen Saint Kitts och Nevis",
+        "common": "Saint Kitts och Nevis"
+      },
+      "tur": {
+        "official": "Saint Kitts ve Nevis Federasyonu",
+        "common": "Saint Kitts ve Nevis"
+      },
+      "urd": {
+        "official": "وفاقِ سینٹ کیٹز و ناویس",
+        "common": "سینٹ کیٹز و ناویس"
+      },
+      "zho": {
+        "official": "圣克里斯托弗和尼维斯联邦",
+        "common": "圣基茨和尼维斯"
+      }
+    },
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "landlocked": false,
+    "area": 261.0,
+    "demonyms": {
+      "eng": {
+        "f": "Kittitian or Nevisian",
+        "m": "Kittitian or Nevisian"
+      },
+      "fra": {
+        "f": "Kittitienne-et-nevicienne",
+        "m": "Kittitien-et-nevicien"
+      }
+    },
+    "flag": "🇰🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
+    },
+    "population": 53192,
+    "fifa": "SKN",
+    "car": {
+      "signs": [
+        "KN"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kn.png",
+      "svg": "https://flagcdn.com/kn.svg",
+      "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.3,
+        -62.72
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "St. Lucia",
+      "official": "Saint Lucia",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Lucia",
+          "common": "Saint Lucia"
+        }
+      }
+    },
+    "tld": [
+      ".lc"
+    ],
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "mainSuffix": "",
+      "suffixes": [
+        "758"
+      ]
+    },
+    "capital": [
+      "Castries"
+    ],
+    "altSpellings": [
+      "LC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "سانت لوسيا",
+        "common": "سانت لوسيا"
+      },
+      "bre": {
+        "official": "Santez-Lusia",
+        "common": "Santez-Lusia"
+      },
+      "ces": {
+        "official": "Svatá Lucie",
+        "common": "Svatá Lucie"
+      },
+      "cym": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "deu": {
+        "official": "St. Lucia",
+        "common": "St. Lucia"
+      },
+      "est": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "fin": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "fra": {
+        "official": "Sainte-Lucie",
+        "common": "Sainte-Lucie"
+      },
+      "hrv": {
+        "official": "Sveta Lucija",
+        "common": "Sveta Lucija"
+      },
+      "hun": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "ita": {
+        "official": "Santa Lucia",
+        "common": "Santa Lucia"
+      },
+      "jpn": {
+        "official": "セントルシア",
+        "common": "セントルシア"
+      },
+      "kor": {
+        "official": "세인트루시아",
+        "common": "세인트루시아"
+      },
+      "nld": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "per": {
+        "official": "سنت لوسیا",
+        "common": "سنت لوسیا"
+      },
+      "pol": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "por": {
+        "official": "Santa Lúcia",
+        "common": "Santa Lúcia"
+      },
+      "rus": {
+        "official": "Сент-Люсия",
+        "common": "Сент-Люсия"
+      },
+      "slk": {
+        "official": "Svätá Lucia",
+        "common": "Svätá Lucia"
+      },
+      "spa": {
+        "official": "Santa Lucía",
+        "common": "Santa Lucía"
+      },
+      "srp": {
+        "official": "Света Луција",
+        "common": "Света Луција"
+      },
+      "swe": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "tur": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      },
+      "urd": {
+        "official": "سینٹ لوسیا",
+        "common": "سینٹ لوسیا"
+      },
+      "zho": {
+        "official": "圣卢西亚",
+        "common": "圣卢西亚"
+      }
+    },
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "landlocked": false,
+    "area": 616.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Lucian",
+        "m": "Saint Lucian"
+      },
+      "fra": {
+        "f": "Saint-Lucienne",
+        "m": "Saint-Lucien"
+      }
+    },
+    "flag": "🇱🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+    },
+    "population": 183629,
+    "gini": {
+      "2016": 51.2
+    },
+    "fifa": "LCA",
+    "car": {
+      "signs": [
+        "WL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lc.png",
+      "svg": "https://flagcdn.com/lc.svg",
+      "alt": "The flag of Saint Lucia has a light blue field, at the center of which are two triangles which share a common base — a small golden-yellow isosceles triangle superimposed on a large white-edged black isosceles triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.0,
+        -61.0
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "St. Vincent & Grenadines",
+      "official": "Saint Vincent & Grenadines",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Vincent & Grenadines",
+          "common": "Saint Vincent & Grenadines"
+        }
+      }
+    },
+    "tld": [
+      ".vc"
+    ],
+    "cca2": "VC",
+    "ccn3": "670",
+    "cca3": "VCT",
+    "cioc": "VIN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "mainSuffix": "",
+      "suffixes": [
+        "784"
+      ]
+    },
+    "capital": [
+      "Kingstown"
+    ],
+    "altSpellings": [
+      "VC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "سانت فينسنت والغرينادين",
+        "common": "سانت فينسنت والغرينادين"
+      },
+      "bre": {
+        "official": "Sant-Visant hag ar Grenadinez",
+        "common": "Sant-Visant hag ar Grenadinez"
+      },
+      "ces": {
+        "official": "Svatý Vincenc a Grenadiny",
+        "common": "Svatý Vincenc a Grenadiny"
+      },
+      "cym": {
+        "official": "Saint Vincent & Grenadines",
+        "common": "Saint Vincent & Grenadines"
+      },
+      "deu": {
+        "official": "St. Vincent und die Grenadinen",
+        "common": "St. Vincent und die Grenadinen"
+      },
+      "est": {
+        "official": "Saint Vincent ja Grenadiinid",
+        "common": "Saint Vincent"
+      },
+      "fin": {
+        "official": "Saint Vincent ja Grenadiinit",
+        "common": "Saint Vincent ja Grenadiinit"
+      },
+      "fra": {
+        "official": "Saint-Vincent-et-les Grenadines",
+        "common": "Saint-Vincent-et-les-Grenadines"
+      },
+      "hrv": {
+        "official": "Sveti Vincent i Grenadini",
+        "common": "Sveti Vincent i Grenadini"
+      },
+      "hun": {
+        "official": "Saint Vincent és a Grenadine-szigetek",
+        "common": "Saint Vincent és a Grenadine-szigetek"
+      },
+      "ita": {
+        "official": "Saint Vincent e Grenadine",
+        "common": "Saint Vincent e Grenadine"
+      },
+      "jpn": {
+        "official": "セントビンセントおよびグレナディーン諸島",
+        "common": "セントビンセントおよびグレナディーン諸島"
+      },
+      "kor": {
+        "official": "세인트빈센트 그레나딘",
+        "common": "세인트빈센트 그레나딘"
+      },
+      "nld": {
+        "official": "Saint Vincent en de Grenadines",
+        "common": "Saint Vincent en de Grenadines"
+      },
+      "per": {
+        "official": "سنت وینسنت و گرنادین‌ها",
+        "common": "سنت وینسنت و گرنادین‌ها"
+      },
+      "pol": {
+        "official": "Saint Vincent i Grenadyny",
+        "common": "Saint Vincent i Grenadyny"
+      },
+      "por": {
+        "official": "São Vicente e Granadinas",
+        "common": "São Vincente e Granadinas"
+      },
+      "rus": {
+        "official": "Сент-Винсент и Гренадины",
+        "common": "Сент-Винсент и Гренадины"
+      },
+      "slk": {
+        "official": "Svätý Vincent a Grenadíny",
+        "common": "Svätý Vincent a Grenadíny"
+      },
+      "spa": {
+        "official": "San Vicente y las Granadinas",
+        "common": "San Vicente y Granadinas"
+      },
+      "srp": {
+        "official": "Свети Винсент и Гренадини",
+        "common": "Свети Винсент и Гренадини"
+      },
+      "swe": {
+        "official": "Saint Vincent och Grenadinerna",
+        "common": "Saint Vincent och Grenadinerna"
+      },
+      "tur": {
+        "official": "Saint Vincent ve Grenadinler",
+        "common": "Saint Vincent ve Grenadinler"
+      },
+      "urd": {
+        "official": "سینٹ وینسینٹ و گریناڈائنز",
+        "common": "سینٹ وینسینٹ و گریناڈائنز"
+      },
+      "zho": {
+        "official": "圣文森特和格林纳丁斯",
+        "common": "圣文森特和格林纳丁斯"
+      }
+    },
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "landlocked": false,
+    "area": 389.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Vincentian",
+        "m": "Saint Vincentian"
+      },
+      "fra": {
+        "f": "Vincentaise",
+        "m": "Vincentais"
+      }
+    },
+    "flag": "🇻🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
+    },
+    "population": 110947,
+    "fifa": "VIN",
+    "car": {
+      "signs": [
+        "WV"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vc.png",
+      "svg": "https://flagcdn.com/vc.svg",
+      "alt": "The flag of Saint Vincent & Grenadines is composed of three vertical bands of blue, gold and green. The gold band is twice as wide as the other two bands and bears three green diamonds arranged to form the letter V at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.13,
+        -61.22
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Sudan",
       "official": "Republic of the Sudan",
       "nativeName": {
@@ -35560,7 +35560,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "49",
       "suffixes": [
         "49"
       ]
@@ -35778,7 +35778,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "97",
       "suffixes": [
         "97"
       ]
@@ -35989,7 +35989,7 @@
     },
     "idd": {
       "root": "+4",
-      "mainSuffix": "",
+      "mainSuffix": "6",
       "suffixes": [
         "6"
       ]
@@ -36213,7 +36213,7 @@
     },
     "idd": {
       "root": "+4",
-      "mainSuffix": "",
+      "mainSuffix": "1",
       "suffixes": [
         "1"
       ]
@@ -36435,7 +36435,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "63",
       "suffixes": [
         "63"
       ]
