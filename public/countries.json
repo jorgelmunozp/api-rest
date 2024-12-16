@@ -3829,6 +3829,237 @@
   },
   {
     "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia",
+      "nativeName": {
+        "aym": {
+          "official": "Wuliwya Suyu",
+          "common": "Wuliwya"
+        },
+        "grn": {
+          "official": "Tetã Volívia",
+          "common": "Volívia"
+        },
+        "que": {
+          "official": "Buliwya Mamallaqta",
+          "common": "Buliwya"
+        },
+        "spa": {
+          "official": "Estado Plurinacional de Bolivia",
+          "common": "Bolivia"
+        }
+      }
+    },
+    "tld": [
+      ".bo"
+    ],
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "cioc": "BOL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BOB": {
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "91"
+      ]
+    },
+    "capital": [
+      "Sucre"
+    ],
+    "altSpellings": [
+      "BO",
+      "Buliwya",
+      "Wuliwya",
+      "Bolivia, Plurinational State of",
+      "Plurinational State of Bolivia",
+      "Estado Plurinacional de Bolivia",
+      "Buliwya Mamallaqta",
+      "Wuliwya Suyu",
+      "Tetã Volívia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة بوليفيا المتعددة القوميات",
+        "common": "بوليفيا"
+      },
+      "bre": {
+        "official": "Stad Liesvroadel Bolivia",
+        "common": "Bolivia"
+      },
+      "ces": {
+        "official": "Mnohonárodnostní stát Bolívie",
+        "common": "Bolívie"
+      },
+      "cym": {
+        "official": "Gweriniaeth Bolifia",
+        "common": "Bolifia"
+      },
+      "deu": {
+        "official": "Plurinationaler Staat Bolivien",
+        "common": "Bolivien"
+      },
+      "est": {
+        "official": "Boliivia Paljurahvuseline Riik",
+        "common": "Boliivia"
+      },
+      "fin": {
+        "official": "Bolivian monikansainen valtio",
+        "common": "Bolivia"
+      },
+      "fra": {
+        "official": "État plurinational de Bolivie",
+        "common": "Bolivie"
+      },
+      "hrv": {
+        "official": "Plurinational State of Bolivia",
+        "common": "Bolivija"
+      },
+      "hun": {
+        "official": "Bolíviai Többnemzetiségű Állam",
+        "common": "Bolívia"
+      },
+      "ita": {
+        "official": "Stato Plurinazionale della Bolivia",
+        "common": "Bolivia"
+      },
+      "jpn": {
+        "official": "ボリビアの多民族国",
+        "common": "ボリビア多民族国"
+      },
+      "kor": {
+        "official": "볼리비아 다민족국",
+        "common": "볼리비아"
+      },
+      "nld": {
+        "official": "Plurinationale Staat van Bolivia",
+        "common": "Bolivia"
+      },
+      "per": {
+        "official": "جمهوری بولیوی",
+        "common": "بولیوی"
+      },
+      "pol": {
+        "official": "Wielonarodowe Państwo Boliwia",
+        "common": "Boliwia"
+      },
+      "por": {
+        "official": "Estado Plurinacional da Bolívia",
+        "common": "Bolívia"
+      },
+      "rus": {
+        "official": "Многонациональное Государство Боливия",
+        "common": "Боливия"
+      },
+      "slk": {
+        "official": "Bolívijská republika",
+        "common": "Bolívia"
+      },
+      "spa": {
+        "official": "Estado Plurinacional de Bolivia",
+        "common": "Bolivia"
+      },
+      "srp": {
+        "official": "Вишенационална Држава Боливија",
+        "common": "Боливија"
+      },
+      "swe": {
+        "official": "Mångnationella staten Bolivia",
+        "common": "Bolivia"
+      },
+      "tur": {
+        "official": "Bolivya Çokuluslu Devleti",
+        "common": "Bolivya"
+      },
+      "urd": {
+        "official": "جمہوریہ بولیویا",
+        "common": "بولیویا"
+      },
+      "zho": {
+        "official": "多民族玻利维亚国",
+        "common": "玻利维亚"
+      }
+    },
+    "latlng": [
+      -17.0,
+      -65.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "area": 1098581.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bolivian",
+        "m": "Bolivian"
+      },
+      "fra": {
+        "f": "Bolivienne",
+        "m": "Bolivien"
+      }
+    },
+    "flag": "🇧🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+    },
+    "population": 11673029,
+    "gini": {
+      "2019": 41.6
+    },
+    "fifa": "BOL",
+    "car": {
+      "signs": [
+        "BOL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bo.png",
+      "svg": "https://flagcdn.com/bo.svg",
+      "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -19.02,
+        -65.26
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Bosnia and Herzegovina",
       "official": "Bosnia and Herzegovina",
       "nativeName": {
@@ -6188,6 +6419,219 @@
         12.1,
         15.03
       ]
+    }
+  },
+  {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "nativeName": {
+        "spa": {
+          "official": "República de Chile",
+          "common": "Chile"
+        }
+      }
+    },
+    "tld": [
+      ".cl"
+    ],
+    "cca2": "CL",
+    "ccn3": "152",
+    "cca3": "CHL",
+    "cioc": "CHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "6"
+      ]
+    },
+    "capital": [
+      "Santiago"
+    ],
+    "altSpellings": [
+      "CL",
+      "Republic of Chile",
+      "República de Chile"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية تشيلي",
+        "common": "تشيلي"
+      },
+      "bre": {
+        "official": "Republik Chile",
+        "common": "Chile"
+      },
+      "ces": {
+        "official": "Chilská republika",
+        "common": "Chile"
+      },
+      "cym": {
+        "official": "Gweriniaeth Chile",
+        "common": "Chile"
+      },
+      "deu": {
+        "official": "Republik Chile",
+        "common": "Chile"
+      },
+      "est": {
+        "official": "Tšiili Vabariik",
+        "common": "Tšiili"
+      },
+      "fin": {
+        "official": "Chilen tasavalta",
+        "common": "Chile"
+      },
+      "fra": {
+        "official": "République du Chili",
+        "common": "Chili"
+      },
+      "hrv": {
+        "official": "Republika Čile",
+        "common": "Čile"
+      },
+      "hun": {
+        "official": "Chilei Köztársaság",
+        "common": "Chile"
+      },
+      "ita": {
+        "official": "Repubblica del Cile",
+        "common": "Cile"
+      },
+      "jpn": {
+        "official": "チリ共和国",
+        "common": "チリ"
+      },
+      "kor": {
+        "official": "칠레 공화국",
+        "common": "칠레"
+      },
+      "nld": {
+        "official": "Republiek Chili",
+        "common": "Chili"
+      },
+      "per": {
+        "official": "جمهوری شیلی",
+        "common": "شیلی"
+      },
+      "pol": {
+        "official": "Republika Chile",
+        "common": "Chile"
+      },
+      "por": {
+        "official": "República do Chile",
+        "common": "Chile"
+      },
+      "rus": {
+        "official": "Республика Чили",
+        "common": "Чили"
+      },
+      "slk": {
+        "official": "Čílska republika",
+        "common": "Čile"
+      },
+      "spa": {
+        "official": "República de Chile",
+        "common": "Chile"
+      },
+      "srp": {
+        "official": "Република Чиле",
+        "common": "Чиле"
+      },
+      "swe": {
+        "official": "Republiken Chile",
+        "common": "Chile"
+      },
+      "tur": {
+        "official": "Şili Cumhuriyeti",
+        "common": "Şili"
+      },
+      "urd": {
+        "official": "جمہوریہ چلی",
+        "common": "چلی"
+      },
+      "zho": {
+        "official": "智利共和国",
+        "common": "智利"
+      }
+    },
+    "latlng": [
+      -30.0,
+      -71.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "area": 756102.0,
+    "demonyms": {
+      "eng": {
+        "f": "Chilean",
+        "m": "Chilean"
+      },
+      "fra": {
+        "f": "Chilienne",
+        "m": "Chilien"
+      }
+    },
+    "flag": "🇨🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+    },
+    "population": 19116209,
+    "gini": {
+      "2017": 44.4
+    },
+    "fifa": "CHI",
+    "car": {
+      "signs": [
+        "RCH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00",
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cl.png",
+      "svg": "https://flagcdn.com/cl.svg",
+      "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -33.45,
+        -70.67
+      ]
+    },
+    "postalCode": {
+      "format": "#######",
+      "regex": "^(\\d{7})$"
     }
   },
   {
@@ -10283,6 +10727,212 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Ghana",
+          "common": "Ghana"
+        }
+      }
+    },
+    "tld": [
+      ".gh"
+    ],
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "cioc": "GHA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "33"
+      ]
+    },
+    "capital": [
+      "Accra"
+    ],
+    "altSpellings": [
+      "GH"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية غانا",
+        "common": "غانا"
+      },
+      "bre": {
+        "official": "Republik Ghana",
+        "common": "Ghana"
+      },
+      "ces": {
+        "official": "Ghanská republika",
+        "common": "Ghana"
+      },
+      "cym": {
+        "official": "Republic of Ghana",
+        "common": "Ghana"
+      },
+      "deu": {
+        "official": "Republik Ghana",
+        "common": "Ghana"
+      },
+      "est": {
+        "official": "Ghana Vabariik",
+        "common": "Ghana"
+      },
+      "fin": {
+        "official": "Ghanan tasavalta",
+        "common": "Ghana"
+      },
+      "fra": {
+        "official": "République du Ghana",
+        "common": "Ghana"
+      },
+      "hrv": {
+        "official": "Republika Gana",
+        "common": "Gana"
+      },
+      "hun": {
+        "official": "Ghánai Köztársaság",
+        "common": "Ghána"
+      },
+      "ita": {
+        "official": "Repubblica del Ghana",
+        "common": "Ghana"
+      },
+      "jpn": {
+        "official": "ガーナ共和国",
+        "common": "ガーナ"
+      },
+      "kor": {
+        "official": "가나 공화국",
+        "common": "가나"
+      },
+      "nld": {
+        "official": "Republiek Ghana",
+        "common": "Ghana"
+      },
+      "per": {
+        "official": "جمهوری غنا",
+        "common": "غنا"
+      },
+      "pol": {
+        "official": "Republika Ghany",
+        "common": "Ghana"
+      },
+      "por": {
+        "official": "República do Gana",
+        "common": "Gana"
+      },
+      "rus": {
+        "official": "Республика Гана",
+        "common": "Гана"
+      },
+      "slk": {
+        "official": "Ghanská republika",
+        "common": "Ghana"
+      },
+      "spa": {
+        "official": "República de Ghana",
+        "common": "Ghana"
+      },
+      "srp": {
+        "official": "Република Гана",
+        "common": "Гана"
+      },
+      "swe": {
+        "official": "Republiken Ghana",
+        "common": "Ghana"
+      },
+      "tur": {
+        "official": "Gana Cumhuriyeti",
+        "common": "Gana"
+      },
+      "urd": {
+        "official": "جمہوریہ گھانا",
+        "common": "گھانا"
+      },
+      "zho": {
+        "official": "加纳共和国",
+        "common": "加纳"
+      }
+    },
+    "latlng": [
+      8.0,
+      -2.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "area": 238533.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ghanaian",
+        "m": "Ghanaian"
+      },
+      "fra": {
+        "f": "Ghanéenne",
+        "m": "Ghanéen"
+      }
+    },
+    "flag": "🇬🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+    },
+    "population": 31072945,
+    "gini": {
+      "2016": 43.5
+    },
+    "fifa": "GHA",
+    "car": {
+      "signs": [
+        "GH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gh.png",
+      "svg": "https://flagcdn.com/gh.svg",
+      "alt": "The flag of Ghana is composed of three equal horizontal bands of red, gold and green, with a five-pointed black star centered in the gold band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        5.55,
+        -0.22
+      ]
     }
   },
   {
@@ -19749,215 +20399,6 @@
   },
   {
     "name": {
-      "common": "Tuvalu",
-      "official": "Tuvalu",
-      "nativeName": {
-        "eng": {
-          "official": "Tuvalu",
-          "common": "Tuvalu"
-        },
-        "tvl": {
-          "official": "Tuvalu",
-          "common": "Tuvalu"
-        }
-      }
-    },
-    "tld": [
-      ".tv"
-    ],
-    "cca2": "TV",
-    "ccn3": "798",
-    "cca3": "TUV",
-    "cioc": "TUV",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "AUD": {
-        "name": "Australian dollar",
-        "symbol": "$"
-      },
-      "TVD": {
-        "name": "Tuvaluan dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "88"
-      ]
-    },
-    "capital": [
-      "Funafuti"
-    ],
-    "altSpellings": [
-      "TV"
-    ],
-    "region": "Oceania",
-    "subregion": "Polynesia",
-    "languages": {
-      "eng": "English",
-      "tvl": "Tuvaluan"
-    },
-    "translations": {
-      "ara": {
-        "official": "توفالو",
-        "common": "توفالو"
-      },
-      "bre": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "ces": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "cym": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "deu": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "est": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "fin": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "fra": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "hrv": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "hun": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "ita": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "jpn": {
-        "official": "ツバル",
-        "common": "ツバル"
-      },
-      "kor": {
-        "official": "투발루",
-        "common": "투발루"
-      },
-      "nld": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "per": {
-        "official": "تووالو",
-        "common": "تووالو"
-      },
-      "pol": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "por": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "rus": {
-        "official": "Тувалу",
-        "common": "Тувалу"
-      },
-      "slk": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "spa": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "srp": {
-        "official": "Тувалу",
-        "common": "Тувалу"
-      },
-      "swe": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "tur": {
-        "official": "Tuvalu",
-        "common": "Tuvalu"
-      },
-      "urd": {
-        "official": "تووالو",
-        "common": "تووالو"
-      },
-      "zho": {
-        "official": "图瓦卢",
-        "common": "图瓦卢"
-      }
-    },
-    "latlng": [
-      -8.0,
-      178.0
-    ],
-    "landlocked": false,
-    "area": 26.0,
-    "demonyms": {
-      "eng": {
-        "f": "Tuvaluan",
-        "m": "Tuvaluan"
-      },
-      "fra": {
-        "f": "Tuvaluane",
-        "m": "Tuvaluan"
-      }
-    },
-    "flag": "🇹🇻",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/2177266"
-    },
-    "population": 11792,
-    "gini": {
-      "2010": 39.1
-    },
-    "car": {
-      "signs": [
-        "TUV"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+12:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/tv.png",
-      "svg": "https://flagcdn.com/tv.svg",
-      "alt": "The flag of Tuvalu has a light blue field with the flag of the United Kingdom — the Union Jack — in the canton. A representation of the country's nine Islands using nine five-pointed yellow stars is situated in the fly half of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/tv.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/tv.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -8.52,
-        179.22
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Honduras",
       "official": "Republic of Honduras",
       "nativeName": {
@@ -20595,426 +21036,6 @@
     "postalCode": {
       "format": "LV-####",
       "regex": "^(?:LV)*(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Palau",
-      "official": "Republic of Palau",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Palau",
-          "common": "Palau"
-        },
-        "pau": {
-          "official": "Beluu er a Belau",
-          "common": "Belau"
-        }
-      }
-    },
-    "tld": [
-      ".pw"
-    ],
-    "cca2": "PW",
-    "ccn3": "585",
-    "cca3": "PLW",
-    "cioc": "PLW",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "80"
-      ]
-    },
-    "capital": [
-      "Ngerulmud"
-    ],
-    "altSpellings": [
-      "PW",
-      "Republic of Palau",
-      "Beluu er a Belau"
-    ],
-    "region": "Oceania",
-    "subregion": "Micronesia",
-    "languages": {
-      "eng": "English",
-      "pau": "Palauan"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بالاو",
-        "common": "بالاو"
-      },
-      "bre": {
-        "official": "Republik Palau",
-        "common": "Palau"
-      },
-      "ces": {
-        "official": "Republika Palau",
-        "common": "Palau"
-      },
-      "cym": {
-        "official": "Republic of Palau",
-        "common": "Palau"
-      },
-      "deu": {
-        "official": "Republik Palau",
-        "common": "Palau"
-      },
-      "est": {
-        "official": "Belau Vabariik",
-        "common": "Belau"
-      },
-      "fin": {
-        "official": "Palaun tasavalta",
-        "common": "Palau"
-      },
-      "fra": {
-        "official": "République des Palaos (Palau)",
-        "common": "Palaos (Palau)"
-      },
-      "hrv": {
-        "official": "Republika Palau",
-        "common": "Palau"
-      },
-      "hun": {
-        "official": "Palaui Köztársaság",
-        "common": "Palau"
-      },
-      "ita": {
-        "official": "Repubblica di Palau",
-        "common": "Palau"
-      },
-      "jpn": {
-        "official": "パラオ共和国",
-        "common": "パラオ"
-      },
-      "kor": {
-        "official": "팔라우 공화국",
-        "common": "팔라우"
-      },
-      "nld": {
-        "official": "Republiek van Palau",
-        "common": "Palau"
-      },
-      "per": {
-        "official": "جمهوری پالائو",
-        "common": "پالائو"
-      },
-      "pol": {
-        "official": "Republika Palau",
-        "common": "Palau"
-      },
-      "por": {
-        "official": "República de Palau",
-        "common": "Palau"
-      },
-      "rus": {
-        "official": "Республика Палау",
-        "common": "Палау"
-      },
-      "slk": {
-        "official": "Palauská republika",
-        "common": "Palau"
-      },
-      "spa": {
-        "official": "República de Palau",
-        "common": "Palau"
-      },
-      "srp": {
-        "official": "Република Палау",
-        "common": "Палау"
-      },
-      "swe": {
-        "official": "Republiken Palau",
-        "common": "Palau"
-      },
-      "tur": {
-        "official": "Palau Cumhuriyeti",
-        "common": "Palau"
-      },
-      "urd": {
-        "official": "جمہوریہ پلاؤ",
-        "common": "پلاؤ"
-      },
-      "zho": {
-        "official": "帕劳共和国",
-        "common": "帕劳"
-      }
-    },
-    "latlng": [
-      7.5,
-      134.5
-    ],
-    "landlocked": false,
-    "area": 459.0,
-    "demonyms": {
-      "eng": {
-        "f": "Palauan",
-        "m": "Palauan"
-      },
-      "fra": {
-        "f": "Paluane",
-        "m": "Paluan"
-      }
-    },
-    "flag": "🇵🇼",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
-    },
-    "population": 18092,
-    "car": {
-      "signs": [
-        "PAL"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "continents": [
-      "Oceania"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/pw.png",
-      "svg": "https://flagcdn.com/pw.svg",
-      "alt": "The flag of Palau has a light blue field with a large golden-yellow circle that is offset slightly towards the hoist side of center."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/pw.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        7.5,
-        134.62
-      ]
-    },
-    "postalCode": {
-      "format": "96940",
-      "regex": "^(96940)$"
-    }
-  },
-  {
-    "name": {
-      "common": "Philippines",
-      "official": "Republic of the Philippines",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of the Philippines",
-          "common": "Philippines"
-        },
-        "fil": {
-          "official": "Republic of the Philippines",
-          "common": "Pilipinas"
-        }
-      }
-    },
-    "tld": [
-      ".ph"
-    ],
-    "cca2": "PH",
-    "ccn3": "608",
-    "cca3": "PHL",
-    "cioc": "PHI",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "PHP": {
-        "name": "Philippine peso",
-        "symbol": "₱"
-      }
-    },
-    "idd": {
-      "root": "+6",
-      "suffixes": [
-        "3"
-      ]
-    },
-    "capital": [
-      "Manila"
-    ],
-    "altSpellings": [
-      "PH",
-      "Republic of the Philippines",
-      "Repúblika ng Pilipinas"
-    ],
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "languages": {
-      "eng": "English",
-      "fil": "Filipino"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية الفلبين",
-        "common": "الفلبين"
-      },
-      "bre": {
-        "official": "Republik Filipinez",
-        "common": "Filipinez"
-      },
-      "ces": {
-        "official": "Filipínská republika",
-        "common": "Filipíny"
-      },
-      "cym": {
-        "official": "Republic of the Philippines",
-        "common": "Philippines"
-      },
-      "deu": {
-        "official": "Republik der Philippinen",
-        "common": "Philippinen"
-      },
-      "est": {
-        "official": "Filipiini Vabariik",
-        "common": "Filipiinid"
-      },
-      "fin": {
-        "official": "Filippiinien tasavalta",
-        "common": "Filippiinit"
-      },
-      "fra": {
-        "official": "République des Philippines",
-        "common": "Philippines"
-      },
-      "hrv": {
-        "official": "Republika Filipini",
-        "common": "Filipini"
-      },
-      "hun": {
-        "official": "Fülöp-szigeteki Köztársaság",
-        "common": "Fülöp-szigetek"
-      },
-      "ita": {
-        "official": "Repubblica delle Filippine",
-        "common": "Filippine"
-      },
-      "jpn": {
-        "official": "フィリピン共和国",
-        "common": "フィリピン"
-      },
-      "kor": {
-        "official": "필리핀 공화국",
-        "common": "필리핀"
-      },
-      "nld": {
-        "official": "Republiek der Filipijnen",
-        "common": "Filipijnen"
-      },
-      "per": {
-        "official": "جمهوری فیلیپین",
-        "common": "فیلیپین"
-      },
-      "pol": {
-        "official": "Republika Filipin",
-        "common": "Filipiny"
-      },
-      "por": {
-        "official": "República das Filipinas",
-        "common": "Filipinas"
-      },
-      "rus": {
-        "official": "Республика Филиппины",
-        "common": "Филиппины"
-      },
-      "slk": {
-        "official": "Filipínska republika",
-        "common": "Filipíny"
-      },
-      "spa": {
-        "official": "República de las Filipinas",
-        "common": "Filipinas"
-      },
-      "srp": {
-        "official": "Република Филипини",
-        "common": "Филипини"
-      },
-      "swe": {
-        "official": "Republiken Filippinerna",
-        "common": "Filippinerna"
-      },
-      "tur": {
-        "official": "Filipinler Cumhuriyeti",
-        "common": "Filipinler"
-      },
-      "urd": {
-        "official": "جمہوریہ فلپائن",
-        "common": "فلپائن"
-      },
-      "zho": {
-        "official": "菲律宾共和国",
-        "common": "菲律宾"
-      }
-    },
-    "latlng": [
-      13.0,
-      122.0
-    ],
-    "landlocked": false,
-    "area": 342353.0,
-    "demonyms": {
-      "eng": {
-        "f": "Filipino",
-        "m": "Filipino"
-      },
-      "fra": {
-        "f": "Philippine",
-        "m": "Philippin"
-      }
-    },
-    "flag": "🇵🇭",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
-    },
-    "population": 109581085,
-    "gini": {
-      "2018": 42.3
-    },
-    "fifa": "PHI",
-    "car": {
-      "signs": [
-        "RP"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ph.png",
-      "svg": "https://flagcdn.com/ph.svg",
-      "alt": "The flag of Philippines is composed of two equal horizontal bands of blue and red, with a white equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a central golden-yellow sun with eight rays and a five-pointed golden-yellow star at each vertex."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ph.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ph.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        14.6,
-        120.97
-      ]
-    },
-    "postalCode": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -23181,221 +23202,6 @@
   },
   {
     "name": {
-      "common": "Romania",
-      "official": "Romania",
-      "nativeName": {
-        "ron": {
-          "official": "România",
-          "common": "România"
-        }
-      }
-    },
-    "tld": [
-      ".ro"
-    ],
-    "cca2": "RO",
-    "ccn3": "642",
-    "cca3": "ROU",
-    "cioc": "ROU",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "RON": {
-        "name": "Romanian leu",
-        "symbol": "lei"
-      }
-    },
-    "idd": {
-      "root": "+4",
-      "suffixes": [
-        "0"
-      ]
-    },
-    "capital": [
-      "Bucharest"
-    ],
-    "altSpellings": [
-      "RO",
-      "Rumania",
-      "Roumania",
-      "România"
-    ],
-    "region": "Europe",
-    "subregion": "Southeast Europe",
-    "languages": {
-      "ron": "Romanian"
-    },
-    "translations": {
-      "ara": {
-        "official": "رومانيا",
-        "common": "رومانيا"
-      },
-      "bre": {
-        "official": "Roumania",
-        "common": "Roumania"
-      },
-      "ces": {
-        "official": "Rumunsko",
-        "common": "Rumunsko"
-      },
-      "cym": {
-        "official": "Romania",
-        "common": "Romania"
-      },
-      "deu": {
-        "official": "Rumänien",
-        "common": "Rumänien"
-      },
-      "est": {
-        "official": "Rumeenia",
-        "common": "Rumeenia"
-      },
-      "fin": {
-        "official": "Romania",
-        "common": "Romania"
-      },
-      "fra": {
-        "official": "Roumanie",
-        "common": "Roumanie"
-      },
-      "hrv": {
-        "official": "Rumunija",
-        "common": "Rumunjska"
-      },
-      "hun": {
-        "official": "Románia",
-        "common": "Románia"
-      },
-      "ita": {
-        "official": "Romania",
-        "common": "Romania"
-      },
-      "jpn": {
-        "official": "ルーマニア",
-        "common": "ルーマニア"
-      },
-      "kor": {
-        "official": "루마니아",
-        "common": "루마니아"
-      },
-      "nld": {
-        "official": "Roemenië",
-        "common": "Roemenië"
-      },
-      "per": {
-        "official": "رومانی",
-        "common": "رومانی"
-      },
-      "pol": {
-        "official": "Rumunia",
-        "common": "Rumunia"
-      },
-      "por": {
-        "official": "Romênia",
-        "common": "Roménia"
-      },
-      "rus": {
-        "official": "Румыния",
-        "common": "Румыния"
-      },
-      "slk": {
-        "official": "Rumunsko",
-        "common": "Rumunsko"
-      },
-      "spa": {
-        "official": "Rumania",
-        "common": "Rumania"
-      },
-      "srp": {
-        "official": "Румунија",
-        "common": "Румунија"
-      },
-      "swe": {
-        "official": "Rumänien",
-        "common": "Rumänien"
-      },
-      "tur": {
-        "official": "Romanya",
-        "common": "Romanya"
-      },
-      "urd": {
-        "official": "رومانیہ",
-        "common": "رومانیہ"
-      },
-      "zho": {
-        "official": "罗马尼亚",
-        "common": "罗马尼亚"
-      }
-    },
-    "latlng": [
-      46.0,
-      25.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BGR",
-      "HUN",
-      "MDA",
-      "SRB",
-      "UKR"
-    ],
-    "area": 238391.0,
-    "demonyms": {
-      "eng": {
-        "f": "Romanian",
-        "m": "Romanian"
-      },
-      "fra": {
-        "f": "Roumaine",
-        "m": "Roumain"
-      }
-    },
-    "flag": "🇷🇴",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
-    },
-    "population": 19286123,
-    "gini": {
-      "2018": 35.8
-    },
-    "fifa": "ROU",
-    "car": {
-      "signs": [
-        "RO"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ro.png",
-      "svg": "https://flagcdn.com/ro.svg",
-      "alt": "The flag of Romania is composed of three equal vertical bands of navy blue, yellow and red."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ro.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ro.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        44.43,
-        26.1
-      ]
-    },
-    "postalCode": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    }
-  },
-  {
-    "name": {
       "common": "Guyana",
       "official": "Co-operative Republic of Guyana",
       "nativeName": {
@@ -23814,217 +23620,6 @@
     "postalCode": {
       "format": "####",
       "regex": "^(\\d{4})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Panama",
-      "official": "Republic of Panama",
-      "nativeName": {
-        "spa": {
-          "official": "República de Panamá",
-          "common": "Panamá"
-        }
-      }
-    },
-    "tld": [
-      ".pa"
-    ],
-    "cca2": "PA",
-    "ccn3": "591",
-    "cca3": "PAN",
-    "cioc": "PAN",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "PAB": {
-        "name": "Panamanian balboa",
-        "symbol": "B/."
-      },
-      "USD": {
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "07"
-      ]
-    },
-    "capital": [
-      "Panama City"
-    ],
-    "altSpellings": [
-      "PA",
-      "Republic of Panama",
-      "República de Panamá"
-    ],
-    "region": "Americas",
-    "subregion": "Central America",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية بنما",
-        "common": "بنما"
-      },
-      "bre": {
-        "official": "Republik Panama",
-        "common": "Panama"
-      },
-      "ces": {
-        "official": "Panamská republika",
-        "common": "Panama"
-      },
-      "cym": {
-        "official": "Republic of Panama",
-        "common": "Panama"
-      },
-      "deu": {
-        "official": "Republik Panama",
-        "common": "Panama"
-      },
-      "est": {
-        "official": "Panama Vabariik",
-        "common": "Panama"
-      },
-      "fin": {
-        "official": "Panaman tasavalta",
-        "common": "Panama"
-      },
-      "fra": {
-        "official": "République du Panama",
-        "common": "Panama"
-      },
-      "hrv": {
-        "official": "Republika Panama",
-        "common": "Panama"
-      },
-      "hun": {
-        "official": "Panamai Köztársaság",
-        "common": "Panama"
-      },
-      "ita": {
-        "official": "Repubblica di Panama",
-        "common": "Panama"
-      },
-      "jpn": {
-        "official": "パナマ共和国",
-        "common": "パナマ"
-      },
-      "kor": {
-        "official": "파나마 공화국",
-        "common": "파나마"
-      },
-      "nld": {
-        "official": "Republiek Panama",
-        "common": "Panama"
-      },
-      "per": {
-        "official": "جمهوری پاناما",
-        "common": "پاناما"
-      },
-      "pol": {
-        "official": "Republika Panamy",
-        "common": "Panama"
-      },
-      "por": {
-        "official": "República do Panamá",
-        "common": "Panamá"
-      },
-      "rus": {
-        "official": "Республика Панама",
-        "common": "Панама"
-      },
-      "slk": {
-        "official": "Panamská republika",
-        "common": "Panama"
-      },
-      "spa": {
-        "official": "República de Panamá",
-        "common": "Panamá"
-      },
-      "srp": {
-        "official": "Република Панама",
-        "common": "Панама"
-      },
-      "swe": {
-        "official": "Republiken Panama",
-        "common": "Panama"
-      },
-      "tur": {
-        "official": "Panama Cumhuriyeti",
-        "common": "Panama"
-      },
-      "urd": {
-        "official": "جمہوریہ پاناما",
-        "common": "پاناما"
-      },
-      "zho": {
-        "official": "巴拿马共和国",
-        "common": "巴拿马"
-      }
-    },
-    "latlng": [
-      9.0,
-      -80.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "COL",
-      "CRI"
-    ],
-    "area": 75417.0,
-    "demonyms": {
-      "eng": {
-        "f": "Panamanian",
-        "m": "Panamanian"
-      },
-      "fra": {
-        "f": "Panaméenne",
-        "m": "Panaméen"
-      }
-    },
-    "flag": "🇵🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
-    },
-    "population": 4314768,
-    "gini": {
-      "2019": 49.8
-    },
-    "fifa": "PAN",
-    "car": {
-      "signs": [
-        "PA"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "continents": [
-      "North America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/pa.png",
-      "svg": "https://flagcdn.com/pa.svg",
-      "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        8.97,
-        -79.53
-      ]
     }
   },
   {
@@ -26603,450 +26198,6 @@
   },
   {
     "name": {
-      "common": "Bolivia",
-      "official": "Plurinational State of Bolivia",
-      "nativeName": {
-        "aym": {
-          "official": "Wuliwya Suyu",
-          "common": "Wuliwya"
-        },
-        "grn": {
-          "official": "Tetã Volívia",
-          "common": "Volívia"
-        },
-        "que": {
-          "official": "Buliwya Mamallaqta",
-          "common": "Buliwya"
-        },
-        "spa": {
-          "official": "Estado Plurinacional de Bolivia",
-          "common": "Bolivia"
-        }
-      }
-    },
-    "tld": [
-      ".bo"
-    ],
-    "cca2": "BO",
-    "ccn3": "068",
-    "cca3": "BOL",
-    "cioc": "BOL",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "BOB": {
-        "name": "Bolivian boliviano",
-        "symbol": "Bs."
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "91"
-      ]
-    },
-    "capital": [
-      "Sucre"
-    ],
-    "altSpellings": [
-      "BO",
-      "Buliwya",
-      "Wuliwya",
-      "Bolivia, Plurinational State of",
-      "Plurinational State of Bolivia",
-      "Estado Plurinacional de Bolivia",
-      "Buliwya Mamallaqta",
-      "Wuliwya Suyu",
-      "Tetã Volívia"
-    ],
-    "region": "Americas",
-    "subregion": "South America",
-    "languages": {
-      "aym": "Aymara",
-      "grn": "Guaraní",
-      "que": "Quechua",
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "دولة بوليفيا المتعددة القوميات",
-        "common": "بوليفيا"
-      },
-      "bre": {
-        "official": "Stad Liesvroadel Bolivia",
-        "common": "Bolivia"
-      },
-      "ces": {
-        "official": "Mnohonárodnostní stát Bolívie",
-        "common": "Bolívie"
-      },
-      "cym": {
-        "official": "Gweriniaeth Bolifia",
-        "common": "Bolifia"
-      },
-      "deu": {
-        "official": "Plurinationaler Staat Bolivien",
-        "common": "Bolivien"
-      },
-      "est": {
-        "official": "Boliivia Paljurahvuseline Riik",
-        "common": "Boliivia"
-      },
-      "fin": {
-        "official": "Bolivian monikansainen valtio",
-        "common": "Bolivia"
-      },
-      "fra": {
-        "official": "État plurinational de Bolivie",
-        "common": "Bolivie"
-      },
-      "hrv": {
-        "official": "Plurinational State of Bolivia",
-        "common": "Bolivija"
-      },
-      "hun": {
-        "official": "Bolíviai Többnemzetiségű Állam",
-        "common": "Bolívia"
-      },
-      "ita": {
-        "official": "Stato Plurinazionale della Bolivia",
-        "common": "Bolivia"
-      },
-      "jpn": {
-        "official": "ボリビアの多民族国",
-        "common": "ボリビア多民族国"
-      },
-      "kor": {
-        "official": "볼리비아 다민족국",
-        "common": "볼리비아"
-      },
-      "nld": {
-        "official": "Plurinationale Staat van Bolivia",
-        "common": "Bolivia"
-      },
-      "per": {
-        "official": "جمهوری بولیوی",
-        "common": "بولیوی"
-      },
-      "pol": {
-        "official": "Wielonarodowe Państwo Boliwia",
-        "common": "Boliwia"
-      },
-      "por": {
-        "official": "Estado Plurinacional da Bolívia",
-        "common": "Bolívia"
-      },
-      "rus": {
-        "official": "Многонациональное Государство Боливия",
-        "common": "Боливия"
-      },
-      "slk": {
-        "official": "Bolívijská republika",
-        "common": "Bolívia"
-      },
-      "spa": {
-        "official": "Estado Plurinacional de Bolivia",
-        "common": "Bolivia"
-      },
-      "srp": {
-        "official": "Вишенационална Држава Боливија",
-        "common": "Боливија"
-      },
-      "swe": {
-        "official": "Mångnationella staten Bolivia",
-        "common": "Bolivia"
-      },
-      "tur": {
-        "official": "Bolivya Çokuluslu Devleti",
-        "common": "Bolivya"
-      },
-      "urd": {
-        "official": "جمہوریہ بولیویا",
-        "common": "بولیویا"
-      },
-      "zho": {
-        "official": "多民族玻利维亚国",
-        "common": "玻利维亚"
-      }
-    },
-    "latlng": [
-      -17.0,
-      -65.0
-    ],
-    "landlocked": true,
-    "borders": [
-      "ARG",
-      "BRA",
-      "CHL",
-      "PRY",
-      "PER"
-    ],
-    "area": 1098581.0,
-    "demonyms": {
-      "eng": {
-        "f": "Bolivian",
-        "m": "Bolivian"
-      },
-      "fra": {
-        "f": "Bolivienne",
-        "m": "Bolivien"
-      }
-    },
-    "flag": "🇧🇴",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
-    },
-    "population": 11673029,
-    "gini": {
-      "2019": 41.6
-    },
-    "fifa": "BOL",
-    "car": {
-      "signs": [
-        "BOL"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "continents": [
-      "South America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/bo.png",
-      "svg": "https://flagcdn.com/bo.svg",
-      "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -19.02,
-        -65.26
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "Chile",
-      "official": "Republic of Chile",
-      "nativeName": {
-        "spa": {
-          "official": "República de Chile",
-          "common": "Chile"
-        }
-      }
-    },
-    "tld": [
-      ".cl"
-    ],
-    "cca2": "CL",
-    "ccn3": "152",
-    "cca3": "CHL",
-    "cioc": "CHI",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CLP": {
-        "name": "Chilean peso",
-        "symbol": "$"
-      }
-    },
-    "idd": {
-      "root": "+5",
-      "suffixes": [
-        "6"
-      ]
-    },
-    "capital": [
-      "Santiago"
-    ],
-    "altSpellings": [
-      "CL",
-      "Republic of Chile",
-      "República de Chile"
-    ],
-    "region": "Americas",
-    "subregion": "South America",
-    "languages": {
-      "spa": "Spanish"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية تشيلي",
-        "common": "تشيلي"
-      },
-      "bre": {
-        "official": "Republik Chile",
-        "common": "Chile"
-      },
-      "ces": {
-        "official": "Chilská republika",
-        "common": "Chile"
-      },
-      "cym": {
-        "official": "Gweriniaeth Chile",
-        "common": "Chile"
-      },
-      "deu": {
-        "official": "Republik Chile",
-        "common": "Chile"
-      },
-      "est": {
-        "official": "Tšiili Vabariik",
-        "common": "Tšiili"
-      },
-      "fin": {
-        "official": "Chilen tasavalta",
-        "common": "Chile"
-      },
-      "fra": {
-        "official": "République du Chili",
-        "common": "Chili"
-      },
-      "hrv": {
-        "official": "Republika Čile",
-        "common": "Čile"
-      },
-      "hun": {
-        "official": "Chilei Köztársaság",
-        "common": "Chile"
-      },
-      "ita": {
-        "official": "Repubblica del Cile",
-        "common": "Cile"
-      },
-      "jpn": {
-        "official": "チリ共和国",
-        "common": "チリ"
-      },
-      "kor": {
-        "official": "칠레 공화국",
-        "common": "칠레"
-      },
-      "nld": {
-        "official": "Republiek Chili",
-        "common": "Chili"
-      },
-      "per": {
-        "official": "جمهوری شیلی",
-        "common": "شیلی"
-      },
-      "pol": {
-        "official": "Republika Chile",
-        "common": "Chile"
-      },
-      "por": {
-        "official": "República do Chile",
-        "common": "Chile"
-      },
-      "rus": {
-        "official": "Республика Чили",
-        "common": "Чили"
-      },
-      "slk": {
-        "official": "Čílska republika",
-        "common": "Čile"
-      },
-      "spa": {
-        "official": "República de Chile",
-        "common": "Chile"
-      },
-      "srp": {
-        "official": "Република Чиле",
-        "common": "Чиле"
-      },
-      "swe": {
-        "official": "Republiken Chile",
-        "common": "Chile"
-      },
-      "tur": {
-        "official": "Şili Cumhuriyeti",
-        "common": "Şili"
-      },
-      "urd": {
-        "official": "جمہوریہ چلی",
-        "common": "چلی"
-      },
-      "zho": {
-        "official": "智利共和国",
-        "common": "智利"
-      }
-    },
-    "latlng": [
-      -30.0,
-      -71.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "ARG",
-      "BOL",
-      "PER"
-    ],
-    "area": 756102.0,
-    "demonyms": {
-      "eng": {
-        "f": "Chilean",
-        "m": "Chilean"
-      },
-      "fra": {
-        "f": "Chilienne",
-        "m": "Chilien"
-      }
-    },
-    "flag": "🇨🇱",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
-    },
-    "population": 19116209,
-    "gini": {
-      "2017": 44.4
-    },
-    "fifa": "CHI",
-    "car": {
-      "signs": [
-        "RCH"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC-06:00",
-      "UTC-04:00"
-    ],
-    "continents": [
-      "South America"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cl.png",
-      "svg": "https://flagcdn.com/cl.svg",
-      "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -33.45,
-        -70.67
-      ]
-    },
-    "postalCode": {
-      "format": "#######",
-      "regex": "^(\\d{7})$"
-    }
-  },
-  {
-    "name": {
       "common": "Guatemala",
       "official": "Republic of Guatemala",
       "nativeName": {
@@ -29576,212 +28727,6 @@
   },
   {
     "name": {
-      "common": "Ghana",
-      "official": "Republic of Ghana",
-      "nativeName": {
-        "eng": {
-          "official": "Republic of Ghana",
-          "common": "Ghana"
-        }
-      }
-    },
-    "tld": [
-      ".gh"
-    ],
-    "cca2": "GH",
-    "ccn3": "288",
-    "cca3": "GHA",
-    "cioc": "GHA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "GHS": {
-        "name": "Ghanaian cedi",
-        "symbol": "₵"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "33"
-      ]
-    },
-    "capital": [
-      "Accra"
-    ],
-    "altSpellings": [
-      "GH"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "eng": "English"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية غانا",
-        "common": "غانا"
-      },
-      "bre": {
-        "official": "Republik Ghana",
-        "common": "Ghana"
-      },
-      "ces": {
-        "official": "Ghanská republika",
-        "common": "Ghana"
-      },
-      "cym": {
-        "official": "Republic of Ghana",
-        "common": "Ghana"
-      },
-      "deu": {
-        "official": "Republik Ghana",
-        "common": "Ghana"
-      },
-      "est": {
-        "official": "Ghana Vabariik",
-        "common": "Ghana"
-      },
-      "fin": {
-        "official": "Ghanan tasavalta",
-        "common": "Ghana"
-      },
-      "fra": {
-        "official": "République du Ghana",
-        "common": "Ghana"
-      },
-      "hrv": {
-        "official": "Republika Gana",
-        "common": "Gana"
-      },
-      "hun": {
-        "official": "Ghánai Köztársaság",
-        "common": "Ghána"
-      },
-      "ita": {
-        "official": "Repubblica del Ghana",
-        "common": "Ghana"
-      },
-      "jpn": {
-        "official": "ガーナ共和国",
-        "common": "ガーナ"
-      },
-      "kor": {
-        "official": "가나 공화국",
-        "common": "가나"
-      },
-      "nld": {
-        "official": "Republiek Ghana",
-        "common": "Ghana"
-      },
-      "per": {
-        "official": "جمهوری غنا",
-        "common": "غنا"
-      },
-      "pol": {
-        "official": "Republika Ghany",
-        "common": "Ghana"
-      },
-      "por": {
-        "official": "República do Gana",
-        "common": "Gana"
-      },
-      "rus": {
-        "official": "Республика Гана",
-        "common": "Гана"
-      },
-      "slk": {
-        "official": "Ghanská republika",
-        "common": "Ghana"
-      },
-      "spa": {
-        "official": "República de Ghana",
-        "common": "Ghana"
-      },
-      "srp": {
-        "official": "Република Гана",
-        "common": "Гана"
-      },
-      "swe": {
-        "official": "Republiken Ghana",
-        "common": "Ghana"
-      },
-      "tur": {
-        "official": "Gana Cumhuriyeti",
-        "common": "Gana"
-      },
-      "urd": {
-        "official": "جمہوریہ گھانا",
-        "common": "گھانا"
-      },
-      "zho": {
-        "official": "加纳共和国",
-        "common": "加纳"
-      }
-    },
-    "latlng": [
-      8.0,
-      -2.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BFA",
-      "CIV",
-      "TGO"
-    ],
-    "area": 238533.0,
-    "demonyms": {
-      "eng": {
-        "f": "Ghanaian",
-        "m": "Ghanaian"
-      },
-      "fra": {
-        "f": "Ghanéenne",
-        "m": "Ghanéen"
-      }
-    },
-    "flag": "🇬🇭",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
-    },
-    "population": 31072945,
-    "gini": {
-      "2016": 43.5
-    },
-    "fifa": "GHA",
-    "car": {
-      "signs": [
-        "GH"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/gh.png",
-      "svg": "https://flagcdn.com/gh.svg",
-      "alt": "The flag of Ghana is composed of three equal horizontal bands of red, gold and green, with a five-pointed black star centered in the gold band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        5.55,
-        -0.22
-      ]
-    }
-  },
-  {
-    "name": {
       "common": "Mongolia",
       "official": "Mongolia",
       "nativeName": {
@@ -29988,6 +28933,637 @@
     "postalCode": {
       "format": "######",
       "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Palau",
+          "common": "Palau"
+        },
+        "pau": {
+          "official": "Beluu er a Belau",
+          "common": "Belau"
+        }
+      }
+    },
+    "tld": [
+      ".pw"
+    ],
+    "cca2": "PW",
+    "ccn3": "585",
+    "cca3": "PLW",
+    "cioc": "PLW",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "80"
+      ]
+    },
+    "capital": [
+      "Ngerulmud"
+    ],
+    "altSpellings": [
+      "PW",
+      "Republic of Palau",
+      "Beluu er a Belau"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بالاو",
+        "common": "بالاو"
+      },
+      "bre": {
+        "official": "Republik Palau",
+        "common": "Palau"
+      },
+      "ces": {
+        "official": "Republika Palau",
+        "common": "Palau"
+      },
+      "cym": {
+        "official": "Republic of Palau",
+        "common": "Palau"
+      },
+      "deu": {
+        "official": "Republik Palau",
+        "common": "Palau"
+      },
+      "est": {
+        "official": "Belau Vabariik",
+        "common": "Belau"
+      },
+      "fin": {
+        "official": "Palaun tasavalta",
+        "common": "Palau"
+      },
+      "fra": {
+        "official": "République des Palaos (Palau)",
+        "common": "Palaos (Palau)"
+      },
+      "hrv": {
+        "official": "Republika Palau",
+        "common": "Palau"
+      },
+      "hun": {
+        "official": "Palaui Köztársaság",
+        "common": "Palau"
+      },
+      "ita": {
+        "official": "Repubblica di Palau",
+        "common": "Palau"
+      },
+      "jpn": {
+        "official": "パラオ共和国",
+        "common": "パラオ"
+      },
+      "kor": {
+        "official": "팔라우 공화국",
+        "common": "팔라우"
+      },
+      "nld": {
+        "official": "Republiek van Palau",
+        "common": "Palau"
+      },
+      "per": {
+        "official": "جمهوری پالائو",
+        "common": "پالائو"
+      },
+      "pol": {
+        "official": "Republika Palau",
+        "common": "Palau"
+      },
+      "por": {
+        "official": "República de Palau",
+        "common": "Palau"
+      },
+      "rus": {
+        "official": "Республика Палау",
+        "common": "Палау"
+      },
+      "slk": {
+        "official": "Palauská republika",
+        "common": "Palau"
+      },
+      "spa": {
+        "official": "República de Palau",
+        "common": "Palau"
+      },
+      "srp": {
+        "official": "Република Палау",
+        "common": "Палау"
+      },
+      "swe": {
+        "official": "Republiken Palau",
+        "common": "Palau"
+      },
+      "tur": {
+        "official": "Palau Cumhuriyeti",
+        "common": "Palau"
+      },
+      "urd": {
+        "official": "جمہوریہ پلاؤ",
+        "common": "پلاؤ"
+      },
+      "zho": {
+        "official": "帕劳共和国",
+        "common": "帕劳"
+      }
+    },
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "landlocked": false,
+    "area": 459.0,
+    "demonyms": {
+      "eng": {
+        "f": "Palauan",
+        "m": "Palauan"
+      },
+      "fra": {
+        "f": "Paluane",
+        "m": "Paluan"
+      }
+    },
+    "flag": "🇵🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571805"
+    },
+    "population": 18092,
+    "car": {
+      "signs": [
+        "PAL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pw.png",
+      "svg": "https://flagcdn.com/pw.svg",
+      "alt": "The flag of Palau has a light blue field with a large golden-yellow circle that is offset slightly towards the hoist side of center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        7.5,
+        134.62
+      ]
+    },
+    "postalCode": {
+      "format": "96940",
+      "regex": "^(96940)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama",
+      "nativeName": {
+        "spa": {
+          "official": "República de Panamá",
+          "common": "Panamá"
+        }
+      }
+    },
+    "tld": [
+      ".pa"
+    ],
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "cioc": "PAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PAB": {
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "07"
+      ]
+    },
+    "capital": [
+      "Panama City"
+    ],
+    "altSpellings": [
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية بنما",
+        "common": "بنما"
+      },
+      "bre": {
+        "official": "Republik Panama",
+        "common": "Panama"
+      },
+      "ces": {
+        "official": "Panamská republika",
+        "common": "Panama"
+      },
+      "cym": {
+        "official": "Republic of Panama",
+        "common": "Panama"
+      },
+      "deu": {
+        "official": "Republik Panama",
+        "common": "Panama"
+      },
+      "est": {
+        "official": "Panama Vabariik",
+        "common": "Panama"
+      },
+      "fin": {
+        "official": "Panaman tasavalta",
+        "common": "Panama"
+      },
+      "fra": {
+        "official": "République du Panama",
+        "common": "Panama"
+      },
+      "hrv": {
+        "official": "Republika Panama",
+        "common": "Panama"
+      },
+      "hun": {
+        "official": "Panamai Köztársaság",
+        "common": "Panama"
+      },
+      "ita": {
+        "official": "Repubblica di Panama",
+        "common": "Panama"
+      },
+      "jpn": {
+        "official": "パナマ共和国",
+        "common": "パナマ"
+      },
+      "kor": {
+        "official": "파나마 공화국",
+        "common": "파나마"
+      },
+      "nld": {
+        "official": "Republiek Panama",
+        "common": "Panama"
+      },
+      "per": {
+        "official": "جمهوری پاناما",
+        "common": "پاناما"
+      },
+      "pol": {
+        "official": "Republika Panamy",
+        "common": "Panama"
+      },
+      "por": {
+        "official": "República do Panamá",
+        "common": "Panamá"
+      },
+      "rus": {
+        "official": "Республика Панама",
+        "common": "Панама"
+      },
+      "slk": {
+        "official": "Panamská republika",
+        "common": "Panama"
+      },
+      "spa": {
+        "official": "República de Panamá",
+        "common": "Panamá"
+      },
+      "srp": {
+        "official": "Република Панама",
+        "common": "Панама"
+      },
+      "swe": {
+        "official": "Republiken Panama",
+        "common": "Panama"
+      },
+      "tur": {
+        "official": "Panama Cumhuriyeti",
+        "common": "Panama"
+      },
+      "urd": {
+        "official": "جمہوریہ پاناما",
+        "common": "پاناما"
+      },
+      "zho": {
+        "official": "巴拿马共和国",
+        "common": "巴拿马"
+      }
+    },
+    "latlng": [
+      9.0,
+      -80.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "area": 75417.0,
+    "demonyms": {
+      "eng": {
+        "f": "Panamanian",
+        "m": "Panamanian"
+      },
+      "fra": {
+        "f": "Panaméenne",
+        "m": "Panaméen"
+      }
+    },
+    "flag": "🇵🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+    },
+    "population": 4314768,
+    "gini": {
+      "2019": 49.8
+    },
+    "fifa": "PAN",
+    "car": {
+      "signs": [
+        "PA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pa.png",
+      "svg": "https://flagcdn.com/pa.svg",
+      "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        8.97,
+        -79.53
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of the Philippines",
+          "common": "Philippines"
+        },
+        "fil": {
+          "official": "Republic of the Philippines",
+          "common": "Pilipinas"
+        }
+      }
+    },
+    "tld": [
+      ".ph"
+    ],
+    "cca2": "PH",
+    "ccn3": "608",
+    "cca3": "PHL",
+    "cioc": "PHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PHP": {
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "capital": [
+      "Manila"
+    ],
+    "altSpellings": [
+      "PH",
+      "Republic of the Philippines",
+      "Repúblika ng Pilipinas"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الفلبين",
+        "common": "الفلبين"
+      },
+      "bre": {
+        "official": "Republik Filipinez",
+        "common": "Filipinez"
+      },
+      "ces": {
+        "official": "Filipínská republika",
+        "common": "Filipíny"
+      },
+      "cym": {
+        "official": "Republic of the Philippines",
+        "common": "Philippines"
+      },
+      "deu": {
+        "official": "Republik der Philippinen",
+        "common": "Philippinen"
+      },
+      "est": {
+        "official": "Filipiini Vabariik",
+        "common": "Filipiinid"
+      },
+      "fin": {
+        "official": "Filippiinien tasavalta",
+        "common": "Filippiinit"
+      },
+      "fra": {
+        "official": "République des Philippines",
+        "common": "Philippines"
+      },
+      "hrv": {
+        "official": "Republika Filipini",
+        "common": "Filipini"
+      },
+      "hun": {
+        "official": "Fülöp-szigeteki Köztársaság",
+        "common": "Fülöp-szigetek"
+      },
+      "ita": {
+        "official": "Repubblica delle Filippine",
+        "common": "Filippine"
+      },
+      "jpn": {
+        "official": "フィリピン共和国",
+        "common": "フィリピン"
+      },
+      "kor": {
+        "official": "필리핀 공화국",
+        "common": "필리핀"
+      },
+      "nld": {
+        "official": "Republiek der Filipijnen",
+        "common": "Filipijnen"
+      },
+      "per": {
+        "official": "جمهوری فیلیپین",
+        "common": "فیلیپین"
+      },
+      "pol": {
+        "official": "Republika Filipin",
+        "common": "Filipiny"
+      },
+      "por": {
+        "official": "República das Filipinas",
+        "common": "Filipinas"
+      },
+      "rus": {
+        "official": "Республика Филиппины",
+        "common": "Филиппины"
+      },
+      "slk": {
+        "official": "Filipínska republika",
+        "common": "Filipíny"
+      },
+      "spa": {
+        "official": "República de las Filipinas",
+        "common": "Filipinas"
+      },
+      "srp": {
+        "official": "Република Филипини",
+        "common": "Филипини"
+      },
+      "swe": {
+        "official": "Republiken Filippinerna",
+        "common": "Filippinerna"
+      },
+      "tur": {
+        "official": "Filipinler Cumhuriyeti",
+        "common": "Filipinler"
+      },
+      "urd": {
+        "official": "جمہوریہ فلپائن",
+        "common": "فلپائن"
+      },
+      "zho": {
+        "official": "菲律宾共和国",
+        "common": "菲律宾"
+      }
+    },
+    "latlng": [
+      13.0,
+      122.0
+    ],
+    "landlocked": false,
+    "area": 342353.0,
+    "demonyms": {
+      "eng": {
+        "f": "Filipino",
+        "m": "Filipino"
+      },
+      "fra": {
+        "f": "Philippine",
+        "m": "Philippin"
+      }
+    },
+    "flag": "🇵🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+    },
+    "population": 109581085,
+    "gini": {
+      "2018": 42.3
+    },
+    "fifa": "PHI",
+    "car": {
+      "signs": [
+        "RP"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ph.png",
+      "svg": "https://flagcdn.com/ph.svg",
+      "alt": "The flag of Philippines is composed of two equal horizontal bands of blue and red, with a white equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a central golden-yellow sun with eight rays and a five-pointed golden-yellow star at each vertex."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ph.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ph.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.6,
+        120.97
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
     }
   },
   {
@@ -30839,6 +30415,221 @@
         -4.25,
         15.28
       ]
+    }
+  },
+  {
+    "name": {
+      "common": "Romania",
+      "official": "Romania",
+      "nativeName": {
+        "ron": {
+          "official": "România",
+          "common": "România"
+        }
+      }
+    },
+    "tld": [
+      ".ro"
+    ],
+    "cca2": "RO",
+    "ccn3": "642",
+    "cca3": "ROU",
+    "cioc": "ROU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "RON": {
+        "name": "Romanian leu",
+        "symbol": "lei"
+      }
+    },
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "capital": [
+      "Bucharest"
+    ],
+    "altSpellings": [
+      "RO",
+      "Rumania",
+      "Roumania",
+      "România"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": {
+      "ron": "Romanian"
+    },
+    "translations": {
+      "ara": {
+        "official": "رومانيا",
+        "common": "رومانيا"
+      },
+      "bre": {
+        "official": "Roumania",
+        "common": "Roumania"
+      },
+      "ces": {
+        "official": "Rumunsko",
+        "common": "Rumunsko"
+      },
+      "cym": {
+        "official": "Romania",
+        "common": "Romania"
+      },
+      "deu": {
+        "official": "Rumänien",
+        "common": "Rumänien"
+      },
+      "est": {
+        "official": "Rumeenia",
+        "common": "Rumeenia"
+      },
+      "fin": {
+        "official": "Romania",
+        "common": "Romania"
+      },
+      "fra": {
+        "official": "Roumanie",
+        "common": "Roumanie"
+      },
+      "hrv": {
+        "official": "Rumunija",
+        "common": "Rumunjska"
+      },
+      "hun": {
+        "official": "Románia",
+        "common": "Románia"
+      },
+      "ita": {
+        "official": "Romania",
+        "common": "Romania"
+      },
+      "jpn": {
+        "official": "ルーマニア",
+        "common": "ルーマニア"
+      },
+      "kor": {
+        "official": "루마니아",
+        "common": "루마니아"
+      },
+      "nld": {
+        "official": "Roemenië",
+        "common": "Roemenië"
+      },
+      "per": {
+        "official": "رومانی",
+        "common": "رومانی"
+      },
+      "pol": {
+        "official": "Rumunia",
+        "common": "Rumunia"
+      },
+      "por": {
+        "official": "Romênia",
+        "common": "Roménia"
+      },
+      "rus": {
+        "official": "Румыния",
+        "common": "Румыния"
+      },
+      "slk": {
+        "official": "Rumunsko",
+        "common": "Rumunsko"
+      },
+      "spa": {
+        "official": "Rumania",
+        "common": "Rumania"
+      },
+      "srp": {
+        "official": "Румунија",
+        "common": "Румунија"
+      },
+      "swe": {
+        "official": "Rumänien",
+        "common": "Rumänien"
+      },
+      "tur": {
+        "official": "Romanya",
+        "common": "Romanya"
+      },
+      "urd": {
+        "official": "رومانیہ",
+        "common": "رومانیہ"
+      },
+      "zho": {
+        "official": "罗马尼亚",
+        "common": "罗马尼亚"
+      }
+    },
+    "latlng": [
+      46.0,
+      25.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "area": 238391.0,
+    "demonyms": {
+      "eng": {
+        "f": "Romanian",
+        "m": "Romanian"
+      },
+      "fra": {
+        "f": "Roumaine",
+        "m": "Roumain"
+      }
+    },
+    "flag": "🇷🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
+    },
+    "population": 19286123,
+    "gini": {
+      "2018": 35.8
+    },
+    "fifa": "ROU",
+    "car": {
+      "signs": [
+        "RO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ro.png",
+      "svg": "https://flagcdn.com/ro.svg",
+      "alt": "The flag of Romania is composed of three equal vertical bands of navy blue, yellow and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ro.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ro.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        44.43,
+        26.1
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
     }
   },
   {
@@ -38561,6 +38352,215 @@
     "postalCode": {
       "format": "######",
       "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Tuvalu",
+      "official": "Tuvalu",
+      "nativeName": {
+        "eng": {
+          "official": "Tuvalu",
+          "common": "Tuvalu"
+        },
+        "tvl": {
+          "official": "Tuvalu",
+          "common": "Tuvalu"
+        }
+      }
+    },
+    "tld": [
+      ".tv"
+    ],
+    "cca2": "TV",
+    "ccn3": "798",
+    "cca3": "TUV",
+    "cioc": "TUV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "TVD": {
+        "name": "Tuvaluan dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "88"
+      ]
+    },
+    "capital": [
+      "Funafuti"
+    ],
+    "altSpellings": [
+      "TV"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    },
+    "translations": {
+      "ara": {
+        "official": "توفالو",
+        "common": "توفالو"
+      },
+      "bre": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "ces": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "cym": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "deu": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "est": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "fin": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "fra": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "hrv": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "hun": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "ita": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "jpn": {
+        "official": "ツバル",
+        "common": "ツバル"
+      },
+      "kor": {
+        "official": "투발루",
+        "common": "투발루"
+      },
+      "nld": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "per": {
+        "official": "تووالو",
+        "common": "تووالو"
+      },
+      "pol": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "por": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "rus": {
+        "official": "Тувалу",
+        "common": "Тувалу"
+      },
+      "slk": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "spa": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "srp": {
+        "official": "Тувалу",
+        "common": "Тувалу"
+      },
+      "swe": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "tur": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "urd": {
+        "official": "تووالو",
+        "common": "تووالو"
+      },
+      "zho": {
+        "official": "图瓦卢",
+        "common": "图瓦卢"
+      }
+    },
+    "latlng": [
+      -8.0,
+      178.0
+    ],
+    "landlocked": false,
+    "area": 26.0,
+    "demonyms": {
+      "eng": {
+        "f": "Tuvaluan",
+        "m": "Tuvaluan"
+      },
+      "fra": {
+        "f": "Tuvaluane",
+        "m": "Tuvaluan"
+      }
+    },
+    "flag": "🇹🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177266"
+    },
+    "population": 11792,
+    "gini": {
+      "2010": 39.1
+    },
+    "car": {
+      "signs": [
+        "TUV"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tv.png",
+      "svg": "https://flagcdn.com/tv.svg",
+      "alt": "The flag of Tuvalu has a light blue field with the flag of the United Kingdom — the Union Jack — in the canton. A representation of the country's nine Islands using nine five-pointed yellow stars is situated in the fly half of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -8.52,
+        179.22
+      ]
     }
   },
   {
