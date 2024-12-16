@@ -7926,6 +7926,243 @@
   },
   {
     "name": {
+      "common": "Congo DR",
+      "official": "Democratic Republic of the Congo",
+      "nativeName": {
+        "fra": {
+          "official": "République démocratique du Congo",
+          "common": "RD Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo Demokratiki",
+          "common": "Repubilika ya Kongo Demokratiki"
+        },
+        "lin": {
+          "official": "Republiki ya Kongó Demokratiki",
+          "common": "Republiki ya Kongó Demokratiki"
+        },
+        "lua": {
+          "official": "Ditunga dia Kongu wa Mungalaata",
+          "common": "Ditunga dia Kongu wa Mungalaata"
+        },
+        "swa": {
+          "official": "Jamhuri ya Kidemokrasia ya Kongo",
+          "common": "Jamhuri ya Kidemokrasia ya Kongo"
+        }
+      }
+    },
+    "tld": [
+      ".cd"
+    ],
+    "cca2": "CD",
+    "ccn3": "180",
+    "cca3": "COD",
+    "cioc": "COD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CDF": {
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "43"
+      ]
+    },
+    "capital": [
+      "Kinshasa"
+    ],
+    "altSpellings": [
+      "CD",
+      "DR Congo",
+      "Congo-Kinshasa",
+      "Congo, the Democratic Republic of the",
+      "DRC"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية الكونغو الديمقراطية",
+        "common": "الكونغو"
+      },
+      "bre": {
+        "official": "Republik Demokratel Kongo",
+        "common": "Kongo-Kinshasa"
+      },
+      "ces": {
+        "official": "Demokratická republika Kongo",
+        "common": "DR Kongo"
+      },
+      "cym": {
+        "official": "Gweriniaeth Ddemocrataidd Congo",
+        "common": "Gweriniaeth Ddemocrataidd Congo"
+      },
+      "deu": {
+        "official": "Demokratische Republik Kongo",
+        "common": "Kongo (Dem. Rep.)"
+      },
+      "est": {
+        "official": "Kongo Demokraatlik Vabariik",
+        "common": "Kongo DV"
+      },
+      "fin": {
+        "official": "Kongon demokraattinen tasavalta",
+        "common": "Kongon demokraattinen tasavalta"
+      },
+      "fra": {
+        "official": "République démocratique du Congo",
+        "common": "Congo (Rép. dém.)"
+      },
+      "hrv": {
+        "official": "Demokratska Republika Kongo",
+        "common": "Kongo, Demokratska Republika"
+      },
+      "hun": {
+        "official": "Kongói Demokratikus Köztársaság",
+        "common": "Kongói Demokratikus Köztársaság"
+      },
+      "ita": {
+        "official": "Repubblica Democratica del Congo",
+        "common": "Congo (Rep. Dem.)"
+      },
+      "jpn": {
+        "official": "コンゴ民主共和国",
+        "common": "コンゴ民主共和国"
+      },
+      "kor": {
+        "official": "콩고 민주 공화국",
+        "common": "콩고 민주 공화국"
+      },
+      "nld": {
+        "official": "Democratische Republiek Congo",
+        "common": "Congo (DRC)"
+      },
+      "per": {
+        "official": "جمهوری دموکراتیک کنگو",
+        "common": "کنگو دموکراتیک"
+      },
+      "pol": {
+        "official": "Demokratyczna Republika Konga",
+        "common": "Demokratyczna Republika Konga"
+      },
+      "por": {
+        "official": "República Democrática do Congo",
+        "common": "República Democrática do Congo"
+      },
+      "rus": {
+        "official": "Демократическая Республика Конго",
+        "common": "Демократическая Республика Конго"
+      },
+      "slk": {
+        "official": "Konžská demokratická republika",
+        "common": "Kongo"
+      },
+      "spa": {
+        "official": "República Democrática del Congo",
+        "common": "Congo (Rep. Dem.)"
+      },
+      "srp": {
+        "official": "Демократска Република Конго",
+        "common": "ДР Конго"
+      },
+      "swe": {
+        "official": "Demokratiska republiken Kongo",
+        "common": "Kongo-Kinshasa"
+      },
+      "tur": {
+        "official": "Kongo Demokratik Cumhuriyeti",
+        "common": "Kongo Demokratik Cumhuriyeti"
+      },
+      "urd": {
+        "official": "جمہوری جمہوریہ کانگو",
+        "common": "کانگو"
+      },
+      "zho": {
+        "official": "刚果民主共和国",
+        "common": "民主刚果"
+      }
+    },
+    "latlng": [
+      0.0,
+      25.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 2344858.0,
+    "demonyms": {
+      "eng": {
+        "f": "Congolese",
+        "m": "Congolese"
+      },
+      "fra": {
+        "f": "Congolaise",
+        "m": "Congolais"
+      }
+    },
+    "flag": "🇨🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
+    },
+    "population": 108407721,
+    "gini": {
+      "2012": 42.1
+    },
+    "fifa": "COD",
+    "car": {
+      "signs": [
+        "CGO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00",
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cd.png",
+      "svg": "https://flagcdn.com/cd.svg",
+      "alt": "The flag of the Democratic Republic of the Congo has a sky-blue field with a yellow-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. A large five-pointed yellow star is situated above the diagonal band on the upper hoist side of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -4.32,
+        15.3
+      ]
+    }
+  },
+  {
+    "name": {
       "common": "Costa Rica",
       "official": "Republic of Costa Rica",
       "nativeName": {
@@ -17788,6 +18025,225 @@
   },
   {
     "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho",
+      "nativeName": {
+        "eng": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        },
+        "sot": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        }
+      }
+    },
+    "tld": [
+      ".ls"
+    ],
+    "cca2": "LS",
+    "ccn3": "426",
+    "cca3": "LSO",
+    "cioc": "LES",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LSL": {
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "66"
+      ]
+    },
+    "capital": [
+      "Maseru"
+    ],
+    "altSpellings": [
+      "LS",
+      "Kingdom of Lesotho",
+      "Muso oa Lesotho"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة ليسوتو",
+        "common": "ليسوتو"
+      },
+      "bre": {
+        "official": "Rouantelezh Lesotho",
+        "common": "Lesotho"
+      },
+      "ces": {
+        "official": "Lesothské království",
+        "common": "Lesotho"
+      },
+      "cym": {
+        "official": "Kingdom of Lesotho",
+        "common": "Lesotho"
+      },
+      "deu": {
+        "official": "Königreich Lesotho",
+        "common": "Lesotho"
+      },
+      "est": {
+        "official": "Lesotho Kuningriik",
+        "common": "Lesotho"
+      },
+      "fin": {
+        "official": "Lesothon kuningaskunta",
+        "common": "Lesotho"
+      },
+      "fra": {
+        "official": "Royaume du Lesotho",
+        "common": "Lesotho"
+      },
+      "hrv": {
+        "official": "Kraljevina Lesoto",
+        "common": "Lesoto"
+      },
+      "hun": {
+        "official": "Lesothói Királyság",
+        "common": "Lesotho"
+      },
+      "ita": {
+        "official": "Regno del Lesotho",
+        "common": "Lesotho"
+      },
+      "jpn": {
+        "official": "レソト王国",
+        "common": "レソト"
+      },
+      "kor": {
+        "official": "레소토 왕국",
+        "common": "레소토"
+      },
+      "nld": {
+        "official": "Koninkrijk Lesotho",
+        "common": "Lesotho"
+      },
+      "per": {
+        "official": "پادشاهی لسوتو",
+        "common": "لسوتو"
+      },
+      "pol": {
+        "official": "Królestwo Lesotho",
+        "common": "Lesotho"
+      },
+      "por": {
+        "official": "Reino do Lesoto",
+        "common": "Lesoto"
+      },
+      "rus": {
+        "official": "Королевство Лесото",
+        "common": "Лесото"
+      },
+      "slk": {
+        "official": "Lesothské kráľovstvo",
+        "common": "Lesotho"
+      },
+      "spa": {
+        "official": "Reino de Lesotho",
+        "common": "Lesotho"
+      },
+      "srp": {
+        "official": "Краљевина Лесото",
+        "common": "Лесото"
+      },
+      "swe": {
+        "official": "Konungariket Lesotho",
+        "common": "Lesotho"
+      },
+      "tur": {
+        "official": "Lesotho Krallığı",
+        "common": "Lesotho"
+      },
+      "urd": {
+        "official": "مملکتِ لیسوتھو",
+        "common": "لیسوتھو"
+      },
+      "zho": {
+        "official": "莱索托王国",
+        "common": "莱索托"
+      }
+    },
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "ZAF"
+    ],
+    "area": 30355.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mosotho",
+        "m": "Mosotho"
+      },
+      "fra": {
+        "f": "Lésothienne",
+        "m": "Lésothien"
+      }
+    },
+    "flag": "🇱🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2093234"
+    },
+    "population": 2142252,
+    "gini": {
+      "2017": 44.9
+    },
+    "fifa": "LES",
+    "car": {
+      "signs": [
+        "LS"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ls.png",
+      "svg": "https://flagcdn.com/ls.svg",
+      "alt": "The flag of Lesotho is composed of three horizontal bands of blue, white and green in the ratio of 3:4:3. A black mokorotlo — a Basotho hat — is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ls.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ls.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -29.32,
+        27.48
+      ]
+    },
+    "postalCode": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    }
+  },
+  {
+    "name": {
       "common": "Libya",
       "official": "State of Libya",
       "nativeName": {
@@ -20978,6 +21434,215 @@
   },
   {
     "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman",
+      "nativeName": {
+        "ara": {
+          "official": "سلطنة عمان",
+          "common": "عمان"
+        }
+      }
+    },
+    "tld": [
+      ".om"
+    ],
+    "cca2": "OM",
+    "ccn3": "512",
+    "cca3": "OMN",
+    "cioc": "OMA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "OMR": {
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "68"
+      ]
+    },
+    "capital": [
+      "Muscat"
+    ],
+    "altSpellings": [
+      "OM",
+      "Sultanate of Oman",
+      "Salṭanat ʻUmān"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "ara": {
+        "official": "سلطنة عمان",
+        "common": "عمان"
+      },
+      "bre": {
+        "official": "Sultanelezh Oman",
+        "common": "Oman"
+      },
+      "ces": {
+        "official": "Sultanát Omán",
+        "common": "Omán"
+      },
+      "cym": {
+        "official": "Sultanate of Oman",
+        "common": "Oman"
+      },
+      "deu": {
+        "official": "Sultanat Oman",
+        "common": "Oman"
+      },
+      "est": {
+        "official": "Omaani Sultaniriik",
+        "common": "Omaan"
+      },
+      "fin": {
+        "official": "Omanin sulttaanikunta",
+        "common": "Oman"
+      },
+      "fra": {
+        "official": "Sultanat d'Oman",
+        "common": "Oman"
+      },
+      "hrv": {
+        "official": "Sultanat Oman",
+        "common": "Oman"
+      },
+      "hun": {
+        "official": "Ománi Szultanátus",
+        "common": "Omán"
+      },
+      "ita": {
+        "official": "Sultanato dell'Oman",
+        "common": "oman"
+      },
+      "jpn": {
+        "official": "オマーン·スルタン国",
+        "common": "オマーン"
+      },
+      "kor": {
+        "official": "오만 술탄국",
+        "common": "오만"
+      },
+      "nld": {
+        "official": "Sultanaat van Oman",
+        "common": "Oman"
+      },
+      "per": {
+        "official": "سلطان‌نشین عُمان",
+        "common": "عمان"
+      },
+      "pol": {
+        "official": "Sułtanat Omanu",
+        "common": "Oman"
+      },
+      "por": {
+        "official": "Sultanato de Omã",
+        "common": "Omã"
+      },
+      "rus": {
+        "official": "Султанат Оман",
+        "common": "Оман"
+      },
+      "slk": {
+        "official": "Ománsky sultanát",
+        "common": "Omán"
+      },
+      "spa": {
+        "official": "Sultanato de Omán",
+        "common": "Omán"
+      },
+      "srp": {
+        "official": "Султанат Оман",
+        "common": "Оман"
+      },
+      "swe": {
+        "official": "Sultanatet Oman",
+        "common": "Oman"
+      },
+      "tur": {
+        "official": "Umman Sultanlığı",
+        "common": "Umman"
+      },
+      "urd": {
+        "official": "سلطنت عمان",
+        "common": "عمان"
+      },
+      "zho": {
+        "official": "阿曼苏丹国",
+        "common": "阿曼"
+      }
+    },
+    "latlng": [
+      21.0,
+      57.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "area": 309500.0,
+    "demonyms": {
+      "eng": {
+        "f": "Omani",
+        "m": "Omani"
+      },
+      "fra": {
+        "f": "Omanaise",
+        "m": "Omanais"
+      }
+    },
+    "flag": "🇴🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305138"
+    },
+    "population": 5106622,
+    "fifa": "OMA",
+    "car": {
+      "signs": [
+        "OM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/om.png",
+      "svg": "https://flagcdn.com/om.svg",
+      "alt": "The flag of Oman features a red vertical band on the hoist side that takes up about one-fourth the width of the field, and three equal horizontal bands of white, red and green adjoining the vertical band. At the top of the vertical band is the white emblem of Oman."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/om.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/om.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        23.62,
+        58.58
+      ]
+    },
+    "postalCode": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    }
+  },
+  {
+    "name": {
       "common": "Papua New Guinea",
       "official": "Independent State of Papua New Guinea",
       "nativeName": {
@@ -22112,434 +22777,6 @@
   },
   {
     "name": {
-      "common": "Oman",
-      "official": "Sultanate of Oman",
-      "nativeName": {
-        "ara": {
-          "official": "سلطنة عمان",
-          "common": "عمان"
-        }
-      }
-    },
-    "tld": [
-      ".om"
-    ],
-    "cca2": "OM",
-    "ccn3": "512",
-    "cca3": "OMN",
-    "cioc": "OMA",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "OMR": {
-        "name": "Omani rial",
-        "symbol": "ر.ع."
-      }
-    },
-    "idd": {
-      "root": "+9",
-      "suffixes": [
-        "68"
-      ]
-    },
-    "capital": [
-      "Muscat"
-    ],
-    "altSpellings": [
-      "OM",
-      "Sultanate of Oman",
-      "Salṭanat ʻUmān"
-    ],
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "languages": {
-      "ara": "Arabic"
-    },
-    "translations": {
-      "ara": {
-        "official": "سلطنة عمان",
-        "common": "عمان"
-      },
-      "bre": {
-        "official": "Sultanelezh Oman",
-        "common": "Oman"
-      },
-      "ces": {
-        "official": "Sultanát Omán",
-        "common": "Omán"
-      },
-      "cym": {
-        "official": "Sultanate of Oman",
-        "common": "Oman"
-      },
-      "deu": {
-        "official": "Sultanat Oman",
-        "common": "Oman"
-      },
-      "est": {
-        "official": "Omaani Sultaniriik",
-        "common": "Omaan"
-      },
-      "fin": {
-        "official": "Omanin sulttaanikunta",
-        "common": "Oman"
-      },
-      "fra": {
-        "official": "Sultanat d'Oman",
-        "common": "Oman"
-      },
-      "hrv": {
-        "official": "Sultanat Oman",
-        "common": "Oman"
-      },
-      "hun": {
-        "official": "Ománi Szultanátus",
-        "common": "Omán"
-      },
-      "ita": {
-        "official": "Sultanato dell'Oman",
-        "common": "oman"
-      },
-      "jpn": {
-        "official": "オマーン·スルタン国",
-        "common": "オマーン"
-      },
-      "kor": {
-        "official": "오만 술탄국",
-        "common": "오만"
-      },
-      "nld": {
-        "official": "Sultanaat van Oman",
-        "common": "Oman"
-      },
-      "per": {
-        "official": "سلطان‌نشین عُمان",
-        "common": "عمان"
-      },
-      "pol": {
-        "official": "Sułtanat Omanu",
-        "common": "Oman"
-      },
-      "por": {
-        "official": "Sultanato de Omã",
-        "common": "Omã"
-      },
-      "rus": {
-        "official": "Султанат Оман",
-        "common": "Оман"
-      },
-      "slk": {
-        "official": "Ománsky sultanát",
-        "common": "Omán"
-      },
-      "spa": {
-        "official": "Sultanato de Omán",
-        "common": "Omán"
-      },
-      "srp": {
-        "official": "Султанат Оман",
-        "common": "Оман"
-      },
-      "swe": {
-        "official": "Sultanatet Oman",
-        "common": "Oman"
-      },
-      "tur": {
-        "official": "Umman Sultanlığı",
-        "common": "Umman"
-      },
-      "urd": {
-        "official": "سلطنت عمان",
-        "common": "عمان"
-      },
-      "zho": {
-        "official": "阿曼苏丹国",
-        "common": "阿曼"
-      }
-    },
-    "latlng": [
-      21.0,
-      57.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "SAU",
-      "ARE",
-      "YEM"
-    ],
-    "area": 309500.0,
-    "demonyms": {
-      "eng": {
-        "f": "Omani",
-        "m": "Omani"
-      },
-      "fra": {
-        "f": "Omanaise",
-        "m": "Omanais"
-      }
-    },
-    "flag": "🇴🇲",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/305138"
-    },
-    "population": 5106622,
-    "fifa": "OMA",
-    "car": {
-      "signs": [
-        "OM"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/om.png",
-      "svg": "https://flagcdn.com/om.svg",
-      "alt": "The flag of Oman features a red vertical band on the hoist side that takes up about one-fourth the width of the field, and three equal horizontal bands of white, red and green adjoining the vertical band. At the top of the vertical band is the white emblem of Oman."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/om.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/om.svg"
-    },
-    "startOfWeek": "sunday",
-    "capitalInfo": {
-      "latlng": [
-        23.62,
-        58.58
-      ]
-    },
-    "postalCode": {
-      "format": "###",
-      "regex": "^(\\d{3})$"
-    }
-  },
-  {
-    "name": {
-      "common": "Lesotho",
-      "official": "Kingdom of Lesotho",
-      "nativeName": {
-        "eng": {
-          "official": "Kingdom of Lesotho",
-          "common": "Lesotho"
-        },
-        "sot": {
-          "official": "Kingdom of Lesotho",
-          "common": "Lesotho"
-        }
-      }
-    },
-    "tld": [
-      ".ls"
-    ],
-    "cca2": "LS",
-    "ccn3": "426",
-    "cca3": "LSO",
-    "cioc": "LES",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "LSL": {
-        "name": "Lesotho loti",
-        "symbol": "L"
-      },
-      "ZAR": {
-        "name": "South African rand",
-        "symbol": "R"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "66"
-      ]
-    },
-    "capital": [
-      "Maseru"
-    ],
-    "altSpellings": [
-      "LS",
-      "Kingdom of Lesotho",
-      "Muso oa Lesotho"
-    ],
-    "region": "Africa",
-    "subregion": "Southern Africa",
-    "languages": {
-      "eng": "English",
-      "sot": "Sotho"
-    },
-    "translations": {
-      "ara": {
-        "official": "مملكة ليسوتو",
-        "common": "ليسوتو"
-      },
-      "bre": {
-        "official": "Rouantelezh Lesotho",
-        "common": "Lesotho"
-      },
-      "ces": {
-        "official": "Lesothské království",
-        "common": "Lesotho"
-      },
-      "cym": {
-        "official": "Kingdom of Lesotho",
-        "common": "Lesotho"
-      },
-      "deu": {
-        "official": "Königreich Lesotho",
-        "common": "Lesotho"
-      },
-      "est": {
-        "official": "Lesotho Kuningriik",
-        "common": "Lesotho"
-      },
-      "fin": {
-        "official": "Lesothon kuningaskunta",
-        "common": "Lesotho"
-      },
-      "fra": {
-        "official": "Royaume du Lesotho",
-        "common": "Lesotho"
-      },
-      "hrv": {
-        "official": "Kraljevina Lesoto",
-        "common": "Lesoto"
-      },
-      "hun": {
-        "official": "Lesothói Királyság",
-        "common": "Lesotho"
-      },
-      "ita": {
-        "official": "Regno del Lesotho",
-        "common": "Lesotho"
-      },
-      "jpn": {
-        "official": "レソト王国",
-        "common": "レソト"
-      },
-      "kor": {
-        "official": "레소토 왕국",
-        "common": "레소토"
-      },
-      "nld": {
-        "official": "Koninkrijk Lesotho",
-        "common": "Lesotho"
-      },
-      "per": {
-        "official": "پادشاهی لسوتو",
-        "common": "لسوتو"
-      },
-      "pol": {
-        "official": "Królestwo Lesotho",
-        "common": "Lesotho"
-      },
-      "por": {
-        "official": "Reino do Lesoto",
-        "common": "Lesoto"
-      },
-      "rus": {
-        "official": "Королевство Лесото",
-        "common": "Лесото"
-      },
-      "slk": {
-        "official": "Lesothské kráľovstvo",
-        "common": "Lesotho"
-      },
-      "spa": {
-        "official": "Reino de Lesotho",
-        "common": "Lesotho"
-      },
-      "srp": {
-        "official": "Краљевина Лесото",
-        "common": "Лесото"
-      },
-      "swe": {
-        "official": "Konungariket Lesotho",
-        "common": "Lesotho"
-      },
-      "tur": {
-        "official": "Lesotho Krallığı",
-        "common": "Lesotho"
-      },
-      "urd": {
-        "official": "مملکتِ لیسوتھو",
-        "common": "لیسوتھو"
-      },
-      "zho": {
-        "official": "莱索托王国",
-        "common": "莱索托"
-      }
-    },
-    "latlng": [
-      -29.5,
-      28.5
-    ],
-    "landlocked": true,
-    "borders": [
-      "ZAF"
-    ],
-    "area": 30355.0,
-    "demonyms": {
-      "eng": {
-        "f": "Mosotho",
-        "m": "Mosotho"
-      },
-      "fra": {
-        "f": "Lésothienne",
-        "m": "Lésothien"
-      }
-    },
-    "flag": "🇱🇸",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/2093234"
-    },
-    "population": 2142252,
-    "gini": {
-      "2017": 44.9
-    },
-    "fifa": "LES",
-    "car": {
-      "signs": [
-        "LS"
-      ],
-      "side": "left"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ls.png",
-      "svg": "https://flagcdn.com/ls.svg",
-      "alt": "The flag of Lesotho is composed of three horizontal bands of blue, white and green in the ratio of 3:4:3. A black mokorotlo — a Basotho hat — is centered in the white band."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ls.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ls.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -29.32,
-        27.48
-      ]
-    },
-    "postalCode": {
-      "format": "###",
-      "regex": "^(\\d{3})$"
-    }
-  },
-  {
-    "name": {
       "common": "Marshall Islands",
       "official": "Republic of the Marshall Islands",
       "nativeName": {
@@ -23596,243 +23833,6 @@
       "latlng": [
         9.5,
         -13.7
-      ]
-    }
-  },
-  {
-    "name": {
-      "common": "DR Congo",
-      "official": "Democratic Republic of the Congo",
-      "nativeName": {
-        "fra": {
-          "official": "République démocratique du Congo",
-          "common": "RD Congo"
-        },
-        "kon": {
-          "official": "Repubilika ya Kongo Demokratiki",
-          "common": "Repubilika ya Kongo Demokratiki"
-        },
-        "lin": {
-          "official": "Republiki ya Kongó Demokratiki",
-          "common": "Republiki ya Kongó Demokratiki"
-        },
-        "lua": {
-          "official": "Ditunga dia Kongu wa Mungalaata",
-          "common": "Ditunga dia Kongu wa Mungalaata"
-        },
-        "swa": {
-          "official": "Jamhuri ya Kidemokrasia ya Kongo",
-          "common": "Jamhuri ya Kidemokrasia ya Kongo"
-        }
-      }
-    },
-    "tld": [
-      ".cd"
-    ],
-    "cca2": "CD",
-    "ccn3": "180",
-    "cca3": "COD",
-    "cioc": "COD",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "CDF": {
-        "name": "Congolese franc",
-        "symbol": "FC"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
-        "43"
-      ]
-    },
-    "capital": [
-      "Kinshasa"
-    ],
-    "altSpellings": [
-      "CD",
-      "DR Congo",
-      "Congo-Kinshasa",
-      "Congo, the Democratic Republic of the",
-      "DRC"
-    ],
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "languages": {
-      "fra": "French",
-      "kon": "Kikongo",
-      "lin": "Lingala",
-      "lua": "Tshiluba",
-      "swa": "Swahili"
-    },
-    "translations": {
-      "ara": {
-        "official": "جمهورية الكونغو الديمقراطية",
-        "common": "الكونغو"
-      },
-      "bre": {
-        "official": "Republik Demokratel Kongo",
-        "common": "Kongo-Kinshasa"
-      },
-      "ces": {
-        "official": "Demokratická republika Kongo",
-        "common": "DR Kongo"
-      },
-      "cym": {
-        "official": "Gweriniaeth Ddemocrataidd Congo",
-        "common": "Gweriniaeth Ddemocrataidd Congo"
-      },
-      "deu": {
-        "official": "Demokratische Republik Kongo",
-        "common": "Kongo (Dem. Rep.)"
-      },
-      "est": {
-        "official": "Kongo Demokraatlik Vabariik",
-        "common": "Kongo DV"
-      },
-      "fin": {
-        "official": "Kongon demokraattinen tasavalta",
-        "common": "Kongon demokraattinen tasavalta"
-      },
-      "fra": {
-        "official": "République démocratique du Congo",
-        "common": "Congo (Rép. dém.)"
-      },
-      "hrv": {
-        "official": "Demokratska Republika Kongo",
-        "common": "Kongo, Demokratska Republika"
-      },
-      "hun": {
-        "official": "Kongói Demokratikus Köztársaság",
-        "common": "Kongói Demokratikus Köztársaság"
-      },
-      "ita": {
-        "official": "Repubblica Democratica del Congo",
-        "common": "Congo (Rep. Dem.)"
-      },
-      "jpn": {
-        "official": "コンゴ民主共和国",
-        "common": "コンゴ民主共和国"
-      },
-      "kor": {
-        "official": "콩고 민주 공화국",
-        "common": "콩고 민주 공화국"
-      },
-      "nld": {
-        "official": "Democratische Republiek Congo",
-        "common": "Congo (DRC)"
-      },
-      "per": {
-        "official": "جمهوری دموکراتیک کنگو",
-        "common": "کنگو دموکراتیک"
-      },
-      "pol": {
-        "official": "Demokratyczna Republika Konga",
-        "common": "Demokratyczna Republika Konga"
-      },
-      "por": {
-        "official": "República Democrática do Congo",
-        "common": "República Democrática do Congo"
-      },
-      "rus": {
-        "official": "Демократическая Республика Конго",
-        "common": "Демократическая Республика Конго"
-      },
-      "slk": {
-        "official": "Konžská demokratická republika",
-        "common": "Kongo"
-      },
-      "spa": {
-        "official": "República Democrática del Congo",
-        "common": "Congo (Rep. Dem.)"
-      },
-      "srp": {
-        "official": "Демократска Република Конго",
-        "common": "ДР Конго"
-      },
-      "swe": {
-        "official": "Demokratiska republiken Kongo",
-        "common": "Kongo-Kinshasa"
-      },
-      "tur": {
-        "official": "Kongo Demokratik Cumhuriyeti",
-        "common": "Kongo Demokratik Cumhuriyeti"
-      },
-      "urd": {
-        "official": "جمہوری جمہوریہ کانگو",
-        "common": "کانگو"
-      },
-      "zho": {
-        "official": "刚果民主共和国",
-        "common": "民主刚果"
-      }
-    },
-    "latlng": [
-      0.0,
-      25.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "AGO",
-      "BDI",
-      "CAF",
-      "COG",
-      "RWA",
-      "SSD",
-      "TZA",
-      "UGA",
-      "ZMB"
-    ],
-    "area": 2344858.0,
-    "demonyms": {
-      "eng": {
-        "f": "Congolese",
-        "m": "Congolese"
-      },
-      "fra": {
-        "f": "Congolaise",
-        "m": "Congolais"
-      }
-    },
-    "flag": "🇨🇩",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
-    },
-    "population": 108407721,
-    "gini": {
-      "2012": 42.1
-    },
-    "fifa": "COD",
-    "car": {
-      "signs": [
-        "CGO"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+01:00",
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Africa"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/cd.png",
-      "svg": "https://flagcdn.com/cd.svg",
-      "alt": "The flag of the Democratic Republic of the Congo has a sky-blue field with a yellow-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. A large five-pointed yellow star is situated above the diagonal band on the upper hoist side of the field."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        -4.32,
-        15.3
       ]
     }
   },
