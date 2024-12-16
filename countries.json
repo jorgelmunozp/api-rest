@@ -859,11 +859,11 @@
   {
     "name": {
       "common": "Antigua & Barbuda",
-      "official": "Antigua & Barbuda",
+      "official": "Antigua and Barbuda",
       "nativeName": {
         "eng": {
-          "official": "Antigua & Barbuda",
-          "common": "Antigua & Barbuda"
+          "official": "Antigua and Barbuda",
+          "common": "Antigua and Barbuda"
         }
       }
     },
@@ -1041,7 +1041,7 @@
     "flags": {
       "png": "https://flagcdn.com/w320/ag.png",
       "svg": "https://flagcdn.com/ag.svg",
-      "alt": "The flag of Antigua & Barbuda has a red field with an inverted isosceles triangle based on the top edge and spanning the height of the field. This triangle has three horizontal bands of black, light blue and white, with the light blue band half the height of the two other bands. The top half of a golden-yellow sun is situated in the lower two-third of the black band to depict a rising sun."
+      "alt": "The flag of Antigua and Barbuda has a red field with an inverted isosceles triangle based on the top edge and spanning the height of the field. This triangle has three horizontal bands of black, light blue and white, with the light blue band half the height of the two other bands. The top half of a golden-yellow sun is situated in the lower two-third of the black band to depict a rising sun."
     },
     "coatOfArms": {
       "png": "https://mainfacts.com/media/images/coats_of_arms/ag.png",
@@ -4285,7 +4285,7 @@
   {
     "name": {
       "common": "Bosnia & Herzegovina",
-      "official": "Bosnia & Herzegovina",
+      "official": "Bosnia and Herzegovina",
       "nativeName": {
         "bos": {
           "official": "Bosna i Hercegovina",
@@ -4313,7 +4313,7 @@
     "unMember": true,
     "currencies": {
       "BAM": {
-        "name": "Bosnia & Herzegovina convertible mark",
+        "name": "Bosnia and Herzegovina convertible mark",
         "symbol": "KM"
       }
     },
@@ -4487,7 +4487,7 @@
     "flags": {
       "png": "https://flagcdn.com/w320/ba.png",
       "svg": "https://flagcdn.com/ba.svg",
-      "alt": "The flag of Bosnia & Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field."
+      "alt": "The flag of Bosnia and Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field."
     },
     "coatOfArms": {
       "png": "https://mainfacts.com/media/images/coats_of_arms/ba.png",
@@ -35331,11 +35331,11 @@
   {
     "name": {
       "common": "St. Vincent & Grenadines",
-      "official": "Saint Vincent & Grenadines",
+      "official": "Saint Vincent and Grenadines",
       "nativeName": {
         "eng": {
-          "official": "Saint Vincent & Grenadines",
-          "common": "Saint Vincent & Grenadines"
+          "official": "Saint Vincent and Grenadines",
+          "common": "Saint Vincent and Grenadines"
         }
       }
     },
@@ -35387,8 +35387,8 @@
         "common": "Svatý Vincenc a Grenadiny"
       },
       "cym": {
-        "official": "Saint Vincent & Grenadines",
-        "common": "Saint Vincent & Grenadines"
+        "official": "Saint Vincent and Grenadines",
+        "common": "Saint Vincent and Grenadines"
       },
       "deu": {
         "official": "St. Vincent und die Grenadinen",
@@ -35513,7 +35513,7 @@
     "flags": {
       "png": "https://flagcdn.com/w320/vc.png",
       "svg": "https://flagcdn.com/vc.svg",
-      "alt": "The flag of Saint Vincent & Grenadines is composed of three vertical bands of blue, gold and green. The gold band is twice as wide as the other two bands and bears three green diamonds arranged to form the letter V at its center."
+      "alt": "The flag of Saint Vincent and Grenadines is composed of three vertical bands of blue, gold and green. The gold band is twice as wide as the other two bands and bears three green diamonds arranged to form the letter V at its center."
     },
     "coatOfArms": {
       "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png",
@@ -36650,7 +36650,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "92",
       "suffixes": [
         "92"
       ]
@@ -36871,7 +36871,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "55",
       "suffixes": [
         "55"
       ]
@@ -37088,7 +37088,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "6",
       "suffixes": [
         "6"
       ]
@@ -37309,7 +37309,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "70",
       "suffixes": [
         "70"
       ]
@@ -37520,7 +37520,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "28",
       "suffixes": [
         "28"
       ]
@@ -37734,7 +37734,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "76",
       "suffixes": [
         "76"
       ]
@@ -37910,7 +37910,7 @@
   },
   {
     "name": {
-      "common": "Trinidad and Tobago",
+      "common": "Trinidad & Tobago",
       "official": "Republic of Trinidad and Tobago",
       "nativeName": {
         "eng": {
@@ -38140,7 +38140,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "16",
       "suffixes": [
         "16"
       ]
@@ -38352,7 +38352,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "0",
       "suffixes": [
         "0"
       ]
@@ -38576,7 +38576,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "93",
       "suffixes": [
         "93"
       ]
@@ -38797,7 +38797,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "88",
       "suffixes": [
         "88"
       ]
@@ -39003,7 +39003,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "56",
       "suffixes": [
         "56"
       ]
@@ -39216,7 +39216,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "71",
       "suffixes": [
         "71"
       ]
@@ -39424,7 +39424,7 @@
     },
     "idd": {
       "root": "+4",
-      "mainSuffix": "",
+      "mainSuffix": "4",
       "suffixes": [
         "4"
       ]
@@ -39611,6 +39611,223 @@
     "postalCode": {
       "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
       "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine",
+      "nativeName": {
+        "ukr": {
+          "official": "Україна",
+          "common": "Україна"
+        }
+      }
+    },
+    "tld": [
+      ".ua",
+      ".укр"
+    ],
+    "cca2": "UA",
+    "ccn3": "804",
+    "cca3": "UKR",
+    "cioc": "UKR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "UAH": {
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "mainSuffix": "80",
+      "suffixes": [
+        "80"
+      ]
+    },
+    "capital": [
+      "Kyiv"
+    ],
+    "altSpellings": [
+      "UA",
+      "Ukrayina"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+      "ukr": "Ukrainian"
+    },
+    "translations": {
+      "ara": {
+        "official": "أوكرانيا",
+        "common": "أوكرانيا"
+      },
+      "bre": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "ces": {
+        "official": "Ukrajina",
+        "common": "Ukrajina"
+      },
+      "cym": {
+        "official": "Ukraine",
+        "common": "Ukraine"
+      },
+      "deu": {
+        "official": "Ukraine",
+        "common": "Ukraine"
+      },
+      "est": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "fin": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "fra": {
+        "official": "Ukraine",
+        "common": "Ukraine"
+      },
+      "hrv": {
+        "official": "Ukrajina",
+        "common": "Ukrajina"
+      },
+      "hun": {
+        "official": "Ukrajna",
+        "common": "Ukrajna"
+      },
+      "ita": {
+        "official": "Ucraina",
+        "common": "Ucraina"
+      },
+      "jpn": {
+        "official": "ウクライナ",
+        "common": "ウクライナ"
+      },
+      "kor": {
+        "official": "우크라이나",
+        "common": "우크라이나"
+      },
+      "nld": {
+        "official": "Oekraïne",
+        "common": "Oekraïne"
+      },
+      "per": {
+        "official": "اوکراین",
+        "common": "اوکراین"
+      },
+      "pol": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "por": {
+        "official": "Ucrânia",
+        "common": "Ucrânia"
+      },
+      "rus": {
+        "official": "Украина",
+        "common": "Украина"
+      },
+      "slk": {
+        "official": "Ukrajina",
+        "common": "Ukrajina"
+      },
+      "spa": {
+        "official": "Ucrania",
+        "common": "Ucrania"
+      },
+      "srp": {
+        "official": "Украјина",
+        "common": "Украјина"
+      },
+      "swe": {
+        "official": "Ukraina",
+        "common": "Ukraina"
+      },
+      "tur": {
+        "official": "Ukrayna",
+        "common": "Ukrayna"
+      },
+      "urd": {
+        "official": "یوکرین",
+        "common": "یوکرین"
+      },
+      "zho": {
+        "official": "乌克兰",
+        "common": "乌克兰"
+      }
+    },
+    "latlng": [
+      49.0,
+      32.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "area": 603500.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ukrainian",
+        "m": "Ukrainian"
+      },
+      "fra": {
+        "f": "Ukrainienne",
+        "m": "Ukrainien"
+      }
+    },
+    "flag": "🇺🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+    },
+    "population": 44134693,
+    "gini": {
+      "2019": 26.6
+    },
+    "fifa": "UKR",
+    "car": {
+      "signs": [
+        "UA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ua.png",
+      "svg": "https://flagcdn.com/ua.svg",
+      "alt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        50.43,
+        30.52
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
     }
   },
   {
@@ -40153,223 +40370,6 @@
   },
   {
     "name": {
-      "common": "Ukraine",
-      "official": "Ukraine",
-      "nativeName": {
-        "ukr": {
-          "official": "Україна",
-          "common": "Україна"
-        }
-      }
-    },
-    "tld": [
-      ".ua",
-      ".укр"
-    ],
-    "cca2": "UA",
-    "ccn3": "804",
-    "cca3": "UKR",
-    "cioc": "UKR",
-    "independent": true,
-    "status": "officially-assigned",
-    "unMember": true,
-    "currencies": {
-      "UAH": {
-        "name": "Ukrainian hryvnia",
-        "symbol": "₴"
-      }
-    },
-    "idd": {
-      "root": "+3",
-      "mainSuffix": "",
-      "suffixes": [
-        "80"
-      ]
-    },
-    "capital": [
-      "Kyiv"
-    ],
-    "altSpellings": [
-      "UA",
-      "Ukrayina"
-    ],
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "languages": {
-      "ukr": "Ukrainian"
-    },
-    "translations": {
-      "ara": {
-        "official": "أوكرانيا",
-        "common": "أوكرانيا"
-      },
-      "bre": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "ces": {
-        "official": "Ukrajina",
-        "common": "Ukrajina"
-      },
-      "cym": {
-        "official": "Ukraine",
-        "common": "Ukraine"
-      },
-      "deu": {
-        "official": "Ukraine",
-        "common": "Ukraine"
-      },
-      "est": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "fin": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "fra": {
-        "official": "Ukraine",
-        "common": "Ukraine"
-      },
-      "hrv": {
-        "official": "Ukrajina",
-        "common": "Ukrajina"
-      },
-      "hun": {
-        "official": "Ukrajna",
-        "common": "Ukrajna"
-      },
-      "ita": {
-        "official": "Ucraina",
-        "common": "Ucraina"
-      },
-      "jpn": {
-        "official": "ウクライナ",
-        "common": "ウクライナ"
-      },
-      "kor": {
-        "official": "우크라이나",
-        "common": "우크라이나"
-      },
-      "nld": {
-        "official": "Oekraïne",
-        "common": "Oekraïne"
-      },
-      "per": {
-        "official": "اوکراین",
-        "common": "اوکراین"
-      },
-      "pol": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "por": {
-        "official": "Ucrânia",
-        "common": "Ucrânia"
-      },
-      "rus": {
-        "official": "Украина",
-        "common": "Украина"
-      },
-      "slk": {
-        "official": "Ukrajina",
-        "common": "Ukrajina"
-      },
-      "spa": {
-        "official": "Ucrania",
-        "common": "Ucrania"
-      },
-      "srp": {
-        "official": "Украјина",
-        "common": "Украјина"
-      },
-      "swe": {
-        "official": "Ukraina",
-        "common": "Ukraina"
-      },
-      "tur": {
-        "official": "Ukrayna",
-        "common": "Ukrayna"
-      },
-      "urd": {
-        "official": "یوکرین",
-        "common": "یوکرین"
-      },
-      "zho": {
-        "official": "乌克兰",
-        "common": "乌克兰"
-      }
-    },
-    "latlng": [
-      49.0,
-      32.0
-    ],
-    "landlocked": false,
-    "borders": [
-      "BLR",
-      "HUN",
-      "MDA",
-      "POL",
-      "ROU",
-      "RUS",
-      "SVK"
-    ],
-    "area": 603500.0,
-    "demonyms": {
-      "eng": {
-        "f": "Ukrainian",
-        "m": "Ukrainian"
-      },
-      "fra": {
-        "f": "Ukrainienne",
-        "m": "Ukrainien"
-      }
-    },
-    "flag": "🇺🇦",
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
-    },
-    "population": 44134693,
-    "gini": {
-      "2019": 26.6
-    },
-    "fifa": "UKR",
-    "car": {
-      "signs": [
-        "UA"
-      ],
-      "side": "right"
-    },
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "continents": [
-      "Europe"
-    ],
-    "flags": {
-      "png": "https://flagcdn.com/w320/ua.png",
-      "svg": "https://flagcdn.com/ua.svg",
-      "alt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg"
-    },
-    "startOfWeek": "monday",
-    "capitalInfo": {
-      "latlng": [
-        50.43,
-        30.52
-      ]
-    },
-    "postalCode": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    }
-  },
-  {
-    "name": {
       "common": "Uruguay",
       "official": "Oriental Republic of Uruguay",
       "nativeName": {
@@ -40397,7 +40397,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "98",
       "suffixes": [
         "98"
       ]
@@ -40613,7 +40613,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "98",
       "suffixes": [
         "98"
       ]
@@ -40838,7 +40838,7 @@
     },
     "idd": {
       "root": "+6",
-      "mainSuffix": "",
+      "mainSuffix": "78",
       "suffixes": [
         "78"
       ]
@@ -41048,8 +41048,9 @@
     },
     "idd": {
       "root": "+3",
-      "mainSuffix": "",
+      "mainSuffix": "9",
       "suffixes": [
+        "9",
         "906698",
         "79"
       ]
@@ -41254,7 +41255,7 @@
     },
     "idd": {
       "root": "+5",
-      "mainSuffix": "",
+      "mainSuffix": "8",
       "suffixes": [
         "8"
       ]
@@ -41468,7 +41469,7 @@
     },
     "idd": {
       "root": "+8",
-      "mainSuffix": "",
+      "mainSuffix": "4",
       "suffixes": [
         "4"
       ]
@@ -41682,7 +41683,7 @@
     },
     "idd": {
       "root": "+9",
-      "mainSuffix": "",
+      "mainSuffix": "67",
       "suffixes": [
         "67"
       ]
@@ -41890,7 +41891,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "60",
       "suffixes": [
         "60"
       ]
@@ -42163,7 +42164,7 @@
     },
     "idd": {
       "root": "+2",
-      "mainSuffix": "",
+      "mainSuffix": "63",
       "suffixes": [
         "63"
       ]
